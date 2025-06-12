@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The degree that some articles are 'moderated' compared to others certainly reveals an unapologetic bias when 'sensitive' topics are being discussed, I guess it's 2016 so perhaps I should check my privilege.
+1-1	0-3	The	_	_	
+1-2	4-10	degree	_	_	
+1-3	11-15	that	_	_	
+1-4	16-20	some	_	_	
+1-5	21-29	articles	_	_	
+1-6	30-33	are	_	_	
+1-7	34-35	'	_	_	
+1-8	35-44	moderated	Judgment	neg	
+1-9	44-45	'	_	_	
+1-10	46-54	compared	_	_	
+1-11	55-57	to	_	_	
+1-12	58-64	others	_	_	
+1-13	65-74	certainly	_	_	
+1-14	75-82	reveals	_	_	
+1-15	83-85	an	_	_	
+1-16	86-98	unapologetic	Judgment[2]	neg[2]	
+1-17	99-103	bias	Judgment[2]	neg[2]	
+1-18	104-108	when	_	_	
+1-19	109-110	'	_	_	
+1-20	110-119	sensitive	Appreciation	neg	
+1-21	119-120	'	_	_	
+1-22	121-127	topics	_	_	
+1-23	128-131	are	_	_	
+1-24	132-137	being	_	_	
+1-25	138-147	discussed	_	_	
+1-26	147-148	,	_	_	
+1-27	149-150	I	_	_	
+1-28	151-156	guess	_	_	
+1-29	157-161	it's	_	_	
+1-30	162-166	2016	_	_	
+1-31	167-169	so	_	_	
+1-32	170-177	perhaps	_	_	
+1-33	178-179	I	_	_	
+1-34	180-186	should	Judgment[4]	neg[4]	
+1-35	187-192	check	Judgment[4]	neg[4]	
+1-36	193-195	my	Judgment[4]	neg[4]	
+1-37	196-205	privilege	Judgment[4]	neg[4]	
+1-38	205-206	.	_	_	
+
+#Text=We don't want anyone getting 'triggered'.
+2-1	207-209	We	_	_	
+2-2	210-215	don't	_	_	
+2-3	216-220	want	_	_	
+2-4	221-227	anyone	_	_	
+2-5	228-235	getting	_	_	
+2-6	236-237	'	_	_	
+2-7	237-246	triggered	Judgment	neg	
+2-8	246-247	'	_	_	
+2-9	247-248	.	_	_	
+
+#Text=What would the Globe's readers do without the moderators to protect us from ourselves...
+3-1	249-253	What	Judgment[6]	neg[6]	
+3-2	254-259	would	Judgment[6]	neg[6]	
+3-3	260-263	the	Judgment[6]	neg[6]	
+3-4	264-271	Globe's	Judgment[6]	neg[6]	
+3-5	272-279	readers	Judgment[6]	neg[6]	
+3-6	280-282	do	Judgment[6]	neg[6]	
+3-7	283-290	without	Judgment[6]	neg[6]	
+3-8	291-294	the	Judgment[6]	neg[6]	
+3-9	295-305	moderators	Judgment[6]	neg[6]	
+3-10	306-308	to	Judgment[6]	neg[6]	
+3-11	309-316	protect	Judgment[6]	neg[6]	
+3-12	317-319	us	Judgment[6]	neg[6]	
+3-13	320-324	from	Judgment[6]	neg[6]	
+3-14	325-334	ourselves	Judgment[6]	neg[6]	
+3-15	334-335	.	_	_	
+3-16	335-336	.	_	_	
+3-17	336-337	.	_	_	

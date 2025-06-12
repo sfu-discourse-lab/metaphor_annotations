@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=In my opinion this is not a head tax.
+1-1	0-2	In	_	
+1-2	3-5	my	_	
+1-3	6-13	opinion	_	
+1-4	14-18	this	_	
+1-5	19-21	is	_	
+1-6	22-25	not	NEG	
+1-7	26-27	a	SCOPE[2]|FOCUS[3]	
+1-8	28-32	head	SCOPE[2]|FOCUS[3]	
+1-9	33-36	tax	SCOPE[2]|FOCUS[3]	
+1-10	36-37	.	_	
+
+#Text=But yes there is a head tax alright.
+2-1	38-41	But	_	
+2-2	42-45	yes	_	
+2-3	46-51	there	_	
+2-4	52-54	is	_	
+2-5	55-56	a	_	
+2-6	57-61	head	_	
+2-7	62-65	tax	_	
+2-8	66-73	alright	_	
+2-9	73-74	.	_	
+
+#Text=It is I believe $  5 Million cash you have to put up for investment for a few years to get a permit for living in canada.
+3-1	75-77	It	_	
+3-2	78-80	is	_	
+3-3	81-82	I	_	
+3-4	83-90	believe	_	
+3-5	91-92	$	_	
+3-6	94-95	5	_	
+3-7	96-103	Million	_	
+3-8	104-108	cash	_	
+3-9	109-112	you	_	
+3-10	113-117	have	_	
+3-11	118-120	to	_	
+3-12	121-124	put	_	
+3-13	125-127	up	_	
+3-14	128-131	for	_	
+3-15	132-142	investment	_	
+3-16	143-146	for	_	
+3-17	147-148	a	_	
+3-18	149-152	few	_	
+3-19	153-158	years	_	
+3-20	159-161	to	_	
+3-21	162-165	get	_	
+3-22	166-167	a	_	
+3-23	168-174	permit	_	
+3-24	175-178	for	_	
+3-25	179-185	living	_	
+3-26	186-188	in	_	
+3-27	189-195	canada	_	
+3-28	195-196	.	_	
+
+#Text=You could call this really a head tax for wealthy people only.
+4-1	197-200	You	_	
+4-2	201-206	could	_	
+4-3	207-211	call	_	
+4-4	212-216	this	_	
+4-5	217-223	really	_	
+4-6	224-225	a	_	
+4-7	226-230	head	_	
+4-8	231-234	tax	_	
+4-9	235-238	for	_	
+4-10	239-246	wealthy	_	
+4-11	247-253	people	_	
+4-12	254-258	only	_	
+4-13	258-259	.	_	

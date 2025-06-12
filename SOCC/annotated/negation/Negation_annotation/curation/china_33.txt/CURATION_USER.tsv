@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=I have a lapdog, he barks every time the big dog next door does. so annoying.
+1-1	0-1	I	
+1-2	2-6	have	
+1-3	7-8	a	
+1-4	9-15	lapdog	
+1-5	15-16	,	
+1-6	17-19	he	
+1-7	20-25	barks	
+1-8	26-31	every	
+1-9	32-36	time	
+1-10	37-40	the	
+1-11	41-44	big	
+1-12	45-48	dog	
+1-13	49-53	next	
+1-14	54-58	door	
+1-15	59-63	does	
+1-16	63-64	.	
+1-17	65-67	so	
+1-18	68-76	annoying	
+1-19	76-77	.	

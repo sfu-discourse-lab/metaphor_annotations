@@ -1,0 +1,201 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+#T_RL=webanno.custom.XNEGATION|BT_webanno.custom.NEGATION
+
+
+#Text=Here are some other reasons why she may have lost:1.
+1-1	0-4	Here	_	_	
+1-2	5-8	are	_	_	
+1-3	9-13	some	_	_	
+1-4	14-19	other	_	_	
+1-5	20-27	reasons	_	_	
+1-6	28-31	why	_	_	
+1-7	32-35	she	_	_	
+1-8	36-39	may	_	_	
+1-9	40-44	have	_	_	
+1-10	45-49	lost	_	_	
+1-11	49-50	:	_	_	
+1-12	50-51	1	_	_	
+1-13	51-52	.	_	_	
+
+#Text=Refused to have press conferences 2.
+2-1	53-60	Refused	_	_	
+2-2	61-63	to	_	_	
+2-3	64-68	have	_	_	
+2-4	69-74	press	_	_	
+2-5	75-86	conferences	_	_	
+2-6	87-88	2	_	_	
+2-7	88-89	.	_	_	
+
+#Text=Played tricks to win the nomination in the first place (Sanders should have won)3.
+3-1	90-96	Played	_	_	
+3-2	97-103	tricks	_	_	
+3-3	104-106	to	_	_	
+3-4	107-110	win	_	_	
+3-5	111-114	the	_	_	
+3-6	115-125	nomination	_	_	
+3-7	126-128	in	_	_	
+3-8	129-132	the	_	_	
+3-9	133-138	first	_	_	
+3-10	139-144	place	_	_	
+3-11	145-146	(	_	_	
+3-12	146-153	Sanders	_	_	
+3-13	154-160	should	_	_	
+3-14	161-165	have	_	_	
+3-15	166-169	won	_	_	
+3-16	169-170	)	_	_	
+3-17	170-171	3	_	_	
+3-18	171-172	.	_	_	
+
+#Text=Focused on gender (it's about a vision)4.
+4-1	173-180	Focused	_	_	
+4-2	181-183	on	_	_	
+4-3	184-190	gender	_	_	
+4-4	191-192	(	_	_	
+4-5	192-196	it's	_	_	
+4-6	197-202	about	_	_	
+4-7	203-204	a	_	_	
+4-8	205-211	vision	_	_	
+4-9	211-212	)	_	_	
+4-10	212-213	4	_	_	
+4-11	213-214	.	_	_	
+
+#Text=People are tired of the old guard (has it worked for them?)
+5-1	215-221	People	_	_	
+5-2	222-225	are	_	_	
+5-3	226-231	tired	_	_	
+5-4	232-234	of	_	_	
+5-5	235-238	the	_	_	
+5-6	239-242	old	_	_	
+5-7	243-248	guard	_	_	
+5-8	249-250	(	_	_	
+5-9	250-253	has	_	_	
+5-10	254-256	it	_	_	
+5-11	257-263	worked	_	_	
+5-12	264-267	for	_	_	
+5-13	268-272	them	_	_	
+5-14	272-273	?	_	_	
+5-15	273-274	)	_	_	
+
+#Text=5.
+6-1	274-275	5	_	_	
+6-2	275-276	.	_	_	
+
+#Text=No real message: Working together to build a stronger America, same old same old6.
+7-1	277-279	No	NEG	_	
+7-2	280-284	real	SCOPE[2]|FOCUS[3]	_	
+7-3	285-292	message	SCOPE[2]	_	
+7-4	292-293	:	_	_	
+7-5	294-301	Working	_	_	
+7-6	302-310	together	_	_	
+7-7	311-313	to	_	_	
+7-8	314-319	build	_	_	
+7-9	320-321	a	_	_	
+7-10	322-330	stronger	_	_	
+7-11	331-338	America	_	_	
+7-12	338-339	,	_	_	
+7-13	340-344	same	_	_	
+7-14	345-348	old	_	_	
+7-15	349-353	same	_	_	
+7-16	354-358	old6	_	_	
+7-17	358-359	.	_	_	
+
+#Text=Pretending that everything is just fine for everyone, when it clearly isn't7.
+8-1	360-370	Pretending	_	_	
+8-2	371-375	that	_	_	
+8-3	376-386	everything	_	_	
+8-4	387-389	is	_	_	
+8-5	390-394	just	XSCOPE[4]	8-13[0_4]	
+8-6	395-399	fine	XSCOPE[4]	_	
+8-7	400-403	for	XSCOPE[4]	_	
+8-8	404-412	everyone	XSCOPE[4]|FOCUS[5]	_	
+8-9	412-413	,	_	_	
+8-10	414-418	when	_	_	
+8-11	419-421	it	_	_	
+8-12	422-429	clearly	_	_	
+8-13	430-436	isn't7	NEG	_	
+8-14	436-437	.	_	_	
+
+#Text=Wall st. insiderTrump, like Rob Ford, simply said that things are broken, which they are!
+9-1	438-442	Wall	_	_	
+9-2	443-445	st	_	_	
+9-3	445-446	.	_	_	
+9-4	447-459	insiderTrump	_	_	
+9-5	459-460	,	_	_	
+9-6	461-465	like	_	_	
+9-7	466-469	Rob	_	_	
+9-8	470-474	Ford	_	_	
+9-9	474-475	,	_	_	
+9-10	476-482	simply	_	_	
+9-11	483-487	said	_	_	
+9-12	488-492	that	_	_	
+9-13	493-499	things	_	_	
+9-14	500-503	are	_	_	
+9-15	504-510	broken	_	_	
+9-16	510-511	,	_	_	
+9-17	512-517	which	_	_	
+9-18	518-522	they	_	_	
+9-19	523-526	are	_	_	
+9-20	526-527	!	_	_	
+
+#Text=You can't live in the US on minimum wage, these are the jobs that are left!
+10-1	529-532	You	_	_	
+10-2	533-538	can't	NEG	_	
+10-3	539-543	live	SCOPE[8]	_	
+10-4	544-546	in	SCOPE[8]	_	
+10-5	547-550	the	SCOPE[8]	_	
+10-6	551-553	US	SCOPE[8]	_	
+10-7	554-556	on	SCOPE[8]	_	
+10-8	557-564	minimum	SCOPE[8]|FOCUS[9]	_	
+10-9	565-569	wage	SCOPE[8]|FOCUS[9]	_	
+10-10	569-570	,	_	_	
+10-11	571-576	these	_	_	
+10-12	577-580	are	_	_	
+10-13	581-584	the	_	_	
+10-14	585-589	jobs	_	_	
+10-15	590-594	that	_	_	
+10-16	595-598	are	_	_	
+10-17	599-603	left	_	_	
+10-18	603-604	!	_	_	
+
+#Text=I am not a Trump supporter, but you have to agree that her candidacy was just about how great she is.
+11-1	606-607	I	_	_	
+11-2	608-610	am	_	_	
+11-3	611-614	not	NEG	_	
+11-4	615-616	a	SCOPE[11]	_	
+11-5	617-622	Trump	SCOPE[11]|FOCUS[12]	_	
+11-6	623-632	supporter	SCOPE[11]	_	
+11-7	632-633	,	_	_	
+11-8	634-637	but	_	_	
+11-9	638-641	you	_	_	
+11-10	642-646	have	_	_	
+11-11	647-649	to	_	_	
+11-12	650-655	agree	_	_	
+11-13	656-660	that	_	_	
+11-14	661-664	her	_	_	
+11-15	665-674	candidacy	_	_	
+11-16	675-678	was	_	_	
+11-17	679-683	just	_	_	
+11-18	684-689	about	_	_	
+11-19	690-693	how	_	_	
+11-20	694-699	great	_	_	
+11-21	700-703	she	_	_	
+11-22	704-706	is	_	_	
+11-23	706-707	.	_	_	
+
+#Text=But what are you offering to the public, and do they believe you?
+12-1	709-712	But	_	_	
+12-2	713-717	what	_	_	
+12-3	718-721	are	_	_	
+12-4	722-725	you	_	_	
+12-5	726-734	offering	_	_	
+12-6	735-737	to	_	_	
+12-7	738-741	the	_	_	
+12-8	742-748	public	_	_	
+12-9	748-749	,	_	_	
+12-10	750-753	and	_	_	
+12-11	754-756	do	_	_	
+12-12	757-761	they	_	_	
+12-13	762-769	believe	_	_	
+12-14	770-773	you	_	_	
+12-15	773-774	?	_	_	

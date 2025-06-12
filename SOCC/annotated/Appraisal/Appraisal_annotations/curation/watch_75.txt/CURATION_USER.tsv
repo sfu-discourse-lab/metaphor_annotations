@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=That's actually a really good point!
+1-1	0-6	That's	_	_	_	_	
+1-2	7-15	actually	_	_	_	_	
+1-3	16-17	a	_	_	_	_	
+1-4	18-24	really	Appreciation[1]	pos[1]	Force	up	
+1-5	25-29	good	Appreciation[1]	pos[1]	_	_	
+1-6	30-35	point	_	_	_	_	
+1-7	35-36	!	_	_	_	_	
+
+#Text=When people spend north of $10K on a watch, they expect it to last the rest of their lives or at least a good long time.
+2-1	37-41	When	_	_	_	_	
+2-2	42-48	people	_	_	_	_	
+2-3	49-54	spend	_	_	_	_	
+2-4	55-60	north	_	_	_	_	
+2-5	61-63	of	_	_	_	_	
+2-6	64-68	$10K	_	_	_	_	
+2-7	69-71	on	_	_	_	_	
+2-8	72-73	a	_	_	_	_	
+2-9	74-79	watch	_	_	_	_	
+2-10	79-80	,	_	_	_	_	
+2-11	81-85	they	_	_	_	_	
+2-12	86-92	expect	_	_	_	_	
+2-13	93-95	it	_	_	_	_	
+2-14	96-98	to	_	_	_	_	
+2-15	99-103	last	_	_	_	_	
+2-16	104-107	the	_	_	_	_	
+2-17	108-112	rest	_	_	_	_	
+2-18	113-115	of	_	_	_	_	
+2-19	116-121	their	_	_	_	_	
+2-20	122-127	lives	_	_	_	_	
+2-21	128-130	or	_	_	_	_	
+2-22	131-133	at	_	_	_	_	
+2-23	134-139	least	_	_	_	_	
+2-24	140-141	a	_	_	_	_	
+2-25	142-146	good	_	_	_	_	
+2-26	147-151	long	_	_	_	_	
+2-27	152-156	time	_	_	_	_	
+2-28	156-157	.	_	_	_	_	
+
+#Text=Apple is going to have to ensure the Watch is compatible with future i Phones too.
+3-1	158-163	Apple	_	_	_	_	
+3-2	164-166	is	_	_	_	_	
+3-3	167-172	going	_	_	_	_	
+3-4	173-175	to	_	_	_	_	
+3-5	176-180	have	Appreciation[2]	pos[2]	_	_	
+3-6	181-183	to	Appreciation[2]	pos[2]	_	_	
+3-7	184-190	ensure	_	_	_	_	
+3-8	191-194	the	_	_	_	_	
+3-9	195-200	Watch	_	_	_	_	
+3-10	201-203	is	_	_	_	_	
+3-11	204-214	compatible	_	_	_	_	
+3-12	215-219	with	_	_	_	_	
+3-13	220-226	future	_	_	_	_	
+3-14	227-228	i	_	_	_	_	
+3-15	229-235	Phones	_	_	_	_	
+3-16	236-239	too	_	_	_	_	
+3-17	239-240	.	_	_	_	_	
+
+#Text=If they end up obsolescing the $13K watch in two years they will generate quite the backlash.
+4-1	241-243	If	Judgment[3]	neg[3]	_	_	
+4-2	244-248	they	Judgment[3]	neg[3]	_	_	
+4-3	249-252	end	Judgment[3]	neg[3]	_	_	
+4-4	253-255	up	Judgment[3]	neg[3]	_	_	
+4-5	256-267	obsolescing	Judgment[3]	neg[3]	_	_	
+4-6	268-271	the	Judgment[3]	neg[3]	_	_	
+4-7	272-276	$13K	Judgment[3]	neg[3]	_	_	
+4-8	277-282	watch	Judgment[3]	neg[3]	_	_	
+4-9	283-285	in	Judgment[3]	neg[3]	_	_	
+4-10	286-289	two	Judgment[3]	neg[3]	_	_	
+4-11	290-295	years	Judgment[3]	neg[3]	_	_	
+4-12	296-300	they	Judgment[3]	neg[3]	_	_	
+4-13	301-305	will	Judgment[3]	neg[3]	_	_	
+4-14	306-314	generate	Judgment[3]	neg[3]	_	_	
+4-15	315-320	quite	Judgment[3]	neg[3]	_	_	
+4-16	321-324	the	Judgment[3]	neg[3]	_	_	
+4-17	325-333	backlash	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+4-18	333-334	.	_	_	_	_	

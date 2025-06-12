@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Indeed.
+1-1	0-6	Indeed	Appreciation	pos	_	_	
+1-2	6-7	.	_	_	_	_	
+
+#Text=The only reason I can think of is that the Japanese atoll is kind of middle-of-nowhere in the western Pacific, while the Spratly Islands are smack in the middle of the busiest sea-lanes in the region, with about five competing territorial claims....
+2-1	8-11	The	_	_	_	_	
+2-2	12-16	only	_	_	_	_	
+2-3	17-23	reason	_	_	_	_	
+2-4	24-25	I	_	_	_	_	
+2-5	26-29	can	_	_	_	_	
+2-6	30-35	think	_	_	_	_	
+2-7	36-38	of	_	_	_	_	
+2-8	39-41	is	_	_	_	_	
+2-9	42-46	that	_	_	_	_	
+2-10	47-50	the	_	_	_	_	
+2-11	51-59	Japanese	_	_	_	_	
+2-12	60-65	atoll	_	_	_	_	
+2-13	66-68	is	_	_	_	_	
+2-14	69-73	kind	_	_	_	_	
+2-15	74-76	of	_	_	_	_	
+2-16	77-94	middle-of-nowhere	Appreciation	neg	_	_	
+2-17	95-97	in	_	_	_	_	
+2-18	98-101	the	_	_	_	_	
+2-19	102-109	western	_	_	_	_	
+2-20	110-117	Pacific	_	_	_	_	
+2-21	117-118	,	_	_	_	_	
+2-22	119-124	while	_	_	_	_	
+2-23	125-128	the	_	_	_	_	
+2-24	129-136	Spratly	_	_	_	_	
+2-25	137-144	Islands	_	_	_	_	
+2-26	145-148	are	_	_	_	_	
+2-27	149-154	smack	Appreciation[3]	pos[3]	Force	up	
+2-28	155-157	in	Appreciation[3]	pos[3]	_	_	
+2-29	158-161	the	Appreciation[3]	pos[3]	_	_	
+2-30	162-168	middle	Appreciation[3]	pos[3]	_	_	
+2-31	169-171	of	Appreciation[3]	pos[3]	_	_	
+2-32	172-175	the	Appreciation[3]	pos[3]	_	_	
+2-33	176-183	busiest	Appreciation[3]	pos[3]	Force	up	
+2-34	184-193	sea-lanes	Appreciation[3]	pos[3]	_	_	
+2-35	194-196	in	Appreciation[3]	pos[3]	_	_	
+2-36	197-200	the	Appreciation[3]	pos[3]	_	_	
+2-37	201-207	region	Appreciation[3]	pos[3]	_	_	
+2-38	207-208	,	_	_	_	_	
+2-39	209-213	with	_	_	_	_	
+2-40	214-219	about	_	_	_	_	
+2-41	220-224	five	Appreciation[4]	pos[4]	Force	up	
+2-42	225-234	competing	Appreciation[4]	pos[4]	_	_	
+2-43	235-246	territorial	Appreciation[4]	pos[4]	_	_	
+2-44	247-253	claims	Appreciation[4]	pos[4]	_	_	
+2-45	253-254	.	_	_	_	_	
+2-46	254-255	.	_	_	_	_	
+2-47	255-256	.	_	_	_	_	
+2-48	256-257	.	_	_	_	_	
+
+#Text=If nothing else, your reference also got me to read about Rockall, where the UK foregoes any claim to an economic exclusion zone.
+3-1	258-260	If	_	_	_	_	
+3-2	261-268	nothing	_	_	_	_	
+3-3	269-273	else	_	_	_	_	
+3-4	273-274	,	_	_	_	_	
+3-5	275-279	your	_	_	_	_	
+3-6	280-289	reference	_	_	_	_	
+3-7	290-294	also	_	_	_	_	
+3-8	295-298	got	_	_	_	_	
+3-9	299-301	me	_	_	_	_	
+3-10	302-304	to	_	_	_	_	
+3-11	305-309	read	_	_	_	_	
+3-12	310-315	about	_	_	_	_	
+3-13	316-323	Rockall	_	_	_	_	
+3-14	323-324	,	_	_	_	_	
+3-15	325-330	where	_	_	_	_	
+3-16	331-334	the	_	_	_	_	
+3-17	335-337	UK	_	_	_	_	
+3-18	338-346	foregoes	Appreciation[5]	pos[5]	_	_	
+3-19	347-350	any	Appreciation[5]	pos[5]	Force	up	
+3-20	351-356	claim	Appreciation[5]	pos[5]	_	_	
+3-21	357-359	to	_	_	_	_	
+3-22	360-362	an	_	_	_	_	
+3-23	363-371	economic	_	_	_	_	
+3-24	372-381	exclusion	_	_	_	_	
+3-25	382-386	zone	_	_	_	_	
+3-26	386-387	.	_	_	_	_	
+
+#Text=Seems like this could be a useful example for others....
+4-1	388-393	Seems	_	_	_	_	
+4-2	394-398	like	_	_	_	_	
+4-3	399-403	this	_	_	_	_	
+4-4	404-409	could	Appreciation[6]	pos[6]	_	_	
+4-5	410-412	be	Appreciation[6]	pos[6]	_	_	
+4-6	413-414	a	Appreciation[6]	pos[6]	_	_	
+4-7	415-421	useful	Appreciation[6]	pos[6]	_	_	
+4-8	422-429	example	_	_	_	_	
+4-9	430-433	for	_	_	_	_	
+4-10	434-440	others	_	_	_	_	
+4-11	440-441	.	_	_	_	_	
+4-12	441-442	.	_	_	_	_	
+4-13	442-443	.	_	_	_	_	
+4-14	443-444	.	_	_	_	_	

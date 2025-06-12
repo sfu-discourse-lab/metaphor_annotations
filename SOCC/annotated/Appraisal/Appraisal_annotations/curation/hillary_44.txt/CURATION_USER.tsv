@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I really think it ill-serves the body politic, to continue to make this election into a referendum on something it wasn't, namely the competence of women.
+1-1	0-1	I	_	_	_	_	
+1-2	2-8	really	_	_	_	_	
+1-3	9-14	think	_	_	_	_	
+1-4	15-17	it	_	_	_	_	
+1-5	18-28	ill-serves	Appreciation	neg	_	_	
+1-6	29-32	the	_	_	_	_	
+1-7	33-37	body	_	_	_	_	
+1-8	38-45	politic	_	_	_	_	
+1-9	45-46	,	_	_	_	_	
+1-10	47-49	to	_	_	_	_	
+1-11	50-58	continue	Judgment[2]	neg[2]	_	_	
+1-12	59-61	to	Judgment[2]	neg[2]	_	_	
+1-13	62-66	make	Judgment[2]	neg[2]	_	_	
+1-14	67-71	this	Judgment[2]	neg[2]	_	_	
+1-15	72-80	election	Judgment[2]	neg[2]	_	_	
+1-16	81-85	into	Judgment[2]	neg[2]	_	_	
+1-17	86-87	a	Judgment[2]	neg[2]	_	_	
+1-18	88-98	referendum	Judgment[2]	neg[2]	_	_	
+1-19	99-101	on	Judgment[2]	neg[2]	_	_	
+1-20	102-111	something	Judgment[2]	neg[2]	_	_	
+1-21	112-114	it	Judgment[2]	neg[2]	_	_	
+1-22	115-121	wasn't	Judgment[2]	neg[2]	_	_	
+1-23	121-122	,	_	_	_	_	
+1-24	123-129	namely	_	_	_	_	
+1-25	130-133	the	_	_	_	_	
+1-26	134-144	competence	_	_	_	_	
+1-27	145-147	of	_	_	_	_	
+1-28	148-153	women	_	_	_	_	
+1-29	153-154	.	_	_	_	_	
+
+#Text=As other posters have noted, there have been many many women leaders throughout history.
+2-1	155-157	As	_	_	_	_	
+2-2	158-163	other	_	_	_	_	
+2-3	164-171	posters	_	_	_	_	
+2-4	172-176	have	_	_	_	_	
+2-5	177-182	noted	_	_	_	_	
+2-6	182-183	,	_	_	_	_	
+2-7	184-189	there	_	_	_	_	
+2-8	190-194	have	_	_	_	_	
+2-9	195-199	been	Appreciation[3]	pos[3]	_	_	
+2-10	200-204	many	Appreciation[3]	pos[3]	Force[1]	up[1]	
+2-11	205-209	many	Appreciation[3]	pos[3]	Force[1]|Force[2]	up[1]|up[2]	
+2-12	210-215	women	Appreciation[3]	pos[3]	_	_	
+2-13	216-223	leaders	Appreciation[3]	pos[3]	_	_	
+2-14	224-234	throughout	_	_	_	_	
+2-15	235-242	history	_	_	_	_	
+2-16	242-243	.	_	_	_	_	
+
+#Text=This is not a new thing.
+3-1	244-248	This	_	_	_	_	
+3-2	249-251	is	_	_	_	_	
+3-3	252-255	not	_	_	_	_	
+3-4	256-257	a	_	_	_	_	
+3-5	258-261	new	_	_	_	_	
+3-6	262-267	thing	_	_	_	_	
+3-7	267-268	.	_	_	_	_	
+
+#Text=Hillary Clinton was as hawkish as any man, when it came to Iraq, as pusillaminous as anyone else, when it came to standing up to Wall Street.
+4-1	269-276	Hillary	_	_	_	_	
+4-2	277-284	Clinton	_	_	_	_	
+4-3	285-288	was	_	_	_	_	
+4-4	289-291	as	_	_	_	_	
+4-5	292-299	hawkish	Judgment	neg	_	_	
+4-6	300-302	as	_	_	_	_	
+4-7	303-306	any	_	_	_	_	
+4-8	307-310	man	_	_	_	_	
+4-9	310-311	,	_	_	_	_	
+4-10	312-316	when	_	_	_	_	
+4-11	317-319	it	_	_	_	_	
+4-12	320-324	came	_	_	_	_	
+4-13	325-327	to	_	_	_	_	
+4-14	328-332	Iraq	_	_	_	_	
+4-15	332-333	,	_	_	_	_	
+4-16	334-336	as	_	_	_	_	
+4-17	337-350	pusillaminous	Judgment	neg	_	_	
+4-18	351-353	as	_	_	_	_	
+4-19	354-360	anyone	_	_	_	_	
+4-20	361-365	else	_	_	_	_	
+4-21	365-366	,	_	_	_	_	
+4-22	367-371	when	_	_	_	_	
+4-23	372-374	it	_	_	_	_	
+4-24	375-379	came	_	_	_	_	
+4-25	380-382	to	_	_	_	_	
+4-26	383-391	standing	_	_	_	_	
+4-27	392-394	up	_	_	_	_	
+4-28	395-397	to	_	_	_	_	
+4-29	398-402	Wall	_	_	_	_	
+4-30	403-409	Street	_	_	_	_	
+4-31	409-410	.	_	_	_	_	
+
+#Text=She could not successfully divorce herself from her very tainted history to represent the change that the clearly disenfranchised, or at least self-perceived disenfranchised, so desperately wanted.
+5-1	411-414	She	_	_	_	_	
+5-2	415-420	could	Judgment[6]	neg[6]	_	_	
+5-3	421-424	not	Judgment[6]	neg[6]	_	_	
+5-4	425-437	successfully	Judgment[6]	neg[6]	_	_	
+5-5	438-445	divorce	Judgment[6]	neg[6]	_	_	
+5-6	446-453	herself	Judgment[6]	neg[6]	_	_	
+5-7	454-458	from	Judgment[6]	neg[6]	_	_	
+5-8	459-462	her	Judgment[6]	neg[6]	_	_	
+5-9	463-467	very	Judgment[6]|Appreciation[7]	neg[6]|neg[7]	Force	up	
+5-10	468-475	tainted	Judgment[6]|Appreciation[7]	neg[6]|neg[7]	_	_	
+5-11	476-483	history	Judgment[6]	neg[6]	_	_	
+5-12	484-486	to	_	_	_	_	
+5-13	487-496	represent	_	_	_	_	
+5-14	497-500	the	_	_	_	_	
+5-15	501-507	change	_	_	_	_	
+5-16	508-512	that	_	_	_	_	
+5-17	513-516	the	_	_	_	_	
+5-18	517-524	clearly	Appreciation[8]	neg[8]	_	_	
+5-19	525-540	disenfranchised	Appreciation[8]	neg[8]	_	_	
+5-20	540-541	,	Appreciation[8]	neg[8]	_	_	
+5-21	542-544	or	Appreciation[8]	neg[8]	_	_	
+5-22	545-547	at	Appreciation[8]	neg[8]	_	_	
+5-23	548-553	least	Appreciation[8]	neg[8]	_	_	
+5-24	554-568	self-perceived	Appreciation[8]	neg[8]	_	_	
+5-25	569-584	disenfranchised	Appreciation[8]	neg[8]	_	_	
+5-26	584-585	,	_	_	_	_	
+5-27	586-588	so	_	_	_	_	
+5-28	589-600	desperately	_	_	_	_	
+5-29	601-607	wanted	_	_	_	_	
+5-30	607-608	.	_	_	_	_	

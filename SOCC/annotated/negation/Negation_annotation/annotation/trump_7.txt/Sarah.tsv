@@ -1,0 +1,232 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text='He\u2019s hardly the choice of the establishment, media, cultural, business or political.
+1-1	0-1	'	_	
+1-2	1-3	He	_	
+1-3	3-4	’	_	
+1-4	4-5	s	_	
+1-5	6-12	hardly	_	
+1-6	13-16	the	_	
+1-7	17-23	choice	_	
+1-8	24-26	of	_	
+1-9	27-30	the	_	
+1-10	31-44	establishment	_	
+1-11	44-45	,	_	
+1-12	46-51	media	_	
+1-13	51-52	,	_	
+1-14	53-61	cultural	_	
+1-15	61-62	,	_	
+1-16	63-71	business	_	
+1-17	72-74	or	_	
+1-18	75-84	political	_	
+1-19	84-85	.	_	
+
+#Text=That includes the establishment of his own Republican party, which had been predicting \u2013 and quietly hoping \u2013 that his leadership would lead to a defeat of cataclysmic proportions'Yes, this was entirely the point as many tried to point out, but were drowned out by accusations of racism and sexism.
+2-1	86-90	That	_	
+2-2	91-99	includes	_	
+2-3	100-103	the	_	
+2-4	104-117	establishment	_	
+2-5	118-120	of	_	
+2-6	121-124	his	_	
+2-7	125-128	own	_	
+2-8	129-139	Republican	_	
+2-9	140-145	party	_	
+2-10	145-146	,	_	
+2-11	147-152	which	_	
+2-12	153-156	had	_	
+2-13	157-161	been	_	
+2-14	162-172	predicting	_	
+2-15	173-174	–	_	
+2-16	175-178	and	_	
+2-17	179-186	quietly	_	
+2-18	187-193	hoping	_	
+2-19	194-195	–	_	
+2-20	196-200	that	_	
+2-21	201-204	his	_	
+2-22	205-215	leadership	_	
+2-23	216-221	would	_	
+2-24	222-226	lead	_	
+2-25	227-229	to	_	
+2-26	230-231	a	_	
+2-27	232-238	defeat	_	
+2-28	239-241	of	_	
+2-29	242-253	cataclysmic	_	
+2-30	254-269	proportions'Yes	_	
+2-31	269-270	,	_	
+2-32	271-275	this	_	
+2-33	276-279	was	_	
+2-34	280-288	entirely	_	
+2-35	289-292	the	_	
+2-36	293-298	point	_	
+2-37	299-301	as	_	
+2-38	302-306	many	_	
+2-39	307-312	tried	_	
+2-40	313-315	to	_	
+2-41	316-321	point	_	
+2-42	322-325	out	_	
+2-43	325-326	,	_	
+2-44	327-330	but	_	
+2-45	331-335	were	_	
+2-46	336-343	drowned	_	
+2-47	344-347	out	_	
+2-48	348-350	by	_	
+2-49	351-362	accusations	_	
+2-50	363-365	of	_	
+2-51	366-372	racism	_	
+2-52	373-376	and	_	
+2-53	377-383	sexism	_	
+2-54	383-384	.	_	
+
+#Text=For me?
+3-1	385-388	For	_	
+3-2	389-391	me	_	
+3-3	391-392	?	_	
+
+#Text=It doesn't matter who is president. 8 years of Bush and 8 years of Obama, 8 years of Clinton before that, and what has really changed?
+4-1	393-395	It	_	
+4-2	396-403	doesn't	NEG	
+4-3	404-410	matter	SCOPE[2]	
+4-4	411-414	who	SCOPE[2]|FOCUS[3]	
+4-5	415-417	is	SCOPE[2]|FOCUS[3]	
+4-6	418-427	president	SCOPE[2]|FOCUS[3]	
+4-7	427-428	.	_	
+4-8	429-430	8	_	
+4-9	431-436	years	_	
+4-10	437-439	of	_	
+4-11	440-444	Bush	_	
+4-12	445-448	and	_	
+4-13	449-450	8	_	
+4-14	451-456	years	_	
+4-15	457-459	of	_	
+4-16	460-465	Obama	_	
+4-17	465-466	,	_	
+4-18	467-468	8	_	
+4-19	469-474	years	_	
+4-20	475-477	of	_	
+4-21	478-485	Clinton	_	
+4-22	486-492	before	_	
+4-23	493-497	that	_	
+4-24	497-498	,	_	
+4-25	499-502	and	_	
+4-26	503-507	what	_	
+4-27	508-511	has	_	
+4-28	512-518	really	_	
+4-29	519-526	changed	_	
+4-30	526-527	?	_	
+
+#Text=Not much.
+5-1	528-531	Not	NEG	
+5-2	532-536	much	SCOPE[5]|FOCUS[6]	
+5-3	536-537	.	_	
+
+#Text=I'm just a little guy.
+6-1	538-541	I'm	_	
+6-2	542-546	just	_	
+6-3	547-548	a	_	
+6-4	549-555	little	_	
+6-5	556-559	guy	_	
+6-6	559-560	.	_	
+
+#Text=But I am going to love watching all the opinion makers, politicians, pundits and media talking heads wring their hands and fret and worry.
+7-1	561-564	But	_	
+7-2	565-566	I	_	
+7-3	567-569	am	_	
+7-4	570-575	going	_	
+7-5	576-578	to	_	
+7-6	579-583	love	_	
+7-7	584-592	watching	_	
+7-8	593-596	all	_	
+7-9	597-600	the	_	
+7-10	601-608	opinion	_	
+7-11	609-615	makers	_	
+7-12	615-616	,	_	
+7-13	617-628	politicians	_	
+7-14	628-629	,	_	
+7-15	630-637	pundits	_	
+7-16	638-641	and	_	
+7-17	642-647	media	_	
+7-18	648-655	talking	_	
+7-19	656-661	heads	_	
+7-20	662-667	wring	_	
+7-21	668-673	their	_	
+7-22	674-679	hands	_	
+7-23	680-683	and	_	
+7-24	684-688	fret	_	
+7-25	689-692	and	_	
+7-26	693-698	worry	_	
+7-27	698-699	.	_	
+
+#Text=I'm going to love watching all the big business Wall Street types who poured millions and millions into Hillary's war chest, thinking they bought their candidate and had it in the bag pull their hair out.
+8-1	700-703	I'm	_	
+8-2	704-709	going	_	
+8-3	710-712	to	_	
+8-4	713-717	love	_	
+8-5	718-726	watching	_	
+8-6	727-730	all	_	
+8-7	731-734	the	_	
+8-8	735-738	big	_	
+8-9	739-747	business	_	
+8-10	748-752	Wall	_	
+8-11	753-759	Street	_	
+8-12	760-765	types	_	
+8-13	766-769	who	_	
+8-14	770-776	poured	_	
+8-15	777-785	millions	_	
+8-16	786-789	and	_	
+8-17	790-798	millions	_	
+8-18	799-803	into	_	
+8-19	804-813	Hillary's	_	
+8-20	814-817	war	_	
+8-21	818-823	chest	_	
+8-22	823-824	,	_	
+8-23	825-833	thinking	_	
+8-24	834-838	they	_	
+8-25	839-845	bought	_	
+8-26	846-851	their	_	
+8-27	852-861	candidate	_	
+8-28	862-865	and	_	
+8-29	866-869	had	_	
+8-30	870-872	it	_	
+8-31	873-875	in	_	
+8-32	876-879	the	_	
+8-33	880-883	bag	_	
+8-34	884-888	pull	_	
+8-35	889-894	their	_	
+8-36	895-899	hair	_	
+8-37	900-903	out	_	
+8-38	903-904	.	_	
+
+#Text=They all took the people for granted and abused them, then belittled them and insulted them when they tried to protest.
+9-1	906-910	They	_	
+9-2	911-914	all	_	
+9-3	915-919	took	_	
+9-4	920-923	the	_	
+9-5	924-930	people	_	
+9-6	931-934	for	_	
+9-7	935-942	granted	_	
+9-8	943-946	and	_	
+9-9	947-953	abused	_	
+9-10	954-958	them	_	
+9-11	958-959	,	_	
+9-12	960-964	then	_	
+9-13	965-974	belittled	_	
+9-14	975-979	them	_	
+9-15	980-983	and	_	
+9-16	984-992	insulted	_	
+9-17	993-997	them	_	
+9-18	998-1002	when	_	
+9-19	1003-1007	they	_	
+9-20	1008-1013	tried	_	
+9-21	1014-1016	to	_	
+9-22	1017-1024	protest	_	
+9-23	1024-1025	.	_	
+
+#Text=Well  the people bit back.
+10-1	1026-1030	Well	_	
+10-2	1032-1035	the	_	
+10-3	1036-1042	people	_	
+10-4	1043-1046	bit	_	
+10-5	1047-1051	back	_	
+10-6	1051-1052	.	_	

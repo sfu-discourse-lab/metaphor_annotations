@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Harper's long, long list of deceptions are a solid indication of the contempt in which he holds the Canadian people, particularly his gullible base.
+1-1	0-8	Harper's	
+1-2	9-13	long	
+1-3	13-14	,	
+1-4	15-19	long	
+1-5	20-24	list	
+1-6	25-27	of	
+1-7	28-38	deceptions	
+1-8	39-42	are	
+1-9	43-44	a	
+1-10	45-50	solid	
+1-11	51-61	indication	
+1-12	62-64	of	
+1-13	65-68	the	
+1-14	69-77	contempt	
+1-15	78-80	in	
+1-16	81-86	which	
+1-17	87-89	he	
+1-18	90-95	holds	
+1-19	96-99	the	
+1-20	100-108	Canadian	
+1-21	109-115	people	
+1-22	115-116	,	
+1-23	117-129	particularly	
+1-24	130-133	his	
+1-25	134-142	gullible	
+1-26	143-147	base	
+1-27	147-148	.	

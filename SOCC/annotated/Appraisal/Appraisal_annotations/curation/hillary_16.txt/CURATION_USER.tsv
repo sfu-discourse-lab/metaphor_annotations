@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Clinton lost certainly in part because of gender.
+1-1	0-7	Clinton	_	_	_	_	
+1-2	8-12	lost	Appreciation[1]	neg[1]	_	_	
+1-3	13-22	certainly	Appreciation[1]	neg[1]	_	_	
+1-4	23-25	in	Appreciation[1]	neg[1]	Focus[1]	down[1]	
+1-5	26-30	part	Appreciation[1]	neg[1]	Focus[1]	down[1]	
+1-6	31-38	because	Appreciation[1]	neg[1]	_	_	
+1-7	39-41	of	Appreciation[1]	neg[1]	_	_	
+1-8	42-48	gender	Appreciation[1]	neg[1]	_	_	
+1-9	48-49	.	_	_	_	_	
+
+#Text=It wasn't the only reason but it did play a large role.
+2-1	50-52	It	_	_	_	_	
+2-2	53-59	wasn't	_	_	_	_	
+2-3	60-63	the	_	_	_	_	
+2-4	64-68	only	_	_	_	_	
+2-5	69-75	reason	_	_	_	_	
+2-6	76-79	but	_	_	_	_	
+2-7	80-82	it	_	_	_	_	
+2-8	83-86	did	_	_	_	_	
+2-9	87-91	play	Appreciation[2]	neg[2]	_	_	
+2-10	92-93	a	Appreciation[2]	neg[2]	_	_	
+2-11	94-99	large	Appreciation[2]	neg[2]	_	_	
+2-12	100-104	role	Appreciation[2]	neg[2]	_	_	
+2-13	104-105	.	_	_	_	_	
+
+#Text=It is also notable that a significant number of women who could have helped her win chose to vote for Trump.
+3-1	106-108	It	_	_	_	_	
+3-2	109-111	is	_	_	_	_	
+3-3	112-116	also	_	_	_	_	
+3-4	117-124	notable	Appreciation	pos	_	_	
+3-5	125-129	that	_	_	_	_	
+3-6	130-131	a	_	_	_	_	
+3-7	132-143	significant	_	_	_	_	
+3-8	144-150	number	_	_	_	_	
+3-9	151-153	of	_	_	_	_	
+3-10	154-159	women	_	_	_	_	
+3-11	160-163	who	_	_	_	_	
+3-12	164-169	could	_	_	_	_	
+3-13	170-174	have	_	_	_	_	
+3-14	175-181	helped	_	_	_	_	
+3-15	182-185	her	_	_	_	_	
+3-16	186-189	win	_	_	_	_	
+3-17	190-195	chose	Judgment[4]	neg[4]	_	_	
+3-18	196-198	to	Judgment[4]	neg[4]	_	_	
+3-19	199-203	vote	Judgment[4]	neg[4]	_	_	
+3-20	204-207	for	Judgment[4]	neg[4]	_	_	
+3-21	208-213	Trump	Judgment[4]	neg[4]	_	_	
+3-22	213-214	.	_	_	_	_	

@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=interesting how the American people rejected Hillary and the status quo.
+1-1	0-11	interesting	
+1-2	12-15	how	
+1-3	16-19	the	
+1-4	20-28	American	
+1-5	29-35	people	
+1-6	36-44	rejected	
+1-7	45-52	Hillary	
+1-8	53-56	and	
+1-9	57-60	the	
+1-10	61-67	status	
+1-11	68-71	quo	
+1-12	71-72	.	
+
+#Text=I think this reflects poorly on Obama and the last 8 yrs of democrats.
+2-1	73-74	I	
+2-2	75-80	think	
+2-3	81-85	this	
+2-4	86-94	reflects	
+2-5	95-101	poorly	
+2-6	102-104	on	
+2-7	105-110	Obama	
+2-8	111-114	and	
+2-9	115-118	the	
+2-10	119-123	last	
+2-11	124-125	8	
+2-12	126-129	yrs	
+2-13	130-132	of	
+2-14	133-142	democrats	
+2-15	142-143	.	
+
+#Text=Obama said his legacy will disappear if Trump was elected.
+3-1	144-149	Obama	
+3-2	150-154	said	
+3-3	155-158	his	
+3-4	159-165	legacy	
+3-5	166-170	will	
+3-6	171-180	disappear	
+3-7	181-183	if	
+3-8	184-189	Trump	
+3-9	190-193	was	
+3-10	194-201	elected	
+3-11	201-202	.	
+
+#Text=Well said Baruk.
+4-1	203-207	Well	
+4-2	208-212	said	
+4-3	213-218	Baruk	
+4-4	218-219	.	
+
+#Text=It is still hard to believe that anyone could vote for Trump.
+5-1	220-222	It	
+5-2	223-225	is	
+5-3	226-231	still	
+5-4	232-236	hard	
+5-5	237-239	to	
+5-6	240-247	believe	
+5-7	248-252	that	
+5-8	253-259	anyone	
+5-9	260-265	could	
+5-10	266-270	vote	
+5-11	271-274	for	
+5-12	275-280	Trump	
+5-13	280-281	.	
+
+#Text=He is one obnoxious egotist, that is for sure.
+6-1	282-284	He	
+6-2	285-287	is	
+6-3	288-291	one	
+6-4	292-301	obnoxious	
+6-5	302-309	egotist	
+6-6	309-310	,	
+6-7	311-315	that	
+6-8	316-318	is	
+6-9	319-322	for	
+6-10	323-327	sure	
+6-11	327-328	.	
+
+#Text=I guess just as it was in Canada  in 2015, people just wanted a change for changes sake.
+7-1	329-330	I	
+7-2	331-336	guess	
+7-3	337-341	just	
+7-4	342-344	as	
+7-5	345-347	it	
+7-6	348-351	was	
+7-7	352-354	in	
+7-8	355-361	Canada	
+7-9	363-365	in	
+7-10	366-370	2015	
+7-11	370-371	,	
+7-12	372-378	people	
+7-13	379-383	just	
+7-14	384-390	wanted	
+7-15	391-392	a	
+7-16	393-399	change	
+7-17	400-403	for	
+7-18	404-411	changes	
+7-19	412-416	sake	
+7-20	416-417	.	

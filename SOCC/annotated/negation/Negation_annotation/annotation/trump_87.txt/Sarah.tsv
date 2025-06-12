@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The fact that the medias ,journalists and all as well as the artistic world was against Trump did not suffice unlike in Canada with Harper .
+1-1	0-3	The	_	
+1-2	4-8	fact	_	
+1-3	9-13	that	_	
+1-4	14-17	the	_	
+1-5	18-24	medias	_	
+1-6	25-26	,	_	
+1-7	26-37	journalists	_	
+1-8	38-41	and	_	
+1-9	42-45	all	_	
+1-10	46-48	as	_	
+1-11	49-53	well	_	
+1-12	54-56	as	_	
+1-13	57-60	the	_	
+1-14	61-69	artistic	_	
+1-15	70-75	world	_	
+1-16	76-79	was	_	
+1-17	80-87	against	_	
+1-18	88-93	Trump	_	
+1-19	94-97	did	_	
+1-20	98-101	not	NEG	
+1-21	102-109	suffice	SCOPE[2]|FOCUS[3]	
+1-22	110-116	unlike	_	
+1-23	117-119	in	_	
+1-24	120-126	Canada	_	
+1-25	127-131	with	_	
+1-26	132-138	Harper	_	
+1-27	139-140	.	_	
+
+#Text=Trump got elected with 48% of the vote while Justin got 39% here
+2-1	141-146	Trump	_	
+2-2	147-150	got	_	
+2-3	151-158	elected	_	
+2-4	159-163	with	_	
+2-5	164-167	48%	_	
+2-6	168-170	of	_	
+2-7	171-174	the	_	
+2-8	175-179	vote	_	
+2-9	180-185	while	_	
+2-10	186-192	Justin	_	
+2-11	193-196	got	_	
+2-12	197-200	39%	_	
+2-13	201-205	here	_	

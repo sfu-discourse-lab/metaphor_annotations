@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=This would only be fair if all the people who paid ridiculous amounts for their taxi licences in the past were reimbursed by the city.
+1-1	0-4	This	_	
+1-2	5-10	would	_	
+1-3	11-15	only	_	
+1-4	16-18	be	_	
+1-5	19-23	fair	_	
+1-6	24-26	if	_	
+1-7	27-30	all	_	
+1-8	31-34	the	_	
+1-9	35-41	people	_	
+1-10	42-45	who	_	
+1-11	46-50	paid	_	
+1-12	51-61	ridiculous	_	
+1-13	62-69	amounts	_	
+1-14	70-73	for	_	
+1-15	74-79	their	_	
+1-16	80-84	taxi	_	
+1-17	85-93	licences	_	
+1-18	94-96	in	_	
+1-19	97-100	the	_	
+1-20	101-105	past	_	
+1-21	106-110	were	_	
+1-22	111-121	reimbursed	_	
+1-23	122-124	by	_	
+1-24	125-128	the	_	
+1-25	129-133	city	_	
+1-26	133-134	.	_	
+
+#Text=Changing the ground rules without recognizing what was paid by long-time owners in the past would not be just.
+2-1	136-144	Changing	_	
+2-2	145-148	the	_	
+2-3	149-155	ground	_	
+2-4	156-161	rules	_	
+2-5	162-169	without	NEG	
+2-6	170-181	recognizing	SCOPE[2]	
+2-7	182-186	what	SCOPE[2]	
+2-8	187-190	was	SCOPE[2]	
+2-9	191-195	paid	SCOPE[2]	
+2-10	196-198	by	SCOPE[2]	
+2-11	199-208	long-time	SCOPE[2]	
+2-12	209-215	owners	SCOPE[2]	
+2-13	216-218	in	SCOPE[2]	
+2-14	219-222	the	SCOPE[2]|FOCUS[3]	
+2-15	223-227	past	SCOPE[2]|FOCUS[3]	
+2-16	228-233	would	_	
+2-17	234-237	not	NEG	
+2-18	238-240	be	SCOPE[5]	
+2-19	241-245	just	SCOPE[5]|FOCUS[6]	
+2-20	245-246	.	_	

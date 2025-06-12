@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=religion what is it  good for?
+1-1	0-8	religion	_	
+1-2	9-13	what	_	
+1-3	14-16	is	_	
+1-4	17-19	it	_	
+1-5	21-25	good	_	
+1-6	26-29	for	_	
+1-7	29-30	?	_	
+
+#Text=ABSOLUTELY NOTHING
+2-1	31-41	ABSOLUTELY	_	
+2-2	42-49	NOTHING	NEG	

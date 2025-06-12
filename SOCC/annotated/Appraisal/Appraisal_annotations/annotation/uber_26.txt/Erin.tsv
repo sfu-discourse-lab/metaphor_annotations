@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Hello,, you are quoting some of the things that the Licensing Commission has in place,,, safety,,, Uber DRIVERS DO NOT HAVE ANY INSURANCE,,, g was that loud enough,,,
+1-1	0-5	Hello	Judgment	neg	
+1-2	5-6	,	_	_	
+1-3	6-7	,	_	_	
+1-4	8-11	you	_	_	
+1-5	12-15	are	_	_	
+1-6	16-23	quoting	_	_	
+1-7	24-28	some	_	_	
+1-8	29-31	of	_	_	
+1-9	32-35	the	_	_	
+1-10	36-42	things	_	_	
+1-11	43-47	that	_	_	
+1-12	48-51	the	_	_	
+1-13	52-61	Licensing	_	_	
+1-14	62-72	Commission	_	_	
+1-15	73-76	has	_	_	
+1-16	77-79	in	_	_	
+1-17	80-85	place	_	_	
+1-18	85-86	,	_	_	
+1-19	86-87	,	_	_	
+1-20	87-88	,	_	_	
+1-21	89-95	safety	Appreciation	pos	
+1-22	95-96	,	_	_	
+1-23	96-97	,	_	_	
+1-24	97-98	,	_	_	
+1-25	99-103	Uber	_	_	
+1-26	104-111	DRIVERS	_	_	
+1-27	112-114	DO	Judgment[3]	neg[3]	
+1-28	115-118	NOT	Judgment[3]	neg[3]	
+1-29	119-123	HAVE	Judgment[3]	neg[3]	
+1-30	124-127	ANY	Judgment[3]	neg[3]	
+1-31	128-137	INSURANCE	Judgment[3]	neg[3]	
+1-32	137-138	,	_	_	
+1-33	138-139	,	_	_	
+1-34	139-140	,	_	_	
+1-35	141-142	g	_	_	
+1-36	143-146	was	_	_	
+1-37	147-151	that	_	_	
+1-38	152-156	loud	Judgment[4]	neg[4]	
+1-39	157-163	enough	Judgment[4]	neg[4]	
+1-40	163-164	,	_	_	
+1-41	164-165	,	_	_	
+1-42	165-166	,	_	_	

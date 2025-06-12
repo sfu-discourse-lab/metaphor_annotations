@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Climate change has always been a hoax,as these career polititians needed a newway to make sure they got thier pay cheque.Trump is not in for money as per-say, he'staking career thieves, dope pushers andlike and getting them out.
+1-1	4-11	Climate	_	
+1-2	12-18	change	_	
+1-3	19-22	has	_	
+1-4	23-29	always	_	
+1-5	30-34	been	_	
+1-6	35-36	a	_	
+1-7	37-41	hoax	_	
+1-8	41-42	,	_	
+1-9	42-44	as	_	
+1-10	45-50	these	_	
+1-11	51-57	career	_	
+1-12	58-69	polititians	_	
+1-13	70-76	needed	_	
+1-14	77-78	a	_	
+1-15	79-85	newway	_	
+1-16	86-88	to	_	
+1-17	89-93	make	_	
+1-18	94-98	sure	_	
+1-19	99-103	they	_	
+1-20	104-107	got	_	
+1-21	108-113	thier	_	
+1-22	114-117	pay	_	
+1-23	118-130	cheque.Trump	_	
+1-24	131-133	is	_	
+1-25	134-137	not	NEG	
+1-26	138-140	in	SCOPE[2]	
+1-27	141-144	for	SCOPE[2]	
+1-28	145-150	money	SCOPE[2]|FOCUS[3]	
+1-29	151-153	as	SCOPE[2]	
+1-30	154-161	per-say	SCOPE[2]	
+1-31	161-162	,	_	
+1-32	163-173	he'staking	_	
+1-33	174-180	career	_	
+1-34	181-188	thieves	_	
+1-35	188-189	,	_	
+1-36	190-194	dope	_	
+1-37	195-202	pushers	_	
+1-38	203-210	andlike	_	
+1-39	211-214	and	_	
+1-40	215-222	getting	_	
+1-41	223-227	them	_	
+1-42	228-231	out	_	
+1-43	231-232	.	_	
+
+#Text=Now junor willallow that crap here.
+2-1	233-236	Now	_	
+2-2	237-242	junor	_	
+2-3	243-252	willallow	_	
+2-4	253-257	that	_	
+2-5	258-262	crap	_	
+2-6	263-267	here	_	
+2-7	267-268	.	_	
+
+#Text=But we can dump him 2019.
+3-1	270-273	But	_	
+3-2	274-276	we	_	
+3-3	277-280	can	_	
+3-4	281-285	dump	_	
+3-5	286-289	him	_	
+3-6	290-294	2019	_	
+3-7	294-295	.	_	
+
+#Text=Can't come soon enough.
+4-1	296-301	Can't	NEG	
+4-2	302-306	come	SCOPE[5]	
+4-3	307-311	soon	SCOPE[5]	
+4-4	312-318	enough	SCOPE[5]|FOCUS[6]	
+4-5	318-319	.	_	

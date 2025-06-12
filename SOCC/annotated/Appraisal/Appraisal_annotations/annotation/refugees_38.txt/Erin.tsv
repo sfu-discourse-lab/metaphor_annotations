@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Just in case you did NOT know, Syrian 'refugees' are not being forced to come to Canada.
+1-1	0-4	Just	_	_	
+1-2	5-7	in	_	_	
+1-3	8-12	case	_	_	
+1-4	13-16	you	_	_	
+1-5	17-20	did	_	_	
+1-6	21-24	NOT	_	_	
+1-7	25-29	know	_	_	
+1-8	29-30	,	_	_	
+1-9	31-37	Syrian	_	_	
+1-10	38-39	'	_	_	
+1-11	39-47	refugees	Judgment[1]	neg[1]	
+1-12	47-48	'	Judgment[1]	neg[1]	
+1-13	49-52	are	_	_	
+1-14	53-56	not	Judgment[2]	neg[2]	
+1-15	57-62	being	Judgment[2]	neg[2]	
+1-16	63-69	forced	Judgment[2]	neg[2]	
+1-17	70-72	to	Judgment[2]	neg[2]	
+1-18	73-77	come	Judgment[2]	neg[2]	
+1-19	78-80	to	_	_	
+1-20	81-87	Canada	_	_	
+1-21	87-88	.	_	_	
+
+#Text=I am sure that the oil rich Gulf states would be more than willing to help them out.
+2-1	89-90	I	_	_	
+2-2	91-93	am	_	_	
+2-3	94-98	sure	_	_	
+2-4	99-103	that	_	_	
+2-5	104-107	the	_	_	
+2-6	108-111	oil	_	_	
+2-7	112-116	rich	Appreciation	pos	
+2-8	117-121	Gulf	_	_	
+2-9	122-128	states	_	_	
+2-10	129-134	would	Judgment[4]	pos[4]	
+2-11	135-137	be	Judgment[4]	pos[4]	
+2-12	138-142	more	Judgment[4]	pos[4]	
+2-13	143-147	than	Judgment[4]	pos[4]	
+2-14	148-155	willing	Judgment[4]	pos[4]	
+2-15	156-158	to	_	_	
+2-16	159-163	help	_	_	
+2-17	164-168	them	_	_	
+2-18	169-172	out	_	_	
+2-19	172-173	.	_	_	

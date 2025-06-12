@@ -1,0 +1,17 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=If Hillary were a man, Trump still would have won.
+1-1	0-2	If	Judgment[1]	neg[1]	
+1-2	3-10	Hillary	Judgment[1]	neg[1]	
+1-3	11-15	were	Judgment[1]	neg[1]	
+1-4	16-17	a	Judgment[1]	neg[1]	
+1-5	18-21	man	Judgment[1]	neg[1]	
+1-6	21-22	,	Judgment[1]	neg[1]	
+1-7	23-28	Trump	Judgment[1]	neg[1]	
+1-8	29-34	still	Judgment[1]	neg[1]	
+1-9	35-40	would	Judgment[1]	neg[1]	
+1-10	41-45	have	Judgment[1]	neg[1]	
+1-11	46-49	won	Judgment[1]	neg[1]	
+1-12	49-50	.	_	_	

@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Maybe Hillary didn't lose because she was a woman.
+1-1	0-5	Maybe	_	
+1-2	6-13	Hillary	_	
+1-3	14-20	didn't	NEG	
+1-4	21-25	lose	SCOPE[2]	
+1-5	26-33	because	SCOPE[2]|FOCUS[3]	
+1-6	34-37	she	SCOPE[2]|FOCUS[3]	
+1-7	38-41	was	SCOPE[2]|FOCUS[3]	
+1-8	42-43	a	SCOPE[2]|FOCUS[3]	
+1-9	44-49	woman	SCOPE[2]|FOCUS[3]	
+1-10	49-50	.	_	
+
+#Text=Maybe she wasn't the right woman for the job.
+2-1	51-56	Maybe	_	
+2-2	57-60	she	_	
+2-3	61-67	wasn't	NEG	
+2-4	68-71	the	SCOPE[5]	
+2-5	72-77	right	SCOPE[5]|FOCUS[6]	
+2-6	78-83	woman	SCOPE[5]	
+2-7	84-87	for	SCOPE[5]	
+2-8	88-91	the	SCOPE[5]	
+2-9	92-95	job	SCOPE[5]	
+2-10	95-96	.	_	

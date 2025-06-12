@@ -1,0 +1,212 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Oh yes, it's so easy to balance the budget!
+1-1	0-2	Oh	_	_	_	_	
+1-2	3-6	yes	_	_	_	_	
+1-3	6-7	,	_	_	_	_	
+1-4	8-12	it's	_	_	_	_	
+1-5	13-15	so	Appreciation[1]	neg[1]	Force	up	
+1-6	16-20	easy	Appreciation[1]	neg[1]	_	_	
+1-7	21-23	to	_	_	_	_	
+1-8	24-31	balance	_	_	_	_	
+1-9	32-35	the	_	_	_	_	
+1-10	36-42	budget	_	_	_	_	
+1-11	42-43	!	_	_	_	_	
+
+#Text=So easy!
+2-1	44-46	So	Appreciation[2]	neg[2]	Force	up	
+2-2	47-51	easy	Appreciation[2]	neg[2]	_	_	
+2-3	51-52	!	_	_	_	_	
+
+#Text=How's Wynne doing in Ontario, I wonder.
+3-1	53-58	How's	Judgment[3]	neg[3]	_	_	
+3-2	59-64	Wynne	Judgment[3]	neg[3]	_	_	
+3-3	65-70	doing	Judgment[3]	neg[3]	_	_	
+3-4	71-73	in	Judgment[3]	neg[3]	_	_	
+3-5	74-81	Ontario	Judgment[3]	neg[3]	_	_	
+3-6	81-82	,	_	_	_	_	
+3-7	83-84	I	_	_	_	_	
+3-8	85-91	wonder	_	_	_	_	
+3-9	91-92	.	_	_	_	_	
+
+#Text=She gets billions more each year in transfers for health, infrastructure, education from the federal government.
+4-1	93-96	She	_	_	_	_	
+4-2	97-101	gets	_	_	_	_	
+4-3	102-110	billions	_	_	_	_	
+4-4	111-115	more	_	_	_	_	
+4-5	116-120	each	_	_	_	_	
+4-6	121-125	year	_	_	_	_	
+4-7	126-128	in	_	_	_	_	
+4-8	129-138	transfers	_	_	_	_	
+4-9	139-142	for	_	_	_	_	
+4-10	143-149	health	_	_	_	_	
+4-11	149-150	,	_	_	_	_	
+4-12	151-165	infrastructure	_	_	_	_	
+4-13	165-166	,	_	_	_	_	
+4-14	167-176	education	_	_	_	_	
+4-15	177-181	from	_	_	_	_	
+4-16	182-185	the	_	_	_	_	
+4-17	186-193	federal	_	_	_	_	
+4-18	194-204	government	_	_	_	_	
+4-19	204-205	.	_	_	_	_	
+
+#Text=She gave cops (OPP) an extra about 10% two years ago, even the 10%-ers, the teachers, got a raise a few weeks ago (despite 'net-zero' promises).
+5-1	206-209	She	_	_	_	_	
+5-2	210-214	gave	Judgment[4]	neg[4]	_	_	
+5-3	215-219	cops	Judgment[4]	neg[4]	_	_	
+5-4	220-221	(	Judgment[4]	neg[4]	_	_	
+5-5	221-224	OPP	Judgment[4]	neg[4]	_	_	
+5-6	224-225	)	Judgment[4]	neg[4]	_	_	
+5-7	226-228	an	Judgment[4]	neg[4]	_	_	
+5-8	229-234	extra	Judgment[4]	neg[4]	_	_	
+5-9	235-240	about	Judgment[4]	neg[4]	_	_	
+5-10	241-244	10%	Judgment[4]	neg[4]	_	_	
+5-11	245-248	two	Judgment[4]	neg[4]	_	_	
+5-12	249-254	years	Judgment[4]	neg[4]	_	_	
+5-13	255-258	ago	Judgment[4]	neg[4]	_	_	
+5-14	258-259	,	Judgment[4]	neg[4]	_	_	
+5-15	260-264	even	Judgment[4]	neg[4]	_	_	
+5-16	265-268	the	Judgment[4]	neg[4]	_	_	
+5-17	269-272	10%	Judgment[4]	neg[4]	_	_	
+5-18	272-273	-	Judgment[4]	neg[4]	_	_	
+5-19	273-276	ers	Judgment[4]	neg[4]	_	_	
+5-20	276-277	,	Judgment[4]	neg[4]	_	_	
+5-21	278-281	the	Judgment[4]	neg[4]	_	_	
+5-22	282-290	teachers	Judgment[4]	neg[4]	_	_	
+5-23	290-291	,	Judgment[4]	neg[4]	_	_	
+5-24	292-295	got	Judgment[4]	neg[4]	_	_	
+5-25	296-297	a	Judgment[4]	neg[4]	_	_	
+5-26	298-303	raise	Judgment[4]	neg[4]	_	_	
+5-27	304-305	a	Judgment[4]	neg[4]	_	_	
+5-28	306-309	few	Judgment[4]	neg[4]	_	_	
+5-29	310-315	weeks	Judgment[4]	neg[4]	_	_	
+5-30	316-319	ago	Judgment[4]	neg[4]	_	_	
+5-31	320-321	(	_	_	_	_	
+5-32	321-328	despite	Judgment[5]	neg[5]	_	_	
+5-33	329-330	'	Judgment[5]	neg[5]	_	_	
+5-34	330-338	net-zero	Judgment[5]	neg[5]	_	_	
+5-35	338-339	'	Judgment[5]	neg[5]	_	_	
+5-36	340-348	promises	Judgment[5]	neg[5]	_	_	
+5-37	348-349	)	_	_	_	_	
+5-38	349-350	.	_	_	_	_	
+
+#Text=Surely, Ontario must have a large surplus!
+6-1	351-357	Surely	Judgment[6]	neg[6]	_	_	
+6-2	357-358	,	Judgment[6]	neg[6]	_	_	
+6-3	359-366	Ontario	Judgment[6]	neg[6]	_	_	
+6-4	367-371	must	Judgment[6]	neg[6]	_	_	
+6-5	372-376	have	Judgment[6]	neg[6]	_	_	
+6-6	377-378	a	Judgment[6]	neg[6]	_	_	
+6-7	379-384	large	Judgment[6]	neg[6]	_	_	
+6-8	385-392	surplus	Judgment[6]	neg[6]	_	_	
+6-9	392-393	!	_	_	_	_	
+
+#Text=Or at least a negligible surplus or deficit.
+7-1	394-396	Or	_	_	_	_	
+7-2	397-399	at	_	_	_	_	
+7-3	400-405	least	_	_	_	_	
+7-4	406-407	a	_	_	_	_	
+7-5	408-418	negligible	Appreciation	pos	_	_	
+7-6	419-426	surplus	_	_	_	_	
+7-7	427-429	or	_	_	_	_	
+7-8	430-437	deficit	_	_	_	_	
+7-9	437-438	.	_	_	_	_	
+
+#Text=What?!
+8-1	439-443	What	Judgment	neg	_	_	
+8-2	443-444	?	_	_	_	_	
+8-3	444-445	!	_	_	_	_	
+
+#Text=She's running a $10 billion deficit on top of $10 billion off the books on 'infrastructure'?
+9-1	446-451	She's	_	_	_	_	
+9-2	452-459	running	Judgment[9]	neg[9]	_	_	
+9-3	460-461	a	Judgment[9]	neg[9]	_	_	
+9-4	462-465	$10	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	Force[3]	up[3]	
+9-5	466-473	billion	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	Force[3]	up[3]	
+9-6	474-481	deficit	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	_	_	
+9-7	482-484	on	_	_	_	_	
+9-8	485-488	top	_	_	_	_	
+9-9	489-491	of	_	_	_	_	
+9-10	492-495	$10	Judgment[11]	neg[11]	Force[4]	up[4]	
+9-11	496-503	billion	Judgment[11]	neg[11]	Force[4]	up[4]	
+9-12	504-507	off	Judgment[11]	neg[11]	_	_	
+9-13	508-511	the	Judgment[11]	neg[11]	_	_	
+9-14	512-517	books	Judgment[11]	neg[11]	_	_	
+9-15	518-520	on	_	_	_	_	
+9-16	521-522	'	_	_	_	_	
+9-17	522-536	infrastructure	Appreciation	neg	_	_	
+9-18	536-537	'	_	_	_	_	
+9-19	537-538	?	_	_	_	_	
+
+#Text=$20 billion more debt?
+10-1	539-542	$20	Judgment[13]	neg[13]	Force[5]	up[5]	
+10-2	543-550	billion	Judgment[13]	neg[13]	Force[5]	up[5]	
+10-3	551-555	more	Judgment[13]	neg[13]	Force[5]|Force[6]	up[5]|up[6]	
+10-4	556-560	debt	Judgment[13]	neg[13]	_	_	
+10-5	560-561	?	_	_	_	_	
+
+#Text=Every year?!
+11-1	562-567	Every	Judgment[14]	neg[14]	_	_	
+11-2	568-572	year	Judgment[14]	neg[14]	_	_	
+11-3	572-573	?	_	_	_	_	
+11-4	573-574	!	_	_	_	_	
+
+#Text=But... it's so easy to get surpluses!
+12-1	575-578	But	_	_	_	_	
+12-2	578-579	.	_	_	_	_	
+12-3	579-580	.	_	_	_	_	
+12-4	580-581	.	_	_	_	_	
+12-5	582-586	it's	_	_	_	_	
+12-6	587-589	so	Judgment[15]	neg[15]	Force	up	
+12-7	590-594	easy	Judgment[15]	neg[15]	_	_	
+12-8	595-597	to	Judgment[15]	neg[15]	_	_	
+12-9	598-601	get	Judgment[15]	neg[15]	_	_	
+12-10	602-611	surpluses	Judgment[15]	neg[15]	_	_	
+12-11	611-612	!	_	_	_	_	
+
+#Text=Simpson says so.
+13-1	613-620	Simpson	_	_	_	_	
+13-2	621-625	says	Judgment[16]	neg[16]	_	_	
+13-3	626-628	so	Judgment[16]	neg[16]	_	_	
+13-4	628-629	.	_	_	_	_	
+
+#Text=Obama can't do it.
+14-1	630-635	Obama	_	_	_	_	
+14-2	636-641	can't	Judgment[17]	neg[17]	_	_	
+14-3	642-644	do	Judgment[17]	neg[17]	_	_	
+14-4	645-647	it	Judgment[17]	neg[17]	_	_	
+14-5	647-648	.	_	_	_	_	
+
+#Text=Cameron can't do it.
+15-1	649-656	Cameron	_	_	_	_	
+15-2	657-662	can't	Judgment[18]	neg[18]	_	_	
+15-3	663-665	do	Judgment[18]	neg[18]	_	_	
+15-4	666-668	it	Judgment[18]	neg[18]	_	_	
+15-5	668-669	.	_	_	_	_	
+
+#Text=Hollande can't do it.
+16-1	670-678	Hollande	_	_	_	_	
+16-2	679-684	can't	Judgment[19]	neg[19]	_	_	
+16-3	685-687	do	Judgment[19]	neg[19]	_	_	
+16-4	688-690	it	Judgment[19]	neg[19]	_	_	
+16-5	690-691	.	_	_	_	_	
+
+#Text=Wynne certainly can't do it... strange, since it's so easy.
+17-1	692-697	Wynne	_	_	_	_	
+17-2	698-707	certainly	_	_	_	_	
+17-3	708-713	can't	Judgment[20]	neg[20]	_	_	
+17-4	714-716	do	Judgment[20]	neg[20]	_	_	
+17-5	717-719	it	Judgment[20]	neg[20]	_	_	
+17-6	719-720	.	_	_	_	_	
+17-7	720-721	.	_	_	_	_	
+17-8	721-722	.	_	_	_	_	
+17-9	723-730	strange	Judgment	neg	_	_	
+17-10	730-731	,	_	_	_	_	
+17-11	732-737	since	_	_	_	_	
+17-12	738-742	it's	_	_	_	_	
+17-13	743-745	so	Judgment[22]	neg[22]	Force	up	
+17-14	746-750	easy	Judgment[22]	neg[22]	_	_	
+17-15	750-751	.	_	_	_	_	

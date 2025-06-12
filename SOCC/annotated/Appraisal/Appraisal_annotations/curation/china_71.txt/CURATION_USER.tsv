@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=exactly what I was going for.
+1-1	0-7	exactly	Appreciation[1]	pos[1]	_	_	
+1-2	8-12	what	Appreciation[1]	pos[1]	_	_	
+1-3	13-14	I	Appreciation[1]	pos[1]	_	_	
+1-4	15-18	was	Appreciation[1]	pos[1]	_	_	
+1-5	19-24	going	Appreciation[1]	pos[1]	_	_	
+1-6	25-28	for	Appreciation[1]	pos[1]	_	_	
+1-7	28-29	.	_	_	_	_	
+
+#Text=If equally sketchy, both countries (and others who do the same) should be equally chastised.
+2-1	30-32	If	Appreciation[2]	neg[2]	_	_	
+2-2	33-40	equally	Appreciation[2]	neg[2]	_	_	
+2-3	41-48	sketchy	Appreciation[2]	neg[2]	_	_	
+2-4	48-49	,	Appreciation[2]	neg[2]	_	_	
+2-5	50-54	both	Appreciation[2]	neg[2]	_	_	
+2-6	55-64	countries	Appreciation[2]	neg[2]	_	_	
+2-7	65-66	(	Appreciation[2]	neg[2]	_	_	
+2-8	66-69	and	Appreciation[2]	neg[2]	_	_	
+2-9	70-76	others	Appreciation[2]	neg[2]	_	_	
+2-10	77-80	who	Appreciation[2]	neg[2]	_	_	
+2-11	81-83	do	Appreciation[2]	neg[2]	_	_	
+2-12	84-87	the	Appreciation[2]	neg[2]	_	_	
+2-13	88-92	same	Appreciation[2]	neg[2]	_	_	
+2-14	92-93	)	Appreciation[2]	neg[2]	_	_	
+2-15	94-100	should	Appreciation[2]	neg[2]	_	_	
+2-16	101-103	be	Appreciation[2]	neg[2]	_	_	
+2-17	104-111	equally	Appreciation[2]	neg[2]	_	_	
+2-18	112-121	chastised	Appreciation[2]	neg[2]	_	_	
+2-19	121-122	.	_	_	_	_	
+
+#Text=China shouldn't be singled out simply because it has the ability to do more of it....
+3-1	123-128	China	_	_	_	_	
+3-2	129-138	shouldn't	Appreciation[3]	pos[3]	_	_	
+3-3	139-141	be	Appreciation[3]	pos[3]	_	_	
+3-4	142-149	singled	Appreciation[3]	pos[3]	_	_	
+3-5	150-153	out	Appreciation[3]	pos[3]	_	_	
+3-6	154-160	simply	Appreciation[3]	pos[3]	_	_	
+3-7	161-168	because	Appreciation[3]	pos[3]	_	_	
+3-8	169-171	it	Appreciation[3]	pos[3]	_	_	
+3-9	172-175	has	Appreciation[3]	pos[3]	_	_	
+3-10	176-179	the	Appreciation[3]	pos[3]	_	_	
+3-11	180-187	ability	Appreciation[3]	pos[3]	_	_	
+3-12	188-190	to	Appreciation[3]	pos[3]	_	_	
+3-13	191-193	do	Appreciation[3]	pos[3]	_	_	
+3-14	194-198	more	Appreciation[3]	pos[3]	_	_	
+3-15	199-201	of	Appreciation[3]	pos[3]	_	_	
+3-16	202-204	it	Appreciation[3]	pos[3]	_	_	
+3-17	204-205	.	_	_	_	_	
+3-18	205-206	.	_	_	_	_	
+3-19	206-207	.	_	_	_	_	
+3-20	207-208	.	_	_	_	_	
+
+#Text=But other countries should be included in the same discussion, especially if they are the ones providing the harshest criticism on China (while they are doing the same exact thing)
+4-1	209-212	But	_	_	_	_	
+4-2	213-218	other	_	_	_	_	
+4-3	219-228	countries	_	_	_	_	
+4-4	229-235	should	Appreciation[4]	pos[4]	_	_	
+4-5	236-238	be	Appreciation[4]	pos[4]	_	_	
+4-6	239-247	included	Appreciation[4]	pos[4]	_	_	
+4-7	248-250	in	Appreciation[4]	pos[4]	_	_	
+4-8	251-254	the	Appreciation[4]	pos[4]	_	_	
+4-9	255-259	same	Appreciation[4]	pos[4]	_	_	
+4-10	260-270	discussion	Appreciation[4]	pos[4]	_	_	
+4-11	270-271	,	_	_	_	_	
+4-12	272-282	especially	_	_	_	_	
+4-13	283-285	if	_	_	_	_	
+4-14	286-290	they	_	_	_	_	
+4-15	291-294	are	_	_	_	_	
+4-16	295-298	the	_	_	_	_	
+4-17	299-303	ones	_	_	_	_	
+4-18	304-313	providing	_	_	_	_	
+4-19	314-317	the	_	_	_	_	
+4-20	318-326	harshest	Appreciation	neg	Force	up	
+4-21	327-336	criticism	_	_	_	_	
+4-22	337-339	on	_	_	_	_	
+4-23	340-345	China	_	_	_	_	
+4-24	346-347	(	_	_	_	_	
+4-25	347-352	while	Judgment[6]	neg[6]	_	_	
+4-26	353-357	they	Judgment[6]	neg[6]	_	_	
+4-27	358-361	are	Judgment[6]	neg[6]	_	_	
+4-28	362-367	doing	Judgment[6]	neg[6]	_	_	
+4-29	368-371	the	Judgment[6]	neg[6]	_	_	
+4-30	372-376	same	Judgment[6]	neg[6]	_	_	
+4-31	377-382	exact	Judgment[6]	neg[6]	_	_	
+4-32	383-388	thing	Judgment[6]	neg[6]	_	_	
+4-33	388-389	)	_	_	_	_	

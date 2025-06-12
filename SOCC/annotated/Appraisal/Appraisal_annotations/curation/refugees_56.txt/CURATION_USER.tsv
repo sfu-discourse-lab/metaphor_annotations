@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Take a hike lady.
+1-1	0-4	Take	Judgment[1]	neg[1]	_	_	
+1-2	5-6	a	Judgment[1]	neg[1]	_	_	
+1-3	7-11	hike	Judgment[1]	neg[1]	_	_	
+1-4	12-16	lady	Judgment[1]	neg[1]	_	_	
+1-5	16-17	.	_	_	_	_	
+
+#Text=Germany alone has accepted has accepted more than 1 million.
+2-1	18-25	Germany	_	_	_	_	
+2-2	26-31	alone	_	_	_	_	
+2-3	32-35	has	_	_	_	_	
+2-4	36-44	accepted	_	_	_	_	
+2-5	45-48	has	Appreciation[2]	pos[2]	_	_	
+2-6	49-57	accepted	Appreciation[2]	pos[2]	_	_	
+2-7	58-62	more	Appreciation[2]	pos[2]	Force[1]|Force[2]	up[1]|up[2]	
+2-8	63-67	than	Appreciation[2]	pos[2]	Force[1]	up[1]	
+2-9	68-69	1	Appreciation[2]	pos[2]	Force[1]	up[1]	
+2-10	70-77	million	Appreciation[2]	pos[2]	Force[1]	up[1]	
+2-11	77-78	.	_	_	_	_	
+
+#Text=How did the 'refugees' show their appreciation?
+3-1	79-82	How	Judgment[3]	neg[3]	_	_	
+3-2	83-86	did	Judgment[3]	neg[3]	_	_	
+3-3	87-90	the	Judgment[3]	neg[3]	_	_	
+3-4	91-92	'	Judgment[3]	neg[3]	_	_	
+3-5	92-100	refugees	Judgment[3]	neg[3]	_	_	
+3-6	100-101	'	Judgment[3]	neg[3]	_	_	
+3-7	102-106	show	Judgment[3]	neg[3]	_	_	
+3-8	107-112	their	Judgment[3]	neg[3]	_	_	
+3-9	113-125	appreciation	Judgment[3]	neg[3]	_	_	
+3-10	125-126	?	_	_	_	_	
+
+#Text=Ask the hundreds of German women who were molested in Cologne on New Year's Eve.
+4-1	127-130	Ask	Judgment[4]	neg[4]	_	_	
+4-2	131-134	the	Judgment[4]	neg[4]	_	_	
+4-3	135-143	hundreds	Judgment[4]	neg[4]	Force	up	
+4-4	144-146	of	Judgment[4]	neg[4]	_	_	
+4-5	147-153	German	Judgment[4]	neg[4]	_	_	
+4-6	154-159	women	Judgment[4]	neg[4]	_	_	
+4-7	160-163	who	Judgment[4]	neg[4]	_	_	
+4-8	164-168	were	Judgment[4]	neg[4]	_	_	
+4-9	169-177	molested	Judgment[4]|Appreciation[5]	neg[4]|neg[5]	_	_	
+4-10	178-180	in	_	_	_	_	
+4-11	181-188	Cologne	_	_	_	_	
+4-12	189-191	on	_	_	_	_	
+4-13	192-195	New	_	_	_	_	
+4-14	196-202	Year's	_	_	_	_	
+4-15	203-206	Eve	_	_	_	_	
+4-16	206-207	.	_	_	_	_	
+
+#Text=Europe or North America didn't fail them.
+5-1	208-214	Europe	_	_	_	_	
+5-2	215-217	or	_	_	_	_	
+5-3	218-223	North	_	_	_	_	
+5-4	224-231	America	_	_	_	_	
+5-5	232-238	didn't	Judgment[6]	neu[6]	_	_	
+5-6	239-243	fail	Judgment[6]	neu[6]	_	_	
+5-7	244-248	them	_	_	_	_	
+5-8	248-249	.	_	_	_	_	
+
+#Text=It's the psychos running the Middle Eastern countries that did the job.
+6-1	250-254	It's	_	_	_	_	
+6-2	255-258	the	_	_	_	_	
+6-3	259-266	psychos	Judgment	neg	_	_	
+6-4	267-274	running	_	_	_	_	
+6-5	275-278	the	_	_	_	_	
+6-6	279-285	Middle	_	_	_	_	
+6-7	286-293	Eastern	_	_	_	_	
+6-8	294-303	countries	_	_	_	_	
+6-9	304-308	that	_	_	_	_	
+6-10	309-312	did	Judgment[8]	neg[8]	_	_	
+6-11	313-316	the	Judgment[8]	neg[8]	_	_	
+6-12	317-320	job	Judgment[8]	neg[8]	_	_	
+6-13	320-321	.	_	_	_	_	
+
+#Text=Accepting 25,000 of them is more than enough...
+7-1	322-331	Accepting	_	_	_	_	
+7-2	332-338	25,000	_	_	_	_	
+7-3	339-341	of	_	_	_	_	
+7-4	342-346	them	_	_	_	_	
+7-5	347-349	is	_	_	_	_	
+7-6	350-354	more	Appreciation[9]	pos[9]	Force	up	
+7-7	355-359	than	Appreciation[9]	pos[9]	_	_	
+7-8	360-366	enough	Appreciation[9]	pos[9]	_	_	
+7-9	366-367	.	_	_	_	_	
+7-10	367-368	.	_	_	_	_	
+7-11	368-369	.	_	_	_	_	

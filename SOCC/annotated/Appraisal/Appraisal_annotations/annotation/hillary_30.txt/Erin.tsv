@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Hillary Clinton lost the election because the voters wanted change and didn't trust her and her message.
+1-1	0-7	Hillary	_	_	
+1-2	8-15	Clinton	_	_	
+1-3	16-20	lost	_	_	
+1-4	21-24	the	_	_	
+1-5	25-33	election	_	_	
+1-6	34-41	because	_	_	
+1-7	42-45	the	_	_	
+1-8	46-52	voters	_	_	
+1-9	53-59	wanted	Judgment[1]	neg[1]	
+1-10	60-66	change	Judgment[1]	neg[1]	
+1-11	67-70	and	Judgment[1]	neg[1]	
+1-12	71-77	didn't	Judgment[1]	neg[1]	
+1-13	78-83	trust	Judgment[1]	neg[1]	
+1-14	84-87	her	_	_	
+1-15	88-91	and	_	_	
+1-16	92-95	her	_	_	
+1-17	96-103	message	_	_	
+1-18	103-104	.	_	_	
+
+#Text=Her track record is dirty and voters didn't think she was qualified to run as President.
+2-1	105-108	Her	_	_	
+2-2	109-114	track	_	_	
+2-3	115-121	record	_	_	
+2-4	122-124	is	_	_	
+2-5	125-130	dirty	Judgment	neg	
+2-6	131-134	and	_	_	
+2-7	135-141	voters	_	_	
+2-8	142-148	didn't	Judgment[3]	neg[3]	
+2-9	149-154	think	Judgment[3]	neg[3]	
+2-10	155-158	she	Judgment[3]	neg[3]	
+2-11	159-162	was	Judgment[3]	neg[3]	
+2-12	163-172	qualified	Judgment[3]	neg[3]	
+2-13	173-175	to	_	_	
+2-14	176-179	run	_	_	
+2-15	180-182	as	_	_	
+2-16	183-192	President	_	_	
+2-17	192-193	.	_	_	
+
+#Text=It had nothing to do with her gender and qualifications, it was all about trust.
+3-1	194-196	It	_	_	
+3-2	197-200	had	_	_	
+3-3	201-208	nothing	Judgment[4]	neg[4]	
+3-4	209-211	to	Judgment[4]	neg[4]	
+3-5	212-214	do	Judgment[4]	neg[4]	
+3-6	215-219	with	Judgment[4]	neg[4]	
+3-7	220-223	her	Judgment[4]	neg[4]	
+3-8	224-230	gender	Judgment[4]	neg[4]	
+3-9	231-234	and	Judgment[4]	neg[4]	
+3-10	235-249	qualifications	Judgment[4]	neg[4]	
+3-11	249-250	,	_	_	
+3-12	251-253	it	_	_	
+3-13	254-257	was	_	_	
+3-14	258-261	all	Appreciation[5]	neg[5]	
+3-15	262-267	about	Appreciation[5]	neg[5]	
+3-16	268-273	trust	Appreciation[5]	neg[5]	
+3-17	273-274	.	_	_	

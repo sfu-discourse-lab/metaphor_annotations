@@ -1,0 +1,10 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Its like all other taxes-temporary.
+1-1	0-3	Its	
+1-2	4-8	like	
+1-3	9-12	all	
+1-4	13-18	other	
+1-5	19-34	taxes-temporary	
+1-6	34-35	.	

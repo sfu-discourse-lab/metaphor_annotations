@@ -1,0 +1,297 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I can't help but notice that the writer of this article has an Arabic name.
+1-1	0-1	I	_	
+1-2	2-7	can't	NEG	
+1-3	8-12	help	SCOPE[2]	
+1-4	13-16	but	SCOPE[2]	
+1-5	17-23	notice	SCOPE[2]	
+1-6	24-28	that	SCOPE[2]	
+1-7	29-32	the	SCOPE[2]	
+1-8	33-39	writer	SCOPE[2]	
+1-9	40-42	of	SCOPE[2]	
+1-10	43-47	this	SCOPE[2]	
+1-11	48-55	article	SCOPE[2]	
+1-12	56-59	has	SCOPE[2]	
+1-13	60-62	an	SCOPE[2]	
+1-14	63-69	Arabic	SCOPE[2]|FOCUS[3]	
+1-15	70-74	name	SCOPE[2]	
+1-16	74-75	.	_	
+
+#Text=She is a part time professor of Arabic politics.
+2-1	77-80	She	_	
+2-2	81-83	is	_	
+2-3	84-85	a	_	
+2-4	86-90	part	_	
+2-5	91-95	time	_	
+2-6	96-105	professor	_	
+2-7	106-108	of	_	
+2-8	109-115	Arabic	_	
+2-9	116-124	politics	_	
+2-10	124-125	.	_	
+
+#Text=This should not however prevent her from tryingto understand the dilemmas of the West to handle this massive influx of refugees from a conflict between rivalling ideologies in Syria primarily.
+3-1	126-130	This	_	
+3-2	131-137	should	_	
+3-3	138-141	not	NEG	
+3-4	142-149	however	SCOPE[5]	
+3-5	150-157	prevent	SCOPE[5]	
+3-6	158-161	her	SCOPE[5]	
+3-7	162-166	from	SCOPE[5]	
+3-8	167-175	tryingto	SCOPE[5]	
+3-9	176-186	understand	SCOPE[5]	
+3-10	187-190	the	SCOPE[5]	
+3-11	191-199	dilemmas	SCOPE[5]	
+3-12	200-202	of	SCOPE[5]	
+3-13	203-206	the	SCOPE[5]	
+3-14	207-211	West	SCOPE[5]	
+3-15	212-214	to	SCOPE[5]	
+3-16	215-221	handle	SCOPE[5]	
+3-17	222-226	this	SCOPE[5]	
+3-18	227-234	massive	SCOPE[5]	
+3-19	235-241	influx	SCOPE[5]	
+3-20	242-244	of	SCOPE[5]	
+3-21	245-253	refugees	SCOPE[5]	
+3-22	254-258	from	SCOPE[5]	
+3-23	259-260	a	SCOPE[5]	
+3-24	261-269	conflict	SCOPE[5]	
+3-25	270-277	between	SCOPE[5]	
+3-26	278-287	rivalling	SCOPE[5]	
+3-27	288-298	ideologies	SCOPE[5]	
+3-28	299-301	in	SCOPE[5]	
+3-29	302-307	Syria	SCOPE[5]|FOCUS[6]	
+3-30	308-317	primarily	SCOPE[5]	
+3-31	317-318	.	_	
+
+#Text=Sweden, Germany, allor Europe and Canada as well are living through difficult economic times since 2007.The situation for domestic populations in those countries aren't perfect either.
+4-1	320-326	Sweden	_	
+4-2	326-327	,	_	
+4-3	328-335	Germany	_	
+4-4	335-336	,	_	
+4-5	337-342	allor	_	
+4-6	343-349	Europe	_	
+4-7	350-353	and	_	
+4-8	354-360	Canada	_	
+4-9	361-363	as	_	
+4-10	364-368	well	_	
+4-11	369-372	are	_	
+4-12	373-379	living	_	
+4-13	380-387	through	_	
+4-14	388-397	difficult	_	
+4-15	398-406	economic	_	
+4-16	407-412	times	_	
+4-17	413-418	since	_	
+4-18	419-423	2007	_	
+4-19	423-424	.	_	
+4-20	424-427	The	_	
+4-21	428-437	situation	_	
+4-22	438-441	for	_	
+4-23	442-450	domestic	_	
+4-24	451-462	populations	_	
+4-25	463-465	in	_	
+4-26	466-471	those	_	
+4-27	472-481	countries	_	
+4-28	482-488	aren't	NEG	
+4-29	489-496	perfect	SCOPE[8]|FOCUS[9]	
+4-30	497-503	either	SCOPE[8]	
+4-31	503-504	.	_	
+
+#Text=Fewborn and bred Europeans have easy access to higher education, housing, social support, subsidized daycare spots.
+5-1	506-513	Fewborn	_	
+5-2	514-517	and	_	
+5-3	518-522	bred	_	
+5-4	523-532	Europeans	_	
+5-5	533-537	have	_	
+5-6	538-542	easy	_	
+5-7	543-549	access	_	
+5-8	550-552	to	_	
+5-9	553-559	higher	_	
+5-10	560-569	education	_	
+5-11	569-570	,	_	
+5-12	571-578	housing	_	
+5-13	578-579	,	_	
+5-14	580-586	social	_	
+5-15	587-594	support	_	
+5-16	594-595	,	_	
+5-17	596-606	subsidized	_	
+5-18	607-614	daycare	_	
+5-19	615-620	spots	_	
+5-20	620-621	.	_	
+
+#Text=Those things have never been just served up ona silver platter even for those who have paid very high taxes all their lives.
+6-1	623-628	Those	_	
+6-2	629-635	things	_	
+6-3	636-640	have	_	
+6-4	641-646	never	NEG	
+6-5	647-651	been	SCOPE[11]	
+6-6	652-656	just	SCOPE[11]	
+6-7	657-663	served	SCOPE[11]	
+6-8	664-666	up	SCOPE[11]	
+6-9	667-670	ona	SCOPE[11]|FOCUS[12]	
+6-10	671-677	silver	SCOPE[11]|FOCUS[12]	
+6-11	678-685	platter	SCOPE[11]|FOCUS[12]	
+6-12	686-690	even	_	
+6-13	691-694	for	_	
+6-14	695-700	those	_	
+6-15	701-704	who	_	
+6-16	705-709	have	_	
+6-17	710-714	paid	_	
+6-18	715-719	very	_	
+6-19	720-724	high	_	
+6-20	725-730	taxes	_	
+6-21	731-734	all	_	
+6-22	735-740	their	_	
+6-23	741-746	lives	_	
+6-24	746-747	.	_	
+
+#Text=This goesfor Canada as well.
+7-1	749-753	This	_	
+7-2	754-761	goesfor	_	
+7-3	762-768	Canada	_	
+7-4	769-771	as	_	
+7-5	772-776	well	_	
+7-6	776-777	.	_	
+
+#Text=We cannot as countries fix all the difficulties for these refugees with one swift move ofa magic wand.
+8-1	779-781	We	_	
+8-2	782-788	cannot	NEG	
+8-3	789-791	as	SCOPE[14]	
+8-4	792-801	countries	SCOPE[14]	
+8-5	802-805	fix	SCOPE[14]	
+8-6	806-809	all	SCOPE[14]	
+8-7	810-813	the	SCOPE[14]	
+8-8	814-826	difficulties	SCOPE[14]	
+8-9	827-830	for	SCOPE[14]	
+8-10	831-836	these	SCOPE[14]	
+8-11	837-845	refugees	SCOPE[14]	
+8-12	846-850	with	SCOPE[14]	
+8-13	851-854	one	SCOPE[14]|FOCUS[15]	
+8-14	855-860	swift	SCOPE[14]|FOCUS[15]	
+8-15	861-865	move	SCOPE[14]|FOCUS[15]	
+8-16	866-869	ofa	SCOPE[14]|FOCUS[15]	
+8-17	870-875	magic	SCOPE[14]|FOCUS[15]	
+8-18	876-880	wand	SCOPE[14]|FOCUS[15]	
+8-19	880-881	.	_	
+
+#Text=We cannot accept an unsurmountable number of refugees when so manywho already live here are struggling with unemployment, lack of cheap daycare or access to free health and dental care.
+9-1	883-885	We	_	
+9-2	886-892	cannot	NEG	
+9-3	893-899	accept	SCOPE[17]	
+9-4	900-902	an	SCOPE[17]	
+9-5	903-917	unsurmountable	SCOPE[17]	
+9-6	918-924	number	SCOPE[17]	
+9-7	925-927	of	SCOPE[17]	
+9-8	928-936	refugees	SCOPE[17]	
+9-9	937-941	when	SCOPE[17]	
+9-10	942-944	so	SCOPE[17]	
+9-11	945-952	manywho	SCOPE[17]	
+9-12	953-960	already	SCOPE[17]	
+9-13	961-965	live	SCOPE[17]	
+9-14	966-970	here	SCOPE[17]	
+9-15	971-974	are	SCOPE[17]	
+9-16	975-985	struggling	SCOPE[17]	
+9-17	986-990	with	SCOPE[17]	
+9-18	991-1003	unemployment	SCOPE[17]|FOCUS[18]	
+9-19	1003-1004	,	SCOPE[17]	
+9-20	1005-1009	lack	SCOPE[17]|FOCUS[19]	
+9-21	1010-1012	of	SCOPE[17]|FOCUS[19]	
+9-22	1013-1018	cheap	SCOPE[17]|FOCUS[19]	
+9-23	1019-1026	daycare	SCOPE[17]|FOCUS[19]	
+9-24	1027-1029	or	SCOPE[17]	
+9-25	1030-1036	access	SCOPE[17]|FOCUS[20]	
+9-26	1037-1039	to	SCOPE[17]|FOCUS[20]	
+9-27	1040-1044	free	SCOPE[17]|FOCUS[20]	
+9-28	1045-1051	health	SCOPE[17]|FOCUS[20]	
+9-29	1052-1055	and	SCOPE[17]|FOCUS[20]	
+9-30	1056-1062	dental	SCOPE[17]|FOCUS[20]	
+9-31	1063-1067	care	SCOPE[17]|FOCUS[20]	
+9-32	1067-1068	.	_	
+
+#Text=Our political system is not fool proof even if itseems a better one than the one in Syria.
+10-1	1070-1073	Our	_	
+10-2	1074-1083	political	_	
+10-3	1084-1090	system	_	
+10-4	1091-1093	is	_	
+10-5	1094-1097	not	NEG	
+10-6	1098-1102	fool	SCOPE[22]|FOCUS[23]	
+10-7	1103-1108	proof	SCOPE[22]|FOCUS[23]	
+10-8	1109-1113	even	_	
+10-9	1114-1116	if	_	
+10-10	1117-1124	itseems	_	
+10-11	1125-1126	a	_	
+10-12	1127-1133	better	_	
+10-13	1134-1137	one	_	
+10-14	1138-1142	than	_	
+10-15	1143-1146	the	_	
+10-16	1147-1150	one	_	
+10-17	1151-1153	in	_	
+10-18	1154-1159	Syria	_	
+10-19	1159-1160	.	_	
+
+#Text=We live with a situation that is not going to be solved over night.
+11-1	1162-1164	We	_	
+11-2	1165-1169	live	_	
+11-3	1170-1174	with	_	
+11-4	1175-1176	a	_	
+11-5	1177-1186	situation	_	
+11-6	1187-1191	that	_	
+11-7	1192-1194	is	_	
+11-8	1195-1198	not	NEG	
+11-9	1199-1204	going	SCOPE[25]	
+11-10	1205-1207	to	SCOPE[25]	
+11-11	1208-1210	be	SCOPE[25]	
+11-12	1211-1217	solved	SCOPE[25]	
+11-13	1218-1222	over	SCOPE[25]|FOCUS[26]	
+11-14	1223-1228	night	SCOPE[25]|FOCUS[26]	
+11-15	1228-1229	.	_	
+
+#Text=And it will certainlynot happen any faster if we just open the flood gates and let the masses arrive.
+12-1	1231-1234	And	_	
+12-2	1235-1237	it	_	
+12-3	1238-1242	will	_	
+12-4	1243-1255	certainlynot	NEG	
+12-5	1256-1262	happen	SCOPE[28]	
+12-6	1263-1266	any	SCOPE[28]	
+12-7	1267-1273	faster	SCOPE[28]	
+12-8	1274-1276	if	SCOPE[28]	
+12-9	1277-1279	we	SCOPE[28]	
+12-10	1280-1284	just	SCOPE[28]	
+12-11	1285-1289	open	SCOPE[28]|FOCUS[29]	
+12-12	1290-1293	the	SCOPE[28]|FOCUS[29]	
+12-13	1294-1299	flood	SCOPE[28]|FOCUS[29]	
+12-14	1300-1305	gates	SCOPE[28]|FOCUS[29]	
+12-15	1306-1309	and	SCOPE[28]	
+12-16	1310-1313	let	SCOPE[28]|FOCUS[30]	
+12-17	1314-1317	the	SCOPE[28]|FOCUS[30]	
+12-18	1318-1324	masses	SCOPE[28]|FOCUS[30]	
+12-19	1325-1331	arrive	SCOPE[28]|FOCUS[30]	
+12-20	1331-1332	.	_	
+
+#Text=Andit's not going to solve anything long term if the same needs for our own nativepopulations aren't being attended to with the same determination.
+13-1	1334-1341	Andit's	_	
+13-2	1342-1345	not	NEG	
+13-3	1346-1351	going	SCOPE[32]	
+13-4	1352-1354	to	SCOPE[32]	
+13-5	1355-1360	solve	SCOPE[32]	
+13-6	1361-1369	anything	SCOPE[32]	
+13-7	1370-1374	long	SCOPE[32]|FOCUS[33]	
+13-8	1375-1379	term	SCOPE[32]|FOCUS[33]	
+13-9	1380-1382	if	SCOPE[32]	
+13-10	1383-1386	the	SCOPE[32]	
+13-11	1387-1391	same	SCOPE[32]	
+13-12	1392-1397	needs	SCOPE[32]	
+13-13	1398-1401	for	SCOPE[32]	
+13-14	1402-1405	our	SCOPE[32]	
+13-15	1406-1409	own	SCOPE[32]	
+13-16	1410-1427	nativepopulations	SCOPE[32]	
+13-17	1428-1434	aren't	SCOPE[32]|NEG[34]	
+13-18	1435-1440	being	SCOPE[32]|SCOPE[35]	
+13-19	1441-1449	attended	SCOPE[32]|SCOPE[35]	
+13-20	1450-1452	to	SCOPE[32]|SCOPE[35]	
+13-21	1453-1457	with	SCOPE[32]|SCOPE[35]	
+13-22	1458-1461	the	SCOPE[32]|SCOPE[35]	
+13-23	1462-1466	same	SCOPE[32]|SCOPE[35]|FOCUS[36]	
+13-24	1467-1480	determination	SCOPE[32]|SCOPE[35]	
+13-25	1480-1481	.	SCOPE[32]	

@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The G&M along with other msm disparaged Trump in every article written for the long campaign and now can't really grasp what happened.
+1-1	0-3	The	_	
+1-2	4-5	G	_	
+1-3	5-6	&	_	
+1-4	6-7	M	_	
+1-5	8-13	along	_	
+1-6	14-18	with	_	
+1-7	19-24	other	_	
+1-8	25-28	msm	_	
+1-9	29-39	disparaged	_	
+1-10	40-45	Trump	_	
+1-11	46-48	in	_	
+1-12	49-54	every	_	
+1-13	55-62	article	_	
+1-14	63-70	written	_	
+1-15	71-74	for	_	
+1-16	75-78	the	_	
+1-17	79-83	long	_	
+1-18	84-92	campaign	_	
+1-19	93-96	and	_	
+1-20	97-100	now	_	
+1-21	101-106	can't	NEG	
+1-22	107-113	really	SCOPE[2]	
+1-23	114-119	grasp	SCOPE[2]	
+1-24	120-124	what	SCOPE[2]|FOCUS[3]	
+1-25	125-133	happened	SCOPE[2]|FOCUS[3]	
+1-26	133-134	.	_	
+
+#Text=How can the G&M believe that a totally one sided view is in any way accurately reflecting the reality when the other half is written off as not existing because they just don't want to recognise it.
+2-1	135-138	How	_	
+2-2	139-142	can	_	
+2-3	143-146	the	_	
+2-4	147-148	G	_	
+2-5	148-149	&	_	
+2-6	149-150	M	_	
+2-7	151-158	believe	_	
+2-8	159-163	that	_	
+2-9	164-165	a	_	
+2-10	166-173	totally	_	
+2-11	174-177	one	_	
+2-12	178-183	sided	_	
+2-13	184-188	view	_	
+2-14	189-191	is	_	
+2-15	192-194	in	_	
+2-16	195-198	any	_	
+2-17	199-202	way	_	
+2-18	203-213	accurately	_	
+2-19	214-224	reflecting	_	
+2-20	225-228	the	_	
+2-21	229-236	reality	_	
+2-22	237-241	when	_	
+2-23	242-245	the	_	
+2-24	246-251	other	_	
+2-25	252-256	half	_	
+2-26	257-259	is	_	
+2-27	260-267	written	_	
+2-28	268-271	off	_	
+2-29	272-274	as	_	
+2-30	275-278	not	NEG	
+2-31	279-287	existing	SCOPE[5]|FOCUS[6]	
+2-32	288-295	because	_	
+2-33	296-300	they	_	
+2-34	301-305	just	_	
+2-35	306-311	don't	NEG	
+2-36	312-316	want	SCOPE[8]	
+2-37	317-319	to	SCOPE[8]	
+2-38	320-329	recognise	SCOPE[8]|FOCUS[9]	
+2-39	330-332	it	SCOPE[8]	
+2-40	332-333	.	_	

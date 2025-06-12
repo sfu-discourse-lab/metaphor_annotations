@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Where would your defeated and prostrate China be today if the Allies hadn't defeated Japan?
+1-1	0-5	Where	_	
+1-2	6-11	would	_	
+1-3	12-16	your	_	
+1-4	17-25	defeated	_	
+1-5	26-29	and	_	
+1-6	30-39	prostrate	_	
+1-7	40-45	China	_	
+1-8	46-48	be	_	
+1-9	49-54	today	_	
+1-10	55-57	if	_	
+1-11	58-61	the	_	
+1-12	62-68	Allies	_	
+1-13	69-75	hadn't	NEG	
+1-14	76-84	defeated	SCOPE[2]	
+1-15	85-90	Japan	SCOPE[2]|FOCUS[3]	
+1-16	90-91	?	_	
+
+#Text=Ingrate.
+2-1	92-99	Ingrate	_	
+2-2	99-100	.	_	

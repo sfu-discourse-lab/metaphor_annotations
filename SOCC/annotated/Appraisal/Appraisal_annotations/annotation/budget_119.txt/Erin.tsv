@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Why on God's green earth are politicians allowed to announce new spending initiatives during an election?
+1-1	0-3	Why	Appreciation[1]	neg[1]	
+1-2	4-6	on	Appreciation[1]	neg[1]	
+1-3	7-12	God's	Appreciation[1]	neg[1]	
+1-4	13-18	green	Appreciation[1]	neg[1]	
+1-5	19-24	earth	Appreciation[1]	neg[1]	
+1-6	25-28	are	Appreciation[1]	neg[1]	
+1-7	29-40	politicians	Appreciation[1]	neg[1]	
+1-8	41-48	allowed	Appreciation[1]	neg[1]	
+1-9	49-51	to	Appreciation[1]	neg[1]	
+1-10	52-60	announce	Appreciation[1]	neg[1]	
+1-11	61-64	new	Appreciation[1]	neg[1]	
+1-12	65-73	spending	Appreciation[1]	neg[1]	
+1-13	74-85	initiatives	Appreciation[1]|Appreciation[2]	neg[1]|pos[2]	
+1-14	86-92	during	Appreciation[1]	neg[1]	
+1-15	93-95	an	Appreciation[1]	neg[1]	
+1-16	96-104	election	Appreciation[1]	neg[1]	
+1-17	104-105	?	_	_	

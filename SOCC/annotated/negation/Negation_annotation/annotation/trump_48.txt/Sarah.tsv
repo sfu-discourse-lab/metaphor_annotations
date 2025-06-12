@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=I wonder if Obama regrets his roast of Donald Trump at the White House Correspondents' Dinner?
+1-1	0-1	I	
+1-2	2-8	wonder	
+1-3	9-11	if	
+1-4	12-17	Obama	
+1-5	18-25	regrets	
+1-6	26-29	his	
+1-7	30-35	roast	
+1-8	36-38	of	
+1-9	39-45	Donald	
+1-10	46-51	Trump	
+1-11	52-54	at	
+1-12	55-58	the	
+1-13	59-64	White	
+1-14	65-70	House	
+1-15	71-85	Correspondents	
+1-16	85-86	'	
+1-17	87-93	Dinner	
+1-18	93-94	?	
+
+#Text=Talk about the ultimate revenge!
+2-1	95-99	Talk	
+2-2	100-105	about	
+2-3	106-109	the	
+2-4	110-118	ultimate	
+2-5	119-126	revenge	
+2-6	126-127	!	
+
+#Text=OOF, that's gotta hurt!
+3-1	128-131	OOF	
+3-2	131-132	,	
+3-3	133-139	that's	
+3-4	140-145	gotta	
+3-5	146-150	hurt	
+3-6	150-151	!	

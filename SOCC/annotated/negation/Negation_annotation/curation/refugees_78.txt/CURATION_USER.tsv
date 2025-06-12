@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Yes, there is misery in the Middle East.
+1-1	0-3	Yes	_	
+1-2	3-4	,	_	
+1-3	5-10	there	_	
+1-4	11-13	is	_	
+1-5	14-20	misery	_	
+1-6	21-23	in	_	
+1-7	24-27	the	_	
+1-8	28-34	Middle	_	
+1-9	35-39	East	_	
+1-10	39-40	.	_	
+
+#Text=It will only get better when those who run stay home and fight it.
+2-1	41-43	It	_	
+2-2	44-48	will	_	
+2-3	49-53	only	_	
+2-4	54-57	get	_	
+2-5	58-64	better	_	
+2-6	65-69	when	_	
+2-7	70-75	those	_	
+2-8	76-79	who	_	
+2-9	80-83	run	_	
+2-10	84-88	stay	_	
+2-11	89-93	home	_	
+2-12	94-97	and	_	
+2-13	98-103	fight	_	
+2-14	104-106	it	_	
+2-15	106-107	.	_	
+
+#Text=If the default option is always 'The West', the refugee crisis will see no end.
+3-1	108-110	If	_	
+3-2	111-114	the	_	
+3-3	115-122	default	_	
+3-4	123-129	option	_	
+3-5	130-132	is	_	
+3-6	133-139	always	_	
+3-7	140-141	'	_	
+3-8	141-144	The	_	
+3-9	145-149	West	_	
+3-10	149-150	'	_	
+3-11	150-151	,	_	
+3-12	152-155	the	_	
+3-13	156-163	refugee	_	
+3-14	164-170	crisis	_	
+3-15	171-175	will	_	
+3-16	176-179	see	_	
+3-17	180-182	no	NEG	
+3-18	183-186	end	SCOPE[2]|FOCUS[3]	
+3-19	186-187	.	_	
+
+#Text=The intersection of tribal boundaries, family blood feuds, a Sunni-Shia hate divide that worships killing, and, arms merchants ready to arm anything with a Toyota pick-up and a million bucks, ensures that it continues.
+4-1	188-191	The	_	
+4-2	192-204	intersection	_	
+4-3	205-207	of	_	
+4-4	208-214	tribal	_	
+4-5	215-225	boundaries	_	
+4-6	225-226	,	_	
+4-7	227-233	family	_	
+4-8	234-239	blood	_	
+4-9	240-245	feuds	_	
+4-10	245-246	,	_	
+4-11	247-248	a	_	
+4-12	249-259	Sunni-Shia	_	
+4-13	260-264	hate	_	
+4-14	265-271	divide	_	
+4-15	272-276	that	_	
+4-16	277-285	worships	_	
+4-17	286-293	killing	_	
+4-18	293-294	,	_	
+4-19	295-298	and	_	
+4-20	298-299	,	_	
+4-21	300-304	arms	_	
+4-22	305-314	merchants	_	
+4-23	315-320	ready	_	
+4-24	321-323	to	_	
+4-25	324-327	arm	_	
+4-26	328-336	anything	_	
+4-27	337-341	with	_	
+4-28	342-343	a	_	
+4-29	344-350	Toyota	_	
+4-30	351-358	pick-up	_	
+4-31	359-362	and	_	
+4-32	363-364	a	_	
+4-33	365-372	million	_	
+4-34	373-378	bucks	_	
+4-35	378-379	,	_	
+4-36	380-387	ensures	_	
+4-37	388-392	that	_	
+4-38	393-395	it	_	
+4-39	396-405	continues	_	
+4-40	405-406	.	_	
+
+#Text=The refugee response in the West is merely moving the problem around and we should not feel guilty for opting out of it.
+5-1	407-410	The	_	
+5-2	411-418	refugee	_	
+5-3	419-427	response	_	
+5-4	428-430	in	_	
+5-5	431-434	the	_	
+5-6	435-439	West	_	
+5-7	440-442	is	_	
+5-8	443-449	merely	_	
+5-9	450-456	moving	_	
+5-10	457-460	the	_	
+5-11	461-468	problem	_	
+5-12	469-475	around	_	
+5-13	476-479	and	_	
+5-14	480-482	we	_	
+5-15	483-489	should	_	
+5-16	490-493	not	NEG	
+5-17	494-498	feel	SCOPE[5]	
+5-18	499-505	guilty	SCOPE[5]	
+5-19	506-509	for	SCOPE[5]	
+5-20	510-516	opting	SCOPE[5]	
+5-21	517-520	out	SCOPE[5]	
+5-22	521-523	of	SCOPE[5]	
+5-23	524-526	it	SCOPE[5]|FOCUS[6]	
+5-24	526-527	.	_	

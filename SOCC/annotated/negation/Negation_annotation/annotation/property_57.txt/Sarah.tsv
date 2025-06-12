@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Looking for a fight Henry?
+1-1	0-7	Looking	_	
+1-2	8-11	for	_	
+1-3	12-13	a	_	
+1-4	14-19	fight	_	
+1-5	20-25	Henry	_	
+1-6	25-26	?	_	
+
+#Text=The word Chinese is NOT mentioned once in the legislation.
+2-1	27-30	The	_	
+2-2	31-35	word	_	
+2-3	36-43	Chinese	_	
+2-4	44-46	is	_	
+2-5	47-50	NOT	NEG	
+2-6	51-60	mentioned	SCOPE[2]	
+2-7	61-65	once	SCOPE[2]	
+2-8	66-68	in	SCOPE[2]	
+2-9	69-72	the	SCOPE[2]|FOCUS[3]	
+2-10	73-84	legislation	SCOPE[2]|FOCUS[3]	
+2-11	84-85	.	_	
+
+#Text=It applies to ANY and ALL non-residents of Canada.
+3-1	86-88	It	_	
+3-2	89-96	applies	_	
+3-3	97-99	to	_	
+3-4	100-103	ANY	_	
+3-5	104-107	and	_	
+3-6	108-111	ALL	_	
+3-7	112-125	non-residents	_	
+3-8	126-128	of	_	
+3-9	129-135	Canada	_	
+3-10	135-136	.	_	
+
+#Text=What in heaven's name is wrong with that?
+4-1	137-141	What	_	
+4-2	142-144	in	_	
+4-3	145-153	heaven's	_	
+4-4	154-158	name	_	
+4-5	159-161	is	_	
+4-6	162-167	wrong	_	
+4-7	168-172	with	_	
+4-8	173-177	that	_	
+4-9	177-178	?	_	
+
+#Text=Henry, go back to teaching at UBC.
+5-1	179-184	Henry	_	
+5-2	184-185	,	_	
+5-3	186-188	go	_	
+5-4	189-193	back	_	
+5-5	194-196	to	_	
+5-6	197-205	teaching	_	
+5-7	206-208	at	_	
+5-8	209-212	UBC	_	
+5-9	212-213	.	_	
+
+#Text=Stop inventing a story!!
+6-1	214-218	Stop	_	
+6-2	219-228	inventing	_	
+6-3	229-230	a	_	
+6-4	231-236	story	_	
+6-5	236-237	!	_	
+6-6	237-238	!	_	
+
+#Text=You have no idea what you are talking about.
+7-1	239-242	You	_	
+7-2	243-247	have	_	
+7-3	248-250	no	NEG	
+7-4	251-255	idea	SCOPE[5]	
+7-5	256-260	what	SCOPE[5]|FOCUS[6]	
+7-6	261-264	you	SCOPE[5]|FOCUS[6]	
+7-7	265-268	are	SCOPE[5]|FOCUS[6]	
+7-8	269-276	talking	SCOPE[5]|FOCUS[6]	
+7-9	277-282	about	SCOPE[5]|FOCUS[6]	
+7-10	282-283	.	_	

@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The key word here is 'RICH' not Chinese.
+1-1	0-3	The	_	
+1-2	4-7	key	_	
+1-3	8-12	word	_	
+1-4	13-17	here	_	
+1-5	18-20	is	_	
+1-6	21-22	'	_	
+1-7	22-26	RICH	_	
+1-8	26-27	'	_	
+1-9	28-31	not	NEG	
+1-10	32-39	Chinese	SCOPE[2]|FOCUS[3]	
+1-11	39-40	.	_	
+
+#Text=I don't see 'poor' Chinese buying $4 million homes.Are not Chinese families who have been in Canada for generations also negatively affected by the housing prices.
+2-1	41-42	I	_	
+2-2	43-48	don't	NEG	
+2-3	49-52	see	SCOPE[5]	
+2-4	53-54	'	SCOPE[5]	
+2-5	54-58	poor	SCOPE[5]|FOCUS[6]	
+2-6	58-59	'	SCOPE[5]	
+2-7	60-67	Chinese	SCOPE[5]	
+2-8	68-74	buying	SCOPE[5]	
+2-9	75-77	$4	SCOPE[5]	
+2-10	78-85	million	SCOPE[5]	
+2-11	86-95	homes.Are	SCOPE[5]	
+2-12	96-99	not	NEG	
+2-13	100-107	Chinese	SCOPE[8]	
+2-14	108-116	families	SCOPE[8]	
+2-15	117-120	who	SCOPE[8]	
+2-16	121-125	have	SCOPE[8]	
+2-17	126-130	been	SCOPE[8]	
+2-18	131-133	in	SCOPE[8]	
+2-19	134-140	Canada	SCOPE[8]	
+2-20	141-144	for	SCOPE[8]	
+2-21	145-156	generations	SCOPE[8]	
+2-22	157-161	also	SCOPE[8]	
+2-23	162-172	negatively	SCOPE[8]	
+2-24	173-181	affected	SCOPE[8]	
+2-25	182-184	by	SCOPE[8]	
+2-26	185-188	the	SCOPE[8]|FOCUS[9]	
+2-27	189-196	housing	SCOPE[8]|FOCUS[9]	
+2-28	197-203	prices	SCOPE[8]|FOCUS[9]	
+2-29	203-204	.	_	

@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text='   but a serious and effective plan for change, rather than the silence and tolerance of continued abuse and neglect of aboriginal girls and women, is what is needed now.'
+1-1	0-1	'	_	
+1-2	4-7	but	_	
+1-3	8-9	a	_	
+1-4	10-17	serious	_	
+1-5	18-21	and	_	
+1-6	22-31	effective	_	
+1-7	32-36	plan	_	
+1-8	37-40	for	_	
+1-9	41-47	change	_	
+1-10	47-48	,	_	
+1-11	49-55	rather	_	
+1-12	56-60	than	_	
+1-13	61-64	the	_	
+1-14	65-72	silence	_	
+1-15	73-76	and	_	
+1-16	77-86	tolerance	_	
+1-17	87-89	of	_	
+1-18	90-99	continued	_	
+1-19	100-105	abuse	_	
+1-20	106-109	and	_	
+1-21	110-117	neglect	NEG	
+1-22	118-120	of	SCOPE[2]	
+1-23	121-131	aboriginal	SCOPE[2]|FOCUS[3]	
+1-24	132-137	girls	SCOPE[2]	
+1-25	138-141	and	SCOPE[2]	
+1-26	142-147	women	SCOPE[2]	
+1-27	147-148	,	_	
+1-28	149-151	is	_	
+1-29	152-156	what	_	
+1-30	157-159	is	_	
+1-31	160-166	needed	_	
+1-32	167-170	now	_	
+1-33	170-171	.	_	
+1-34	171-172	'	_	
+
+#Text=No doubt the abuse is also directed at 'aboriginal' boys'The problem is greater in several provinces and more statistical data would be a good start to understanding the challenges.
+2-1	172-174	No	NEG	
+2-2	175-180	doubt	SCOPE[5]	
+2-3	181-184	the	SCOPE[5]	
+2-4	185-190	abuse	SCOPE[5]	
+2-5	191-193	is	SCOPE[5]	
+2-6	194-198	also	SCOPE[5]	
+2-7	199-207	directed	SCOPE[5]	
+2-8	208-210	at	SCOPE[5]	
+2-9	211-212	'	SCOPE[5]|FOCUS[6]	
+2-10	212-222	aboriginal	SCOPE[5]|FOCUS[6]	
+2-11	222-223	'	SCOPE[5]|FOCUS[6]	
+2-12	224-232	boys'The	SCOPE[5]|FOCUS[6]	
+2-13	233-240	problem	_	
+2-14	241-243	is	_	
+2-15	244-251	greater	_	
+2-16	252-254	in	_	
+2-17	255-262	several	_	
+2-18	263-272	provinces	_	
+2-19	273-276	and	_	
+2-20	277-281	more	_	
+2-21	282-293	statistical	_	
+2-22	294-298	data	_	
+2-23	299-304	would	_	
+2-24	305-307	be	_	
+2-25	308-309	a	_	
+2-26	310-314	good	_	
+2-27	315-320	start	_	
+2-28	321-323	to	_	
+2-29	324-337	understanding	_	
+2-30	338-341	the	_	
+2-31	342-352	challenges	_	
+2-32	352-353	.	_	

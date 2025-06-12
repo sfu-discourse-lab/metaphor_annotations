@@ -1,0 +1,110 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=This editorial is pretty much similar to the Guardian's editorial this morning.
+1-1	0-4	This	_	
+1-2	5-14	editorial	_	
+1-3	15-17	is	_	
+1-4	18-24	pretty	_	
+1-5	25-29	much	_	
+1-6	30-37	similar	_	
+1-7	38-40	to	_	
+1-8	41-44	the	_	
+1-9	45-55	Guardian's	_	
+1-10	56-65	editorial	_	
+1-11	66-70	this	_	
+1-12	71-78	morning	_	
+1-13	78-79	.	_	
+
+#Text=Funny how that is.
+2-1	81-86	Funny	_	
+2-2	87-90	how	_	
+2-3	91-95	that	_	
+2-4	96-98	is	_	
+2-5	98-99	.	_	
+
+#Text=While some points made are valid concerns about Trump, both editorials glaringly neglect to mention Hillary Clinton's egregious faults.
+3-1	101-106	While	_	
+3-2	107-111	some	_	
+3-3	112-118	points	_	
+3-4	119-123	made	_	
+3-5	124-127	are	_	
+3-6	128-133	valid	_	
+3-7	134-142	concerns	_	
+3-8	143-148	about	_	
+3-9	149-154	Trump	_	
+3-10	154-155	,	_	
+3-11	156-160	both	_	
+3-12	161-171	editorials	_	
+3-13	172-181	glaringly	_	
+3-14	182-189	neglect	NEG	
+3-15	190-192	to	SCOPE[2]	
+3-16	193-200	mention	SCOPE[2]	
+3-17	201-208	Hillary	SCOPE[2]|FOCUS[3]	
+3-18	209-218	Clinton's	SCOPE[2]|FOCUS[3]	
+3-19	219-228	egregious	SCOPE[2]	
+3-20	229-235	faults	SCOPE[2]	
+3-21	235-236	.	_	
+
+#Text=The fact that the Democratic party sold out it's base support during the primaries - it's corruption exposed is probably reason enough that they lost.
+4-1	238-241	The	_	
+4-2	242-246	fact	_	
+4-3	247-251	that	_	
+4-4	252-255	the	_	
+4-5	256-266	Democratic	_	
+4-6	267-272	party	_	
+4-7	273-277	sold	_	
+4-8	278-281	out	_	
+4-9	282-286	it's	_	
+4-10	287-291	base	_	
+4-11	292-299	support	_	
+4-12	300-306	during	_	
+4-13	307-310	the	_	
+4-14	311-320	primaries	_	
+4-15	321-322	-	_	
+4-16	323-327	it's	_	
+4-17	328-338	corruption	_	
+4-18	339-346	exposed	_	
+4-19	347-349	is	_	
+4-20	350-358	probably	_	
+4-21	359-365	reason	_	
+4-22	366-372	enough	_	
+4-23	373-377	that	_	
+4-24	378-382	they	_	
+4-25	383-387	lost	_	
+4-26	387-388	.	_	
+
+#Text=Notwithstanding the fact that Clinton's stated platform of a no fly zone over Syria was going to lead to war with Russia had me breathing a sigh of relief this morning.
+5-1	390-405	Notwithstanding	NEG	
+5-2	406-409	the	SCOPE[5]	
+5-3	410-414	fact	SCOPE[5]	
+5-4	415-419	that	SCOPE[5]	
+5-5	420-429	Clinton's	SCOPE[5]|FOCUS[6]	
+5-6	430-436	stated	SCOPE[5]|FOCUS[6]	
+5-7	437-445	platform	SCOPE[5]|FOCUS[6]	
+5-8	446-448	of	SCOPE[5]|FOCUS[6]	
+5-9	449-450	a	SCOPE[5]|FOCUS[6]	
+5-10	451-453	no	SCOPE[5]|FOCUS[6]|NEG[7]	
+5-11	454-457	fly	SCOPE[5]|FOCUS[6]|SCOPE[8]	
+5-12	458-462	zone	SCOPE[5]|FOCUS[6]|SCOPE[8]	
+5-13	463-467	over	SCOPE[5]|FOCUS[6]|SCOPE[8]	
+5-14	468-473	Syria	SCOPE[5]|FOCUS[6]|SCOPE[8]|FOCUS[9]	
+5-15	474-477	was	SCOPE[5]	
+5-16	478-483	going	SCOPE[5]	
+5-17	484-486	to	SCOPE[5]	
+5-18	487-491	lead	SCOPE[5]	
+5-19	492-494	to	SCOPE[5]	
+5-20	495-498	war	SCOPE[5]	
+5-21	499-503	with	SCOPE[5]	
+5-22	504-510	Russia	SCOPE[5]	
+5-23	511-514	had	SCOPE[5]	
+5-24	515-517	me	SCOPE[5]	
+5-25	518-527	breathing	SCOPE[5]	
+5-26	528-529	a	SCOPE[5]	
+5-27	530-534	sigh	SCOPE[5]	
+5-28	535-537	of	SCOPE[5]	
+5-29	538-544	relief	SCOPE[5]	
+5-30	545-549	this	SCOPE[5]	
+5-31	550-557	morning	SCOPE[5]	
+5-32	557-558	.	SCOPE[5]	

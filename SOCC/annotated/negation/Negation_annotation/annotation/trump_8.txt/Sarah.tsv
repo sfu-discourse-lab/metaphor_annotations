@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text='He\u2019s hardly the choice of the establishment, media, cultural, business or political.'
+1-1	0-1	'	_	
+1-2	1-3	He	_	
+1-3	3-4	’	_	
+1-4	4-5	s	_	
+1-5	6-12	hardly	_	
+1-6	13-16	the	_	
+1-7	17-23	choice	_	
+1-8	24-26	of	_	
+1-9	27-30	the	_	
+1-10	31-44	establishment	_	
+1-11	44-45	,	_	
+1-12	46-51	media	_	
+1-13	51-52	,	_	
+1-14	53-61	cultural	_	
+1-15	61-62	,	_	
+1-16	63-71	business	_	
+1-17	72-74	or	_	
+1-18	75-84	political	_	
+1-19	84-85	.	_	
+1-20	85-86	'	_	
+
+#Text=Here is the big call out.
+2-1	87-91	Here	_	
+2-2	92-94	is	_	
+2-3	95-98	the	_	
+2-4	99-102	big	_	
+2-5	103-107	call	_	
+2-6	108-111	out	_	
+2-7	111-112	.	_	
+
+#Text=None of those get to pick the leader in a democracy, the leader be it President, Prime Minister or Premier is picked by the people.
+3-1	114-118	None	NEG	
+3-2	119-121	of	SCOPE[2]	
+3-3	122-127	those	SCOPE[2]|FOCUS[3]	
+3-4	128-131	get	_	
+3-5	132-134	to	_	
+3-6	135-139	pick	_	
+3-7	140-143	the	_	
+3-8	144-150	leader	_	
+3-9	151-153	in	_	
+3-10	154-155	a	_	
+3-11	156-165	democracy	_	
+3-12	165-166	,	_	
+3-13	167-170	the	_	
+3-14	171-177	leader	_	
+3-15	178-180	be	_	
+3-16	181-183	it	_	
+3-17	184-193	President	_	
+3-18	193-194	,	_	
+3-19	195-200	Prime	_	
+3-20	201-209	Minister	_	
+3-21	210-212	or	_	
+3-22	213-220	Premier	_	
+3-23	221-223	is	_	
+3-24	224-230	picked	_	
+3-25	231-233	by	_	
+3-26	234-237	the	_	
+3-27	238-244	people	_	
+3-28	244-245	.	_	
+
+#Text=I think the big lesson here is for media to be more diligent rather than partisan.
+4-1	247-248	I	_	
+4-2	249-254	think	_	
+4-3	255-258	the	_	
+4-4	259-262	big	_	
+4-5	263-269	lesson	_	
+4-6	270-274	here	_	
+4-7	275-277	is	_	
+4-8	278-281	for	_	
+4-9	282-287	media	_	
+4-10	288-290	to	_	
+4-11	291-293	be	_	
+4-12	294-298	more	_	
+4-13	299-307	diligent	_	
+4-14	308-314	rather	_	
+4-15	315-319	than	_	
+4-16	320-328	partisan	_	
+4-17	328-329	.	_	
+
+#Text=If the MSM want's to push an agenda then rather than telling the people who to vote for try being less biased and hold governments to account even your precious PM Justin.
+5-1	331-333	If	_	
+5-2	334-337	the	_	
+5-3	338-341	MSM	_	
+5-4	342-348	want's	_	
+5-5	349-351	to	_	
+5-6	352-356	push	_	
+5-7	357-359	an	_	
+5-8	360-366	agenda	_	
+5-9	367-371	then	_	
+5-10	372-378	rather	_	
+5-11	379-383	than	_	
+5-12	384-391	telling	_	
+5-13	392-395	the	_	
+5-14	396-402	people	_	
+5-15	403-406	who	_	
+5-16	407-409	to	_	
+5-17	410-414	vote	_	
+5-18	415-418	for	_	
+5-19	419-422	try	_	
+5-20	423-428	being	_	
+5-21	429-433	less	_	
+5-22	434-440	biased	_	
+5-23	441-444	and	_	
+5-24	445-449	hold	_	
+5-25	450-461	governments	_	
+5-26	462-464	to	_	
+5-27	465-472	account	_	
+5-28	473-477	even	_	
+5-29	478-482	your	_	
+5-30	483-491	precious	_	
+5-31	492-494	PM	_	
+5-32	495-501	Justin	_	
+5-33	501-502	.	_	

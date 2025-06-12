@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Taxi to airport = $75.00UberX to airport = $30.00Why are taxi rates still the same with oil half of what is used to be?
+1-1	0-4	Taxi	
+1-2	5-7	to	
+1-3	8-15	airport	
+1-4	16-17	=	
+1-5	18-29	$75.00UberX	
+1-6	30-32	to	
+1-7	33-40	airport	
+1-8	41-42	=	
+1-9	43-52	$30.00Why	
+1-10	53-56	are	
+1-11	57-61	taxi	
+1-12	62-67	rates	
+1-13	68-73	still	
+1-14	74-77	the	
+1-15	78-82	same	
+1-16	83-87	with	
+1-17	88-91	oil	
+1-18	92-96	half	
+1-19	97-99	of	
+1-20	100-104	what	
+1-21	105-107	is	
+1-22	108-112	used	
+1-23	113-115	to	
+1-24	116-118	be	
+1-25	118-119	?	
+
+#Text=Where are the lower prices?
+2-1	120-125	Where	
+2-2	126-129	are	
+2-3	130-133	the	
+2-4	134-139	lower	
+2-5	140-146	prices	
+2-6	146-147	?	
+
+#Text=They sure are quick to want an increase if oil goes up a few pennies, but now, very quiet indeed on this subject.
+3-1	148-152	They	
+3-2	153-157	sure	
+3-3	158-161	are	
+3-4	162-167	quick	
+3-5	168-170	to	
+3-6	171-175	want	
+3-7	176-178	an	
+3-8	179-187	increase	
+3-9	188-190	if	
+3-10	191-194	oil	
+3-11	195-199	goes	
+3-12	200-202	up	
+3-13	203-204	a	
+3-14	205-208	few	
+3-15	209-216	pennies	
+3-16	216-217	,	
+3-17	218-221	but	
+3-18	222-225	now	
+3-19	225-226	,	
+3-20	227-231	very	
+3-21	232-237	quiet	
+3-22	238-244	indeed	
+3-23	245-247	on	
+3-24	248-252	this	
+3-25	253-260	subject	
+3-26	260-261	.	

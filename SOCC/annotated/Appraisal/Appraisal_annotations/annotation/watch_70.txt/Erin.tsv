@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=PRINCIPLE: The purpose of technology is to serve humankind, not the other way around.
+1-1	0-9	PRINCIPLE	_	_	
+1-2	9-10	:	_	_	
+1-3	11-14	The	_	_	
+1-4	15-22	purpose	_	_	
+1-5	23-25	of	_	_	
+1-6	26-36	technology	_	_	
+1-7	37-39	is	_	_	
+1-8	40-42	to	_	_	
+1-9	43-48	serve	Appreciation[1]	pos[1]	
+1-10	49-58	humankind	Appreciation[1]	pos[1]	
+1-11	58-59	,	_	_	
+1-12	60-63	not	Appreciation[2]	neg[2]	
+1-13	64-67	the	Appreciation[2]	neg[2]	
+1-14	68-73	other	Appreciation[2]	neg[2]	
+1-15	74-77	way	Appreciation[2]	neg[2]	
+1-16	78-84	around	Appreciation[2]	neg[2]	
+1-17	84-85	.	_	_	
+
+#Text=APPLICATION: Instead of buying a $500 Apple Watch, buy a $500 Seiko and enjoy a real watch.
+2-1	86-97	APPLICATION	_	_	
+2-2	97-98	:	_	_	
+2-3	99-106	Instead	Appreciation[3]	pos[3]	
+2-4	107-109	of	Appreciation[3]	pos[3]	
+2-5	110-116	buying	Appreciation[3]	pos[3]	
+2-6	117-118	a	Appreciation[3]	pos[3]	
+2-7	119-123	$500	Appreciation[3]	pos[3]	
+2-8	124-129	Apple	Appreciation[3]	pos[3]	
+2-9	130-135	Watch	Appreciation[3]	pos[3]	
+2-10	135-136	,	Appreciation[3]	pos[3]	
+2-11	137-140	buy	Appreciation[3]	pos[3]	
+2-12	141-142	a	Appreciation[3]	pos[3]	
+2-13	143-147	$500	Appreciation[3]	pos[3]	
+2-14	148-153	Seiko	Appreciation[3]	pos[3]	
+2-15	154-157	and	Appreciation[3]	pos[3]	
+2-16	158-163	enjoy	Appreciation[3]	pos[3]	
+2-17	164-165	a	Appreciation[3]	pos[3]	
+2-18	166-170	real	Appreciation[3]	pos[3]	
+2-19	171-176	watch	Appreciation[3]	pos[3]	
+2-20	176-177	.	_	_	

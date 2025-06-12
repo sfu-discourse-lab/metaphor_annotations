@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Building infrastructure while money is cheap and we need stimulus makes sense with a backdrop of aging population and lower revenues.
+1-1	0-8	Building	_	_	_	_	
+1-2	9-23	infrastructure	_	_	_	_	
+1-3	24-29	while	_	_	_	_	
+1-4	30-35	money	_	_	_	_	
+1-5	36-38	is	_	_	_	_	
+1-6	39-44	cheap	Appreciation	pos	_	_	
+1-7	45-48	and	_	_	_	_	
+1-8	49-51	we	_	_	_	_	
+1-9	52-56	need	_	_	_	_	
+1-10	57-65	stimulus	Appreciation	pos	_	_	
+1-11	66-71	makes	Appreciation[3]	pos[3]	_	_	
+1-12	72-77	sense	Appreciation[3]	pos[3]	_	_	
+1-13	78-82	with	_	_	_	_	
+1-14	83-84	a	_	_	_	_	
+1-15	85-93	backdrop	_	_	_	_	
+1-16	94-96	of	_	_	_	_	
+1-17	97-102	aging	Appreciation	neg	_	_	
+1-18	103-113	population	_	_	_	_	
+1-19	114-117	and	_	_	_	_	
+1-20	118-123	lower	Appreciation	neg	Force	up	
+1-21	124-132	revenues	_	_	_	_	
+1-22	132-133	.	_	_	_	_	
+
+#Text=WE need the economic building blocks in place.
+2-1	134-136	WE	_	_	_	_	
+2-2	137-141	need	Appreciation[6]	pos[6]	_	_	
+2-3	142-145	the	Appreciation[6]	pos[6]	_	_	
+2-4	146-154	economic	Appreciation[6]	pos[6]	_	_	
+2-5	155-163	building	Appreciation[6]	pos[6]	_	_	
+2-6	164-170	blocks	Appreciation[6]	pos[6]	_	_	
+2-7	171-173	in	Appreciation[6]	pos[6]	_	_	
+2-8	174-179	place	Appreciation[6]	pos[6]	_	_	
+2-9	179-180	.	_	_	_	_	
+
+#Text=#elxn42
+3-1	181-182	#	_	_	_	_	
+3-2	182-188	elxn42	_	_	_	_	

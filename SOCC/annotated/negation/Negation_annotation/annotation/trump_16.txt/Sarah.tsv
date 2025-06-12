@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=A lot of specious twaddle there about their policy prognostications.
+1-1	0-1	A	
+1-2	2-5	lot	
+1-3	6-8	of	
+1-4	9-17	specious	
+1-5	18-25	twaddle	
+1-6	26-31	there	
+1-7	32-37	about	
+1-8	38-43	their	
+1-9	44-50	policy	
+1-10	51-67	prognostications	
+1-11	67-68	.	
+
+#Text=Probably as reliable as the numerous times they said Clinton would win.
+2-1	70-78	Probably	
+2-2	79-81	as	
+2-3	82-90	reliable	
+2-4	91-93	as	
+2-5	94-97	the	
+2-6	98-106	numerous	
+2-7	107-112	times	
+2-8	113-117	they	
+2-9	118-122	said	
+2-10	123-130	Clinton	
+2-11	131-136	would	
+2-12	137-140	win	
+2-13	140-141	.	

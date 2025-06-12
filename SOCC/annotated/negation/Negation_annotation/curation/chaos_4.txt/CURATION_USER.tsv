@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=aa another soar loser who lives in the cry baby world
+1-1	0-2	aa	
+1-2	3-10	another	
+1-3	11-15	soar	
+1-4	16-21	loser	
+1-5	22-25	who	
+1-6	26-31	lives	
+1-7	32-34	in	
+1-8	35-38	the	
+1-9	39-42	cry	
+1-10	43-47	baby	
+1-11	48-53	world	

@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=The vast majority of Canadians voted into office and are governed by female premiers.
+1-1	0-3	The	
+1-2	4-8	vast	
+1-3	9-17	majority	
+1-4	18-20	of	
+1-5	21-30	Canadians	
+1-6	31-36	voted	
+1-7	37-41	into	
+1-8	42-48	office	
+1-9	49-52	and	
+1-10	53-56	are	
+1-11	57-65	governed	
+1-12	66-68	by	
+1-13	69-75	female	
+1-14	76-84	premiers	
+1-15	84-85	.	
+
+#Text=Now, what were you saying?
+2-1	86-89	Now	
+2-2	89-90	,	
+2-3	91-95	what	
+2-4	96-100	were	
+2-5	101-104	you	
+2-6	105-111	saying	
+2-7	111-112	?	

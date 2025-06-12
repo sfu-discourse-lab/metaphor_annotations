@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Has anyone considered the immigrant investor program as a head tax.
+1-1	0-3	Has	Appreciation[1]	neg[1]	
+1-2	4-10	anyone	Appreciation[1]	neg[1]	
+1-3	11-21	considered	Appreciation[1]	neg[1]	
+1-4	22-25	the	Appreciation[1]	neg[1]	
+1-5	26-35	immigrant	Appreciation[1]	neg[1]	
+1-6	36-44	investor	Appreciation[1]	neg[1]	
+1-7	45-52	program	Appreciation[1]	neg[1]	
+1-8	53-55	as	Appreciation[1]	neg[1]	
+1-9	56-57	a	Appreciation[1]	neg[1]	
+1-10	58-62	head	Appreciation[1]	neg[1]	
+1-11	63-66	tax	Appreciation[1]	neg[1]	
+1-12	66-67	.	_	_	
+
+#Text=Let the government have your money for a period of time with no interest.
+2-1	68-71	Let	_	_	
+2-2	72-75	the	_	_	
+2-3	76-86	government	_	_	
+2-4	87-91	have	Appreciation[2]	neg[2]	
+2-5	92-96	your	Appreciation[2]	neg[2]	
+2-6	97-102	money	Appreciation[2]	neg[2]	
+2-7	103-106	for	Appreciation[2]	neg[2]	
+2-8	107-108	a	Appreciation[2]	neg[2]	
+2-9	109-115	period	Appreciation[2]	neg[2]	
+2-10	116-118	of	Appreciation[2]	neg[2]	
+2-11	119-123	time	Appreciation[2]	neg[2]	
+2-12	124-128	with	Appreciation[2]	neg[2]	
+2-13	129-131	no	Appreciation[2]	neg[2]	
+2-14	132-140	interest	Appreciation[2]	neg[2]	
+2-15	140-141	.	_	_	
+
+#Text=Just like a tax.
+3-1	142-146	Just	_	_	
+3-2	147-151	like	Appreciation[3]	neg[3]	
+3-3	152-153	a	Appreciation[3]	neg[3]	
+3-4	154-157	tax	Appreciation[3]	neg[3]	
+3-5	157-158	.	_	_	
+
+#Text=I am tired of our governments apologizing for the beliefs ( right or wrong in our current opinion) of a past generation.
+4-1	159-160	I	_	_	
+4-2	161-163	am	_	_	
+4-3	164-169	tired	Affect	neg	
+4-4	170-172	of	_	_	
+4-5	173-176	our	_	_	
+4-6	177-188	governments	_	_	
+4-7	189-200	apologizing	Judgment[5]	neg[5]	
+4-8	201-204	for	Judgment[5]	neg[5]	
+4-9	205-208	the	Judgment[5]	neg[5]	
+4-10	209-216	beliefs	Judgment[5]	neg[5]	
+4-11	217-218	(	Judgment[5]	neg[5]	
+4-12	219-224	right	Judgment[5]	neg[5]	
+4-13	225-227	or	Judgment[5]	neg[5]	
+4-14	228-233	wrong	Judgment[5]	neg[5]	
+4-15	234-236	in	Judgment[5]	neg[5]	
+4-16	237-240	our	Judgment[5]	neg[5]	
+4-17	241-248	current	Judgment[5]	neg[5]	
+4-18	249-256	opinion	Judgment[5]	neg[5]	
+4-19	256-257	)	Judgment[5]	neg[5]	
+4-20	258-260	of	Judgment[5]	neg[5]	
+4-21	261-262	a	Judgment[5]	neg[5]	
+4-22	263-267	past	Judgment[5]	neg[5]	
+4-23	268-278	generation	Judgment[5]	neg[5]	
+4-24	278-279	.	_	_	
+
+#Text=Go back in time and see how the voters placed their ballots !
+5-1	280-282	Go	Judgment[6]	neg[6]	
+5-2	283-287	back	Judgment[6]	neg[6]	
+5-3	288-290	in	Judgment[6]	neg[6]	
+5-4	291-295	time	Judgment[6]	neg[6]	
+5-5	296-299	and	Judgment[6]	neg[6]	
+5-6	300-303	see	Judgment[6]	neg[6]	
+5-7	304-307	how	Judgment[6]	neg[6]	
+5-8	308-311	the	Judgment[6]	neg[6]	
+5-9	312-318	voters	Judgment[6]	neg[6]	
+5-10	319-325	placed	Judgment[6]	neg[6]	
+5-11	326-331	their	Judgment[6]	neg[6]	
+5-12	332-339	ballots	Judgment[6]	neg[6]	
+5-13	340-341	!	_	_	

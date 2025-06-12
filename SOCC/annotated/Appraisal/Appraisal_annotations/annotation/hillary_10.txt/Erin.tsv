@@ -1,0 +1,257 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Another clueless column from the liberals.
+1-1	0-7	Another	_	_	_	_	
+1-2	8-16	clueless	Judgment	neg	_	_	
+1-3	17-23	column	_	_	_	_	
+1-4	24-28	from	_	_	_	_	
+1-5	29-32	the	_	_	_	_	
+1-6	33-41	liberals	Judgment	neg	_	_	
+1-7	41-42	.	_	_	_	_	
+
+#Text=Women do not identify with Clinton - she is a wealthy elitist who has nothing in common with ordinary women and as the election shows, ordinary women did not line up to support her.
+2-1	43-48	Women	_	_	_	_	
+2-2	49-51	do	Judgment[3]	neg[3]	_	_	
+2-3	52-55	not	Judgment[3]	neg[3]	_	_	
+2-4	56-64	identify	Judgment[3]	neg[3]	_	_	
+2-5	65-69	with	Judgment[3]	neg[3]	_	_	
+2-6	70-77	Clinton	Judgment[3]	neg[3]	_	_	
+2-7	78-79	-	_	_	_	_	
+2-8	80-83	she	_	_	_	_	
+2-9	84-86	is	_	_	_	_	
+2-10	87-88	a	_	_	_	_	
+2-11	89-96	wealthy	Judgment[4]	neg[4]	_	_	
+2-12	97-104	elitist	Judgment[4]	neg[4]	_	_	
+2-13	105-108	who	_	_	_	_	
+2-14	109-112	has	_	_	_	_	
+2-15	113-120	nothing	Judgment[5]	neg[5]	_	_	
+2-16	121-123	in	Judgment[5]	neg[5]	_	_	
+2-17	124-130	common	Judgment[5]	neg[5]	_	_	
+2-18	131-135	with	Judgment[5]	neg[5]	_	_	
+2-19	136-144	ordinary	Judgment[5]	neg[5]	_	_	
+2-20	145-150	women	Judgment[5]	neg[5]	_	_	
+2-21	151-154	and	_	_	_	_	
+2-22	155-157	as	_	_	_	_	
+2-23	158-161	the	_	_	_	_	
+2-24	162-170	election	_	_	_	_	
+2-25	171-176	shows	_	_	_	_	
+2-26	176-177	,	_	_	_	_	
+2-27	178-186	ordinary	_	_	_	_	
+2-28	187-192	women	_	_	_	_	
+2-29	193-196	did	Judgment[6]	neg[6]	_	_	
+2-30	197-200	not	Judgment[6]	neg[6]	_	_	
+2-31	201-205	line	Judgment[6]	neg[6]	_	_	
+2-32	206-208	up	Judgment[6]	neg[6]	_	_	
+2-33	209-211	to	Judgment[6]	neg[6]	_	_	
+2-34	212-219	support	Judgment[6]	neg[6]	_	_	
+2-35	220-223	her	Judgment[6]	neg[6]	_	_	
+2-36	223-224	.	_	_	_	_	
+
+#Text=The writer is clueless when she believes this election was about my sog yn y and the alleged glass ceiling (and what top position has Clinton been in for years, hello?).
+3-1	225-228	The	_	_	_	_	
+3-2	229-235	writer	_	_	_	_	
+3-3	236-238	is	_	_	_	_	
+3-4	239-247	clueless	Judgment	neg	_	_	
+3-5	248-252	when	_	_	_	_	
+3-6	253-256	she	_	_	_	_	
+3-7	257-265	believes	_	_	_	_	
+3-8	266-270	this	_	_	_	_	
+3-9	271-279	election	_	_	_	_	
+3-10	280-283	was	_	_	_	_	
+3-11	284-289	about	_	_	_	_	
+3-12	290-292	my	Appreciation[8]	neg[8]	_	_	
+3-13	293-296	sog	Appreciation[8]	neg[8]	_	_	
+3-14	297-299	yn	Appreciation[8]	neg[8]	_	_	
+3-15	300-301	y	Appreciation[8]	neg[8]	_	_	
+3-16	302-305	and	Appreciation[8]	neg[8]	_	_	
+3-17	306-309	the	Appreciation[8]	neg[8]	_	_	
+3-18	310-317	alleged	Appreciation[8]	neg[8]	_	_	
+3-19	318-323	glass	Appreciation[8]	neg[8]	_	_	
+3-20	324-331	ceiling	Appreciation[8]	neg[8]	_	_	
+3-21	332-333	(	_	_	_	_	
+3-22	333-336	and	_	_	_	_	
+3-23	337-341	what	Judgment[9]	neg[9]	_	_	
+3-24	342-345	top	Judgment[9]	neg[9]	_	_	
+3-25	346-354	position	Judgment[9]	neg[9]	_	_	
+3-26	355-358	has	Judgment[9]	neg[9]	_	_	
+3-27	359-366	Clinton	Judgment[9]	neg[9]	_	_	
+3-28	367-371	been	Judgment[9]	neg[9]	_	_	
+3-29	372-374	in	Judgment[9]	neg[9]	_	_	
+3-30	375-378	for	Judgment[9]	neg[9]	_	_	
+3-31	379-384	years	Judgment[9]	neg[9]	_	_	
+3-32	384-385	,	_	_	_	_	
+3-33	386-391	hello	_	_	_	_	
+3-34	391-392	?	_	_	_	_	
+3-35	392-393	)	_	_	_	_	
+3-36	393-394	.	_	_	_	_	
+
+#Text=In fact, Clinton is a power hungry, egotistical person who did not recognize that she should have quit after losing to Obama.
+4-1	395-397	In	_	_	_	_	
+4-2	398-402	fact	_	_	_	_	
+4-3	402-403	,	_	_	_	_	
+4-4	404-411	Clinton	_	_	_	_	
+4-5	412-414	is	_	_	_	_	
+4-6	415-416	a	_	_	_	_	
+4-7	417-422	power	Judgment[10]	neg[10]	_	_	
+4-8	423-429	hungry	Judgment[10]	neg[10]	_	_	
+4-9	429-430	,	_	_	_	_	
+4-10	431-442	egotistical	Judgment	neg	_	_	
+4-11	443-449	person	_	_	_	_	
+4-12	450-453	who	_	_	_	_	
+4-13	454-457	did	Judgment[12]	neg[12]	_	_	
+4-14	458-461	not	Judgment[12]	neg[12]	_	_	
+4-15	462-471	recognize	Judgment[12]	neg[12]	_	_	
+4-16	472-476	that	Judgment[12]	neg[12]	_	_	
+4-17	477-480	she	Judgment[12]	neg[12]	_	_	
+4-18	481-487	should	Judgment[12]	neg[12]	_	_	
+4-19	488-492	have	Judgment[12]	neg[12]	_	_	
+4-20	493-497	quit	Judgment[12]	neg[12]	_	_	
+4-21	498-503	after	Judgment[12]	neg[12]	_	_	
+4-22	504-510	losing	Judgment[12]	neg[12]	_	_	
+4-23	511-513	to	Judgment[12]	neg[12]	_	_	
+4-24	514-519	Obama	Judgment[12]	neg[12]	_	_	
+4-25	519-520	.	_	_	_	_	
+
+#Text=She had her fair shot and she clearly lost, yet she returned like a zombie and soldiered on with her fake smile and fake personality.
+5-1	521-524	She	_	_	_	_	
+5-2	525-528	had	_	_	_	_	
+5-3	529-532	her	_	_	_	_	
+5-4	533-537	fair	_	_	_	_	
+5-5	538-542	shot	_	_	_	_	
+5-6	543-546	and	_	_	_	_	
+5-7	547-550	she	_	_	_	_	
+5-8	551-558	clearly	Judgment[13]	neg[13]	Focus	up	
+5-9	559-563	lost	Judgment[13]	neg[13]	_	_	
+5-10	563-564	,	_	_	_	_	
+5-11	565-568	yet	_	_	_	_	
+5-12	569-572	she	_	_	_	_	
+5-13	573-581	returned	Judgment[14]	neg[14]	_	_	
+5-14	582-586	like	Judgment[14]	neg[14]	_	_	
+5-15	587-588	a	Judgment[14]	neg[14]	_	_	
+5-16	589-595	zombie	Judgment[14]	neg[14]	_	_	
+5-17	596-599	and	Judgment[14]	neg[14]	_	_	
+5-18	600-609	soldiered	Judgment[14]	neg[14]	_	_	
+5-19	610-612	on	Judgment[14]	neg[14]	_	_	
+5-20	613-617	with	_	_	_	_	
+5-21	618-621	her	_	_	_	_	
+5-22	622-626	fake	Judgment[15]	neg[15]	_	_	
+5-23	627-632	smile	Judgment[15]	neg[15]	_	_	
+5-24	633-636	and	Judgment[15]	neg[15]	_	_	
+5-25	637-641	fake	Judgment[15]	neg[15]	_	_	
+5-26	642-653	personality	Judgment[15]	neg[15]	_	_	
+5-27	653-654	.	_	_	_	_	
+
+#Text=She has done enormous damage to the Democrats by not allowing fresh faces to take center stage.
+6-1	655-658	She	_	_	_	_	
+6-2	659-662	has	_	_	_	_	
+6-3	663-667	done	_	_	_	_	
+6-4	668-676	enormous	Judgment[16]	neg[16]	_	_	
+6-5	677-683	damage	Judgment[16]	neg[16]	_	_	
+6-6	684-686	to	_	_	_	_	
+6-7	687-690	the	_	_	_	_	
+6-8	691-700	Democrats	_	_	_	_	
+6-9	701-703	by	_	_	_	_	
+6-10	704-707	not	Judgment[17]	neg[17]	_	_	
+6-11	708-716	allowing	Judgment[17]	neg[17]	_	_	
+6-12	717-722	fresh	Judgment[17]	neg[17]	_	_	
+6-13	723-728	faces	Judgment[17]	neg[17]	_	_	
+6-14	729-731	to	Judgment[17]	neg[17]	_	_	
+6-15	732-736	take	Judgment[17]	neg[17]	_	_	
+6-16	737-743	center	Judgment[17]	neg[17]	_	_	
+6-17	744-749	stage	Judgment[17]	neg[17]	_	_	
+6-18	749-750	.	_	_	_	_	
+
+#Text=Not speaking about Bernie as he is a hopeless extremist.
+7-1	751-754	Not	_	_	_	_	
+7-2	755-763	speaking	_	_	_	_	
+7-3	764-769	about	_	_	_	_	
+7-4	770-776	Bernie	_	_	_	_	
+7-5	777-779	as	_	_	_	_	
+7-6	780-782	he	_	_	_	_	
+7-7	783-785	is	_	_	_	_	
+7-8	786-787	a	_	_	_	_	
+7-9	788-796	hopeless	Judgment[18]	neg[18]	_	_	
+7-10	797-806	extremist	Judgment[18]	neg[18]	_	_	
+7-11	806-807	.	_	_	_	_	
+
+#Text=The democrats needed someone on the centre that conservatives would have supported.
+8-1	808-811	The	_	_	_	_	
+8-2	812-821	democrats	_	_	_	_	
+8-3	822-828	needed	Appreciation[19]	pos[19]	_	_	
+8-4	829-836	someone	Appreciation[19]	pos[19]	_	_	
+8-5	837-839	on	Appreciation[19]	pos[19]	_	_	
+8-6	840-843	the	Appreciation[19]	pos[19]	_	_	
+8-7	844-850	centre	Appreciation[19]	pos[19]	_	_	
+8-8	851-855	that	Appreciation[19]	pos[19]	_	_	
+8-9	856-869	conservatives	Appreciation[19]	pos[19]	_	_	
+8-10	870-875	would	Appreciation[19]	pos[19]	_	_	
+8-11	876-880	have	Appreciation[19]	pos[19]	_	_	
+8-12	881-890	supported	Appreciation[19]	pos[19]	_	_	
+8-13	890-891	.	_	_	_	_	
+
+#Text=Instead, Clinton went the opposite direction.
+9-1	892-899	Instead	_	_	_	_	
+9-2	899-900	,	_	_	_	_	
+9-3	901-908	Clinton	_	_	_	_	
+9-4	909-913	went	Judgment[20]	neg[20]	_	_	
+9-5	914-917	the	Judgment[20]	neg[20]	_	_	
+9-6	918-926	opposite	Judgment[20]	neg[20]	_	_	
+9-7	927-936	direction	Judgment[20]	neg[20]	_	_	
+9-8	936-937	.	_	_	_	_	
+
+#Text=The fact that the lib media is unable to face the real reasons behind her loss and unable to learn from this shows how doomed they are.
+10-1	938-941	The	_	_	_	_	
+10-2	942-946	fact	_	_	_	_	
+10-3	947-951	that	_	_	_	_	
+10-4	952-955	the	_	_	_	_	
+10-5	956-959	lib	_	_	_	_	
+10-6	960-965	media	_	_	_	_	
+10-7	966-968	is	_	_	_	_	
+10-8	969-975	unable	Judgment[21]	neg[21]	_	_	
+10-9	976-978	to	Judgment[21]	neg[21]	_	_	
+10-10	979-983	face	Judgment[21]	neg[21]	_	_	
+10-11	984-987	the	Judgment[21]	neg[21]	_	_	
+10-12	988-992	real	Judgment[21]	neg[21]	_	_	
+10-13	993-1000	reasons	Judgment[21]	neg[21]	_	_	
+10-14	1001-1007	behind	Judgment[21]	neg[21]	_	_	
+10-15	1008-1011	her	Judgment[21]	neg[21]	_	_	
+10-16	1012-1016	loss	Judgment[21]	neg[21]	_	_	
+10-17	1017-1020	and	Judgment[21]	neg[21]	_	_	
+10-18	1021-1027	unable	Judgment[21]	neg[21]	_	_	
+10-19	1028-1030	to	Judgment[21]	neg[21]	_	_	
+10-20	1031-1036	learn	Judgment[21]	neg[21]	_	_	
+10-21	1037-1041	from	Judgment[21]	neg[21]	_	_	
+10-22	1042-1046	this	Judgment[21]	neg[21]	_	_	
+10-23	1047-1052	shows	_	_	_	_	
+10-24	1053-1056	how	_	_	_	_	
+10-25	1057-1063	doomed	Appreciation	neg	_	_	
+10-26	1064-1068	they	_	_	_	_	
+10-27	1069-1072	are	_	_	_	_	
+10-28	1072-1073	.	_	_	_	_	
+
+#Text=Look around what is happening in the world, wake up and smell the coffee.
+11-1	1074-1078	Look	_	_	_	_	
+11-2	1079-1085	around	_	_	_	_	
+11-3	1086-1090	what	_	_	_	_	
+11-4	1091-1093	is	_	_	_	_	
+11-5	1094-1103	happening	_	_	_	_	
+11-6	1104-1106	in	_	_	_	_	
+11-7	1107-1110	the	_	_	_	_	
+11-8	1111-1116	world	_	_	_	_	
+11-9	1116-1117	,	_	_	_	_	
+11-10	1118-1122	wake	Judgment[23]	neg[23]	_	_	
+11-11	1123-1125	up	Judgment[23]	neg[23]	_	_	
+11-12	1126-1129	and	Judgment[23]	neg[23]	_	_	
+11-13	1130-1135	smell	Judgment[23]	neg[23]	_	_	
+11-14	1136-1139	the	Judgment[23]	neg[23]	_	_	
+11-15	1140-1146	coffee	Judgment[23]	neg[23]	_	_	
+11-16	1146-1147	.	_	_	_	_	
+
+#Text=Change is a'coming.
+12-1	1148-1154	Change	Appreciation[24]	neg[24]	_	_	
+12-2	1155-1157	is	Appreciation[24]	neg[24]	_	_	
+12-3	1158-1166	a'coming	Appreciation[24]	neg[24]	_	_	
+12-4	1166-1167	.	_	_	_	_	

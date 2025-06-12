@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Richard231- Canada, on the other hand, selects refugees, after weeks of interviews and examinations, based on whether or not they can be an economic asset to Canada.
+1-1	0-10	Richard231	_	_	
+1-2	10-11	-	_	_	
+1-3	12-18	Canada	_	_	
+1-4	18-19	,	_	_	
+1-5	20-22	on	_	_	
+1-6	23-26	the	_	_	
+1-7	27-32	other	_	_	
+1-8	33-37	hand	_	_	
+1-9	37-38	,	_	_	
+1-10	39-46	selects	Judgment[1]	neg[1]	
+1-11	47-55	refugees	Judgment[1]	neg[1]	
+1-12	55-56	,	Judgment[1]	neg[1]	
+1-13	57-62	after	Judgment[1]	neg[1]	
+1-14	63-68	weeks	Judgment[1]	neg[1]	
+1-15	69-71	of	Judgment[1]	neg[1]	
+1-16	72-82	interviews	Judgment[1]	neg[1]	
+1-17	83-86	and	Judgment[1]	neg[1]	
+1-18	87-99	examinations	Judgment[1]	neg[1]	
+1-19	99-100	,	Judgment[1]	neg[1]	
+1-20	101-106	based	Judgment[1]	neg[1]	
+1-21	107-109	on	Judgment[1]	neg[1]	
+1-22	110-117	whether	Judgment[1]	neg[1]	
+1-23	118-120	or	Judgment[1]	neg[1]	
+1-24	121-124	not	Judgment[1]	neg[1]	
+1-25	125-129	they	Judgment[1]	neg[1]	
+1-26	130-133	can	Judgment[1]	neg[1]	
+1-27	134-136	be	Judgment[1]	neg[1]	
+1-28	137-139	an	Judgment[1]	neg[1]	
+1-29	140-148	economic	Judgment[1]	neg[1]	
+1-30	149-154	asset	Judgment[1]	neg[1]	
+1-31	155-157	to	_	_	
+1-32	158-164	Canada	_	_	
+1-33	164-165	.	_	_	
+
+#Text=The vast majority of Syrians refugees are of no economic benefit to Canada.
+2-1	166-169	The	_	_	
+2-2	170-174	vast	_	_	
+2-3	175-183	majority	_	_	
+2-4	184-186	of	_	_	
+2-5	187-194	Syrians	_	_	
+2-6	195-203	refugees	_	_	
+2-7	204-207	are	_	_	
+2-8	208-210	of	_	_	
+2-9	211-213	no	Judgment[2]	neg[2]	
+2-10	214-222	economic	Judgment[2]	neg[2]	
+2-11	223-230	benefit	Judgment[2]	neg[2]	
+2-12	231-233	to	_	_	
+2-13	234-240	Canada	_	_	
+2-14	240-241	.	_	_	
+
+#Text=They were brought in because of campaign one-upmanship from Trudeau.
+3-1	242-246	They	_	_	
+3-2	247-251	were	_	_	
+3-3	252-259	brought	_	_	
+3-4	260-262	in	_	_	
+3-5	263-270	because	_	_	
+3-6	271-273	of	_	_	
+3-7	274-282	campaign	Judgment[3]	neg[3]	
+3-8	283-296	one-upmanship	Judgment[3]	neg[3]	
+3-9	297-301	from	_	_	
+3-10	302-309	Trudeau	_	_	
+3-11	309-310	.	_	_	
+
+#Text=There were numerous stories in this paper and others of the Canadian government trawling through refugee camps because most didn't want to come here.
+4-1	311-316	There	_	_	
+4-2	317-321	were	_	_	
+4-3	322-330	numerous	_	_	
+4-4	331-338	stories	_	_	
+4-5	339-341	in	_	_	
+4-6	342-346	this	_	_	
+4-7	347-352	paper	_	_	
+4-8	353-356	and	_	_	
+4-9	357-363	others	_	_	
+4-10	364-366	of	_	_	
+4-11	367-370	the	_	_	
+4-12	371-379	Canadian	_	_	
+4-13	380-390	government	_	_	
+4-14	391-399	trawling	Judgment[4]	neg[4]	
+4-15	400-407	through	Judgment[4]	neg[4]	
+4-16	408-415	refugee	Judgment[4]	neg[4]	
+4-17	416-421	camps	Judgment[4]	neg[4]	
+4-18	422-429	because	Judgment[4]	neg[4]	
+4-19	430-434	most	Judgment[4]	neg[4]	
+4-20	435-441	didn't	Judgment[4]	neg[4]	
+4-21	442-446	want	Judgment[4]	neg[4]	
+4-22	447-449	to	Judgment[4]	neg[4]	
+4-23	450-454	come	Judgment[4]	neg[4]	
+4-24	455-459	here	Judgment[4]	neg[4]	
+4-25	459-460	.	_	_	

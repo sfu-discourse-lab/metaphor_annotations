@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Unfortunately, Stephen 'I couldn't care less' Harper doesn't believe this is a matter of a'sociological phenomenon'.
+1-1	0-13	Unfortunately	Appreciation	neg	_	_	
+1-2	13-14	,	_	_	_	_	
+1-3	15-22	Stephen	_	_	_	_	
+1-4	23-24	'	Judgment[2]	neg[2]	_	_	
+1-5	24-25	I	Judgment[2]	neg[2]	_	_	
+1-6	26-34	couldn't	Judgment[2]	neg[2]	_	_	
+1-7	35-39	care	Judgment[2]	neg[2]	_	_	
+1-8	40-44	less	Judgment[2]	neg[2]	_	_	
+1-9	44-45	'	_	_	_	_	
+1-10	46-52	Harper	_	_	_	_	
+1-11	53-60	doesn't	Judgment[3]	neg[3]	_	_	
+1-12	61-68	believe	Judgment[3]	neg[3]	_	_	
+1-13	69-73	this	Judgment[3]	neg[3]	_	_	
+1-14	74-76	is	Judgment[3]	neg[3]	_	_	
+1-15	77-78	a	Judgment[3]	neg[3]	_	_	
+1-16	79-85	matter	Judgment[3]	neg[3]	_	_	
+1-17	86-88	of	Judgment[3]	neg[3]	_	_	
+1-18	89-103	a'sociological	Judgment[3]	neg[3]	_	_	
+1-19	104-114	phenomenon	Judgment[3]	neg[3]	_	_	
+1-20	114-115	'	_	_	_	_	
+1-21	115-116	.	_	_	_	_	
+
+#Text=In his cut-and-dried, right wing world where there are no grey areas, the only thing to do is turn the matter over to the police after the tragedy has occurred.
+2-1	117-119	In	_	_	_	_	
+2-2	120-123	his	_	_	_	_	
+2-3	124-137	cut-and-dried	Judgment[4]	neg[4]	_	_	
+2-4	137-138	,	Judgment[4]	neg[4]	_	_	
+2-5	139-144	right	Judgment[4]	neg[4]	_	_	
+2-6	145-149	wing	Judgment[4]	neg[4]	_	_	
+2-7	150-155	world	Judgment[4]	neg[4]	_	_	
+2-8	156-161	where	_	_	_	_	
+2-9	162-167	there	_	_	_	_	
+2-10	168-171	are	_	_	_	_	
+2-11	172-174	no	Judgment[5]	neg[5]	_	_	
+2-12	175-179	grey	Judgment[5]	neg[5]	_	_	
+2-13	180-185	areas	Judgment[5]	neg[5]	_	_	
+2-14	185-186	,	_	_	_	_	
+2-15	187-190	the	_	_	_	_	
+2-16	191-195	only	_	_	_	_	
+2-17	196-201	thing	_	_	_	_	
+2-18	202-204	to	_	_	_	_	
+2-19	205-207	do	_	_	_	_	
+2-20	208-210	is	_	_	_	_	
+2-21	211-215	turn	_	_	_	_	
+2-22	216-219	the	_	_	_	_	
+2-23	220-226	matter	_	_	_	_	
+2-24	227-231	over	_	_	_	_	
+2-25	232-234	to	_	_	_	_	
+2-26	235-238	the	_	_	_	_	
+2-27	239-245	police	_	_	_	_	
+2-28	246-251	after	_	_	_	_	
+2-29	252-255	the	_	_	_	_	
+2-30	256-263	tragedy	Appreciation	neg	_	_	
+2-31	264-267	has	_	_	_	_	
+2-32	268-276	occurred	_	_	_	_	
+2-33	276-277	.	_	_	_	_	
+
+#Text=The idea of preventing the tragedy doesn't even enter into his mind.
+3-1	278-281	The	_	_	_	_	
+3-2	282-286	idea	_	_	_	_	
+3-3	287-289	of	_	_	_	_	
+3-4	290-300	preventing	Appreciation[7]	pos[7]	_	_	
+3-5	301-304	the	Appreciation[7]	pos[7]	_	_	
+3-6	305-312	tragedy	Appreciation[7]	pos[7]	_	_	
+3-7	313-320	doesn't	Judgment[8]	neg[8]	_	_	
+3-8	321-325	even	Judgment[8]	neg[8]	_	_	
+3-9	326-331	enter	Judgment[8]	neg[8]	_	_	
+3-10	332-336	into	Judgment[8]	neg[8]	_	_	
+3-11	337-340	his	Judgment[8]	neg[8]	_	_	
+3-12	341-345	mind	Judgment[8]	neg[8]	_	_	
+3-13	345-346	.	_	_	_	_	
+
+#Text=He's much too busy concentrating on more ways to increase corporate profit margins.
+4-1	347-351	He's	_	_	_	_	
+4-2	352-356	much	Judgment[9]	neg[9]	Force[1]|Force[2]	up[1]|up[2]	
+4-3	357-360	too	Judgment[9]	neg[9]	Force[1]	up[1]	
+4-4	361-365	busy	Judgment[9]	neg[9]	_	_	
+4-5	366-379	concentrating	Judgment[9]	neg[9]	_	_	
+4-6	380-382	on	Judgment[9]	neg[9]	_	_	
+4-7	383-387	more	Judgment[9]	neg[9]	_	_	
+4-8	388-392	ways	Judgment[9]	neg[9]	_	_	
+4-9	393-395	to	Judgment[9]	neg[9]	_	_	
+4-10	396-404	increase	Judgment[9]	neg[9]	_	_	
+4-11	405-414	corporate	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	_	_	
+4-12	415-421	profit	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	_	_	
+4-13	422-429	margins	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	_	_	
+4-14	429-430	.	_	_	_	_	
+
+#Text=People don't matter.
+5-1	431-437	People	_	_	_	_	
+5-2	438-443	don't	Judgment[11]	neg[11]	_	_	
+5-3	444-450	matter	Judgment[11]	neg[11]	_	_	
+5-4	450-451	.	_	_	_	_	

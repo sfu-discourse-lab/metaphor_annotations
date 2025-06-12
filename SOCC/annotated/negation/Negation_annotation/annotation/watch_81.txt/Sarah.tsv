@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=This was an informative and humorous article showing the lack of utility of another piece of pointless electronic junk being foisted on the public to swell Apple's coffers.Hopefully it will flop and save the planet from having to accommodate further junk in dump sites as new iterations are introduced.
+1-1	0-4	This	_	
+1-2	5-8	was	_	
+1-3	9-11	an	_	
+1-4	12-23	informative	_	
+1-5	24-27	and	_	
+1-6	28-36	humorous	_	
+1-7	37-44	article	_	
+1-8	45-52	showing	_	
+1-9	53-56	the	_	
+1-10	57-61	lack	NEG	
+1-11	62-64	of	SCOPE[2]	
+1-12	65-72	utility	SCOPE[2]|FOCUS[3]	
+1-13	73-75	of	SCOPE[2]	
+1-14	76-83	another	SCOPE[2]	
+1-15	84-89	piece	SCOPE[2]	
+1-16	90-92	of	SCOPE[2]	
+1-17	93-102	pointless	SCOPE[2]	
+1-18	103-113	electronic	SCOPE[2]	
+1-19	114-118	junk	SCOPE[2]	
+1-20	119-124	being	_	
+1-21	125-132	foisted	_	
+1-22	133-135	on	_	
+1-23	136-139	the	_	
+1-24	140-146	public	_	
+1-25	147-149	to	_	
+1-26	150-155	swell	_	
+1-27	156-163	Apple's	_	
+1-28	164-181	coffers.Hopefully	_	
+1-29	182-184	it	_	
+1-30	185-189	will	_	
+1-31	190-194	flop	_	
+1-32	195-198	and	_	
+1-33	199-203	save	_	
+1-34	204-207	the	_	
+1-35	208-214	planet	_	
+1-36	215-219	from	_	
+1-37	220-226	having	_	
+1-38	227-229	to	_	
+1-39	230-241	accommodate	_	
+1-40	242-249	further	_	
+1-41	250-254	junk	_	
+1-42	255-257	in	_	
+1-43	258-262	dump	_	
+1-44	263-268	sites	_	
+1-45	269-271	as	_	
+1-46	272-275	new	_	
+1-47	276-286	iterations	_	
+1-48	287-290	are	_	
+1-49	291-301	introduced	_	
+1-50	301-302	.	_	

@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Harper will be recorded in the still short history of our nation as our worst and most destructive prime minister.
+1-1	0-6	Harper	_	_	
+1-2	7-11	will	_	_	
+1-3	12-14	be	_	_	
+1-4	15-23	recorded	_	_	
+1-5	24-26	in	_	_	
+1-6	27-30	the	_	_	
+1-7	31-36	still	_	_	
+1-8	37-42	short	_	_	
+1-9	43-50	history	_	_	
+1-10	51-53	of	_	_	
+1-11	54-57	our	_	_	
+1-12	58-64	nation	_	_	
+1-13	65-67	as	_	_	
+1-14	68-71	our	_	_	
+1-15	72-77	worst	Judgment[1]	neg[1]	
+1-16	78-81	and	Judgment[1]	neg[1]	
+1-17	82-86	most	Judgment[1]	neg[1]	
+1-18	87-98	destructive	Judgment[1]	neg[1]	
+1-19	99-104	prime	_	_	
+1-20	105-113	minister	_	_	
+1-21	113-114	.	_	_	

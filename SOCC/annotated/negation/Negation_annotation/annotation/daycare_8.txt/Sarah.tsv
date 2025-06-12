@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+#T_RL=webanno.custom.XNEGATION|BT_webanno.custom.NEGATION
+
+
+#Text=In Ontario the criminal Liberal gov't of McGuinty and Wynne introduced All day kindergarten at enormous cost to taxpayers.
+1-1	0-2	In	_	_	
+1-2	3-10	Ontario	_	_	
+1-3	11-14	the	_	_	
+1-4	15-23	criminal	_	_	
+1-5	24-31	Liberal	_	_	
+1-6	32-37	gov't	_	_	
+1-7	38-40	of	_	_	
+1-8	41-49	McGuinty	_	_	
+1-9	50-53	and	_	_	
+1-10	54-59	Wynne	_	_	
+1-11	60-70	introduced	_	_	
+1-12	71-74	All	_	_	
+1-13	75-78	day	_	_	
+1-14	79-91	kindergarten	_	_	
+1-15	92-94	at	_	_	
+1-16	95-103	enormous	_	_	
+1-17	104-108	cost	_	_	
+1-18	109-111	to	_	_	
+1-19	112-121	taxpayers	_	_	
+1-20	121-122	.	_	_	
+
+#Text=The results are pretty weak and it does nothing for children as they progress through the inefficient, extremely expensive and union run education system.So we're essentially paying billions for a daycare service already in Ontario.
+2-1	124-127	The	_	_	
+2-2	128-135	results	_	_	
+2-3	136-139	are	_	_	
+2-4	140-146	pretty	_	_	
+2-5	147-151	weak	_	_	
+2-6	152-155	and	_	_	
+2-7	156-158	it	_	_	
+2-8	159-163	does	_	_	
+2-9	164-171	nothing	NEG	_	
+2-10	172-175	for	SCOPE[2]	_	
+2-11	176-184	children	SCOPE[2]	_	
+2-12	185-187	as	SCOPE[2]	_	
+2-13	188-192	they	SCOPE[2]	_	
+2-14	193-201	progress	SCOPE[2]	_	
+2-15	202-209	through	SCOPE[2]	_	
+2-16	210-213	the	SCOPE[2]	_	
+2-17	214-225	inefficient	SCOPE[2]|FOCUS[3]	_	
+2-18	225-226	,	SCOPE[2]	_	
+2-19	227-236	extremely	SCOPE[2]	_	
+2-20	237-246	expensive	SCOPE[2]|FOCUS[4]	_	
+2-21	247-250	and	SCOPE[2]	_	
+2-22	251-256	union	SCOPE[2]|FOCUS[5]	_	
+2-23	257-260	run	SCOPE[2]|FOCUS[5]	_	
+2-24	261-270	education	SCOPE[2]	_	
+2-25	271-280	system.So	SCOPE[2]	_	
+2-26	281-286	we're	_	_	
+2-27	287-298	essentially	_	_	
+2-28	299-305	paying	_	_	
+2-29	306-314	billions	_	_	
+2-30	315-318	for	_	_	
+2-31	319-320	a	_	_	
+2-32	321-328	daycare	_	_	
+2-33	329-336	service	_	_	
+2-34	337-344	already	_	_	
+2-35	345-347	in	_	_	
+2-36	348-355	Ontario	_	_	
+2-37	355-356	.	_	_	
+
+#Text=If we really wanted to expand the benefits for working parents, why not extend school hours to 5pm and run schools all year round as many other countries do.?
+3-1	357-359	If	_	_	
+3-2	360-362	we	_	_	
+3-3	363-369	really	_	_	
+3-4	370-376	wanted	_	_	
+3-5	377-379	to	_	_	
+3-6	380-386	expand	_	_	
+3-7	387-390	the	_	_	
+3-8	391-399	benefits	_	_	
+3-9	400-403	for	_	_	
+3-10	404-411	working	_	_	
+3-11	412-419	parents	_	_	
+3-12	419-420	,	_	_	
+3-13	421-424	why	_	_	
+3-14	425-428	not	NEG	_	
+3-15	429-435	extend	SCOPE[7]	_	
+3-16	436-442	school	SCOPE[7]	_	
+3-17	443-448	hours	SCOPE[7]	_	
+3-18	449-451	to	SCOPE[7]	_	
+3-19	452-455	5pm	SCOPE[7]|FOCUS[8]	_	
+3-20	456-459	and	SCOPE[7]	_	
+3-21	460-463	run	SCOPE[7]	_	
+3-22	464-471	schools	SCOPE[7]	_	
+3-23	472-475	all	SCOPE[7]|FOCUS[9]	_	
+3-24	476-480	year	SCOPE[7]|FOCUS[9]	_	
+3-25	481-486	round	SCOPE[7]|FOCUS[9]	_	
+3-26	487-489	as	SCOPE[7]	_	
+3-27	490-494	many	SCOPE[7]	_	
+3-28	495-500	other	SCOPE[7]	_	
+3-29	501-510	countries	SCOPE[7]	_	
+3-30	511-513	do	SCOPE[7]	_	
+3-31	513-514	.	SCOPE[7]	_	
+3-32	514-515	?	_	_	
+
+#Text=Novel idea having teachers work a full year for a full year's pay, No?
+4-1	517-522	Novel	XSCOPE[10]	4-15[0_10]	
+4-2	523-527	idea	XSCOPE[10]	_	
+4-3	528-534	having	XSCOPE[10]	_	
+4-4	535-543	teachers	XSCOPE[10]	_	
+4-5	544-548	work	XSCOPE[10]	_	
+4-6	549-550	a	XSCOPE[10]	_	
+4-7	551-555	full	XSCOPE[10]	_	
+4-8	556-560	year	XSCOPE[10]	_	
+4-9	561-564	for	XSCOPE[10]	_	
+4-10	565-566	a	XSCOPE[10]|FOCUS[11]	_	
+4-11	567-571	full	XSCOPE[10]|FOCUS[11]	_	
+4-12	572-578	year's	XSCOPE[10]|FOCUS[11]	_	
+4-13	579-582	pay	XSCOPE[10]|FOCUS[11]	_	
+4-14	582-583	,	_	_	
+4-15	584-586	No	NEG	_	
+4-16	586-587	?	_	_	

@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Current plans to change Canada's electoral system from first past the post to proportional representation will create political gridlock here as it has in Belgium.
+1-1	0-7	Current	
+1-2	8-13	plans	
+1-3	14-16	to	
+1-4	17-23	change	
+1-5	24-32	Canada's	
+1-6	33-42	electoral	
+1-7	43-49	system	
+1-8	50-54	from	
+1-9	55-60	first	
+1-10	61-65	past	
+1-11	66-69	the	
+1-12	70-74	post	
+1-13	75-77	to	
+1-14	78-90	proportional	
+1-15	91-105	representation	
+1-16	106-110	will	
+1-17	111-117	create	
+1-18	118-127	political	
+1-19	128-136	gridlock	
+1-20	137-141	here	
+1-21	142-144	as	
+1-22	145-147	it	
+1-23	148-151	has	
+1-24	152-154	in	
+1-25	155-162	Belgium	
+1-26	162-163	.	
+
+#Text=Really bad idea.
+2-1	164-170	Really	
+2-2	171-174	bad	
+2-3	175-179	idea	
+2-4	179-180	.	

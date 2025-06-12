@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Notice how many of the things Harper tried to turn into smears of Trudeau - mocking the notion of looking for 'root causes' of the fact that sometimes 'budgets can take care of themselves' - now seem to be part of his repertoire.
+1-1	0-6	Notice	_	_	
+1-2	7-10	how	_	_	
+1-3	11-15	many	_	_	
+1-4	16-18	of	_	_	
+1-5	19-22	the	_	_	
+1-6	23-29	things	_	_	
+1-7	30-36	Harper	_	_	
+1-8	37-42	tried	_	_	
+1-9	43-45	to	_	_	
+1-10	46-50	turn	_	_	
+1-11	51-55	into	_	_	
+1-12	56-62	smears	Judgment	neg	
+1-13	63-65	of	_	_	
+1-14	66-73	Trudeau	_	_	
+1-15	74-75	-	_	_	
+1-16	76-83	mocking	Judgment	neg	
+1-17	84-87	the	_	_	
+1-18	88-94	notion	_	_	
+1-19	95-97	of	_	_	
+1-20	98-105	looking	_	_	
+1-21	106-109	for	_	_	
+1-22	110-111	'	_	_	
+1-23	111-115	root	_	_	
+1-24	116-122	causes	_	_	
+1-25	122-123	'	_	_	
+1-26	124-126	of	_	_	
+1-27	127-130	the	_	_	
+1-28	131-135	fact	_	_	
+1-29	136-140	that	_	_	
+1-30	141-150	sometimes	_	_	
+1-31	151-152	'	_	_	
+1-32	152-159	budgets	_	_	
+1-33	160-163	can	_	_	
+1-34	164-168	take	_	_	
+1-35	169-173	care	_	_	
+1-36	174-176	of	_	_	
+1-37	177-187	themselves	_	_	
+1-38	187-188	'	_	_	
+1-39	189-190	-	_	_	
+1-40	191-194	now	_	_	
+1-41	195-199	seem	_	_	
+1-42	200-202	to	_	_	
+1-43	203-205	be	_	_	
+1-44	206-210	part	Judgment[3]	neg[3]	
+1-45	211-213	of	Judgment[3]	neg[3]	
+1-46	214-217	his	Judgment[3]	neg[3]	
+1-47	218-228	repertoire	Judgment[3]	neg[3]	
+1-48	228-229	.	_	_	
+
+#Text=Shameless hypocrite.
+2-1	230-239	Shameless	Judgment[4]	neg[4]	
+2-2	240-249	hypocrite	Judgment[4]	neg[4]	
+2-3	249-250	.	_	_	
+
+#Text=But who doesn't know that?
+3-1	251-254	But	Judgment[5]	neg[5]	
+3-2	255-258	who	Judgment[5]	neg[5]	
+3-3	259-266	doesn't	Judgment[5]	neg[5]	
+3-4	267-271	know	Judgment[5]	neg[5]	
+3-5	272-276	that	Judgment[5]	neg[5]	
+3-6	276-277	?	_	_	

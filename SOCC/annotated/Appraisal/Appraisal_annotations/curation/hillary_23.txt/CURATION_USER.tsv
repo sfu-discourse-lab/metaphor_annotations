@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=For a brief moment I thought the author was Prince !
+1-1	0-3	For	_	_	
+1-2	4-5	a	_	_	
+1-3	6-11	brief	_	_	
+1-4	12-18	moment	_	_	
+1-5	19-20	I	_	_	
+1-6	21-28	thought	Judgment[1]	neg[1]	
+1-7	29-32	the	Judgment[1]	neg[1]	
+1-8	33-39	author	Judgment[1]	neg[1]	
+1-9	40-43	was	Judgment[1]	neg[1]	
+1-10	44-50	Prince	Judgment[1]	neg[1]	
+1-11	51-52	!	_	_	

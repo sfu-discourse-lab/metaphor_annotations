@@ -1,0 +1,125 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Ms.
+1-1	0-2	Ms	_	
+1-2	2-3	.	_	
+
+#Text=Henein:    I'm a feminist too.
+2-1	4-10	Henein	_	
+2-2	10-11	:	_	
+2-3	15-18	I'm	_	
+2-4	19-20	a	_	
+2-5	21-29	feminist	_	
+2-6	30-33	too	_	
+2-7	33-34	.	_	
+
+#Text=And guess what?
+3-1	36-39	And	_	
+3-2	40-45	guess	_	
+3-3	46-50	what	_	
+3-4	50-51	?	_	
+
+#Text=I fully get that when you defended Ghomeshi at his trial, you were merely doing your job.
+4-1	53-54	I	_	
+4-2	55-60	fully	_	
+4-3	61-64	get	_	
+4-4	65-69	that	_	
+4-5	70-74	when	_	
+4-6	75-78	you	_	
+4-7	79-87	defended	_	
+4-8	88-96	Ghomeshi	_	
+4-9	97-99	at	_	
+4-10	100-103	his	_	
+4-11	104-109	trial	_	
+4-12	109-110	,	_	
+4-13	111-114	you	_	
+4-14	115-119	were	_	
+4-15	120-126	merely	_	
+4-16	127-132	doing	_	
+4-17	133-137	your	_	
+4-18	138-141	job	_	
+4-19	141-142	.	_	
+
+#Text=I never held it against you.
+5-1	144-145	I	_	
+5-2	146-151	never	NEG	
+5-3	152-156	held	SCOPE[2]	
+5-4	157-159	it	SCOPE[2]	
+5-5	160-167	against	SCOPE[2]|FOCUS[3]	
+5-6	168-171	you	SCOPE[2]	
+5-7	171-172	.	_	
+
+#Text=There are many other sensible feminists besides me (both male and female) who also see it that way.But I can't help but feel like this article is simply about you trying to redeem yourself in the eyes of those who accused you of betraying the feminist cause.
+6-1	174-179	There	_	
+6-2	180-183	are	_	
+6-3	184-188	many	_	
+6-4	189-194	other	_	
+6-5	195-203	sensible	_	
+6-6	204-213	feminists	_	
+6-7	214-221	besides	_	
+6-8	222-224	me	_	
+6-9	225-226	(	_	
+6-10	226-230	both	_	
+6-11	231-235	male	_	
+6-12	236-239	and	_	
+6-13	240-246	female	_	
+6-14	246-247	)	_	
+6-15	248-251	who	_	
+6-16	252-256	also	_	
+6-17	257-260	see	_	
+6-18	261-263	it	_	
+6-19	264-268	that	_	
+6-20	269-276	way.But	_	
+6-21	277-278	I	_	
+6-22	279-284	can't	NEG	
+6-23	285-289	help	SCOPE[5]	
+6-24	290-293	but	SCOPE[5]	
+6-25	294-298	feel	SCOPE[5]	
+6-26	299-303	like	SCOPE[5]	
+6-27	304-308	this	SCOPE[5]	
+6-28	309-316	article	SCOPE[5]	
+6-29	317-319	is	SCOPE[5]	
+6-30	320-326	simply	SCOPE[5]	
+6-31	327-332	about	SCOPE[5]	
+6-32	333-336	you	SCOPE[5]|FOCUS[6]	
+6-33	337-343	trying	SCOPE[5]|FOCUS[6]	
+6-34	344-346	to	SCOPE[5]|FOCUS[6]	
+6-35	347-353	redeem	SCOPE[5]|FOCUS[6]	
+6-36	354-362	yourself	SCOPE[5]|FOCUS[6]	
+6-37	363-365	in	SCOPE[5]|FOCUS[6]	
+6-38	366-369	the	SCOPE[5]|FOCUS[6]	
+6-39	370-374	eyes	SCOPE[5]|FOCUS[6]	
+6-40	375-377	of	SCOPE[5]|FOCUS[6]	
+6-41	378-383	those	SCOPE[5]|FOCUS[6]	
+6-42	384-387	who	SCOPE[5]|FOCUS[6]	
+6-43	388-395	accused	SCOPE[5]|FOCUS[6]	
+6-44	396-399	you	SCOPE[5]|FOCUS[6]	
+6-45	400-402	of	SCOPE[5]|FOCUS[6]	
+6-46	403-412	betraying	SCOPE[5]|FOCUS[6]	
+6-47	413-416	the	SCOPE[5]|FOCUS[6]	
+6-48	417-425	feminist	SCOPE[5]|FOCUS[6]	
+6-49	426-431	cause	SCOPE[5]|FOCUS[6]	
+6-50	431-432	.	_	
+
+#Text=I respect you as the top notch lawyer that you are, but this column is very unbecoming.
+7-1	433-434	I	_	
+7-2	435-442	respect	_	
+7-3	443-446	you	_	
+7-4	447-449	as	_	
+7-5	450-453	the	_	
+7-6	454-457	top	_	
+7-7	458-463	notch	_	
+7-8	464-470	lawyer	_	
+7-9	471-475	that	_	
+7-10	476-479	you	_	
+7-11	480-483	are	_	
+7-12	483-484	,	_	
+7-13	485-488	but	_	
+7-14	489-493	this	_	
+7-15	494-500	column	_	
+7-16	501-503	is	_	
+7-17	504-508	very	_	
+7-18	509-519	unbecoming	_	
+7-19	519-520	.	_	

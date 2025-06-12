@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=All of this energy should be directed at the parents of aboriginal women.These young children have no positive role models, the family structure does not exist to help children grow into thriving citizens in society.The state can not fill all of that void.
+1-1	0-3	All	_	_	
+1-2	4-6	of	_	_	
+1-3	7-11	this	_	_	
+1-4	12-18	energy	_	_	
+1-5	19-25	should	Judgment[1]	neg[1]	
+1-6	26-28	be	Judgment[1]	neg[1]	
+1-7	29-37	directed	Judgment[1]	neg[1]	
+1-8	38-40	at	Judgment[1]	neg[1]	
+1-9	41-44	the	Judgment[1]	neg[1]	
+1-10	45-52	parents	Judgment[1]	neg[1]	
+1-11	53-55	of	Judgment[1]	neg[1]	
+1-12	56-66	aboriginal	Judgment[1]	neg[1]	
+1-13	67-78	women.These	Judgment[1]	neg[1]	
+1-14	79-84	young	_	_	
+1-15	85-93	children	_	_	
+1-16	94-98	have	_	_	
+1-17	99-101	no	Judgment[2]	neg[2]	
+1-18	102-110	positive	Judgment[2]	neg[2]	
+1-19	111-115	role	Judgment[2]	neg[2]	
+1-20	116-122	models	Judgment[2]	neg[2]	
+1-21	122-123	,	_	_	
+1-22	124-127	the	_	_	
+1-23	128-134	family	_	_	
+1-24	135-144	structure	_	_	
+1-25	145-149	does	Appreciation[3]	neg[3]	
+1-26	150-153	not	Appreciation[3]	neg[3]	
+1-27	154-159	exist	Appreciation[3]	neg[3]	
+1-28	160-162	to	Appreciation[3]	neg[3]	
+1-29	163-167	help	Appreciation[3]	neg[3]	
+1-30	168-176	children	Appreciation[3]	neg[3]	
+1-31	177-181	grow	Appreciation[3]	neg[3]	
+1-32	182-186	into	_	_	
+1-33	187-195	thriving	Judgment	pos	
+1-34	196-204	citizens	_	_	
+1-35	205-207	in	_	_	
+1-36	208-219	society.The	_	_	
+1-37	220-225	state	_	_	
+1-38	226-229	can	Appreciation[5]	neg[5]	
+1-39	230-233	not	Appreciation[5]	neg[5]	
+1-40	234-238	fill	Appreciation[5]	neg[5]	
+1-41	239-242	all	Appreciation[5]	neg[5]	
+1-42	243-245	of	Appreciation[5]	neg[5]	
+1-43	246-250	that	Appreciation[5]	neg[5]	
+1-44	251-255	void	Appreciation[5]	neg[5]	
+1-45	255-256	.	_	_	

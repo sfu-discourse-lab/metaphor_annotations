@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=They have also attacked in the US several times and tried in Canada.
+1-1	0-4	They	_	
+1-2	5-9	have	_	
+1-3	10-14	also	_	
+1-4	15-23	attacked	_	
+1-5	24-26	in	_	
+1-6	27-30	the	_	
+1-7	31-33	US	_	
+1-8	34-41	several	_	
+1-9	42-47	times	_	
+1-10	48-51	and	_	
+1-11	52-57	tried	_	
+1-12	58-60	in	_	
+1-13	61-67	Canada	_	
+1-14	67-68	.	_	
+
+#Text=They have also (mostly) attacked in  Muslim countries against fellow Muslims.
+2-1	70-74	They	_	
+2-2	75-79	have	_	
+2-3	80-84	also	_	
+2-4	85-86	(	_	
+2-5	86-92	mostly	_	
+2-6	92-93	)	_	
+2-7	94-102	attacked	_	
+2-8	103-105	in	_	
+2-9	107-113	Muslim	_	
+2-10	114-123	countries	_	
+2-11	124-131	against	_	
+2-12	132-138	fellow	_	
+2-13	139-146	Muslims	_	
+2-14	146-147	.	_	
+
+#Text=We need to stop trying to blame socio economic factors.
+3-1	149-151	We	_	
+3-2	152-156	need	_	
+3-3	157-159	to	_	
+3-4	160-164	stop	_	
+3-5	165-171	trying	_	
+3-6	172-174	to	_	
+3-7	175-180	blame	_	
+3-8	181-186	socio	_	
+3-9	187-195	economic	_	
+3-10	196-203	factors	_	
+3-11	203-204	.	_	
+
+#Text=These certainly contribute to the problem but are not the source.
+4-1	206-211	These	_	
+4-2	212-221	certainly	_	
+4-3	222-232	contribute	_	
+4-4	233-235	to	_	
+4-5	236-239	the	_	
+4-6	240-247	problem	_	
+4-7	248-251	but	_	
+4-8	252-255	are	_	
+4-9	256-259	not	NEG	
+4-10	260-263	the	SCOPE[2]|FOCUS[3]	
+4-11	264-270	source	SCOPE[2]|FOCUS[3]	
+4-12	270-271	.	_	
+
+#Text=The use/misuse of the Islamic religion is the source.
+5-1	273-276	The	_	
+5-2	277-280	use	_	
+5-3	280-281	/	_	
+5-4	281-287	misuse	_	
+5-5	288-290	of	_	
+5-6	291-294	the	_	
+5-7	295-302	Islamic	_	
+5-8	303-311	religion	_	
+5-9	312-314	is	_	
+5-10	315-318	the	_	
+5-11	319-325	source	_	
+5-12	325-326	.	_	
+
+#Text=The socio economic climate in which the recruits live may make them more susceptible to recruitment.
+6-1	328-331	The	_	
+6-2	332-337	socio	_	
+6-3	338-346	economic	_	
+6-4	347-354	climate	_	
+6-5	355-357	in	_	
+6-6	358-363	which	_	
+6-7	364-367	the	_	
+6-8	368-376	recruits	_	
+6-9	377-381	live	_	
+6-10	382-385	may	_	
+6-11	386-390	make	_	
+6-12	391-395	them	_	
+6-13	396-400	more	_	
+6-14	401-412	susceptible	_	
+6-15	413-415	to	_	
+6-16	416-427	recruitment	_	
+6-17	427-428	.	_	
+
+#Text=Bu then the poor and disenfranchised everywhere would be blowing themselves and others up.
+7-1	430-432	Bu	_	
+7-2	433-437	then	_	
+7-3	438-441	the	_	
+7-4	442-446	poor	_	
+7-5	447-450	and	_	
+7-6	451-466	disenfranchised	_	
+7-7	467-477	everywhere	_	
+7-8	478-483	would	_	
+7-9	484-486	be	_	
+7-10	487-494	blowing	_	
+7-11	495-505	themselves	_	
+7-12	506-509	and	_	
+7-13	510-516	others	_	
+7-14	517-519	up	_	
+7-15	519-520	.	_	

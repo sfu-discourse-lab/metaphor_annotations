@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=If she had taken Bernie Sanders approach or view to politics in the USA she would have been elected.
+1-1	0-2	If	Appreciation[1]	pos[1]	_	_	
+1-2	3-6	she	Appreciation[1]	pos[1]	_	_	
+1-3	7-10	had	Appreciation[1]	pos[1]	_	_	
+1-4	11-16	taken	Appreciation[1]	pos[1]	_	_	
+1-5	17-23	Bernie	Appreciation[1]	pos[1]	_	_	
+1-6	24-31	Sanders	Appreciation[1]	pos[1]	_	_	
+1-7	32-40	approach	Appreciation[1]	pos[1]	_	_	
+1-8	41-43	or	Appreciation[1]	pos[1]	_	_	
+1-9	44-48	view	Appreciation[1]	pos[1]	_	_	
+1-10	49-51	to	Appreciation[1]	pos[1]	_	_	
+1-11	52-60	politics	Appreciation[1]	pos[1]	_	_	
+1-12	61-63	in	Appreciation[1]	pos[1]	_	_	
+1-13	64-67	the	Appreciation[1]	pos[1]	_	_	
+1-14	68-71	USA	Appreciation[1]	pos[1]	_	_	
+1-15	72-75	she	Appreciation[1]	pos[1]	_	_	
+1-16	76-81	would	Appreciation[1]	pos[1]	_	_	
+1-17	82-86	have	Appreciation[1]	pos[1]	_	_	
+1-18	87-91	been	Appreciation[1]	pos[1]	_	_	
+1-19	92-99	elected	Appreciation[1]	pos[1]	_	_	
+1-20	99-100	.	_	_	_	_	
+
+#Text=Instead she offered the novelty, not of a new way of doing politics, but of electing a woman to preside over four more years of the status quo.
+2-1	101-108	Instead	_	_	_	_	
+2-2	109-112	she	_	_	_	_	
+2-3	113-120	offered	_	_	_	_	
+2-4	121-124	the	_	_	_	_	
+2-5	125-132	novelty	Appreciation	pos	_	_	
+2-6	132-133	,	_	_	_	_	
+2-7	134-137	not	_	_	_	_	
+2-8	138-140	of	_	_	_	_	
+2-9	141-142	a	_	_	_	_	
+2-10	143-146	new	_	_	_	_	
+2-11	147-150	way	_	_	_	_	
+2-12	151-153	of	_	_	_	_	
+2-13	154-159	doing	_	_	_	_	
+2-14	160-168	politics	_	_	_	_	
+2-15	168-169	,	_	_	_	_	
+2-16	170-173	but	_	_	_	_	
+2-17	174-176	of	_	_	_	_	
+2-18	177-185	electing	_	_	_	_	
+2-19	186-187	a	_	_	_	_	
+2-20	188-193	woman	_	_	_	_	
+2-21	194-196	to	_	_	_	_	
+2-22	197-204	preside	_	_	_	_	
+2-23	205-209	over	_	_	_	_	
+2-24	210-214	four	Appreciation[3]	neg[3]	Force[1]	up[1]	
+2-25	215-219	more	Appreciation[3]	neg[3]	Force[1]	up[1]	
+2-26	220-225	years	Appreciation[3]	neg[3]	Force[1]	up[1]	
+2-27	226-228	of	Appreciation[3]	neg[3]	_	_	
+2-28	229-232	the	Appreciation[3]	neg[3]	_	_	
+2-29	233-239	status	Appreciation[3]	neg[3]	_	_	
+2-30	240-243	quo	Appreciation[3]	neg[3]	_	_	
+2-31	243-244	.	_	_	_	_	
+
+#Text=Her gender was not enough of a catch to dispel the fear of a lack of substantive change.
+3-1	245-248	Her	_	_	_	_	
+3-2	249-255	gender	_	_	_	_	
+3-3	256-259	was	_	_	_	_	
+3-4	260-263	not	Appreciation[4]	neg[4]	_	_	
+3-5	264-270	enough	Appreciation[4]	neg[4]	_	_	
+3-6	271-273	of	Appreciation[4]	neg[4]	_	_	
+3-7	274-275	a	Appreciation[4]	neg[4]	_	_	
+3-8	276-281	catch	Appreciation[4]	neg[4]	_	_	
+3-9	282-284	to	Appreciation[4]	neg[4]	_	_	
+3-10	285-291	dispel	Appreciation[4]	neg[4]	_	_	
+3-11	292-295	the	Appreciation[4]	neg[4]	_	_	
+3-12	296-300	fear	Appreciation[4]	neg[4]	_	_	
+3-13	301-303	of	Appreciation[4]	neg[4]	_	_	
+3-14	304-305	a	Appreciation[4]	neg[4]	_	_	
+3-15	306-310	lack	Appreciation[4]	neg[4]	_	_	
+3-16	311-313	of	Appreciation[4]	neg[4]	_	_	
+3-17	314-325	substantive	Appreciation[4]	neg[4]	_	_	
+3-18	326-332	change	Appreciation[4]	neg[4]	_	_	
+3-19	332-333	.	_	_	_	_	
+
+#Text=Hopefully the next woman that wants to rise to the top will riding a legitimate wave of real progressive enthusiasm, rather than tired ideas in a pant suit.
+4-1	334-343	Hopefully	Affect	pos	_	_	
+4-2	344-347	the	_	_	_	_	
+4-3	348-352	next	_	_	_	_	
+4-4	353-358	woman	_	_	_	_	
+4-5	359-363	that	_	_	_	_	
+4-6	364-369	wants	_	_	_	_	
+4-7	370-372	to	_	_	_	_	
+4-8	373-377	rise	_	_	_	_	
+4-9	378-380	to	_	_	_	_	
+4-10	381-384	the	_	_	_	_	
+4-11	385-388	top	_	_	_	_	
+4-12	389-393	will	_	_	_	_	
+4-13	394-400	riding	_	_	_	_	
+4-14	401-402	a	_	_	_	_	
+4-15	403-413	legitimate	Appreciation	pos	_	_	
+4-16	414-418	wave	_	_	_	_	
+4-17	419-421	of	_	_	_	_	
+4-18	422-426	real	_	_	_	_	
+4-19	427-438	progressive	Appreciation	pos	_	_	
+4-20	439-449	enthusiasm	Affect	pos	_	_	
+4-21	449-450	,	_	_	_	_	
+4-22	451-457	rather	_	_	_	_	
+4-23	458-462	than	_	_	_	_	
+4-24	463-468	tired	Appreciation	neg	_	_	
+4-25	469-474	ideas	_	_	_	_	
+4-26	475-477	in	_	_	_	_	
+4-27	478-479	a	_	_	_	_	
+4-28	480-484	pant	_	_	_	_	
+4-29	485-489	suit	_	_	_	_	
+4-30	489-490	.	_	_	_	_	

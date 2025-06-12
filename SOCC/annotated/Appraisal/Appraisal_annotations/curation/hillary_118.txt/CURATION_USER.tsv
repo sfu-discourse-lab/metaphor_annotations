@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=You do a disservice to all the women who have made it to the highest office in the land.
+1-1	0-3	You	_	_	_	_	
+1-2	4-6	do	_	_	_	_	
+1-3	7-8	a	_	_	_	_	
+1-4	9-19	disservice	Judgment[1]	neg[1]	_	_	
+1-5	20-22	to	Judgment[1]	neg[1]	_	_	
+1-6	23-26	all	Judgment[1]	neg[1]	_	_	
+1-7	27-30	the	Judgment[1]	neg[1]	_	_	
+1-8	31-36	women	Judgment[1]	neg[1]	_	_	
+1-9	37-40	who	Judgment[1]	neg[1]	_	_	
+1-10	41-45	have	Judgment[1]	neg[1]	_	_	
+1-11	46-50	made	Judgment[1]	neg[1]	_	_	
+1-12	51-53	it	Judgment[1]	neg[1]	_	_	
+1-13	54-56	to	Judgment[1]	neg[1]	_	_	
+1-14	57-60	the	Judgment[1]	neg[1]	_	_	
+1-15	61-68	highest	Judgment[1]	neg[1]	_	_	
+1-16	69-75	office	Judgment[1]	neg[1]	_	_	
+1-17	76-78	in	Judgment[1]	neg[1]	_	_	
+1-18	79-82	the	Judgment[1]	neg[1]	_	_	
+1-19	83-87	land	Judgment[1]	neg[1]	_	_	
+1-20	87-88	.	_	_	_	_	
+
+#Text=Examples are numerous.
+2-1	89-97	Examples	_	_	_	_	
+2-2	98-101	are	_	_	_	_	
+2-3	102-110	numerous	Appreciation	neg	_	_	
+2-4	110-111	.	_	_	_	_	
+
+#Text=Hilary lost because the electorate discovered she was a phony.
+3-1	112-118	Hilary	_	_	_	_	
+3-2	119-123	lost	_	_	_	_	
+3-3	124-131	because	_	_	_	_	
+3-4	132-135	the	_	_	_	_	
+3-5	136-146	electorate	_	_	_	_	
+3-6	147-157	discovered	_	_	_	_	
+3-7	158-161	she	_	_	_	_	
+3-8	162-165	was	_	_	_	_	
+3-9	166-167	a	_	_	_	_	
+3-10	168-173	phony	Judgment	neg	_	_	
+3-11	173-174	.	_	_	_	_	
+
+#Text=Both men and women rejected her equally.
+4-1	175-179	Both	Judgment[4]	neg[4]	_	_	
+4-2	180-183	men	Judgment[4]	neg[4]	_	_	
+4-3	184-187	and	Judgment[4]	neg[4]	_	_	
+4-4	188-193	women	Judgment[4]	neg[4]	_	_	
+4-5	194-202	rejected	Judgment[4]	neg[4]	_	_	
+4-6	203-206	her	Judgment[4]	neg[4]	_	_	
+4-7	207-214	equally	Judgment[4]	neg[4]	Force	up	
+4-8	214-215	.	_	_	_	_	

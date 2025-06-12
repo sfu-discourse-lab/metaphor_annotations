@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Simpson and Trudeau were foaming at the mouth a month ago telling everyone how terrible it is that Harper's budget was still in deficit.
+1-1	0-7	Simpson	_	_	
+1-2	8-11	and	_	_	
+1-3	12-19	Trudeau	_	_	
+1-4	20-24	were	_	_	
+1-5	25-32	foaming	Judgment[1]	neg[1]	
+1-6	33-35	at	Judgment[1]	neg[1]	
+1-7	36-39	the	Judgment[1]	neg[1]	
+1-8	40-45	mouth	Judgment[1]	neg[1]	
+1-9	46-47	a	_	_	
+1-10	48-53	month	_	_	
+1-11	54-57	ago	_	_	
+1-12	58-65	telling	_	_	
+1-13	66-74	everyone	_	_	
+1-14	75-78	how	_	_	
+1-15	79-87	terrible	Appreciation	neg	
+1-16	88-90	it	_	_	
+1-17	91-93	is	_	_	
+1-18	94-98	that	_	_	
+1-19	99-107	Harper's	_	_	
+1-20	108-114	budget	_	_	
+1-21	115-118	was	_	_	
+1-22	119-124	still	Appreciation[3]	neg[3]	
+1-23	125-127	in	Appreciation[3]	neg[3]	
+1-24	128-135	deficit	Appreciation[3]	neg[3]	
+1-25	135-136	.	_	_	
+
+#Text=Now that its confirmed to be in surplus that's a terrible thing too??
+2-1	137-140	Now	Judgment[4]	neg[4]	
+2-2	141-145	that	Judgment[4]	neg[4]	
+2-3	146-149	its	Judgment[4]	neg[4]	
+2-4	150-159	confirmed	Judgment[4]	neg[4]	
+2-5	160-162	to	Judgment[4]	neg[4]	
+2-6	163-165	be	Judgment[4]	neg[4]	
+2-7	166-168	in	Judgment[4]	neg[4]	
+2-8	169-176	surplus	Judgment[4]	neg[4]	
+2-9	177-183	that's	Judgment[4]	neg[4]	
+2-10	184-185	a	Judgment[4]	neg[4]	
+2-11	186-194	terrible	Judgment[4]	neg[4]	
+2-12	195-200	thing	Judgment[4]	neg[4]	
+2-13	201-204	too	Judgment[4]	neg[4]	
+2-14	204-205	?	_	_	
+2-15	205-206	?	_	_	
+
+#Text=And its all Harpers fault!
+3-1	207-210	And	_	_	
+3-2	211-214	its	_	_	
+3-3	215-218	all	_	_	
+3-4	219-226	Harpers	_	_	
+3-5	227-232	fault	Judgment	neg	
+3-6	232-233	!	_	_	
+
+#Text=Globe and Mail has badly deteriorated when they pass drivel like off as political commentary.
+4-1	233-238	Globe	_	_	
+4-2	239-242	and	_	_	
+4-3	243-247	Mail	_	_	
+4-4	248-251	has	_	_	
+4-5	252-257	badly	Appreciation[6]	neg[6]	
+4-6	258-270	deteriorated	Appreciation[6]	neg[6]	
+4-7	271-275	when	_	_	
+4-8	276-280	they	_	_	
+4-9	281-285	pass	_	_	
+4-10	286-292	drivel	Appreciation	neg	
+4-11	293-297	like	_	_	
+4-12	298-301	off	_	_	
+4-13	302-304	as	_	_	
+4-14	305-314	political	_	_	
+4-15	315-325	commentary	_	_	
+4-16	325-326	.	_	_	

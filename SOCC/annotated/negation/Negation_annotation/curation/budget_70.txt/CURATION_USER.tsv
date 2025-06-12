@@ -1,0 +1,207 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Oh yes, it's so easy to balance the budget!
+1-1	0-2	Oh	_	
+1-2	3-6	yes	_	
+1-3	6-7	,	_	
+1-4	8-12	it's	_	
+1-5	13-15	so	_	
+1-6	16-20	easy	_	
+1-7	21-23	to	_	
+1-8	24-31	balance	_	
+1-9	32-35	the	_	
+1-10	36-42	budget	_	
+1-11	42-43	!	_	
+
+#Text=So easy!
+2-1	44-46	So	_	
+2-2	47-51	easy	_	
+2-3	51-52	!	_	
+
+#Text=How's Wynne doing in Ontario, I wonder.
+3-1	53-58	How's	_	
+3-2	59-64	Wynne	_	
+3-3	65-70	doing	_	
+3-4	71-73	in	_	
+3-5	74-81	Ontario	_	
+3-6	81-82	,	_	
+3-7	83-84	I	_	
+3-8	85-91	wonder	_	
+3-9	91-92	.	_	
+
+#Text=She gets billions more each year in transfers for health, infrastructure, education from the federal government.
+4-1	93-96	She	_	
+4-2	97-101	gets	_	
+4-3	102-110	billions	_	
+4-4	111-115	more	_	
+4-5	116-120	each	_	
+4-6	121-125	year	_	
+4-7	126-128	in	_	
+4-8	129-138	transfers	_	
+4-9	139-142	for	_	
+4-10	143-149	health	_	
+4-11	149-150	,	_	
+4-12	151-165	infrastructure	_	
+4-13	165-166	,	_	
+4-14	167-176	education	_	
+4-15	177-181	from	_	
+4-16	182-185	the	_	
+4-17	186-193	federal	_	
+4-18	194-204	government	_	
+4-19	204-205	.	_	
+
+#Text=She gave cops (OPP) an extra about 10% two years ago, even the 10%-ers, the teachers, got a raise a few weeks ago (despite 'net-zero' promises).
+5-1	206-209	She	_	
+5-2	210-214	gave	_	
+5-3	215-219	cops	_	
+5-4	220-221	(	_	
+5-5	221-224	OPP	_	
+5-6	224-225	)	_	
+5-7	226-228	an	_	
+5-8	229-234	extra	_	
+5-9	235-240	about	_	
+5-10	241-244	10%	_	
+5-11	245-248	two	_	
+5-12	249-254	years	_	
+5-13	255-258	ago	_	
+5-14	258-259	,	_	
+5-15	260-264	even	_	
+5-16	265-268	the	_	
+5-17	269-272	10%	_	
+5-18	272-273	-	_	
+5-19	273-276	ers	_	
+5-20	276-277	,	_	
+5-21	278-281	the	_	
+5-22	282-290	teachers	_	
+5-23	290-291	,	_	
+5-24	292-295	got	_	
+5-25	296-297	a	_	
+5-26	298-303	raise	_	
+5-27	304-305	a	_	
+5-28	306-309	few	_	
+5-29	310-315	weeks	_	
+5-30	316-319	ago	_	
+5-31	320-321	(	_	
+5-32	321-328	despite	_	
+5-33	329-330	'	_	
+5-34	330-338	net-zero	_	
+5-35	338-339	'	_	
+5-36	340-348	promises	_	
+5-37	348-349	)	_	
+5-38	349-350	.	_	
+
+#Text=Surely, Ontario must have a large surplus!
+6-1	351-357	Surely	_	
+6-2	357-358	,	_	
+6-3	359-366	Ontario	_	
+6-4	367-371	must	_	
+6-5	372-376	have	_	
+6-6	377-378	a	_	
+6-7	379-384	large	_	
+6-8	385-392	surplus	_	
+6-9	392-393	!	_	
+
+#Text=Or at least a negligible surplus or deficit.What?!
+7-1	394-396	Or	_	
+7-2	397-399	at	_	
+7-3	400-405	least	_	
+7-4	406-407	a	_	
+7-5	408-418	negligible	_	
+7-6	419-426	surplus	_	
+7-7	427-429	or	_	
+7-8	430-442	deficit.What	_	
+7-9	442-443	?	_	
+7-10	443-444	!	_	
+
+#Text=She's running a $10 billion deficit on top of $10 billion off the books on 'infrastructure'?
+8-1	445-450	She's	_	
+8-2	451-458	running	_	
+8-3	459-460	a	_	
+8-4	461-464	$10	_	
+8-5	465-472	billion	_	
+8-6	473-480	deficit	_	
+8-7	481-483	on	_	
+8-8	484-487	top	_	
+8-9	488-490	of	_	
+8-10	491-494	$10	_	
+8-11	495-502	billion	_	
+8-12	503-506	off	_	
+8-13	507-510	the	_	
+8-14	511-516	books	_	
+8-15	517-519	on	_	
+8-16	520-521	'	_	
+8-17	521-535	infrastructure	_	
+8-18	535-536	'	_	
+8-19	536-537	?	_	
+
+#Text=$20 billion more debt?
+9-1	538-541	$20	_	
+9-2	542-549	billion	_	
+9-3	550-554	more	_	
+9-4	555-559	debt	_	
+9-5	559-560	?	_	
+
+#Text=Every year?!
+10-1	561-566	Every	_	
+10-2	567-571	year	_	
+10-3	571-572	?	_	
+10-4	572-573	!	_	
+
+#Text=But... it's so easy to get surpluses!
+11-1	574-577	But	_	
+11-2	577-578	.	_	
+11-3	578-579	.	_	
+11-4	579-580	.	_	
+11-5	581-585	it's	_	
+11-6	586-588	so	_	
+11-7	589-593	easy	_	
+11-8	594-596	to	_	
+11-9	597-600	get	_	
+11-10	601-610	surpluses	_	
+11-11	610-611	!	_	
+
+#Text=Simpson says so.
+12-1	612-619	Simpson	_	
+12-2	620-624	says	_	
+12-3	625-627	so	_	
+12-4	627-628	.	_	
+
+#Text=Obama can't do it.
+13-1	629-634	Obama	_	
+13-2	635-640	can't	NEG	
+13-3	641-643	do	SCOPE[2]	
+13-4	644-646	it	SCOPE[2]|FOCUS[3]	
+13-5	646-647	.	_	
+
+#Text=Cameron can't do it.
+14-1	648-655	Cameron	_	
+14-2	656-661	can't	NEG	
+14-3	662-664	do	SCOPE[5]	
+14-4	665-667	it	SCOPE[5]|FOCUS[6]	
+14-5	667-668	.	_	
+
+#Text=Hollande can't do it.
+15-1	669-677	Hollande	_	
+15-2	678-683	can't	NEG	
+15-3	684-686	do	SCOPE[8]	
+15-4	687-689	it	SCOPE[8]|FOCUS[9]	
+15-5	689-690	.	_	
+
+#Text=Wynne certainly can't do it... strange, since it's so easy.
+16-1	691-696	Wynne	_	
+16-2	697-706	certainly	_	
+16-3	707-712	can't	NEG	
+16-4	713-715	do	SCOPE[11]	
+16-5	716-718	it	SCOPE[11]|FOCUS[12]	
+16-6	718-719	.	_	
+16-7	719-720	.	_	
+16-8	720-721	.	_	
+16-9	722-729	strange	_	
+16-10	729-730	,	_	
+16-11	731-736	since	_	
+16-12	737-741	it's	_	
+16-13	742-744	so	_	
+16-14	745-749	easy	_	
+16-15	749-750	.	_	

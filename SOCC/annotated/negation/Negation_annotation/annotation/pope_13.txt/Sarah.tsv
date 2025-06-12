@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I share Margaret Wente's confusion over the adulation we see everywhere for Pope Francis.
+1-1	0-1	I	_	
+1-2	2-7	share	_	
+1-3	8-16	Margaret	_	
+1-4	17-24	Wente's	_	
+1-5	25-34	confusion	_	
+1-6	35-39	over	_	
+1-7	40-43	the	_	
+1-8	44-53	adulation	_	
+1-9	54-56	we	_	
+1-10	57-60	see	_	
+1-11	61-71	everywhere	_	
+1-12	72-75	for	_	
+1-13	76-80	Pope	_	
+1-14	81-88	Francis	_	
+1-15	88-89	.	_	
+
+#Text=When it comes to core Catholic beliefs, he is very conservative.
+2-1	91-95	When	_	
+2-2	96-98	it	_	
+2-3	99-104	comes	_	
+2-4	105-107	to	_	
+2-5	108-112	core	_	
+2-6	113-121	Catholic	_	
+2-7	122-129	beliefs	_	
+2-8	129-130	,	_	
+2-9	131-133	he	_	
+2-10	134-136	is	_	
+2-11	137-141	very	_	
+2-12	142-154	conservative	_	
+2-13	154-155	.	_	
+
+#Text=After all, he was elected by a very conservative group of cardinals that has been stocked by the recent popes, all of whom where conservative too.
+3-1	156-161	After	_	
+3-2	162-165	all	_	
+3-3	165-166	,	_	
+3-4	167-169	he	_	
+3-5	170-173	was	_	
+3-6	174-181	elected	_	
+3-7	182-184	by	_	
+3-8	185-186	a	_	
+3-9	187-191	very	_	
+3-10	192-204	conservative	_	
+3-11	205-210	group	_	
+3-12	211-213	of	_	
+3-13	214-223	cardinals	_	
+3-14	224-228	that	_	
+3-15	229-232	has	_	
+3-16	233-237	been	_	
+3-17	238-245	stocked	_	
+3-18	246-248	by	_	
+3-19	249-252	the	_	
+3-20	253-259	recent	_	
+3-21	260-265	popes	_	
+3-22	265-266	,	_	
+3-23	267-270	all	_	
+3-24	271-273	of	_	
+3-25	274-278	whom	_	
+3-26	279-284	where	_	
+3-27	285-297	conservative	_	
+3-28	298-301	too	_	
+3-29	301-302	.	_	
+
+#Text=So it was very unlikely they would choose anyone who would rock the boat.
+4-1	303-305	So	_	
+4-2	306-308	it	_	
+4-3	309-312	was	_	
+4-4	313-317	very	_	
+4-5	318-326	unlikely	_	
+4-6	327-331	they	_	
+4-7	332-337	would	_	
+4-8	338-344	choose	_	
+4-9	345-351	anyone	_	
+4-10	352-355	who	_	
+4-11	356-361	would	_	
+4-12	362-366	rock	_	
+4-13	367-370	the	_	
+4-14	371-375	boat	_	
+4-15	375-376	.	_	
+
+#Text=I think people are confusing his sincere personal preferences for humiity and a low key lifestyle  and a warm personality for openess and liberality.
+5-1	377-378	I	_	
+5-2	379-384	think	_	
+5-3	385-391	people	_	
+5-4	392-395	are	_	
+5-5	396-405	confusing	_	
+5-6	406-409	his	_	
+5-7	410-417	sincere	_	
+5-8	418-426	personal	_	
+5-9	427-438	preferences	_	
+5-10	439-442	for	_	
+5-11	443-450	humiity	_	
+5-12	451-454	and	_	
+5-13	455-456	a	_	
+5-14	457-460	low	_	
+5-15	461-464	key	_	
+5-16	465-474	lifestyle	_	
+5-17	476-479	and	_	
+5-18	480-481	a	_	
+5-19	482-486	warm	_	
+5-20	487-498	personality	_	
+5-21	499-502	for	_	
+5-22	503-510	openess	_	
+5-23	511-514	and	_	
+5-24	515-525	liberality	_	
+5-25	525-526	.	_	
+
+#Text=Pope Francis may deal with opposition through persuasion, example and kindness rather than force and pressure, but his goal is to lead back to the conservative fold, not a more open liberal place.
+6-1	527-531	Pope	_	
+6-2	532-539	Francis	_	
+6-3	540-543	may	_	
+6-4	544-548	deal	_	
+6-5	549-553	with	_	
+6-6	554-564	opposition	_	
+6-7	565-572	through	_	
+6-8	573-583	persuasion	_	
+6-9	583-584	,	_	
+6-10	585-592	example	_	
+6-11	593-596	and	_	
+6-12	597-605	kindness	_	
+6-13	606-612	rather	_	
+6-14	613-617	than	_	
+6-15	618-623	force	_	
+6-16	624-627	and	_	
+6-17	628-636	pressure	_	
+6-18	636-637	,	_	
+6-19	638-641	but	_	
+6-20	642-645	his	_	
+6-21	646-650	goal	_	
+6-22	651-653	is	_	
+6-23	654-656	to	_	
+6-24	657-661	lead	_	
+6-25	662-666	back	_	
+6-26	667-669	to	_	
+6-27	670-673	the	_	
+6-28	674-686	conservative	_	
+6-29	687-691	fold	_	
+6-30	691-692	,	_	
+6-31	693-696	not	NEG	
+6-32	697-698	a	SCOPE[2]	
+6-33	699-703	more	SCOPE[2]	
+6-34	704-708	open	SCOPE[2]	
+6-35	709-716	liberal	SCOPE[2]|FOCUS[3]	
+6-36	717-722	place	SCOPE[2]	
+6-37	722-723	.	_	

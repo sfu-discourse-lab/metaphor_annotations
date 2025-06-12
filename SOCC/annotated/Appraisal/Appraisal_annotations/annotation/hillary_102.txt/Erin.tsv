@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=This article is complete nonsense.
+1-1	0-4	This	_	_	_	_	
+1-2	5-12	article	_	_	_	_	
+1-3	13-15	is	_	_	_	_	
+1-4	16-24	complete	Appreciation[1]	neg[1]	Force	up	
+1-5	25-33	nonsense	Appreciation[1]	neg[1]	_	_	
+1-6	33-34	.	_	_	_	_	
+
+#Text=No one voted FOR Hillary.
+2-1	35-37	No	Judgment[2]	neg[2]	_	_	
+2-2	38-41	one	Judgment[2]	neg[2]	_	_	
+2-3	42-47	voted	Judgment[2]	neg[2]	_	_	
+2-4	48-51	FOR	Judgment[2]	neg[2]	_	_	
+2-5	52-59	Hillary	Judgment[2]	neg[2]	_	_	
+2-6	59-60	.	_	_	_	_	
+
+#Text=But a lot of people voted AGAINST Trump.
+3-1	61-64	But	Judgment[3]	neg[3]	_	_	
+3-2	65-66	a	Judgment[3]	neg[3]	_	_	
+3-3	67-70	lot	Judgment[3]	neg[3]	_	_	
+3-4	71-73	of	Judgment[3]	neg[3]	_	_	
+3-5	74-80	people	Judgment[3]	neg[3]	_	_	
+3-6	81-86	voted	Judgment[3]	neg[3]	_	_	
+3-7	87-94	AGAINST	Judgment[3]	neg[3]	_	_	
+3-8	95-100	Trump	Judgment[3]	neg[3]	_	_	
+3-9	100-101	.	_	_	_	_	
+
+#Text=Frankly, if Clinton was anything but a complete and utter disaster she would have won in a landslide.
+4-1	102-109	Frankly	_	_	_	_	
+4-2	109-110	,	_	_	_	_	
+4-3	111-113	if	Appreciation[4]	neg[4]	_	_	
+4-4	114-121	Clinton	Appreciation[4]	neg[4]	_	_	
+4-5	122-125	was	Appreciation[4]	neg[4]	_	_	
+4-6	126-134	anything	Appreciation[4]	neg[4]	_	_	
+4-7	135-138	but	Appreciation[4]	neg[4]	_	_	
+4-8	139-140	a	Appreciation[4]	neg[4]	_	_	
+4-9	141-149	complete	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	_	_	
+4-10	150-153	and	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	_	_	
+4-11	154-159	utter	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	_	_	
+4-12	160-168	disaster	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	_	_	
+4-13	169-172	she	Appreciation[4]	neg[4]	_	_	
+4-14	173-178	would	Appreciation[4]	neg[4]	_	_	
+4-15	179-183	have	Appreciation[4]	neg[4]	_	_	
+4-16	184-187	won	Appreciation[4]	neg[4]	_	_	
+4-17	188-190	in	Appreciation[4]	neg[4]	_	_	
+4-18	191-192	a	Appreciation[4]	neg[4]	_	_	
+4-19	193-202	landslide	Appreciation[4]	neg[4]	_	_	
+4-20	202-203	.	_	_	_	_	

@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Looks like it.
+1-1	0-5	Looks	Appreciation[1]	pos[1]	_	_	
+1-2	6-10	like	Appreciation[1]	pos[1]	_	_	
+1-3	11-13	it	Appreciation[1]	pos[1]	_	_	
+1-4	13-14	.	_	_	_	_	
+
+#Text=When it comes to one's portfolio, sovereignty takes on less meaning, something that the late Mel Hurtig failed to point out.
+2-1	15-19	When	_	_	_	_	
+2-2	20-22	it	_	_	_	_	
+2-3	23-28	comes	_	_	_	_	
+2-4	29-31	to	_	_	_	_	
+2-5	32-37	one's	_	_	_	_	
+2-6	38-47	portfolio	_	_	_	_	
+2-7	47-48	,	_	_	_	_	
+2-8	49-60	sovereignty	Appreciation	pos	_	_	
+2-9	61-66	takes	_	_	_	_	
+2-10	67-69	on	_	_	_	_	
+2-11	70-74	less	Appreciation[3]	neg[3]	Force	down	
+2-12	75-82	meaning	Appreciation[3]	neg[3]	_	_	
+2-13	82-83	,	_	_	_	_	
+2-14	84-93	something	_	_	_	_	
+2-15	94-98	that	_	_	_	_	
+2-16	99-102	the	_	_	_	_	
+2-17	103-107	late	_	_	_	_	
+2-18	108-111	Mel	_	_	_	_	
+2-19	112-118	Hurtig	_	_	_	_	
+2-20	119-125	failed	Judgment	neg	_	_	
+2-21	126-128	to	_	_	_	_	
+2-22	129-134	point	_	_	_	_	
+2-23	135-138	out	_	_	_	_	
+2-24	138-139	.	_	_	_	_	
+
+#Text=He was not a socialist.
+3-1	140-142	He	_	_	_	_	
+3-2	143-146	was	_	_	_	_	
+3-3	147-150	not	Judgment[5]	pos[5]	_	_	
+3-4	151-152	a	Judgment[5]	pos[5]	_	_	
+3-5	153-162	socialist	Judgment[5]	pos[5]	_	_	
+3-6	162-163	.	_	_	_	_	
+
+#Text=We don't have sabers to rattle and our workforce has less and less to work at.
+4-1	164-166	We	_	_	_	_	
+4-2	167-172	don't	Judgment[6]	neg[6]	_	_	
+4-3	173-177	have	Judgment[6]	neg[6]	_	_	
+4-4	178-184	sabers	Judgment[6]	neg[6]	_	_	
+4-5	185-187	to	Judgment[6]	neg[6]	_	_	
+4-6	188-194	rattle	Judgment[6]	neg[6]	_	_	
+4-7	195-198	and	_	_	_	_	
+4-8	199-202	our	_	_	_	_	
+4-9	203-212	workforce	_	_	_	_	
+4-10	213-216	has	_	_	_	_	
+4-11	217-221	less	Appreciation[7]	neg[7]	_	_	
+4-12	222-225	and	Appreciation[7]	neg[7]	Force[2]	down[2]	
+4-13	226-230	less	Appreciation[7]	neg[7]	Force[2]	down[2]	
+4-14	231-233	to	Appreciation[7]	neg[7]	_	_	
+4-15	234-238	work	Appreciation[7]	neg[7]	_	_	
+4-16	239-241	at	Appreciation[7]	neg[7]	_	_	
+4-17	241-242	.	_	_	_	_	
+
+#Text=Let's just sign the TPP and pull the sheet up over what's left.
+5-1	243-248	Let's	Appreciation[8]	neg[8]	_	_	
+5-2	249-253	just	Appreciation[8]	neg[8]	_	_	
+5-3	254-258	sign	Appreciation[8]	neg[8]	_	_	
+5-4	259-262	the	Appreciation[8]	neg[8]	_	_	
+5-5	263-266	TPP	Appreciation[8]	neg[8]	_	_	
+5-6	267-270	and	Appreciation[8]	neg[8]	_	_	
+5-7	271-275	pull	Appreciation[8]	neg[8]	_	_	
+5-8	276-279	the	Appreciation[8]	neg[8]	_	_	
+5-9	280-285	sheet	Appreciation[8]	neg[8]	_	_	
+5-10	286-288	up	Appreciation[8]	neg[8]	_	_	
+5-11	289-293	over	Appreciation[8]	neg[8]	_	_	
+5-12	294-300	what's	Appreciation[8]	neg[8]	_	_	
+5-13	301-305	left	Appreciation[8]	neg[8]	_	_	
+5-14	305-306	.	_	_	_	_	
+
+#Text=Who are we to be concerned about China's domestication of the western Pacific, the Indian Ocean and east Africa ?
+6-1	307-310	Who	Judgment[9]	neg[9]	_	_	
+6-2	311-314	are	Judgment[9]	neg[9]	_	_	
+6-3	315-317	we	Judgment[9]	neg[9]	_	_	
+6-4	318-320	to	Judgment[9]	neg[9]	_	_	
+6-5	321-323	be	Judgment[9]	neg[9]	_	_	
+6-6	324-333	concerned	Judgment[9]	neg[9]	_	_	
+6-7	334-339	about	Judgment[9]	neg[9]	_	_	
+6-8	340-347	China's	Judgment[9]	neg[9]	_	_	
+6-9	348-361	domestication	Judgment[9]	neg[9]	_	_	
+6-10	362-364	of	Judgment[9]	neg[9]	_	_	
+6-11	365-368	the	Judgment[9]	neg[9]	_	_	
+6-12	369-376	western	Judgment[9]	neg[9]	_	_	
+6-13	377-384	Pacific	Judgment[9]	neg[9]	_	_	
+6-14	384-385	,	Judgment[9]	neg[9]	_	_	
+6-15	386-389	the	Judgment[9]	neg[9]	_	_	
+6-16	390-396	Indian	Judgment[9]	neg[9]	_	_	
+6-17	397-402	Ocean	Judgment[9]	neg[9]	_	_	
+6-18	403-406	and	Judgment[9]	neg[9]	_	_	
+6-19	407-411	east	Judgment[9]	neg[9]	_	_	
+6-20	412-418	Africa	Judgment[9]	neg[9]	_	_	
+6-21	419-420	?	_	_	_	_	

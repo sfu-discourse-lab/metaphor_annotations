@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text='He\u2019s hardly the choice of the establishment, media, cultural, business or political.'
+1-1	0-1	'	
+1-2	1-3	He	
+1-3	3-4	’	
+1-4	4-5	s	
+1-5	6-12	hardly	
+1-6	13-16	the	
+1-7	17-23	choice	
+1-8	24-26	of	
+1-9	27-30	the	
+1-10	31-44	establishment	
+1-11	44-45	,	
+1-12	46-51	media	
+1-13	51-52	,	
+1-14	53-61	cultural	
+1-15	61-62	,	
+1-16	63-71	business	
+1-17	72-74	or	
+1-18	75-84	political	
+1-19	84-85	.	
+1-20	85-86	'	
+
+#Text=You are neglecting the fact that Joe and Jill Average are actually the backbone of a country.
+2-1	87-90	You	
+2-2	91-94	are	
+2-3	95-105	neglecting	
+2-4	106-109	the	
+2-5	110-114	fact	
+2-6	115-119	that	
+2-7	120-123	Joe	
+2-8	124-127	and	
+2-9	128-132	Jill	
+2-10	133-140	Average	
+2-11	141-144	are	
+2-12	145-153	actually	
+2-13	154-157	the	
+2-14	158-166	backbone	
+2-15	167-169	of	
+2-16	170-171	a	
+2-17	172-179	country	
+2-18	179-180	.	
+
+#Text=Perhaps the elite, the intelligentsia and the media should learn to listen.
+3-1	181-188	Perhaps	
+3-2	189-192	the	
+3-3	193-198	elite	
+3-4	198-199	,	
+3-5	200-203	the	
+3-6	204-218	intelligentsia	
+3-7	219-222	and	
+3-8	223-226	the	
+3-9	227-232	media	
+3-10	233-239	should	
+3-11	240-245	learn	
+3-12	246-248	to	
+3-13	249-255	listen	
+3-14	255-256	.	
+
+#Text=Perhaps they should take note of who pays for their proposed leftist policies that are inspired by their perception of what is correct.Better a Trump than a revolution.
+4-1	257-264	Perhaps	
+4-2	265-269	they	
+4-3	270-276	should	
+4-4	277-281	take	
+4-5	282-286	note	
+4-6	287-289	of	
+4-7	290-293	who	
+4-8	294-298	pays	
+4-9	299-302	for	
+4-10	303-308	their	
+4-11	309-317	proposed	
+4-12	318-325	leftist	
+4-13	326-334	policies	
+4-14	335-339	that	
+4-15	340-343	are	
+4-16	344-352	inspired	
+4-17	353-355	by	
+4-18	356-361	their	
+4-19	362-372	perception	
+4-20	373-375	of	
+4-21	376-380	what	
+4-22	381-383	is	
+4-23	384-398	correct.Better	
+4-24	399-400	a	
+4-25	401-406	Trump	
+4-26	407-411	than	
+4-27	412-413	a	
+4-28	414-424	revolution	
+4-29	424-425	.	

@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=They dictate meter rates because, as the article states, they have created an oligopoly and an artificial shortage of taxis.
+1-1	0-4	They	_	_	_	_	
+1-2	5-12	dictate	Judgment	neg	_	_	
+1-3	13-18	meter	_	_	_	_	
+1-4	19-24	rates	_	_	_	_	
+1-5	25-32	because	_	_	_	_	
+1-6	32-33	,	_	_	_	_	
+1-7	34-36	as	_	_	_	_	
+1-8	37-40	the	_	_	_	_	
+1-9	41-48	article	_	_	_	_	
+1-10	49-55	states	Appreciation	pos	_	_	
+1-11	55-56	,	_	_	_	_	
+1-12	57-61	they	_	_	_	_	
+1-13	62-66	have	_	_	_	_	
+1-14	67-74	created	Judgment[3]	neg[3]	_	_	
+1-15	75-77	an	Judgment[3]	neg[3]	_	_	
+1-16	78-87	oligopoly	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+1-17	88-91	and	Judgment[3]	neg[3]	_	_	
+1-18	92-94	an	Judgment[3]	neg[3]	_	_	
+1-19	95-105	artificial	Judgment[3]|Appreciation[5]	neg[3]|neg[5]	_	_	
+1-20	106-114	shortage	Judgment[3]|Appreciation[5]	neg[3]|neg[5]	_	_	
+1-21	115-117	of	_	_	_	_	
+1-22	118-123	taxis	_	_	_	_	
+1-23	123-124	.	_	_	_	_	
+
+#Text=If they didn't dictate prices under the current system, rates would be sky high.
+2-1	125-127	If	Appreciation[6]	neg[6]	_	_	
+2-2	128-132	they	Appreciation[6]	neg[6]	_	_	
+2-3	133-139	didn't	Appreciation[6]	neg[6]	_	_	
+2-4	140-147	dictate	Appreciation[6]	neg[6]	_	_	
+2-5	148-154	prices	Appreciation[6]	neg[6]	_	_	
+2-6	155-160	under	Appreciation[6]	neg[6]	_	_	
+2-7	161-164	the	Appreciation[6]	neg[6]	_	_	
+2-8	165-172	current	Appreciation[6]	neg[6]	_	_	
+2-9	173-179	system	Appreciation[6]	neg[6]	_	_	
+2-10	179-180	,	Appreciation[6]	neg[6]	_	_	
+2-11	181-186	rates	Appreciation[6]	neg[6]	_	_	
+2-12	187-192	would	Appreciation[6]	neg[6]	_	_	
+2-13	193-195	be	Appreciation[6]	neg[6]	_	_	
+2-14	196-199	sky	Appreciation[6]	neg[6]	_	_	
+2-15	200-204	high	Appreciation[6]	neg[6]	_	_	
+2-16	204-205	.	_	_	_	_	
+
+#Text=What the city needs to get out of is the restriction in the number of taxis and to allow more competition.
+3-1	206-210	What	_	_	_	_	
+3-2	211-214	the	_	_	_	_	
+3-3	215-219	city	_	_	_	_	
+3-4	220-225	needs	_	_	_	_	
+3-5	226-228	to	_	_	_	_	
+3-6	229-232	get	_	_	_	_	
+3-7	233-236	out	_	_	_	_	
+3-8	237-239	of	_	_	_	_	
+3-9	240-242	is	_	_	_	_	
+3-10	243-246	the	_	_	_	_	
+3-11	247-258	restriction	Appreciation	neg	_	_	
+3-12	259-261	in	_	_	_	_	
+3-13	262-265	the	_	_	_	_	
+3-14	266-272	number	_	_	_	_	
+3-15	273-275	of	_	_	_	_	
+3-16	276-281	taxis	_	_	_	_	
+3-17	282-285	and	_	_	_	_	
+3-18	286-288	to	_	_	_	_	
+3-19	289-294	allow	Appreciation[8]	pos[8]	_	_	
+3-20	295-299	more	Appreciation[8]	pos[8]	_	_	
+3-21	300-311	competition	Appreciation[8]	pos[8]	_	_	
+3-22	311-312	.	_	_	_	_	
+
+#Text=THAT would help tremendously.
+4-1	313-317	THAT	_	_	_	_	
+4-2	318-323	would	Appreciation[9]	pos[9]	_	_	
+4-3	324-328	help	Appreciation[9]	pos[9]	_	_	
+4-4	329-341	tremendously	Appreciation[9]	pos[9]	Focus	up	
+4-5	341-342	.	_	_	_	_	

@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Just keep whining - next thing that will happen is a ban on foreign buyers, or serious restrictions on foreign owners of ALL nationalities.If you don't like it, go destroy another beautiful city somewhere else!
+1-1	0-4	Just	_	
+1-2	5-9	keep	_	
+1-3	10-17	whining	_	
+1-4	18-19	-	_	
+1-5	20-24	next	_	
+1-6	25-30	thing	_	
+1-7	31-35	that	_	
+1-8	36-40	will	_	
+1-9	41-47	happen	_	
+1-10	48-50	is	_	
+1-11	51-52	a	_	
+1-12	53-56	ban	_	
+1-13	57-59	on	_	
+1-14	60-67	foreign	_	
+1-15	68-74	buyers	_	
+1-16	74-75	,	_	
+1-17	76-78	or	_	
+1-18	79-86	serious	_	
+1-19	87-99	restrictions	_	
+1-20	100-102	on	_	
+1-21	103-110	foreign	_	
+1-22	111-117	owners	_	
+1-23	118-120	of	_	
+1-24	121-124	ALL	_	
+1-25	125-141	nationalities.If	_	
+1-26	142-145	you	_	
+1-27	146-151	don't	NEG	
+1-28	152-156	like	SCOPE[2]|FOCUS[3]	
+1-29	157-159	it	SCOPE[2]	
+1-30	159-160	,	_	
+1-31	161-163	go	_	
+1-32	164-171	destroy	_	
+1-33	172-179	another	_	
+1-34	180-189	beautiful	_	
+1-35	190-194	city	_	
+1-36	195-204	somewhere	_	
+1-37	205-209	else	_	
+1-38	209-210	!	_	

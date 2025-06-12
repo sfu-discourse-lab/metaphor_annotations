@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=your headlines could be better.
+1-1	0-4	your	_	_	_	_	
+1-2	5-14	headlines	_	_	_	_	
+1-3	15-20	could	Appreciation[1]	neg[1]	_	_	
+1-4	21-23	be	Appreciation[1]	neg[1]	_	_	
+1-5	24-30	better	Appreciation[1]	neg[1]	Force	up	
+1-6	30-31	.	_	_	_	_	
+
+#Text=If you are trying to get the attention of grade seven kids you are right on.
+2-1	32-34	If	Judgment[2]	neg[2]	_	_	
+2-2	35-38	you	Judgment[2]	neg[2]	_	_	
+2-3	39-42	are	Judgment[2]	neg[2]	_	_	
+2-4	43-49	trying	Judgment[2]	neg[2]	_	_	
+2-5	50-52	to	Judgment[2]	neg[2]	_	_	
+2-6	53-56	get	Judgment[2]	neg[2]	_	_	
+2-7	57-60	the	Judgment[2]	neg[2]	_	_	
+2-8	61-70	attention	Judgment[2]	neg[2]	_	_	
+2-9	71-73	of	Judgment[2]	neg[2]	_	_	
+2-10	74-79	grade	Judgment[2]	neg[2]	_	_	
+2-11	80-85	seven	Judgment[2]	neg[2]	_	_	
+2-12	86-90	kids	Judgment[2]	neg[2]	_	_	
+2-13	91-94	you	Judgment[2]	neg[2]	_	_	
+2-14	95-98	are	Judgment[2]	neg[2]	_	_	
+2-15	99-104	right	Judgment[2]	neg[2]	_	_	
+2-16	105-107	on	Judgment[2]	neg[2]	_	_	
+2-17	107-108	.	_	_	_	_	

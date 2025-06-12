@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Refreshing editorial!
+1-1	0-10	Refreshing	Appreciation	pos	_	_	
+1-2	11-20	editorial	_	_	_	_	
+1-3	20-21	!	_	_	_	_	
+
+#Text=So nice for someone to call it like it is.
+2-1	22-24	So	Appreciation[2]	pos[2]	Force	up	
+2-2	25-29	nice	Appreciation[2]	pos[2]	_	_	
+2-3	30-33	for	_	_	_	_	
+2-4	34-41	someone	_	_	_	_	
+2-5	42-44	to	_	_	_	_	
+2-6	45-49	call	Judgment[3]	pos[3]	_	_	
+2-7	50-52	it	Judgment[3]	pos[3]	_	_	
+2-8	53-57	like	Judgment[3]	pos[3]	_	_	
+2-9	58-60	it	Judgment[3]	pos[3]	_	_	
+2-10	61-63	is	Judgment[3]	pos[3]	_	_	
+2-11	63-64	.	_	_	_	_	
+
+#Text=Why should I have to pay more to get a ride in an old smelly car?
+3-1	65-68	Why	Appreciation[4]	neg[4]	_	_	
+3-2	69-75	should	Appreciation[4]	neg[4]	_	_	
+3-3	76-77	I	Appreciation[4]	neg[4]	_	_	
+3-4	78-82	have	Appreciation[4]	neg[4]	_	_	
+3-5	83-85	to	Appreciation[4]	neg[4]	_	_	
+3-6	86-89	pay	Appreciation[4]	neg[4]	_	_	
+3-7	90-94	more	Appreciation[4]	neg[4]	_	_	
+3-8	95-97	to	Appreciation[4]	neg[4]	_	_	
+3-9	98-101	get	Appreciation[4]	neg[4]	_	_	
+3-10	102-103	a	Appreciation[4]	neg[4]	_	_	
+3-11	104-108	ride	Appreciation[4]	neg[4]	_	_	
+3-12	109-111	in	Appreciation[4]	neg[4]	_	_	
+3-13	112-114	an	Appreciation[4]	neg[4]	_	_	
+3-14	115-118	old	Appreciation[4]|Appreciation[5]	neg[4]|neg[5]	_	_	
+3-15	119-125	smelly	Appreciation[4]|Appreciation[5]	neg[4]|neg[5]	_	_	
+3-16	126-129	car	Appreciation[4]	neg[4]	_	_	
+3-17	129-130	?	_	_	_	_	
+
+#Text=What makes it worse is despite my paying inflated rates the person driving the car is likely not making much money - its the license holder!
+4-1	131-135	What	_	_	_	_	
+4-2	136-141	makes	_	_	_	_	
+4-3	142-144	it	_	_	_	_	
+4-4	145-150	worse	Appreciation	neg	_	_	
+4-5	151-153	is	_	_	_	_	
+4-6	154-161	despite	_	_	_	_	
+4-7	162-164	my	_	_	_	_	
+4-8	165-171	paying	_	_	_	_	
+4-9	172-180	inflated	Appreciation	neg	_	_	
+4-10	181-186	rates	_	_	_	_	
+4-11	187-190	the	_	_	_	_	
+4-12	191-197	person	_	_	_	_	
+4-13	198-205	driving	_	_	_	_	
+4-14	206-209	the	_	_	_	_	
+4-15	210-213	car	_	_	_	_	
+4-16	214-216	is	_	_	_	_	
+4-17	217-223	likely	Appreciation[8]	neg[8]	_	_	
+4-18	224-227	not	Appreciation[8]	neg[8]	_	_	
+4-19	228-234	making	Appreciation[8]	neg[8]	_	_	
+4-20	235-239	much	Appreciation[8]	neg[8]	_	_	
+4-21	240-245	money	Appreciation[8]	neg[8]	_	_	
+4-22	246-247	-	_	_	_	_	
+4-23	248-251	its	_	_	_	_	
+4-24	252-255	the	_	_	_	_	
+4-25	256-263	license	_	_	_	_	
+4-26	264-270	holder	_	_	_	_	
+4-27	270-271	!	_	_	_	_	
+
+#Text=Uber offers one form of competition, hopefully more will follow.
+5-1	272-276	Uber	_	_	_	_	
+5-2	277-283	offers	Judgment[9]	pos[9]	_	_	
+5-3	284-287	one	Judgment[9]	pos[9]	_	_	
+5-4	288-292	form	Judgment[9]	pos[9]	_	_	
+5-5	293-295	of	Judgment[9]	pos[9]	_	_	
+5-6	296-307	competition	Judgment[9]|Appreciation[10]	pos[9]|pos[10]	_	_	
+5-7	307-308	,	_	_	_	_	
+5-8	309-318	hopefully	Appreciation[11]	pos[11]	_	_	
+5-9	319-323	more	Appreciation[11]	pos[11]	_	_	
+5-10	324-328	will	Appreciation[11]	pos[11]	_	_	
+5-11	329-335	follow	Appreciation[11]	pos[11]	_	_	
+5-12	335-336	.	_	_	_	_	
+
+#Text=On another (but related) note.
+6-1	337-339	On	_	_	_	_	
+6-2	340-347	another	_	_	_	_	
+6-3	348-349	(	_	_	_	_	
+6-4	349-352	but	_	_	_	_	
+6-5	353-360	related	_	_	_	_	
+6-6	360-361	)	_	_	_	_	
+6-7	362-366	note	_	_	_	_	
+6-8	366-367	.	_	_	_	_	
+
+#Text=Hypothetically: If cabs cost double what they do now would there be more or less impaired driving?
+7-1	368-382	Hypothetically	_	_	_	_	
+7-2	382-383	:	_	_	_	_	
+7-3	384-386	If	Appreciation[12]	neg[12]	_	_	
+7-4	387-391	cabs	Appreciation[12]	neg[12]	_	_	
+7-5	392-396	cost	Appreciation[12]	neg[12]	_	_	
+7-6	397-403	double	Appreciation[12]	neg[12]	_	_	
+7-7	404-408	what	Appreciation[12]	neg[12]	_	_	
+7-8	409-413	they	Appreciation[12]	neg[12]	_	_	
+7-9	414-416	do	Appreciation[12]	neg[12]	_	_	
+7-10	417-420	now	Appreciation[12]	neg[12]	_	_	
+7-11	421-426	would	Appreciation[12]	neg[12]	_	_	
+7-12	427-432	there	Appreciation[12]	neg[12]	_	_	
+7-13	433-435	be	Appreciation[12]	neg[12]	_	_	
+7-14	436-440	more	Appreciation[12]	neg[12]	_	_	
+7-15	441-443	or	Appreciation[12]	neg[12]	_	_	
+7-16	444-448	less	Appreciation[12]	neg[12]	_	_	
+7-17	449-457	impaired	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+7-18	458-465	driving	Appreciation[12]	neg[12]	_	_	
+7-19	465-466	?	_	_	_	_	
+
+#Text=Now the real point: What would happen if cabs cost half what they do now, more or less impaired driving?
+8-1	467-470	Now	_	_	_	_	
+8-2	471-474	the	_	_	_	_	
+8-3	475-479	real	Appreciation	pos	_	_	
+8-4	480-485	point	_	_	_	_	
+8-5	485-486	:	_	_	_	_	
+8-6	487-491	What	Appreciation[15]	neg[15]	_	_	
+8-7	492-497	would	Appreciation[15]	neg[15]	_	_	
+8-8	498-504	happen	Appreciation[15]	neg[15]	_	_	
+8-9	505-507	if	Appreciation[15]	neg[15]	_	_	
+8-10	508-512	cabs	Appreciation[15]	neg[15]	_	_	
+8-11	513-517	cost	Appreciation[15]	neg[15]	_	_	
+8-12	518-522	half	Appreciation[15]	neg[15]	_	_	
+8-13	523-527	what	Appreciation[15]	neg[15]	_	_	
+8-14	528-532	they	Appreciation[15]	neg[15]	_	_	
+8-15	533-535	do	Appreciation[15]	neg[15]	_	_	
+8-16	536-539	now	Appreciation[15]	neg[15]	_	_	
+8-17	539-540	,	Appreciation[15]	neg[15]	_	_	
+8-18	541-545	more	Appreciation[15]	neg[15]	_	_	
+8-19	546-548	or	Appreciation[15]	neg[15]	_	_	
+8-20	549-553	less	Appreciation[15]	neg[15]	_	_	
+8-21	554-562	impaired	Appreciation[15]|Appreciation[16]	neg[15]|neg[16]	_	_	
+8-22	563-570	driving	Appreciation[15]	neg[15]	_	_	
+8-23	570-571	?	_	_	_	_	

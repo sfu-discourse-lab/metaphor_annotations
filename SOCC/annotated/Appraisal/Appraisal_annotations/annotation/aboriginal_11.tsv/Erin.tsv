@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Agreed, time to close the reserves or turn them into accountable 
+#Text=municipal governments.
+1-1	0-6	Agreed	_	_	
+1-2	6-7	,	_	_	
+1-3	8-12	time	Appreciation[1]	pos[1]	
+1-4	13-15	to	Appreciation[1]	pos[1]	
+1-5	16-21	close	Appreciation[1]	pos[1]	
+1-6	22-25	the	Appreciation[1]	pos[1]	
+1-7	26-34	reserves	Appreciation[1]	pos[1]	
+1-8	35-37	or	_	_	
+1-9	38-42	turn	Appreciation[2]	pos[2]	
+1-10	43-47	them	Appreciation[2]	pos[2]	
+1-11	48-52	into	Appreciation[2]	pos[2]	
+1-12	53-64	accountable	Appreciation[2]|*[3]|Appreciation[4]	pos[2]|pos[3]|pos[4]	
+1-13	66-75	municipal	Appreciation[2]	pos[2]	
+1-14	76-87	governments	Appreciation[2]	pos[2]	
+1-15	87-88	.	_	_	

@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=But there IS evidence that Uber is less safe.
+1-1	0-3	But	_	_	_	_	
+1-2	4-9	there	_	_	_	_	
+1-3	10-12	IS	_	_	_	_	
+1-4	13-21	evidence	_	_	_	_	
+1-5	22-26	that	_	_	_	_	
+1-6	27-31	Uber	_	_	_	_	
+1-7	32-34	is	_	_	_	_	
+1-8	35-39	less	Appreciation[1]	neg[1]	Force	down	
+1-9	40-44	safe	Appreciation[1]	neg[1]	_	_	
+1-10	44-45	.	_	_	_	_	
+
+#Text=You only have to Google the number of incidences globally to see this and Uber can wash it's hands of any liability because it is only a booking app and imposes no regulation on its drivers.
+2-1	46-49	You	_	_	_	_	
+2-2	50-54	only	_	_	_	_	
+2-3	55-59	have	_	_	_	_	
+2-4	60-62	to	_	_	_	_	
+2-5	63-69	Google	_	_	_	_	
+2-6	70-73	the	_	_	_	_	
+2-7	74-80	number	_	_	_	_	
+2-8	81-83	of	_	_	_	_	
+2-9	84-94	incidences	Appreciation	neg	_	_	
+2-10	95-103	globally	_	_	_	_	
+2-11	104-106	to	_	_	_	_	
+2-12	107-110	see	_	_	_	_	
+2-13	111-115	this	_	_	_	_	
+2-14	116-119	and	_	_	_	_	
+2-15	120-124	Uber	_	_	_	_	
+2-16	125-128	can	_	_	_	_	
+2-17	129-133	wash	Judgment[3]	neg[3]	_	_	
+2-18	134-138	it's	Judgment[3]	neg[3]	_	_	
+2-19	139-144	hands	Judgment[3]	neg[3]	_	_	
+2-20	145-147	of	Judgment[3]	neg[3]	_	_	
+2-21	148-151	any	Judgment[3]	neg[3]	_	_	
+2-22	152-161	liability	Judgment[3]	neg[3]	_	_	
+2-23	162-169	because	_	_	_	_	
+2-24	170-172	it	_	_	_	_	
+2-25	173-175	is	_	_	_	_	
+2-26	176-180	only	_	_	_	_	
+2-27	181-182	a	_	_	_	_	
+2-28	183-190	booking	_	_	_	_	
+2-29	191-194	app	_	_	_	_	
+2-30	195-198	and	_	_	_	_	
+2-31	199-206	imposes	Judgment[4]	neg[4]	_	_	
+2-32	207-209	no	Judgment[4]	neg[4]	_	_	
+2-33	210-220	regulation	Judgment[4]	neg[4]	_	_	
+2-34	221-223	on	_	_	_	_	
+2-35	224-227	its	_	_	_	_	
+2-36	228-235	drivers	_	_	_	_	
+2-37	235-236	.	_	_	_	_	
+
+#Text=They can remove themselves if something goes wrong.
+3-1	237-241	They	_	_	_	_	
+3-2	242-245	can	_	_	_	_	
+3-3	246-252	remove	Judgment[5]	neg[5]	_	_	
+3-4	253-263	themselves	Judgment[5]	neg[5]	_	_	
+3-5	264-266	if	Judgment[5]	neg[5]	_	_	
+3-6	267-276	something	Judgment[5]	neg[5]	_	_	
+3-7	277-281	goes	Judgment[5]	neg[5]	_	_	
+3-8	282-287	wrong	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+3-9	287-288	.	_	_	_	_	
+
+#Text=If the drivers have to start paying license fees and undergo training and be liable under a regulated insurance scheme, then the economics don't work as well.
+4-1	289-291	If	Appreciation[7]	neg[7]	_	_	
+4-2	292-295	the	Appreciation[7]	neg[7]	_	_	
+4-3	296-303	drivers	Appreciation[7]	neg[7]	_	_	
+4-4	304-308	have	Appreciation[7]	neg[7]	_	_	
+4-5	309-311	to	Appreciation[7]	neg[7]	_	_	
+4-6	312-317	start	Appreciation[7]	neg[7]	_	_	
+4-7	318-324	paying	Appreciation[7]	neg[7]	_	_	
+4-8	325-332	license	Appreciation[7]	neg[7]	_	_	
+4-9	333-337	fees	Appreciation[7]	neg[7]	_	_	
+4-10	338-341	and	Appreciation[7]	neg[7]	_	_	
+4-11	342-349	undergo	Appreciation[7]	neg[7]	_	_	
+4-12	350-358	training	Appreciation[7]	neg[7]	_	_	
+4-13	359-362	and	Appreciation[7]	neg[7]	_	_	
+4-14	363-365	be	Appreciation[7]	neg[7]	_	_	
+4-15	366-372	liable	Appreciation[7]	neg[7]	_	_	
+4-16	373-378	under	Appreciation[7]	neg[7]	_	_	
+4-17	379-380	a	Appreciation[7]	neg[7]	_	_	
+4-18	381-390	regulated	Appreciation[7]	neg[7]	_	_	
+4-19	391-400	insurance	Appreciation[7]	neg[7]	_	_	
+4-20	401-407	scheme	Appreciation[7]	neg[7]	_	_	
+4-21	407-408	,	Appreciation[7]	neg[7]	_	_	
+4-22	409-413	then	Appreciation[7]	neg[7]	_	_	
+4-23	414-417	the	Appreciation[7]	neg[7]	_	_	
+4-24	418-427	economics	Appreciation[7]	neg[7]	_	_	
+4-25	428-433	don't	Appreciation[7]	neg[7]	_	_	
+4-26	434-438	work	Appreciation[7]	neg[7]	_	_	
+4-27	439-441	as	Appreciation[7]	neg[7]	_	_	
+4-28	442-446	well	Appreciation[7]	neg[7]	_	_	
+4-29	446-447	.	_	_	_	_	
+
+#Text=Yes the cab system in Toronto is pathetic with filthy cars and a monopoly but that is an issue of regulation, not competition.
+5-1	448-451	Yes	_	_	_	_	
+5-2	452-455	the	_	_	_	_	
+5-3	456-459	cab	_	_	_	_	
+5-4	460-466	system	_	_	_	_	
+5-5	467-469	in	_	_	_	_	
+5-6	470-477	Toronto	_	_	_	_	
+5-7	478-480	is	_	_	_	_	
+5-8	481-489	pathetic	Appreciation	neg	_	_	
+5-9	490-494	with	_	_	_	_	
+5-10	495-501	filthy	Appreciation	neg	_	_	
+5-11	502-506	cars	_	_	_	_	
+5-12	507-510	and	_	_	_	_	
+5-13	511-512	a	_	_	_	_	
+5-14	513-521	monopoly	Appreciation	neg	_	_	
+5-15	522-525	but	_	_	_	_	
+5-16	526-530	that	_	_	_	_	
+5-17	531-533	is	_	_	_	_	
+5-18	534-536	an	_	_	_	_	
+5-19	537-542	issue	_	_	_	_	
+5-20	543-545	of	_	_	_	_	
+5-21	546-556	regulation	Appreciation	neg	_	_	
+5-22	556-557	,	_	_	_	_	
+5-23	558-561	not	_	_	_	_	
+5-24	562-573	competition	Appreciation	pos	_	_	
+5-25	573-574	.	_	_	_	_	

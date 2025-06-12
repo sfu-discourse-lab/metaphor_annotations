@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Indeed.
+1-1	0-6	Indeed	_	
+1-2	6-7	.	_	
+
+#Text=The only reason I can think of is that the Japanese atoll is kind of middle-of-nowhere in the western Pacific, while the Spratly Islands are smack in the middle of the busiest sea-lanes in the region, with about five competing territorial claims....
+2-1	9-12	The	_	
+2-2	13-17	only	_	
+2-3	18-24	reason	_	
+2-4	25-26	I	_	
+2-5	27-30	can	_	
+2-6	31-36	think	_	
+2-7	37-39	of	_	
+2-8	40-42	is	_	
+2-9	43-47	that	_	
+2-10	48-51	the	_	
+2-11	52-60	Japanese	_	
+2-12	61-66	atoll	_	
+2-13	67-69	is	_	
+2-14	70-74	kind	_	
+2-15	75-77	of	_	
+2-16	78-95	middle-of-nowhere	_	
+2-17	96-98	in	_	
+2-18	99-102	the	_	
+2-19	103-110	western	_	
+2-20	111-118	Pacific	_	
+2-21	118-119	,	_	
+2-22	120-125	while	_	
+2-23	126-129	the	_	
+2-24	130-137	Spratly	_	
+2-25	138-145	Islands	_	
+2-26	146-149	are	_	
+2-27	150-155	smack	_	
+2-28	156-158	in	_	
+2-29	159-162	the	_	
+2-30	163-169	middle	_	
+2-31	170-172	of	_	
+2-32	173-176	the	_	
+2-33	177-184	busiest	_	
+2-34	185-194	sea-lanes	_	
+2-35	195-197	in	_	
+2-36	198-201	the	_	
+2-37	202-208	region	_	
+2-38	208-209	,	_	
+2-39	210-214	with	_	
+2-40	215-220	about	_	
+2-41	221-225	five	_	
+2-42	226-235	competing	_	
+2-43	236-247	territorial	_	
+2-44	248-254	claims	_	
+2-45	254-255	.	_	
+2-46	255-256	.	_	
+2-47	256-257	.	_	
+2-48	257-258	.	_	
+
+#Text=If nothing else, your reference also got me to read about Rockall, where the UK foregoes any claim to an economic exclusion zone.
+3-1	260-262	If	_	
+3-2	263-270	nothing	NEG	
+3-3	271-275	else	SCOPE[2]|FOCUS[3]	
+3-4	275-276	,	_	
+3-5	277-281	your	_	
+3-6	282-291	reference	_	
+3-7	292-296	also	_	
+3-8	297-300	got	_	
+3-9	301-303	me	_	
+3-10	304-306	to	_	
+3-11	307-311	read	_	
+3-12	312-317	about	_	
+3-13	318-325	Rockall	_	
+3-14	325-326	,	_	
+3-15	327-332	where	_	
+3-16	333-336	the	_	
+3-17	337-339	UK	_	
+3-18	340-348	foregoes	_	
+3-19	349-352	any	_	
+3-20	353-358	claim	_	
+3-21	359-361	to	_	
+3-22	362-364	an	_	
+3-23	365-373	economic	_	
+3-24	374-383	exclusion	_	
+3-25	384-388	zone	_	
+3-26	388-389	.	_	
+
+#Text=Seems like this could be a useful example for others....
+4-1	391-396	Seems	_	
+4-2	397-401	like	_	
+4-3	402-406	this	_	
+4-4	407-412	could	_	
+4-5	413-415	be	_	
+4-6	416-417	a	_	
+4-7	418-424	useful	_	
+4-8	425-432	example	_	
+4-9	433-436	for	_	
+4-10	437-443	others	_	
+4-11	443-444	.	_	
+4-12	444-445	.	_	
+4-13	445-446	.	_	
+4-14	446-447	.	_	

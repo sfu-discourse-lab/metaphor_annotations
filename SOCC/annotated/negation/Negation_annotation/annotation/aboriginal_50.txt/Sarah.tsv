@@ -1,0 +1,110 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The one word that stood out to me in this and one I was glad was included was NEGLECT.
+1-1	0-3	The	_	
+1-2	4-7	one	_	
+1-3	8-12	word	_	
+1-4	13-17	that	_	
+1-5	18-23	stood	_	
+1-6	24-27	out	_	
+1-7	28-30	to	_	
+1-8	31-33	me	_	
+1-9	34-36	in	_	
+1-10	37-41	this	_	
+1-11	42-45	and	_	
+1-12	46-49	one	_	
+1-13	50-51	I	_	
+1-14	52-55	was	_	
+1-15	56-60	glad	_	
+1-16	61-64	was	_	
+1-17	65-73	included	_	
+1-18	74-77	was	_	
+1-19	78-85	NEGLECT	_	
+1-20	85-86	.	_	
+
+#Text=Kids having kids.
+2-1	88-92	Kids	_	
+2-2	93-99	having	_	
+2-3	100-104	kids	_	
+2-4	104-105	.	_	
+
+#Text=Poverty is maintained when families are not waiting to be grown, educated and employed before starting a family.
+3-1	107-114	Poverty	_	
+3-2	115-117	is	_	
+3-3	118-128	maintained	_	
+3-4	129-133	when	_	
+3-5	134-142	families	_	
+3-6	143-146	are	_	
+3-7	147-150	not	NEG	
+3-8	151-158	waiting	SCOPE[2]	
+3-9	159-161	to	SCOPE[2]	
+3-10	162-164	be	SCOPE[2]	
+3-11	165-170	grown	SCOPE[2]|FOCUS[3]	
+3-12	170-171	,	SCOPE[2]	
+3-13	172-180	educated	SCOPE[2]|FOCUS[4]	
+3-14	181-184	and	SCOPE[2]	
+3-15	185-193	employed	SCOPE[2]|FOCUS[5]	
+3-16	194-200	before	SCOPE[2]	
+3-17	201-209	starting	SCOPE[2]	
+3-18	210-211	a	SCOPE[2]	
+3-19	212-218	family	SCOPE[2]	
+3-20	218-219	.	_	
+
+#Text=A culture of Non-interference whereby the kids are basically left alone without the most basic of expectations and routines is the place to start.
+4-1	221-222	A	_	
+4-2	223-230	culture	_	
+4-3	231-233	of	_	
+4-4	234-250	Non-interference	_	
+4-5	251-258	whereby	_	
+4-6	259-262	the	_	
+4-7	263-267	kids	_	
+4-8	268-271	are	_	
+4-9	272-281	basically	_	
+4-10	282-286	left	_	
+4-11	287-292	alone	_	
+4-12	293-300	without	_	
+4-13	301-304	the	_	
+4-14	305-309	most	_	
+4-15	310-315	basic	_	
+4-16	316-318	of	_	
+4-17	319-331	expectations	_	
+4-18	332-335	and	_	
+4-19	336-344	routines	_	
+4-20	345-347	is	_	
+4-21	348-351	the	_	
+4-22	352-357	place	_	
+4-23	358-360	to	_	
+4-24	361-366	start	_	
+4-25	366-367	.	_	
+
+#Text=It can't be done or even suggested by the non-aboriginal community however for obvious reasons.
+5-1	369-371	It	_	
+5-2	372-377	can't	NEG	
+5-3	378-380	be	SCOPE[7]	
+5-4	381-385	done	SCOPE[7]	
+5-5	386-388	or	SCOPE[7]	
+5-6	389-393	even	SCOPE[7]	
+5-7	394-403	suggested	SCOPE[7]	
+5-8	404-406	by	SCOPE[7]	
+5-9	407-410	the	SCOPE[7]|FOCUS[8]	
+5-10	411-425	non-aboriginal	SCOPE[7]|FOCUS[8]	
+5-11	426-435	community	SCOPE[7]|FOCUS[8]	
+5-12	436-443	however	_	
+5-13	444-447	for	_	
+5-14	448-455	obvious	_	
+5-15	456-463	reasons	_	
+5-16	463-464	.	_	
+
+#Text=So we wait.. and the cycle continues.
+6-1	466-468	So	_	
+6-2	469-471	we	_	
+6-3	472-476	wait	_	
+6-4	476-477	.	_	
+6-5	477-478	.	_	
+6-6	479-482	and	_	
+6-7	483-486	the	_	
+6-8	487-492	cycle	_	
+6-9	493-502	continues	_	
+6-10	502-503	.	_	

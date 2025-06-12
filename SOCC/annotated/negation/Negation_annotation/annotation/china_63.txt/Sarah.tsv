@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=This has to have been written by Chinese government sponsored propagandists.
+1-1	0-4	This	
+1-2	5-8	has	
+1-3	9-11	to	
+1-4	12-16	have	
+1-5	17-21	been	
+1-6	22-29	written	
+1-7	30-32	by	
+1-8	33-40	Chinese	
+1-9	41-51	government	
+1-10	52-61	sponsored	
+1-11	62-75	propagandists	
+1-12	75-76	.	

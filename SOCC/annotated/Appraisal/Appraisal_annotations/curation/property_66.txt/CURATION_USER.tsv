@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=No.
+1-1	0-2	No	Appreciation	neg	
+1-2	2-3	.	_	_	
+
+#Text=It is a colour-blind tax designed to discourage the wealthy.
+2-1	4-6	It	_	_	
+2-2	7-9	is	_	_	
+2-3	10-11	a	_	_	
+2-4	12-24	colour-blind	Appreciation	pos	
+2-5	25-28	tax	_	_	
+2-6	29-37	designed	Appreciation[3]	pos[3]	
+2-7	38-40	to	Appreciation[3]	pos[3]	
+2-8	41-51	discourage	Appreciation[3]	pos[3]	
+2-9	52-55	the	Appreciation[3]	pos[3]	
+2-10	56-63	wealthy	Appreciation[3]	pos[3]	
+2-11	63-64	.	_	_	
+
+#Text=It affects a wealthy WASP American buyer in the same way it affects any other non-WASP demographic.
+3-1	65-67	It	_	_	
+3-2	68-75	affects	Appreciation[4]	pos[4]	
+3-3	76-77	a	Appreciation[4]	pos[4]	
+3-4	78-85	wealthy	Appreciation[4]	pos[4]	
+3-5	86-90	WASP	Appreciation[4]	pos[4]	
+3-6	91-99	American	Appreciation[4]	pos[4]	
+3-7	100-105	buyer	Appreciation[4]	pos[4]	
+3-8	106-108	in	Appreciation[4]	pos[4]	
+3-9	109-112	the	Appreciation[4]	pos[4]	
+3-10	113-117	same	Appreciation[4]	pos[4]	
+3-11	118-121	way	Appreciation[4]	pos[4]	
+3-12	122-124	it	Appreciation[4]	pos[4]	
+3-13	125-132	affects	Appreciation[4]	pos[4]	
+3-14	133-136	any	Appreciation[4]	pos[4]	
+3-15	137-142	other	Appreciation[4]	pos[4]	
+3-16	143-151	non-WASP	Appreciation[4]	pos[4]	
+3-17	152-163	demographic	Appreciation[4]	pos[4]	
+3-18	163-164	.	_	_	
+
+#Text=Enough said.
+4-1	165-171	Enough	_	_	
+4-2	172-176	said	_	_	
+4-3	176-177	.	_	_	
+
+#Text=Drop the race card.
+5-1	178-182	Drop	Judgment[5]	neg[5]	
+5-2	183-186	the	Judgment[5]	neg[5]	
+5-3	187-191	race	Judgment[5]	neg[5]	
+5-4	192-196	card	Judgment[5]	neg[5]	
+5-5	196-197	.	_	_	
+
+#Text=Next issue please.
+6-1	198-202	Next	Judgment[6]	neg[6]	
+6-2	203-208	issue	Judgment[6]	neg[6]	
+6-3	209-215	please	Judgment[6]	neg[6]	
+6-4	215-216	.	_	_	

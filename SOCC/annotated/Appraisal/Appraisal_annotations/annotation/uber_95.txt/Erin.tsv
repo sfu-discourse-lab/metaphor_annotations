@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Uber is great, especially the 'surge' pricing.
+1-1	0-4	Uber	_	_	
+1-2	5-7	is	_	_	
+1-3	8-13	great	Appreciation[1]	neg[1]	
+1-4	13-14	,	Appreciation[1]	neg[1]	
+1-5	15-25	especially	Appreciation[1]	neg[1]	
+1-6	26-29	the	Appreciation[1]	neg[1]	
+1-7	30-31	'	Appreciation[1]	neg[1]	
+1-8	31-36	surge	Appreciation[1]	neg[1]	
+1-9	36-37	'	Appreciation[1]	neg[1]	
+1-10	38-45	pricing	Appreciation[1]	neg[1]	
+1-11	45-46	.	_	_	
+
+#Text=Why get into a cab with an actual licensed and insured driver, when you can get into a private car, driven by someone without a background check, with only the minimum insurance, and at best, a sketchy knowledge of where to go, or a out of date GPS.
+2-1	47-50	Why	Judgment[2]	neg[2]	
+2-2	51-54	get	Judgment[2]	neg[2]	
+2-3	55-59	into	Judgment[2]	neg[2]	
+2-4	60-61	a	Judgment[2]	neg[2]	
+2-5	62-65	cab	Judgment[2]	neg[2]	
+2-6	66-70	with	Judgment[2]	neg[2]	
+2-7	71-73	an	Judgment[2]	neg[2]	
+2-8	74-80	actual	Judgment[2]|Judgment[3]	neg[2]|pos[3]	
+2-9	81-89	licensed	Judgment[2]|Judgment[3]	neg[2]|pos[3]	
+2-10	90-93	and	Judgment[2]|Judgment[3]	neg[2]|pos[3]	
+2-11	94-101	insured	Judgment[2]|Judgment[3]	neg[2]|pos[3]	
+2-12	102-108	driver	Judgment[2]	neg[2]	
+2-13	108-109	,	Judgment[2]	neg[2]	
+2-14	110-114	when	Judgment[2]	neg[2]	
+2-15	115-118	you	Judgment[2]	neg[2]	
+2-16	119-122	can	Judgment[2]	neg[2]	
+2-17	123-126	get	Judgment[2]	neg[2]	
+2-18	127-131	into	Judgment[2]	neg[2]	
+2-19	132-133	a	Judgment[2]	neg[2]	
+2-20	134-141	private	Judgment[2]	neg[2]	
+2-21	142-145	car	Judgment[2]	neg[2]	
+2-22	145-146	,	Judgment[2]	neg[2]	
+2-23	147-153	driven	Judgment[2]	neg[2]	
+2-24	154-156	by	Judgment[2]	neg[2]	
+2-25	157-164	someone	Judgment[2]	neg[2]	
+2-26	165-172	without	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-27	173-174	a	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-28	175-185	background	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-29	186-191	check	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-30	191-192	,	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-31	193-197	with	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-32	198-202	only	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-33	203-206	the	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-34	207-214	minimum	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-35	215-224	insurance	Judgment[2]|Judgment[4]	neg[2]|neg[4]	
+2-36	224-225	,	Judgment[2]	neg[2]	
+2-37	226-229	and	Judgment[2]	neg[2]	
+2-38	230-232	at	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-39	233-237	best	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-40	237-238	,	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-41	239-240	a	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-42	241-248	sketchy	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-43	249-258	knowledge	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-44	259-261	of	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-45	262-267	where	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-46	268-270	to	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-47	271-273	go	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-48	273-274	,	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-49	275-277	or	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-50	278-279	a	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-51	280-283	out	Judgment[2]|Judgment[5]|Appreciation[6]	neg[2]|neg[5]|neg[6]	
+2-52	284-286	of	Judgment[2]|Judgment[5]|Appreciation[6]	neg[2]|neg[5]|neg[6]	
+2-53	287-291	date	Judgment[2]|Judgment[5]|Appreciation[6]	neg[2]|neg[5]|neg[6]	
+2-54	292-295	GPS	Judgment[2]|Judgment[5]	neg[2]|neg[5]	
+2-55	295-296	.	_	_	
+
+#Text=Lost something in an Uber car?
+3-1	297-301	Lost	_	_	
+3-2	302-311	something	_	_	
+3-3	312-314	in	_	_	
+3-4	315-317	an	_	_	
+3-5	318-322	Uber	_	_	
+3-6	323-326	car	_	_	
+3-7	326-327	?	_	_	
+
+#Text=good luck tracking it, it's gone.
+4-1	328-332	good	Appreciation[7]	neg[7]	
+4-2	333-337	luck	Appreciation[7]	neg[7]	
+4-3	338-346	tracking	Appreciation[7]	neg[7]	
+4-4	347-349	it	Appreciation[7]	neg[7]	
+4-5	349-350	,	_	_	
+4-6	351-355	it's	_	_	
+4-7	356-360	gone	Judgment	neg	
+4-8	360-361	.	_	_	
+
+#Text=Why stop at taxis?
+5-1	362-365	Why	Judgment[9]	neg[9]	
+5-2	366-370	stop	Judgment[9]	neg[9]	
+5-3	371-373	at	Judgment[9]	neg[9]	
+5-4	374-379	taxis	Judgment[9]	neg[9]	
+5-5	379-380	?	_	_	
+
+#Text=How about Uber lawyers, Uber Doctors, Uber Pharmacists, etc.
+6-1	380-383	How	Judgment[10]	neg[10]	
+6-2	384-389	about	Judgment[10]	neg[10]	
+6-3	390-394	Uber	Judgment[10]	neg[10]	
+6-4	395-402	lawyers	Judgment[10]	neg[10]	
+6-5	402-403	,	Judgment[10]	neg[10]	
+6-6	404-408	Uber	Judgment[10]	neg[10]	
+6-7	409-416	Doctors	Judgment[10]	neg[10]	
+6-8	416-417	,	Judgment[10]	neg[10]	
+6-9	418-422	Uber	Judgment[10]	neg[10]	
+6-10	423-434	Pharmacists	Judgment[10]	neg[10]	
+6-11	434-435	,	Judgment[10]	neg[10]	
+6-12	436-439	etc	Judgment[10]	neg[10]	
+6-13	439-440	.	_	_	
+
+#Text=Why have regulated pricing, when the market can decide!
+7-1	441-444	Why	Judgment[11]	neg[11]	
+7-2	445-449	have	Judgment[11]	neg[11]	
+7-3	450-459	regulated	Judgment[11]	neg[11]	
+7-4	460-467	pricing	Judgment[11]	neg[11]	
+7-5	467-468	,	Judgment[11]	neg[11]	
+7-6	469-473	when	Judgment[11]	neg[11]	
+7-7	474-477	the	Judgment[11]	neg[11]	
+7-8	478-484	market	Judgment[11]	neg[11]	
+7-9	485-488	can	Judgment[11]	neg[11]	
+7-10	489-495	decide	Judgment[11]	neg[11]	
+7-11	495-496	!	_	_	

@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=If she was a man, she would be Romney, so no.
+1-1	0-2	If	Judgment[1]	neg[1]	
+1-2	3-6	she	Judgment[1]	neg[1]	
+1-3	7-10	was	Judgment[1]	neg[1]	
+1-4	11-12	a	Judgment[1]	neg[1]	
+1-5	13-16	man	Judgment[1]	neg[1]	
+1-6	16-17	,	Judgment[1]	neg[1]	
+1-7	18-21	she	Judgment[1]	neg[1]	
+1-8	22-27	would	Judgment[1]	neg[1]	
+1-9	28-30	be	Judgment[1]	neg[1]	
+1-10	31-37	Romney	Judgment[1]	neg[1]	
+1-11	37-38	,	_	_	
+1-12	39-41	so	_	_	
+1-13	42-44	no	_	_	
+1-14	44-45	.	_	_	

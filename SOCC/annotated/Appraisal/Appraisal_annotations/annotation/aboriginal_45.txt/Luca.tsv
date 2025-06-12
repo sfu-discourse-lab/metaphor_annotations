@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Mr.
+1-1	0-2	Mr	_	_	
+1-2	2-3	.	_	_	
+
+#Text=Hughes draws a connection?
+2-1	4-10	Hughes	_	_	
+2-2	11-16	draws	_	_	
+2-3	17-18	a	_	_	
+2-4	19-29	connection	_	_	
+2-5	29-30	?	_	_	
+
+#Text=More like states the obvious.
+3-1	31-35	More	_	_	
+3-2	36-40	like	_	_	
+3-3	41-47	states	_	_	
+3-4	48-51	the	_	_	
+3-5	52-59	obvious	_	_	
+3-6	59-60	.	_	_	
+
+#Text=Which is why an inquiry is not needed.
+4-1	61-66	Which	Affect	neu	
+4-2	67-69	is	_	_	
+4-3	70-73	why	_	_	
+4-4	74-76	an	_	_	
+4-5	77-84	inquiry	_	_	
+4-6	85-87	is	_	_	
+4-7	88-91	not	Appreciation[2]	neg[2]	
+4-8	92-98	needed	Appreciation[2]	neg[2]	
+4-9	98-99	.	_	_	
+
+#Text=There is nothing to figure out.
+5-1	100-105	There	_	_	
+5-2	106-108	is	_	_	
+5-3	109-116	nothing	_	_	
+5-4	117-119	to	_	_	
+5-5	120-126	figure	_	_	
+5-6	127-130	out	_	_	
+5-7	130-131	.	_	_	
+
+#Text=First Nations women are disproportionately victims of violence because they disproportionately live in poverty and poor housing with parents who are uneducated and unemployed not to mention alcoholics and drug addicts largely incapable of looking after themselves let alone children.
+6-1	132-137	First	_	_	
+6-2	138-145	Nations	_	_	
+6-3	146-151	women	_	_	
+6-4	152-155	are	_	_	
+6-5	156-174	disproportionately	Appreciation[3]	neg[3]	
+6-6	175-182	victims	Appreciation[3]	neg[3]	
+6-7	183-185	of	_	_	
+6-8	186-194	violence	_	_	
+6-9	195-202	because	_	_	
+6-10	203-207	they	_	_	
+6-11	208-226	disproportionately	Appreciation[4]	neg[4]	
+6-12	227-231	live	Appreciation[4]	neg[4]	
+6-13	232-234	in	Appreciation[4]	neg[4]	
+6-14	235-242	poverty	Appreciation[4]	neg[4]	
+6-15	243-246	and	Appreciation[4]	neg[4]	
+6-16	247-251	poor	Appreciation[4]	neg[4]	
+6-17	252-259	housing	Appreciation[4]	neg[4]	
+6-18	260-264	with	Appreciation[4]	neg[4]	
+6-19	265-272	parents	Appreciation[4]	neg[4]	
+6-20	273-276	who	Appreciation[4]	neg[4]	
+6-21	277-280	are	Appreciation[4]	neg[4]	
+6-22	281-291	uneducated	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	
+6-23	292-295	and	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	
+6-24	296-306	unemployed	Appreciation[4]|Judgment[5]	neg[4]|neg[5]	
+6-25	307-310	not	Appreciation[4]	neg[4]	
+6-26	311-313	to	Appreciation[4]	neg[4]	
+6-27	314-321	mention	Appreciation[4]	neg[4]	
+6-28	322-332	alcoholics	Appreciation[4]|Judgment[6]	neg[4]|neg[6]	
+6-29	333-336	and	Appreciation[4]|Judgment[6]	neg[4]|neg[6]	
+6-30	337-341	drug	Appreciation[4]|Judgment[6]	neg[4]|neg[6]	
+6-31	342-349	addicts	Appreciation[4]|Judgment[6]	neg[4]|neg[6]	
+6-32	350-357	largely	Appreciation[4]	neg[4]	
+6-33	358-367	incapable	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-34	368-370	of	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-35	371-378	looking	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-36	379-384	after	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-37	385-395	themselves	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-38	396-399	let	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-39	400-405	alone	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-40	406-414	children	Appreciation[4]|Judgment[7]	neg[4]|neg[7]	
+6-41	414-415	.	_	_	

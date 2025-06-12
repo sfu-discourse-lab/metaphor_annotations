@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Simpson claims the budget surplus isn't a surprise to him, yet in early August he wrote that the Conservative claim to a balanced budget had 'fallen apart'.
+1-1	0-7	Simpson	_	
+1-2	8-14	claims	_	
+1-3	15-18	the	_	
+1-4	19-25	budget	_	
+1-5	26-33	surplus	_	
+1-6	34-39	isn't	NEG	
+1-7	40-41	a	SCOPE[2]|FOCUS[3]	
+1-8	42-50	surprise	SCOPE[2]|FOCUS[3]	
+1-9	51-53	to	SCOPE[2]	
+1-10	54-57	him	SCOPE[2]	
+1-11	57-58	,	_	
+1-12	59-62	yet	_	
+1-13	63-65	in	_	
+1-14	66-71	early	_	
+1-15	72-78	August	_	
+1-16	79-81	he	_	
+1-17	82-87	wrote	_	
+1-18	88-92	that	_	
+1-19	93-96	the	_	
+1-20	97-109	Conservative	_	
+1-21	110-115	claim	_	
+1-22	116-118	to	_	
+1-23	119-120	a	_	
+1-24	121-129	balanced	_	
+1-25	130-136	budget	_	
+1-26	137-140	had	_	
+1-27	141-142	'	_	
+1-28	142-148	fallen	_	
+1-29	149-154	apart	_	
+1-30	154-155	'	_	
+1-31	155-156	.	_	
+
+#Text=The anti-Conservative partisan Simpson is simply not credible and this article is cartoonish.
+2-1	157-160	The	_	
+2-2	161-178	anti-Conservative	_	
+2-3	179-187	partisan	_	
+2-4	188-195	Simpson	_	
+2-5	196-198	is	_	
+2-6	199-205	simply	_	
+2-7	206-209	not	NEG	
+2-8	210-218	credible	SCOPE[5]|FOCUS[6]	
+2-9	219-222	and	_	
+2-10	223-227	this	_	
+2-11	228-235	article	_	
+2-12	236-238	is	_	
+2-13	239-249	cartoonish	_	
+2-14	249-250	.	_	
+
+#Text=The Globe should retire old Simpson and replace him with someone more credible.
+3-1	251-254	The	_	
+3-2	255-260	Globe	_	
+3-3	261-267	should	_	
+3-4	268-274	retire	_	
+3-5	275-278	old	_	
+3-6	279-286	Simpson	_	
+3-7	287-290	and	_	
+3-8	291-298	replace	_	
+3-9	299-302	him	_	
+3-10	303-307	with	_	
+3-11	308-315	someone	_	
+3-12	316-320	more	_	
+3-13	321-329	credible	_	
+3-14	329-330	.	_	

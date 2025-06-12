@@ -1,0 +1,249 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=The human capacity for invention has defined us and the world we live in for hundreds of thousands of years.
+1-1	0-3	The	_	_	_	_	
+1-2	4-9	human	_	_	_	_	
+1-3	10-18	capacity	_	_	_	_	
+1-4	19-22	for	_	_	_	_	
+1-5	23-32	invention	_	_	_	_	
+1-6	33-36	has	_	_	_	_	
+1-7	37-44	defined	Appreciation[1]	pos[1]	_	_	
+1-8	45-47	us	Appreciation[1]	pos[1]	_	_	
+1-9	48-51	and	Appreciation[1]	pos[1]	_	_	
+1-10	52-55	the	Appreciation[1]	pos[1]	_	_	
+1-11	56-61	world	Appreciation[1]	pos[1]	_	_	
+1-12	62-64	we	Appreciation[1]	pos[1]	_	_	
+1-13	65-69	live	Appreciation[1]	pos[1]	_	_	
+1-14	70-72	in	Appreciation[1]	pos[1]	_	_	
+1-15	73-76	for	_	_	_	_	
+1-16	77-85	hundreds	_	_	_	_	
+1-17	86-88	of	_	_	_	_	
+1-18	89-98	thousands	_	_	_	_	
+1-19	99-101	of	_	_	_	_	
+1-20	102-107	years	_	_	_	_	
+1-21	107-108	.	_	_	_	_	
+
+#Text=Technology is the one thing that has given humans the ability to dominate the planet as we have.
+2-1	109-119	Technology	_	_	_	_	
+2-2	120-122	is	_	_	_	_	
+2-3	123-126	the	_	_	_	_	
+2-4	127-130	one	_	_	_	_	
+2-5	131-136	thing	_	_	_	_	
+2-6	137-141	that	_	_	_	_	
+2-7	142-145	has	_	_	_	_	
+2-8	146-151	given	_	_	_	_	
+2-9	152-158	humans	_	_	_	_	
+2-10	159-162	the	_	_	_	_	
+2-11	163-170	ability	_	_	_	_	
+2-12	171-173	to	_	_	_	_	
+2-13	174-182	dominate	Judgment	pos	_	_	
+2-14	183-186	the	_	_	_	_	
+2-15	187-193	planet	_	_	_	_	
+2-16	194-196	as	_	_	_	_	
+2-17	197-199	we	_	_	_	_	
+2-18	200-204	have	_	_	_	_	
+2-19	204-205	.	_	_	_	_	
+
+#Text=And it's only accelerated since the invention of agriculture, industry, information technology.
+3-1	206-209	And	_	_	_	_	
+3-2	210-214	it's	_	_	_	_	
+3-3	215-219	only	_	_	_	_	
+3-4	220-231	accelerated	Appreciation[3]	pos[3]	_	_	
+3-5	232-237	since	Appreciation[3]	pos[3]	_	_	
+3-6	238-241	the	Appreciation[3]	pos[3]	_	_	
+3-7	242-251	invention	Appreciation[3]	pos[3]	_	_	
+3-8	252-254	of	Appreciation[3]	pos[3]	_	_	
+3-9	255-266	agriculture	Appreciation[3]	pos[3]	_	_	
+3-10	266-267	,	Appreciation[3]	pos[3]	_	_	
+3-11	268-276	industry	Appreciation[3]	pos[3]	_	_	
+3-12	276-277	,	Appreciation[3]	pos[3]	_	_	
+3-13	278-289	information	Appreciation[3]	pos[3]	_	_	
+3-14	290-300	technology	Appreciation[3]	pos[3]	_	_	
+3-15	300-301	.	_	_	_	_	
+
+#Text=I don' know what the exact period of a cycle is, but there appears to be a geometric progression to the increase in pace.
+4-1	302-303	I	_	_	_	_	
+4-2	304-307	don	_	_	_	_	
+4-3	307-308	'	_	_	_	_	
+4-4	309-313	know	_	_	_	_	
+4-5	314-318	what	_	_	_	_	
+4-6	319-322	the	_	_	_	_	
+4-7	323-328	exact	_	_	_	_	
+4-8	329-335	period	_	_	_	_	
+4-9	336-338	of	_	_	_	_	
+4-10	339-340	a	_	_	_	_	
+4-11	341-346	cycle	_	_	_	_	
+4-12	347-349	is	_	_	_	_	
+4-13	349-350	,	_	_	_	_	
+4-14	351-354	but	_	_	_	_	
+4-15	355-360	there	_	_	_	_	
+4-16	361-368	appears	_	_	_	_	
+4-17	369-371	to	_	_	_	_	
+4-18	372-374	be	_	_	_	_	
+4-19	375-376	a	_	_	_	_	
+4-20	377-386	geometric	_	_	_	_	
+4-21	387-398	progression	_	_	_	_	
+4-22	399-401	to	_	_	_	_	
+4-23	402-405	the	_	_	_	_	
+4-24	406-414	increase	_	_	_	_	
+4-25	415-417	in	_	_	_	_	
+4-26	418-422	pace	_	_	_	_	
+4-27	422-423	.	_	_	_	_	
+
+#Text=Like it or not, technology is the thing that is our greatest strength and weakness.
+5-1	424-428	Like	_	_	_	_	
+5-2	429-431	it	_	_	_	_	
+5-3	432-434	or	_	_	_	_	
+5-4	435-438	not	_	_	_	_	
+5-5	438-439	,	_	_	_	_	
+5-6	440-450	technology	_	_	_	_	
+5-7	451-453	is	_	_	_	_	
+5-8	454-457	the	_	_	_	_	
+5-9	458-463	thing	_	_	_	_	
+5-10	464-468	that	_	_	_	_	
+5-11	469-471	is	_	_	_	_	
+5-12	472-475	our	_	_	_	_	
+5-13	476-484	greatest	Appreciation[4]	neu[4]	Force	up	
+5-14	485-493	strength	Appreciation[4]	neu[4]	_	_	
+5-15	494-497	and	Appreciation[4]	neu[4]	_	_	
+5-16	498-506	weakness	Appreciation[4]	neu[4]	_	_	
+5-17	506-507	.	_	_	_	_	
+
+#Text=Technology has give us the ability to live in any ecological niche in the world, travel to any point on the globe, to decipher the mysteries of creation (to a great extent), master the very building blocks of life (genetics), explore other planets (and stars one day), communicate instantly with anyone anywhere, etc, etc.
+6-1	508-518	Technology	_	_	_	_	
+6-2	519-522	has	_	_	_	_	
+6-3	523-527	give	Appreciation[5]	pos[5]	_	_	
+6-4	528-530	us	Appreciation[5]	pos[5]	_	_	
+6-5	531-534	the	Appreciation[5]	pos[5]	_	_	
+6-6	535-542	ability	Appreciation[5]	pos[5]	_	_	
+6-7	543-545	to	Appreciation[5]	pos[5]	_	_	
+6-8	546-550	live	Appreciation[5]	pos[5]	_	_	
+6-9	551-553	in	Appreciation[5]	pos[5]	_	_	
+6-10	554-557	any	Appreciation[5]	pos[5]	_	_	
+6-11	558-568	ecological	Appreciation[5]	pos[5]	_	_	
+6-12	569-574	niche	Appreciation[5]	pos[5]	_	_	
+6-13	575-577	in	Appreciation[5]	pos[5]	_	_	
+6-14	578-581	the	Appreciation[5]	pos[5]	_	_	
+6-15	582-587	world	Appreciation[5]	pos[5]	_	_	
+6-16	587-588	,	Appreciation[5]	pos[5]	_	_	
+6-17	589-595	travel	Appreciation[5]	pos[5]	_	_	
+6-18	596-598	to	Appreciation[5]	pos[5]	_	_	
+6-19	599-602	any	Appreciation[5]	pos[5]	_	_	
+6-20	603-608	point	Appreciation[5]	pos[5]	_	_	
+6-21	609-611	on	Appreciation[5]	pos[5]	_	_	
+6-22	612-615	the	Appreciation[5]	pos[5]	_	_	
+6-23	616-621	globe	Appreciation[5]	pos[5]	_	_	
+6-24	621-622	,	Appreciation[5]	pos[5]	_	_	
+6-25	623-625	to	Appreciation[5]	pos[5]	_	_	
+6-26	626-634	decipher	Appreciation[5]	pos[5]	_	_	
+6-27	635-638	the	Appreciation[5]	pos[5]	_	_	
+6-28	639-648	mysteries	Appreciation[5]	pos[5]	_	_	
+6-29	649-651	of	Appreciation[5]	pos[5]	_	_	
+6-30	652-660	creation	Appreciation[5]	pos[5]	_	_	
+6-31	661-662	(	Appreciation[5]	pos[5]	_	_	
+6-32	662-664	to	Appreciation[5]	pos[5]	_	_	
+6-33	665-666	a	Appreciation[5]	pos[5]	_	_	
+6-34	667-672	great	Appreciation[5]	pos[5]	_	_	
+6-35	673-679	extent	Appreciation[5]	pos[5]	_	_	
+6-36	679-680	)	Appreciation[5]	pos[5]	_	_	
+6-37	680-681	,	Appreciation[5]	pos[5]	_	_	
+6-38	682-688	master	Appreciation[5]	pos[5]	_	_	
+6-39	689-692	the	Appreciation[5]	pos[5]	_	_	
+6-40	693-697	very	Appreciation[5]	pos[5]	_	_	
+6-41	698-706	building	Appreciation[5]	pos[5]	_	_	
+6-42	707-713	blocks	Appreciation[5]	pos[5]	_	_	
+6-43	714-716	of	Appreciation[5]	pos[5]	_	_	
+6-44	717-721	life	Appreciation[5]	pos[5]	_	_	
+6-45	722-723	(	Appreciation[5]	pos[5]	_	_	
+6-46	723-731	genetics	Appreciation[5]	pos[5]	_	_	
+6-47	731-732	)	Appreciation[5]	pos[5]	_	_	
+6-48	732-733	,	Appreciation[5]	pos[5]	_	_	
+6-49	734-741	explore	Appreciation[5]	pos[5]	_	_	
+6-50	742-747	other	Appreciation[5]	pos[5]	_	_	
+6-51	748-755	planets	Appreciation[5]	pos[5]	_	_	
+6-52	756-757	(	Appreciation[5]	pos[5]	_	_	
+6-53	757-760	and	Appreciation[5]	pos[5]	_	_	
+6-54	761-766	stars	Appreciation[5]	pos[5]	_	_	
+6-55	767-770	one	Appreciation[5]	pos[5]	_	_	
+6-56	771-774	day	Appreciation[5]	pos[5]	_	_	
+6-57	774-775	)	Appreciation[5]	pos[5]	_	_	
+6-58	775-776	,	Appreciation[5]	pos[5]	_	_	
+6-59	777-788	communicate	Appreciation[5]	pos[5]	_	_	
+6-60	789-798	instantly	Appreciation[5]	pos[5]	_	_	
+6-61	799-803	with	Appreciation[5]	pos[5]	_	_	
+6-62	804-810	anyone	Appreciation[5]	pos[5]	_	_	
+6-63	811-819	anywhere	Appreciation[5]	pos[5]	_	_	
+6-64	819-820	,	_	_	_	_	
+6-65	821-824	etc	_	_	_	_	
+6-66	824-825	,	_	_	_	_	
+6-67	826-829	etc	_	_	_	_	
+6-68	829-830	.	_	_	_	_	
+
+#Text=It's also endangering life on earth through climate change, led to the invention of nuclear weapons, caused epidemic levels of heart disease and cancer, etc, etc.
+7-1	831-835	It's	_	_	_	_	
+7-2	836-840	also	_	_	_	_	
+7-3	841-852	endangering	Appreciation[6]	neg[6]	_	_	
+7-4	853-857	life	Appreciation[6]	neg[6]	_	_	
+7-5	858-860	on	Appreciation[6]	neg[6]	_	_	
+7-6	861-866	earth	Appreciation[6]	neg[6]	_	_	
+7-7	867-874	through	Appreciation[6]	neg[6]	_	_	
+7-8	875-882	climate	Appreciation[6]	neg[6]	_	_	
+7-9	883-889	change	Appreciation[6]	neg[6]	_	_	
+7-10	889-890	,	Appreciation[6]	neg[6]	_	_	
+7-11	891-894	led	Appreciation[6]	neg[6]	_	_	
+7-12	895-897	to	Appreciation[6]	neg[6]	_	_	
+7-13	898-901	the	Appreciation[6]	neg[6]	_	_	
+7-14	902-911	invention	Appreciation[6]	neg[6]	_	_	
+7-15	912-914	of	Appreciation[6]	neg[6]	_	_	
+7-16	915-922	nuclear	Appreciation[6]	neg[6]	_	_	
+7-17	923-930	weapons	Appreciation[6]	neg[6]	_	_	
+7-18	930-931	,	Appreciation[6]	neg[6]	_	_	
+7-19	932-938	caused	Appreciation[6]	neg[6]	_	_	
+7-20	939-947	epidemic	Appreciation[6]	neg[6]	_	_	
+7-21	948-954	levels	Appreciation[6]	neg[6]	_	_	
+7-22	955-957	of	Appreciation[6]	neg[6]	_	_	
+7-23	958-963	heart	Appreciation[6]	neg[6]	_	_	
+7-24	964-971	disease	Appreciation[6]	neg[6]	_	_	
+7-25	972-975	and	Appreciation[6]	neg[6]	_	_	
+7-26	976-982	cancer	Appreciation[6]	neg[6]	_	_	
+7-27	982-983	,	_	_	_	_	
+7-28	984-987	etc	_	_	_	_	
+7-29	987-988	,	_	_	_	_	
+7-30	989-992	etc	_	_	_	_	
+7-31	992-993	.	_	_	_	_	
+
+#Text=But what're you gonna do?
+8-1	994-997	But	Appreciation[7]	neg[7]	_	_	
+8-2	998-1005	what're	Appreciation[7]	neg[7]	_	_	
+8-3	1006-1009	you	Appreciation[7]	neg[7]	_	_	
+8-4	1010-1015	gonna	Appreciation[7]	neg[7]	_	_	
+8-5	1016-1018	do	Appreciation[7]	neg[7]	_	_	
+8-6	1018-1019	?	_	_	_	_	
+
+#Text=We're an inventive, technology-using species.
+9-1	1020-1025	We're	_	_	_	_	
+9-2	1026-1028	an	_	_	_	_	
+9-3	1029-1038	inventive	Appreciation[8]	pos[8]	_	_	
+9-4	1038-1039	,	Appreciation[8]	pos[8]	_	_	
+9-5	1040-1056	technology-using	Appreciation[8]	pos[8]	_	_	
+9-6	1057-1064	species	_	_	_	_	
+9-7	1064-1065	.	_	_	_	_	
+
+#Text=The challenge is navigating it, but lamenting it will do no good.
+10-1	1066-1069	The	_	_	_	_	
+10-2	1070-1079	challenge	Appreciation	neg	_	_	
+10-3	1080-1082	is	_	_	_	_	
+10-4	1083-1093	navigating	_	_	_	_	
+10-5	1094-1096	it	_	_	_	_	
+10-6	1096-1097	,	_	_	_	_	
+10-7	1098-1101	but	_	_	_	_	
+10-8	1102-1111	lamenting	Judgment	neg	_	_	
+10-9	1112-1114	it	_	_	_	_	
+10-10	1115-1119	will	_	_	_	_	
+10-11	1120-1122	do	_	_	_	_	
+10-12	1123-1125	no	Appreciation[11]	neg[11]	_	_	
+10-13	1126-1130	good	Appreciation[11]	neg[11]	_	_	
+10-14	1130-1131	.	_	_	_	_	

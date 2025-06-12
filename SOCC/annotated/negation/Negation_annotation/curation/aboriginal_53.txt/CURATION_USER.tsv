@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=This is absolutely tragic.
+1-1	0-4	This	_	
+1-2	5-7	is	_	
+1-3	8-18	absolutely	_	
+1-4	19-25	tragic	_	
+1-5	25-26	.	_	
+
+#Text=The call to get premiers to deal with this when natives have stated repeatedly that they don't want us involved in their affairs is not an effective solution.
+2-1	28-31	The	_	
+2-2	32-36	call	_	
+2-3	37-39	to	_	
+2-4	40-43	get	_	
+2-5	44-52	premiers	_	
+2-6	53-55	to	_	
+2-7	56-60	deal	_	
+2-8	61-65	with	_	
+2-9	66-70	this	_	
+2-10	71-75	when	_	
+2-11	76-83	natives	_	
+2-12	84-88	have	_	
+2-13	89-95	stated	_	
+2-14	96-106	repeatedly	_	
+2-15	107-111	that	_	
+2-16	112-116	they	_	
+2-17	117-122	don't	NEG	
+2-18	123-127	want	SCOPE[2]	
+2-19	128-130	us	SCOPE[2]	
+2-20	131-139	involved	SCOPE[2]	
+2-21	140-142	in	SCOPE[2]	
+2-22	143-148	their	SCOPE[2]|FOCUS[3]	
+2-23	149-156	affairs	SCOPE[2]|FOCUS[3]	
+2-24	157-159	is	_	
+2-25	160-163	not	NEG	
+2-26	164-166	an	SCOPE[5]	
+2-27	167-176	effective	SCOPE[5]|FOCUS[6]	
+2-28	177-185	solution	SCOPE[5]	
+2-29	185-186	.	_	
+
+#Text=If the natives wish self determination it is certainly and absolutely up to them to resolve this issue.
+3-1	188-190	If	_	
+3-2	191-194	the	_	
+3-3	195-202	natives	_	
+3-4	203-207	wish	_	
+3-5	208-212	self	_	
+3-6	213-226	determination	_	
+3-7	227-229	it	_	
+3-8	230-232	is	_	
+3-9	233-242	certainly	_	
+3-10	243-246	and	_	
+3-11	247-257	absolutely	_	
+3-12	258-260	up	_	
+3-13	261-263	to	_	
+3-14	264-268	them	_	
+3-15	269-271	to	_	
+3-16	272-279	resolve	_	
+3-17	280-284	this	_	
+3-18	285-290	issue	_	
+3-19	290-291	.	_	
+
+#Text=Outsiders have attempted to help in the past with no or poor results.
+4-1	293-302	Outsiders	_	
+4-2	303-307	have	_	
+4-3	308-317	attempted	_	
+4-4	318-320	to	_	
+4-5	321-325	help	_	
+4-6	326-328	in	_	
+4-7	329-332	the	_	
+4-8	333-337	past	_	
+4-9	338-342	with	_	
+4-10	343-345	no	NEG	
+4-11	346-348	or	_	
+4-12	349-353	poor	_	
+4-13	354-361	results	FOCUS[8]|SCOPE[9]	
+4-14	361-362	.	_	
+
+#Text=In fact, our society at one time performed experiments on native children.
+5-1	364-366	In	_	
+5-2	367-371	fact	_	
+5-3	371-372	,	_	
+5-4	373-376	our	_	
+5-5	377-384	society	_	
+5-6	385-387	at	_	
+5-7	388-391	one	_	
+5-8	392-396	time	_	
+5-9	397-406	performed	_	
+5-10	407-418	experiments	_	
+5-11	419-421	on	_	
+5-12	422-428	native	_	
+5-13	429-437	children	_	
+5-14	437-438	.	_	
+
+#Text=We have also 'taken' children from their home and those results were poor at best.The issue can be resolved at the family level.
+6-1	440-442	We	_	
+6-2	443-447	have	_	
+6-3	448-452	also	_	
+6-4	453-454	'	_	
+6-5	454-459	taken	_	
+6-6	459-460	'	_	
+6-7	461-469	children	_	
+6-8	470-474	from	_	
+6-9	475-480	their	_	
+6-10	481-485	home	_	
+6-11	486-489	and	_	
+6-12	490-495	those	_	
+6-13	496-503	results	_	
+6-14	504-508	were	_	
+6-15	509-513	poor	_	
+6-16	514-516	at	_	
+6-17	517-525	best.The	_	
+6-18	526-531	issue	_	
+6-19	532-535	can	_	
+6-20	536-538	be	_	
+6-21	539-547	resolved	_	
+6-22	548-550	at	_	
+6-23	551-554	the	_	
+6-24	555-561	family	_	
+6-25	562-567	level	_	
+6-26	567-568	.	_	
+
+#Text=And that is where the change must start.
+7-1	570-573	And	_	
+7-2	574-578	that	_	
+7-3	579-581	is	_	
+7-4	582-587	where	_	
+7-5	588-591	the	_	
+7-6	592-598	change	_	
+7-7	599-603	must	_	
+7-8	604-609	start	_	
+7-9	609-610	.	_	
+
+#Text=A warm loving home is certainly preferable to the mean streets of any city.
+8-1	612-613	A	_	
+8-2	614-618	warm	_	
+8-3	619-625	loving	_	
+8-4	626-630	home	_	
+8-5	631-633	is	_	
+8-6	634-643	certainly	_	
+8-7	644-654	preferable	_	
+8-8	655-657	to	_	
+8-9	658-661	the	_	
+8-10	662-666	mean	_	
+8-11	667-674	streets	_	
+8-12	675-677	of	_	
+8-13	678-681	any	_	
+8-14	682-686	city	_	
+8-15	686-687	.	_	
+
+#Text=And the streets are mean, even in the most progressive of societies.
+9-1	689-692	And	_	
+9-2	693-696	the	_	
+9-3	697-704	streets	_	
+9-4	705-708	are	_	
+9-5	709-713	mean	_	
+9-6	713-714	,	_	
+9-7	715-719	even	_	
+9-8	720-722	in	_	
+9-9	723-726	the	_	
+9-10	727-731	most	_	
+9-11	732-743	progressive	_	
+9-12	744-746	of	_	
+9-13	747-756	societies	_	
+9-14	756-757	.	_	
+
+#Text=And if a child is led to believe that the streets are better than home, there is a problem in the home.
+10-1	759-762	And	_	
+10-2	763-765	if	_	
+10-3	766-767	a	_	
+10-4	768-773	child	_	
+10-5	774-776	is	_	
+10-6	777-780	led	_	
+10-7	781-783	to	_	
+10-8	784-791	believe	_	
+10-9	792-796	that	_	
+10-10	797-800	the	_	
+10-11	801-808	streets	_	
+10-12	809-812	are	_	
+10-13	813-819	better	_	
+10-14	820-824	than	_	
+10-15	825-829	home	_	
+10-16	829-830	,	_	
+10-17	831-836	there	_	
+10-18	837-839	is	_	
+10-19	840-841	a	_	
+10-20	842-849	problem	_	
+10-21	850-852	in	_	
+10-22	853-856	the	_	
+10-23	857-861	home	_	
+10-24	861-862	.	_	
+
+#Text=No amount of hand wringing by government is going to help.
+11-1	864-866	No	NEG	
+11-2	867-873	amount	SCOPE[11]	
+11-3	874-876	of	SCOPE[11]	
+11-4	877-881	hand	SCOPE[11]	
+11-5	882-890	wringing	SCOPE[11]	
+11-6	891-893	by	SCOPE[11]	
+11-7	894-904	government	SCOPE[11]|FOCUS[12]	
+11-8	905-907	is	SCOPE[11]	
+11-9	908-913	going	SCOPE[11]	
+11-10	914-916	to	SCOPE[11]	
+11-11	917-921	help	SCOPE[11]	
+11-12	921-922	.	_	

@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Why does the author assume that Europe has an obligation to take in all of Syria?
+1-1	0-3	Why	_	
+1-2	4-8	does	_	
+1-3	9-12	the	_	
+1-4	13-19	author	_	
+1-5	20-26	assume	_	
+1-6	27-31	that	_	
+1-7	32-38	Europe	_	
+1-8	39-42	has	_	
+1-9	43-45	an	_	
+1-10	46-56	obligation	_	
+1-11	57-59	to	_	
+1-12	60-64	take	_	
+1-13	65-67	in	_	
+1-14	68-71	all	_	
+1-15	72-74	of	_	
+1-16	75-80	Syria	_	
+1-17	80-81	?	_	
+
+#Text=Where is the obligation of Arab countries?
+2-1	82-87	Where	_	
+2-2	88-90	is	_	
+2-3	91-94	the	_	
+2-4	95-105	obligation	_	
+2-5	106-108	of	_	
+2-6	109-113	Arab	_	
+2-7	114-123	countries	_	
+2-8	123-124	?	_	
+
+#Text=What about Russia?
+3-1	125-129	What	_	
+3-2	130-135	about	_	
+3-3	136-142	Russia	_	
+3-4	142-143	?	_	
+
+#Text=Given recent actions of home-grown terrorists in Europe, no blame whatsoever should be placed on Europe for having reservations.
+4-1	144-149	Given	_	
+4-2	150-156	recent	_	
+4-3	157-164	actions	_	
+4-4	165-167	of	_	
+4-5	168-178	home-grown	_	
+4-6	179-189	terrorists	_	
+4-7	190-192	in	_	
+4-8	193-199	Europe	_	
+4-9	199-200	,	_	
+4-10	201-203	no	NEG	
+4-11	204-209	blame	SCOPE[2]	
+4-12	210-220	whatsoever	SCOPE[2]	
+4-13	221-227	should	SCOPE[2]	
+4-14	228-230	be	SCOPE[2]	
+4-15	231-237	placed	SCOPE[2]	
+4-16	238-240	on	SCOPE[2]	
+4-17	241-247	Europe	SCOPE[2]|FOCUS[3]	
+4-18	248-251	for	SCOPE[2]	
+4-19	252-258	having	SCOPE[2]	
+4-20	259-271	reservations	SCOPE[2]	
+4-21	271-272	.	_	
+
+#Text=It is long overdue that the Arab countries of the Middle East critically examine the reasons for their internal pathologies, and stop blaming others for their desperate failings.
+5-1	273-275	It	_	
+5-2	276-278	is	_	
+5-3	279-283	long	_	
+5-4	284-291	overdue	_	
+5-5	292-296	that	_	
+5-6	297-300	the	_	
+5-7	301-305	Arab	_	
+5-8	306-315	countries	_	
+5-9	316-318	of	_	
+5-10	319-322	the	_	
+5-11	323-329	Middle	_	
+5-12	330-334	East	_	
+5-13	335-345	critically	_	
+5-14	346-353	examine	_	
+5-15	354-357	the	_	
+5-16	358-365	reasons	_	
+5-17	366-369	for	_	
+5-18	370-375	their	_	
+5-19	376-384	internal	_	
+5-20	385-396	pathologies	_	
+5-21	396-397	,	_	
+5-22	398-401	and	_	
+5-23	402-406	stop	_	
+5-24	407-414	blaming	_	
+5-25	415-421	others	_	
+5-26	422-425	for	_	
+5-27	426-431	their	_	
+5-28	432-441	desperate	_	
+5-29	442-450	failings	_	
+5-30	450-451	.	_	
+
+#Text=It is not the world's responsibility to take them in when they can't get along.
+6-1	452-454	It	_	
+6-2	455-457	is	_	
+6-3	458-461	not	NEG	
+6-4	462-465	the	SCOPE[5]|FOCUS[6]	
+6-5	466-473	world's	SCOPE[5]|FOCUS[6]	
+6-6	474-488	responsibility	SCOPE[5]	
+6-7	489-491	to	SCOPE[5]	
+6-8	492-496	take	SCOPE[5]	
+6-9	497-501	them	SCOPE[5]	
+6-10	502-504	in	SCOPE[5]	
+6-11	505-509	when	SCOPE[5]	
+6-12	510-514	they	SCOPE[5]	
+6-13	515-520	can't	SCOPE[5]|NEG[7]	
+6-14	521-524	get	SCOPE[5]|SCOPE[8]|FOCUS[9]	
+6-15	525-530	along	SCOPE[5]|SCOPE[8]|FOCUS[9]	
+6-16	530-531	.	_	

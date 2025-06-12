@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Just keep whining - next thing that will happen is a ban on foreign buyers, or serious restrictions on foreign owners of ALL nationalities.
+1-1	0-4	Just	_	_	
+1-2	5-9	keep	Judgment[1]	neg[1]	
+1-3	10-17	whining	Judgment[1]	neg[1]	
+1-4	18-19	-	_	_	
+1-5	20-24	next	_	_	
+1-6	25-30	thing	_	_	
+1-7	31-35	that	_	_	
+1-8	36-40	will	_	_	
+1-9	41-47	happen	_	_	
+1-10	48-50	is	_	_	
+1-11	51-52	a	_	_	
+1-12	53-56	ban	Appreciation[2]	pos[2]	
+1-13	57-59	on	Appreciation[2]	pos[2]	
+1-14	60-67	foreign	Appreciation[2]	pos[2]	
+1-15	68-74	buyers	Appreciation[2]	pos[2]	
+1-16	74-75	,	Appreciation[2]	pos[2]	
+1-17	76-78	or	Appreciation[2]	pos[2]	
+1-18	79-86	serious	Appreciation[2]	pos[2]	
+1-19	87-99	restrictions	Appreciation[2]	pos[2]	
+1-20	100-102	on	Appreciation[2]	pos[2]	
+1-21	103-110	foreign	Appreciation[2]	pos[2]	
+1-22	111-117	owners	Appreciation[2]	pos[2]	
+1-23	118-120	of	Appreciation[2]	pos[2]	
+1-24	121-124	ALL	Appreciation[2]	pos[2]	
+1-25	125-138	nationalities	Appreciation[2]	pos[2]	
+1-26	138-139	.	_	_	
+
+#Text=If you don't like it, go destroy another beautiful city somewhere else!
+2-1	140-142	If	Judgment[3]	neg[3]	
+2-2	143-146	you	Judgment[3]	neg[3]	
+2-3	147-152	don't	Judgment[3]	neg[3]	
+2-4	153-157	like	Judgment[3]	neg[3]	
+2-5	158-160	it	Judgment[3]	neg[3]	
+2-6	160-161	,	Judgment[3]	neg[3]	
+2-7	162-164	go	Judgment[3]	neg[3]	
+2-8	165-172	destroy	Judgment[3]	neg[3]	
+2-9	173-180	another	Judgment[3]	neg[3]	
+2-10	181-190	beautiful	Judgment[3]	neg[3]	
+2-11	191-195	city	Judgment[3]	neg[3]	
+2-12	196-205	somewhere	Judgment[3]	neg[3]	
+2-13	206-210	else	Judgment[3]	neg[3]	
+2-14	210-211	!	_	_	

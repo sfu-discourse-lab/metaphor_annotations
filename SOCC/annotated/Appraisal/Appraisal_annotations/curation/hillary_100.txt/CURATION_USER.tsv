@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=There is something inherently sexist about the assumption that women are incorruptible and naturally groomed to be better leaders than their male counterparts by virtue of being female.
+1-1	0-5	There	_	_	_	_	
+1-2	6-8	is	_	_	_	_	
+1-3	9-18	something	_	_	_	_	
+1-4	19-29	inherently	Judgment[1]	neg[1]	_	_	
+1-5	30-36	sexist	Judgment[1]	neg[1]	_	_	
+1-6	37-42	about	_	_	_	_	
+1-7	43-46	the	_	_	_	_	
+1-8	47-57	assumption	_	_	_	_	
+1-9	58-62	that	_	_	_	_	
+1-10	63-68	women	_	_	_	_	
+1-11	69-72	are	_	_	_	_	
+1-12	73-86	incorruptible	Judgment[2]	pos[2]	_	_	
+1-13	87-90	and	Judgment[2]	pos[2]	_	_	
+1-14	91-100	naturally	Judgment[2]	pos[2]	_	_	
+1-15	101-108	groomed	Judgment[2]	pos[2]	_	_	
+1-16	109-111	to	Judgment[2]	pos[2]	_	_	
+1-17	112-114	be	Judgment[2]	pos[2]	_	_	
+1-18	115-121	better	Judgment[2]	pos[2]	Force	up	
+1-19	122-129	leaders	Judgment[2]	pos[2]	_	_	
+1-20	130-134	than	Judgment[2]	pos[2]	_	_	
+1-21	135-140	their	Judgment[2]	pos[2]	_	_	
+1-22	141-145	male	Judgment[2]	pos[2]	_	_	
+1-23	146-158	counterparts	Judgment[2]	pos[2]	_	_	
+1-24	159-161	by	_	_	_	_	
+1-25	162-168	virtue	_	_	_	_	
+1-26	169-171	of	_	_	_	_	
+1-27	172-177	being	_	_	_	_	
+1-28	178-184	female	_	_	_	_	
+1-29	184-185	.	_	_	_	_	
+
+#Text=It is troubling to see intelligent sexist women relay the disturbingly substandard notion that despite Hillary Clinton's deeply flawed and frankly troubling history, this one here must be revered at all cost.
+2-1	186-188	It	_	_	_	_	
+2-2	189-191	is	_	_	_	_	
+2-3	192-201	troubling	Affect	neg	_	_	
+2-4	202-204	to	_	_	_	_	
+2-5	205-208	see	_	_	_	_	
+2-6	209-220	intelligent	Judgment	pos	_	_	
+2-7	221-227	sexist	Judgment	neg	_	_	
+2-8	228-233	women	_	_	_	_	
+2-9	234-239	relay	_	_	_	_	
+2-10	240-243	the	_	_	_	_	
+2-11	244-256	disturbingly	Appreciation[6]	neg[6]	_	_	
+2-12	257-268	substandard	Appreciation[6]	neg[6]	_	_	
+2-13	269-275	notion	_	_	_	_	
+2-14	276-280	that	_	_	_	_	
+2-15	281-288	despite	_	_	_	_	
+2-16	289-296	Hillary	_	_	_	_	
+2-17	297-306	Clinton's	_	_	_	_	
+2-18	307-313	deeply	Appreciation[7]	neg[7]	Force	up	
+2-19	314-320	flawed	Appreciation[7]	neg[7]	_	_	
+2-20	321-324	and	Appreciation[7]	neg[7]	_	_	
+2-21	325-332	frankly	Appreciation[7]	neg[7]	_	_	
+2-22	333-342	troubling	Appreciation[7]	neg[7]	_	_	
+2-23	343-350	history	_	_	_	_	
+2-24	350-351	,	_	_	_	_	
+2-25	352-356	this	_	_	_	_	
+2-26	357-360	one	_	_	_	_	
+2-27	361-365	here	_	_	_	_	
+2-28	366-370	must	Judgment[8]	neg[8]	_	_	
+2-29	371-373	be	Judgment[8]	neg[8]	_	_	
+2-30	374-381	revered	Judgment[8]	neg[8]	_	_	
+2-31	382-384	at	_	_	_	_	
+2-32	385-388	all	_	_	_	_	
+2-33	389-393	cost	_	_	_	_	
+2-34	393-394	.	_	_	_	_	
+
+#Text=Women are equal under the law, and as such should be held to the same legal, ethical, and job performance standards - regardless of their gender or power.
+3-1	395-400	Women	_	_	_	_	
+3-2	401-404	are	_	_	_	_	
+3-3	405-410	equal	Judgment	neu	_	_	
+3-4	411-416	under	_	_	_	_	
+3-5	417-420	the	_	_	_	_	
+3-6	421-424	law	_	_	_	_	
+3-7	424-425	,	_	_	_	_	
+3-8	426-429	and	_	_	_	_	
+3-9	430-432	as	_	_	_	_	
+3-10	433-437	such	_	_	_	_	
+3-11	438-444	should	Appreciation[10]	pos[10]	_	_	
+3-12	445-447	be	Appreciation[10]	pos[10]	_	_	
+3-13	448-452	held	Appreciation[10]	pos[10]	_	_	
+3-14	453-455	to	Appreciation[10]	pos[10]	_	_	
+3-15	456-459	the	Appreciation[10]	pos[10]	_	_	
+3-16	460-464	same	Appreciation[10]	pos[10]	_	_	
+3-17	465-470	legal	Appreciation[10]	pos[10]	_	_	
+3-18	470-471	,	Appreciation[10]	pos[10]	_	_	
+3-19	472-479	ethical	Appreciation[10]	pos[10]	_	_	
+3-20	479-480	,	Appreciation[10]	pos[10]	_	_	
+3-21	481-484	and	Appreciation[10]	pos[10]	_	_	
+3-22	485-488	job	Appreciation[10]	pos[10]	_	_	
+3-23	489-500	performance	Appreciation[10]	pos[10]	_	_	
+3-24	501-510	standards	Appreciation[10]	pos[10]	_	_	
+3-25	511-512	-	_	_	_	_	
+3-26	513-523	regardless	Appreciation	neg	_	_	
+3-27	524-526	of	_	_	_	_	
+3-28	527-532	their	_	_	_	_	
+3-29	533-539	gender	_	_	_	_	
+3-30	540-542	or	_	_	_	_	
+3-31	543-548	power	_	_	_	_	
+3-32	548-549	.	_	_	_	_	

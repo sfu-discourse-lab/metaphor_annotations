@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Why?
+1-1	0-3	Why	
+1-2	3-4	?	
+
+#Text=The taxi medallions allow a cartel to function.
+2-1	6-9	The	
+2-2	10-14	taxi	
+2-3	15-25	medallions	
+2-4	26-31	allow	
+2-5	32-33	a	
+2-6	34-40	cartel	
+2-7	41-43	to	
+2-8	44-52	function	
+2-9	52-53	.	
+
+#Text=If the rich folks that own those medallions and use them as investments get hurt by the progress of technology, boo freakin hoo.
+3-1	55-57	If	
+3-2	58-61	the	
+3-3	62-66	rich	
+3-4	67-72	folks	
+3-5	73-77	that	
+3-6	78-81	own	
+3-7	82-87	those	
+3-8	88-98	medallions	
+3-9	99-102	and	
+3-10	103-106	use	
+3-11	107-111	them	
+3-12	112-114	as	
+3-13	115-126	investments	
+3-14	127-130	get	
+3-15	131-135	hurt	
+3-16	136-138	by	
+3-17	139-142	the	
+3-18	143-151	progress	
+3-19	152-154	of	
+3-20	155-165	technology	
+3-21	165-166	,	
+3-22	167-170	boo	
+3-23	171-178	freakin	
+3-24	179-182	hoo	
+3-25	182-183	.	

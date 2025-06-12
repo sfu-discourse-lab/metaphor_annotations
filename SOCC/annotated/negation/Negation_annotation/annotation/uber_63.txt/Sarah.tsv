@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Never surprised  
+#Text=
+#Text=How would that be fair?
+1-1	0-5	Never	NEG	
+1-2	6-15	surprised	SCOPE[2]|FOCUS[3]	
+1-3	19-22	How	_	
+1-4	23-28	would	_	
+1-5	29-33	that	_	
+1-6	34-36	be	_	
+1-7	37-41	fair	_	
+1-8	41-42	?	_	
+
+#Text=No one paid 200k to the city for those licenses, did they?
+2-1	43-45	No	NEG[4]	
+2-2	46-49	one	NEG[4]	
+2-3	50-54	paid	SCOPE[5]	
+2-4	55-59	200k	SCOPE[5]	
+2-5	60-62	to	SCOPE[5]	
+2-6	63-66	the	SCOPE[5]	
+2-7	67-71	city	SCOPE[5]	
+2-8	72-75	for	SCOPE[5]	
+2-9	76-81	those	SCOPE[5]|FOCUS[6]	
+2-10	82-90	licenses	SCOPE[5]|FOCUS[6]	
+2-11	90-91	,	_	
+2-12	92-95	did	_	
+2-13	96-100	they	_	
+2-14	100-101	?	_	
+
+#Text=----------
+#Text=
+#Text=SOME DID
+#Text=a taxi licence plate is very expensive
+#Text=
+#Text=check with a taxi company
+3-1	102-103	-	_	
+3-2	103-104	-	_	
+3-3	104-105	-	_	
+3-4	105-106	-	_	
+3-5	106-107	-	_	
+3-6	107-108	-	_	
+3-7	108-109	-	_	
+3-8	109-110	-	_	
+3-9	110-111	-	_	
+3-10	111-112	-	_	
+3-11	114-118	SOME	_	
+3-12	119-122	DID	_	
+3-13	123-124	a	_	
+3-14	125-129	taxi	_	
+3-15	130-137	licence	_	
+3-16	138-143	plate	_	
+3-17	144-146	is	_	
+3-18	147-151	very	_	
+3-19	152-161	expensive	_	
+3-20	163-168	check	_	
+3-21	169-173	with	_	
+3-22	174-175	a	_	
+3-23	176-180	taxi	_	
+3-24	181-188	company	_	

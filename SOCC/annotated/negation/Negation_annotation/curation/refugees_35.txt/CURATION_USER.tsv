@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=It is so easy to gloss over the many huge problems and call everyone who disagrees with you a xenophobe.
+1-1	0-2	It	
+1-2	3-5	is	
+1-3	6-8	so	
+1-4	9-13	easy	
+1-5	14-16	to	
+1-6	17-22	gloss	
+1-7	23-27	over	
+1-8	28-31	the	
+1-9	32-36	many	
+1-10	37-41	huge	
+1-11	42-50	problems	
+1-12	51-54	and	
+1-13	55-59	call	
+1-14	60-68	everyone	
+1-15	69-72	who	
+1-16	73-82	disagrees	
+1-17	83-87	with	
+1-18	88-91	you	
+1-19	92-93	a	
+1-20	94-103	xenophobe	
+1-21	103-104	.	
+
+#Text=I would expect better from an academic.
+2-1	105-106	I	
+2-2	107-112	would	
+2-3	113-119	expect	
+2-4	120-126	better	
+2-5	127-131	from	
+2-6	132-134	an	
+2-7	135-143	academic	
+2-8	143-144	.	

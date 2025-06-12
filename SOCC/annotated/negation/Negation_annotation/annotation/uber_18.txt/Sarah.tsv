@@ -1,0 +1,147 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Canadians want it both ways.
+1-1	0-9	Canadians	_	
+1-2	10-14	want	_	
+1-3	15-17	it	_	
+1-4	18-22	both	_	
+1-5	23-27	ways	_	
+1-6	27-28	.	_	
+
+#Text=They want good and decent wages but want to pay low prices.
+2-1	30-34	They	_	
+2-2	35-39	want	_	
+2-3	40-44	good	_	
+2-4	45-48	and	_	
+2-5	49-55	decent	_	
+2-6	56-61	wages	_	
+2-7	62-65	but	_	
+2-8	66-70	want	_	
+2-9	71-73	to	_	
+2-10	74-77	pay	_	
+2-11	78-81	low	_	
+2-12	82-88	prices	_	
+2-13	88-89	.	_	
+
+#Text=It doesn't work that way.
+3-1	91-93	It	_	
+3-2	94-101	doesn't	NEG	
+3-3	102-106	work	SCOPE[2]	
+3-4	107-111	that	SCOPE[2]|FOCUS[3]	
+3-5	112-115	way	SCOPE[2]|FOCUS[3]	
+3-6	115-116	.	_	
+
+#Text=You can push out the drivers of taxi business and make it all Uber drivers.
+4-1	118-121	You	_	
+4-2	122-125	can	_	
+4-3	126-130	push	_	
+4-4	131-134	out	_	
+4-5	135-138	the	_	
+4-6	139-146	drivers	_	
+4-7	147-149	of	_	
+4-8	150-154	taxi	_	
+4-9	155-163	business	_	
+4-10	164-167	and	_	
+4-11	168-172	make	_	
+4-12	173-175	it	_	
+4-13	176-179	all	_	
+4-14	180-184	Uber	_	
+4-15	185-192	drivers	_	
+4-16	192-193	.	_	
+
+#Text=There are insurance, safety, inspection, first aid, legal and so on issues.
+5-1	195-200	There	_	
+5-2	201-204	are	_	
+5-3	205-214	insurance	_	
+5-4	214-215	,	_	
+5-5	216-222	safety	_	
+5-6	222-223	,	_	
+5-7	224-234	inspection	_	
+5-8	234-235	,	_	
+5-9	236-241	first	_	
+5-10	242-245	aid	_	
+5-11	245-246	,	_	
+5-12	247-252	legal	_	
+5-13	253-256	and	_	
+5-14	257-259	so	_	
+5-15	260-262	on	_	
+5-16	263-269	issues	_	
+5-17	269-270	.	_	
+
+#Text=While such risk is small it exist.
+6-1	272-277	While	_	
+6-2	278-282	such	_	
+6-3	283-287	risk	_	
+6-4	288-290	is	_	
+6-5	291-296	small	_	
+6-6	297-299	it	_	
+6-7	300-305	exist	_	
+6-8	305-306	.	_	
+
+#Text=It does go against the sense of fair play when a company can show up, not pay wages to employees, call them contractors, operate a company outside of all the regulations and have none of the cost.Why doesn't Uber just follow the rules and get a license like everyone else who wants to pickup people for hire in the city?
+7-1	308-310	It	_	
+7-2	311-315	does	_	
+7-3	316-318	go	_	
+7-4	319-326	against	_	
+7-5	327-330	the	_	
+7-6	331-336	sense	_	
+7-7	337-339	of	_	
+7-8	340-344	fair	_	
+7-9	345-349	play	_	
+7-10	350-354	when	_	
+7-11	355-356	a	_	
+7-12	357-364	company	_	
+7-13	365-368	can	_	
+7-14	369-373	show	_	
+7-15	374-376	up	_	
+7-16	376-377	,	_	
+7-17	378-381	not	NEG	
+7-18	382-385	pay	SCOPE[5]	
+7-19	386-391	wages	SCOPE[5]	
+7-20	392-394	to	SCOPE[5]	
+7-21	395-404	employees	SCOPE[5]|FOCUS[6]	
+7-22	404-405	,	_	
+7-23	406-410	call	_	
+7-24	411-415	them	_	
+7-25	416-427	contractors	_	
+7-26	427-428	,	_	
+7-27	429-436	operate	_	
+7-28	437-438	a	_	
+7-29	439-446	company	_	
+7-30	447-454	outside	_	
+7-31	455-457	of	_	
+7-32	458-461	all	_	
+7-33	462-465	the	_	
+7-34	466-477	regulations	_	
+7-35	478-481	and	_	
+7-36	482-486	have	_	
+7-37	487-491	none	NEG	
+7-38	492-494	of	SCOPE[8]	
+7-39	495-498	the	SCOPE[8]|FOCUS[9]	
+7-40	499-507	cost.Why	SCOPE[8]|FOCUS[9]	
+7-41	508-515	doesn't	NEG	
+7-42	516-520	Uber	SCOPE[11]	
+7-43	521-525	just	SCOPE[11]	
+7-44	526-532	follow	SCOPE[11]|FOCUS[12]	
+7-45	533-536	the	SCOPE[11]|FOCUS[12]	
+7-46	537-542	rules	SCOPE[11]|FOCUS[12]	
+7-47	543-546	and	SCOPE[11]	
+7-48	547-550	get	SCOPE[11]|FOCUS[13]	
+7-49	551-552	a	SCOPE[11]|FOCUS[13]	
+7-50	553-560	license	SCOPE[11]|FOCUS[13]	
+7-51	561-565	like	SCOPE[11]	
+7-52	566-574	everyone	SCOPE[11]	
+7-53	575-579	else	SCOPE[11]	
+7-54	580-583	who	SCOPE[11]	
+7-55	584-589	wants	SCOPE[11]	
+7-56	590-592	to	SCOPE[11]	
+7-57	593-599	pickup	SCOPE[11]	
+7-58	600-606	people	SCOPE[11]	
+7-59	607-610	for	SCOPE[11]	
+7-60	611-615	hire	SCOPE[11]	
+7-61	616-618	in	SCOPE[11]	
+7-62	619-622	the	SCOPE[11]	
+7-63	623-627	city	SCOPE[11]	
+7-64	627-628	?	_	

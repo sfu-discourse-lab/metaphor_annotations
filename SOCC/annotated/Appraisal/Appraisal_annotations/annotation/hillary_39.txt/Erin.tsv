@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I don't understand why this was supposed to be such a historic moment.
+1-1	0-1	I	_	_	
+1-2	2-7	don't	_	_	
+1-3	8-18	understand	_	_	
+1-4	19-22	why	_	_	
+1-5	23-27	this	_	_	
+1-6	28-31	was	_	_	
+1-7	32-40	supposed	_	_	
+1-8	41-43	to	_	_	
+1-9	44-46	be	_	_	
+1-10	47-51	such	_	_	
+1-11	52-53	a	_	_	
+1-12	54-62	historic	_	_	
+1-13	63-69	moment	_	_	
+1-14	69-70	.	_	_	
+
+#Text=Females have been elected Prime Ministers in Great Britain and Chancellors in Germany - and many other countries as well i'm sure.
+2-1	71-78	Females	_	_	
+2-2	79-83	have	Appreciation[1]	pos[1]	
+2-3	84-88	been	Appreciation[1]	pos[1]	
+2-4	89-96	elected	Appreciation[1]	pos[1]	
+2-5	97-102	Prime	Appreciation[1]	pos[1]	
+2-6	103-112	Ministers	Appreciation[1]	pos[1]	
+2-7	113-115	in	Appreciation[1]	pos[1]	
+2-8	116-121	Great	Appreciation[1]	pos[1]	
+2-9	122-129	Britain	Appreciation[1]	pos[1]	
+2-10	130-133	and	Appreciation[1]	pos[1]	
+2-11	134-145	Chancellors	Appreciation[1]	pos[1]	
+2-12	146-148	in	Appreciation[1]	pos[1]	
+2-13	149-156	Germany	Appreciation[1]	pos[1]	
+2-14	157-158	-	_	_	
+2-15	159-162	and	_	_	
+2-16	163-167	many	_	_	
+2-17	168-173	other	_	_	
+2-18	174-183	countries	_	_	
+2-19	184-186	as	_	_	
+2-20	187-191	well	_	_	
+2-21	192-195	i'm	_	_	
+2-22	196-200	sure	_	_	
+2-23	200-201	.	_	_	
+
+#Text=To be honest, it makes you look even weak to make such a big deal of this.
+3-1	202-204	To	_	_	
+3-2	205-207	be	_	_	
+3-3	208-214	honest	_	_	
+3-4	214-215	,	_	_	
+3-5	216-218	it	_	_	
+3-6	219-224	makes	_	_	
+3-7	225-228	you	_	_	
+3-8	229-233	look	_	_	
+3-9	234-238	even	_	_	
+3-10	239-243	weak	Judgment	neg	
+3-11	244-246	to	_	_	
+3-12	247-251	make	_	_	
+3-13	252-256	such	_	_	
+3-14	257-258	a	_	_	
+3-15	259-262	big	_	_	
+3-16	263-267	deal	_	_	
+3-17	268-270	of	_	_	
+3-18	271-275	this	_	_	
+3-19	275-276	.	_	_	
+
+#Text=I never thought that gender was an issue in politics until this election.
+4-1	277-278	I	_	_	
+4-2	279-284	never	_	_	
+4-3	285-292	thought	_	_	
+4-4	293-297	that	_	_	
+4-5	298-304	gender	_	_	
+4-6	305-308	was	_	_	
+4-7	309-311	an	_	_	
+4-8	312-317	issue	Appreciation	neg	
+4-9	318-320	in	_	_	
+4-10	321-329	politics	_	_	
+4-11	330-335	until	_	_	
+4-12	336-340	this	_	_	
+4-13	341-349	election	_	_	
+4-14	349-350	.	_	_	
+
+#Text=Race with Obama definitely but gender I didn't think was a big deal.
+5-1	351-355	Race	_	_	
+5-2	356-360	with	_	_	
+5-3	361-366	Obama	_	_	
+5-4	367-377	definitely	_	_	
+5-5	378-381	but	_	_	
+5-6	382-388	gender	_	_	
+5-7	389-390	I	_	_	
+5-8	391-397	didn't	Appreciation[4]	neg[4]	
+5-9	398-403	think	Appreciation[4]	neg[4]	
+5-10	404-407	was	Appreciation[4]	neg[4]	
+5-11	408-409	a	Appreciation[4]	neg[4]	
+5-12	410-413	big	Appreciation[4]	neg[4]	
+5-13	414-418	deal	Appreciation[4]	neg[4]	
+5-14	418-419	.	_	_	

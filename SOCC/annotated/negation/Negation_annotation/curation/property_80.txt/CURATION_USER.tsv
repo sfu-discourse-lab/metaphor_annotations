@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The 15% tax helps pay for things like Professor Yu's money from the Canadian Federal Government for $950,000 to study things he likes to study.
+1-1	0-3	The	_	
+1-2	4-7	15%	_	
+1-3	8-11	tax	_	
+1-4	12-17	helps	_	
+1-5	18-21	pay	_	
+1-6	22-25	for	_	
+1-7	26-32	things	_	
+1-8	33-37	like	_	
+1-9	38-47	Professor	_	
+1-10	48-52	Yu's	_	
+1-11	53-58	money	_	
+1-12	59-63	from	_	
+1-13	64-67	the	_	
+1-14	68-76	Canadian	_	
+1-15	77-84	Federal	_	
+1-16	85-95	Government	_	
+1-17	96-99	for	_	
+1-18	100-108	$950,000	_	
+1-19	109-111	to	_	
+1-20	112-117	study	_	
+1-21	118-124	things	_	
+1-22	125-127	he	_	
+1-23	128-133	likes	_	
+1-24	134-136	to	_	
+1-25	137-142	study	_	
+1-26	142-143	.	_	
+
+#Text=In China the government locks up Canadians in jail and pays them nothing.
+2-1	144-146	In	_	
+2-2	147-152	China	_	
+2-3	153-156	the	_	
+2-4	157-167	government	_	
+2-5	168-173	locks	_	
+2-6	174-176	up	_	
+2-7	177-186	Canadians	_	
+2-8	187-189	in	_	
+2-9	190-194	jail	_	
+2-10	195-198	and	_	
+2-11	199-203	pays	_	
+2-12	204-208	them	_	
+2-13	209-216	nothing	NEG	
+2-14	216-217	.	_	
+
+#Text=Good grief.
+3-1	218-222	Good	_	
+3-2	223-228	grief	_	
+3-3	228-229	.	_	

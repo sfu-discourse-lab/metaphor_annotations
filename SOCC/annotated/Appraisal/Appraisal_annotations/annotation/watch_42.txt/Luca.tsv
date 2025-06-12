@@ -1,0 +1,200 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I bought an Apple II computer in 1980.
+1-1	0-1	I	_	_	_	_	
+1-2	2-8	bought	_	_	_	_	
+1-3	9-11	an	_	_	_	_	
+1-4	12-17	Apple	_	_	_	_	
+1-5	18-20	II	_	_	_	_	
+1-6	21-29	computer	_	_	_	_	
+1-7	30-32	in	_	_	_	_	
+1-8	33-37	1980	_	_	_	_	
+1-9	37-38	.	_	_	_	_	
+
+#Text=The tech geeks at the time panned it.
+2-1	39-42	The	_	_	_	_	
+2-2	43-47	tech	_	_	_	_	
+2-3	48-53	geeks	_	_	_	_	
+2-4	54-56	at	_	_	_	_	
+2-5	57-60	the	_	_	_	_	
+2-6	61-65	time	_	_	_	_	
+2-7	66-72	panned	Appreciation	neg	_	_	
+2-8	73-75	it	_	_	_	_	
+2-9	75-76	.	_	_	_	_	
+
+#Text=When the MAcintosh was introduced in 1984 it was panned, as inferior to the more adaptable MSDOS system.
+3-1	77-81	When	_	_	_	_	
+3-2	82-85	the	_	_	_	_	
+3-3	86-95	MAcintosh	_	_	_	_	
+3-4	96-99	was	_	_	_	_	
+3-5	100-110	introduced	_	_	_	_	
+3-6	111-113	in	_	_	_	_	
+3-7	114-118	1984	_	_	_	_	
+3-8	119-121	it	_	_	_	_	
+3-9	122-125	was	_	_	_	_	
+3-10	126-132	panned	Appreciation	neg	_	_	
+3-11	132-133	,	_	_	_	_	
+3-12	134-136	as	_	_	_	_	
+3-13	137-145	inferior	Appreciation	neg	_	_	
+3-14	146-148	to	_	_	_	_	
+3-15	149-152	the	_	_	_	_	
+3-16	153-157	more	Appreciation[4]	pos[4]	Force	up	
+3-17	158-167	adaptable	Appreciation[4]	pos[4]	_	_	
+3-18	168-173	MSDOS	_	_	_	_	
+3-19	174-180	system	_	_	_	_	
+3-20	180-181	.	_	_	_	_	
+
+#Text=When the iPod was introduced it was panned as inferior to MP3.
+4-1	182-186	When	_	_	_	_	
+4-2	187-190	the	_	_	_	_	
+4-3	191-195	iPod	_	_	_	_	
+4-4	196-199	was	_	_	_	_	
+4-5	200-210	introduced	_	_	_	_	
+4-6	211-213	it	_	_	_	_	
+4-7	214-217	was	_	_	_	_	
+4-8	218-224	panned	Appreciation	neg	_	_	
+4-9	225-227	as	_	_	_	_	
+4-10	228-236	inferior	Appreciation	neg	_	_	
+4-11	237-239	to	_	_	_	_	
+4-12	240-243	MP3	_	_	_	_	
+4-13	243-244	.	_	_	_	_	
+
+#Text=The iPad was panned as unnecessary.
+5-1	245-248	The	_	_	_	_	
+5-2	249-253	iPad	_	_	_	_	
+5-3	254-257	was	_	_	_	_	
+5-4	258-264	panned	Appreciation	neg	_	_	
+5-5	265-267	as	_	_	_	_	
+5-6	268-279	unnecessary	Appreciation	neg	_	_	
+5-7	279-280	.	_	_	_	_	
+
+#Text=The first iPhone was panned.
+6-1	281-284	The	_	_	_	_	
+6-2	285-290	first	_	_	_	_	
+6-3	291-297	iPhone	_	_	_	_	
+6-4	298-301	was	_	_	_	_	
+6-5	302-308	panned	Appreciation	neg	_	_	
+6-6	308-309	.	_	_	_	_	
+
+#Text=Was there ever an apple product that was not panned when first introduced?
+7-1	310-313	Was	Judgment[10]	neg[10]	_	_	
+7-2	314-319	there	Judgment[10]	neg[10]	_	_	
+7-3	320-324	ever	Judgment[10]	neg[10]	_	_	
+7-4	325-327	an	Judgment[10]	neg[10]	_	_	
+7-5	328-333	apple	Judgment[10]	neg[10]	_	_	
+7-6	334-341	product	Judgment[10]	neg[10]	_	_	
+7-7	342-346	that	Judgment[10]	neg[10]	_	_	
+7-8	347-350	was	Judgment[10]	neg[10]	_	_	
+7-9	351-354	not	Judgment[10]	neg[10]	_	_	
+7-10	355-361	panned	Judgment[10]	neg[10]	_	_	
+7-11	362-366	when	Judgment[10]	neg[10]	_	_	
+7-12	367-372	first	Judgment[10]	neg[10]	_	_	
+7-13	373-383	introduced	Judgment[10]	neg[10]	_	_	
+7-14	383-384	?	_	_	_	_	
+
+#Text=The fact is that most technological innovations take off and transform our ways of doing things in ways the critics always fail to anticipate.
+8-1	385-388	The	_	_	_	_	
+8-2	389-393	fact	_	_	_	_	
+8-3	394-396	is	_	_	_	_	
+8-4	397-401	that	_	_	_	_	
+8-5	402-406	most	_	_	_	_	
+8-6	407-420	technological	_	_	_	_	
+8-7	421-432	innovations	_	_	_	_	
+8-8	433-437	take	Appreciation[11]	pos[11]	_	_	
+8-9	438-441	off	Appreciation[11]	pos[11]	_	_	
+8-10	442-445	and	Appreciation[11]	pos[11]	_	_	
+8-11	446-455	transform	Appreciation[11]	pos[11]	_	_	
+8-12	456-459	our	Appreciation[11]	pos[11]	_	_	
+8-13	460-464	ways	Appreciation[11]	pos[11]	_	_	
+8-14	465-467	of	Appreciation[11]	pos[11]	_	_	
+8-15	468-473	doing	Appreciation[11]	pos[11]	_	_	
+8-16	474-480	things	Appreciation[11]	pos[11]	_	_	
+8-17	481-483	in	_	_	_	_	
+8-18	484-488	ways	_	_	_	_	
+8-19	489-492	the	_	_	_	_	
+8-20	493-500	critics	_	_	_	_	
+8-21	501-507	always	Judgment[12]	neg[12]	_	_	
+8-22	508-512	fail	Judgment[12]	neg[12]	_	_	
+8-23	513-515	to	Judgment[12]	neg[12]	_	_	
+8-24	516-526	anticipate	Judgment[12]	neg[12]	_	_	
+8-25	526-527	.	_	_	_	_	
+
+#Text=That's why they are critics and not inventors and transformers of human culture.
+9-1	528-534	That's	Judgment[13]	neg[13]	_	_	
+9-2	535-538	why	Judgment[13]	neg[13]	_	_	
+9-3	539-543	they	Judgment[13]	neg[13]	_	_	
+9-4	544-547	are	Judgment[13]	neg[13]	_	_	
+9-5	548-555	critics	Judgment[13]	neg[13]	_	_	
+9-6	556-559	and	Judgment[13]	neg[13]	_	_	
+9-7	560-563	not	Judgment[13]	neg[13]	_	_	
+9-8	564-573	inventors	Judgment[13]|Judgment[14]	neg[13]|pos[14]	_	_	
+9-9	574-577	and	Judgment[13]|Judgment[14]	neg[13]|pos[14]	_	_	
+9-10	578-590	transformers	Judgment[13]|Judgment[14]	neg[13]|pos[14]	_	_	
+9-11	591-593	of	Judgment[13]|Judgment[14]	neg[13]|pos[14]	_	_	
+9-12	594-599	human	Judgment[13]|Judgment[14]	neg[13]|pos[14]	_	_	
+9-13	600-607	culture	Judgment[13]|Judgment[14]	neg[13]|pos[14]	_	_	
+9-14	607-608	.	_	_	_	_	
+
+#Text=That said, the main potential benefits of i Watch I see are identification, device control and health monitoring.
+10-1	609-613	That	_	_	_	_	
+10-2	614-618	said	_	_	_	_	
+10-3	618-619	,	_	_	_	_	
+10-4	620-623	the	_	_	_	_	
+10-5	624-628	main	_	_	_	_	
+10-6	629-638	potential	_	_	_	_	
+10-7	639-647	benefits	Appreciation	pos	_	_	
+10-8	648-650	of	_	_	_	_	
+10-9	651-652	i	_	_	_	_	
+10-10	653-658	Watch	_	_	_	_	
+10-11	659-660	I	_	_	_	_	
+10-12	661-664	see	_	_	_	_	
+10-13	665-668	are	_	_	_	_	
+10-14	669-683	identification	_	_	_	_	
+10-15	683-684	,	_	_	_	_	
+10-16	685-691	device	_	_	_	_	
+10-17	692-699	control	_	_	_	_	
+10-18	700-703	and	_	_	_	_	
+10-19	704-710	health	_	_	_	_	
+10-20	711-721	monitoring	_	_	_	_	
+10-21	721-722	.	_	_	_	_	
+
+#Text=However, a lot of health geeks go to great lengths to reduce microwave and EMF exposure, so wearing an emitter of microwaves and EMF on the body all the time would be problematic.
+11-1	723-730	However	_	_	_	_	
+11-2	730-731	,	_	_	_	_	
+11-3	732-733	a	_	_	_	_	
+11-4	734-737	lot	_	_	_	_	
+11-5	738-740	of	_	_	_	_	
+11-6	741-747	health	_	_	_	_	
+11-7	748-753	geeks	_	_	_	_	
+11-8	754-756	go	_	_	_	_	
+11-9	757-759	to	_	_	_	_	
+11-10	760-765	great	_	_	_	_	
+11-11	766-773	lengths	_	_	_	_	
+11-12	774-776	to	_	_	_	_	
+11-13	777-783	reduce	_	_	_	_	
+11-14	784-793	microwave	_	_	_	_	
+11-15	794-797	and	_	_	_	_	
+11-16	798-801	EMF	_	_	_	_	
+11-17	802-810	exposure	_	_	_	_	
+11-18	810-811	,	_	_	_	_	
+11-19	812-814	so	_	_	_	_	
+11-20	815-822	wearing	_	_	_	_	
+11-21	823-825	an	_	_	_	_	
+11-22	826-833	emitter	_	_	_	_	
+11-23	834-836	of	_	_	_	_	
+11-24	837-847	microwaves	_	_	_	_	
+11-25	848-851	and	_	_	_	_	
+11-26	852-855	EMF	_	_	_	_	
+11-27	856-858	on	_	_	_	_	
+11-28	859-862	the	_	_	_	_	
+11-29	863-867	body	_	_	_	_	
+11-30	868-871	all	_	_	_	_	
+11-31	872-875	the	_	_	_	_	
+11-32	876-880	time	_	_	_	_	
+11-33	881-886	would	_	_	_	_	
+11-34	887-889	be	_	_	_	_	
+11-35	890-901	problematic	_	_	_	_	
+11-36	901-902	.	_	_	_	_	

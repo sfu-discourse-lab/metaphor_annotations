@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=What a stupid article.
+1-1	0-4	What	_	_	_	_	
+1-2	5-6	a	_	_	_	_	
+1-3	7-13	stupid	Appreciation	neg	_	_	
+1-4	14-21	article	_	_	_	_	
+1-5	21-22	.	_	_	_	_	
+
+#Text=Of course the budget has 2 parts- revenues and expenses.
+2-1	23-25	Of	Appreciation[2]	neg[2]	_	_	
+2-2	26-32	course	Appreciation[2]	neg[2]	_	_	
+2-3	33-36	the	_	_	_	_	
+2-4	37-43	budget	_	_	_	_	
+2-5	44-47	has	_	_	_	_	
+2-6	48-49	2	_	_	_	_	
+2-7	50-55	parts	_	_	_	_	
+2-8	55-56	-	_	_	_	_	
+2-9	57-65	revenues	_	_	_	_	
+2-10	66-69	and	_	_	_	_	
+2-11	70-78	expenses	_	_	_	_	
+2-12	78-79	.	_	_	_	_	
+
+#Text=You still need to be a careful steward w both to balance.
+3-1	80-83	You	_	_	_	_	
+3-2	84-89	still	_	_	_	_	
+3-3	90-94	need	_	_	_	_	
+3-4	95-97	to	_	_	_	_	
+3-5	98-100	be	_	_	_	_	
+3-6	101-102	a	_	_	_	_	
+3-7	103-110	careful	Judgment[3]	pos[3]	_	_	
+3-8	111-118	steward	Judgment[3]	pos[3]	_	_	
+3-9	119-120	w	_	_	_	_	
+3-10	121-125	both	_	_	_	_	
+3-11	126-128	to	_	_	_	_	
+3-12	129-136	balance	_	_	_	_	
+3-13	136-137	.	_	_	_	_	
+
+#Text=You still have to manage revenues w smart tax policies.
+4-1	138-141	You	_	_	_	_	
+4-2	142-147	still	_	_	_	_	
+4-3	148-152	have	_	_	_	_	
+4-4	153-155	to	_	_	_	_	
+4-5	156-162	manage	Judgment	pos	_	_	
+4-6	163-171	revenues	_	_	_	_	
+4-7	172-173	w	_	_	_	_	
+4-8	174-179	smart	Appreciation	pos	_	_	
+4-9	180-183	tax	_	_	_	_	
+4-10	184-192	policies	_	_	_	_	
+4-11	192-193	.	_	_	_	_	
+
+#Text=Corp and personal taxes were reduced to help bring about the fast recovery from the recession, fastest in the g7 for job growth in fact, so they can't just be disregarded.
+5-1	194-198	Corp	_	_	_	_	
+5-2	199-202	and	_	_	_	_	
+5-3	203-211	personal	_	_	_	_	
+5-4	212-217	taxes	_	_	_	_	
+5-5	218-222	were	_	_	_	_	
+5-6	223-230	reduced	_	_	_	_	
+5-7	231-233	to	_	_	_	_	
+5-8	234-238	help	_	_	_	_	
+5-9	239-244	bring	_	_	_	_	
+5-10	245-250	about	_	_	_	_	
+5-11	251-254	the	_	_	_	_	
+5-12	255-259	fast	Appreciation[6]	pos[6]	_	_	
+5-13	260-268	recovery	Appreciation[6]	pos[6]	_	_	
+5-14	269-273	from	_	_	_	_	
+5-15	274-277	the	_	_	_	_	
+5-16	278-287	recession	_	_	_	_	
+5-17	287-288	,	_	_	_	_	
+5-18	289-296	fastest	Appreciation	pos	Force	up	
+5-19	297-299	in	_	_	_	_	
+5-20	300-303	the	_	_	_	_	
+5-21	304-306	g7	_	_	_	_	
+5-22	307-310	for	_	_	_	_	
+5-23	311-314	job	Appreciation[8]	pos[8]	_	_	
+5-24	315-321	growth	Appreciation[8]	pos[8]	_	_	
+5-25	322-324	in	_	_	_	_	
+5-26	325-329	fact	_	_	_	_	
+5-27	329-330	,	_	_	_	_	
+5-28	331-333	so	_	_	_	_	
+5-29	334-338	they	_	_	_	_	
+5-30	339-344	can't	Appreciation[9]	pos[9]	_	_	
+5-31	345-349	just	Appreciation[9]	pos[9]	_	_	
+5-32	350-352	be	Appreciation[9]	pos[9]	_	_	
+5-33	353-364	disregarded	Appreciation[9]|Appreciation[10]	pos[9]|neg[10]	_	_	
+5-34	364-365	.	_	_	_	_	
+
+#Text=Maybe the author needs to understand tax cuts can actually increase tax revenue through more economic activity.
+6-1	366-371	Maybe	Judgment[11]	neg[11]	_	_	
+6-2	372-375	the	Judgment[11]	neg[11]	_	_	
+6-3	376-382	author	Judgment[11]	neg[11]	_	_	
+6-4	383-388	needs	Judgment[11]	neg[11]	_	_	
+6-5	389-391	to	Judgment[11]	neg[11]	_	_	
+6-6	392-402	understand	Judgment[11]	neg[11]	_	_	
+6-7	403-406	tax	Judgment[11]	neg[11]	_	_	
+6-8	407-411	cuts	Judgment[11]	neg[11]	_	_	
+6-9	412-415	can	Judgment[11]	neg[11]	_	_	
+6-10	416-424	actually	Judgment[11]	neg[11]	_	_	
+6-11	425-433	increase	Judgment[11]	neg[11]	_	_	
+6-12	434-437	tax	Judgment[11]	neg[11]	_	_	
+6-13	438-445	revenue	Judgment[11]|Appreciation[12]	neg[11]|pos[12]	_	_	
+6-14	446-453	through	Judgment[11]	neg[11]	_	_	
+6-15	454-458	more	Judgment[11]|Appreciation[13]	neg[11]|pos[13]	_	_	
+6-16	459-467	economic	Judgment[11]|Appreciation[13]	neg[11]|pos[13]	_	_	
+6-17	468-476	activity	Judgment[11]|Appreciation[13]	neg[11]|pos[13]	_	_	
+6-18	476-477	.	_	_	_	_	
+
+#Text=The lefty media still twisting themselves in knots to make a surplus into a bad thing.
+7-1	478-481	The	_	_	_	_	
+7-2	482-487	lefty	Judgment	neg	_	_	
+7-3	488-493	media	_	_	_	_	
+7-4	494-499	still	_	_	_	_	
+7-5	500-508	twisting	Judgment[15]	neg[15]	_	_	
+7-6	509-519	themselves	Judgment[15]	neg[15]	_	_	
+7-7	520-522	in	Judgment[15]	neg[15]	_	_	
+7-8	523-528	knots	Judgment[15]	neg[15]	_	_	
+7-9	529-531	to	_	_	_	_	
+7-10	532-536	make	Judgment[16]	neg[16]	_	_	
+7-11	537-538	a	Judgment[16]	neg[16]	_	_	
+7-12	539-546	surplus	Judgment[16]	neg[16]	_	_	
+7-13	547-551	into	Judgment[16]	neg[16]	_	_	
+7-14	552-553	a	Judgment[16]	neg[16]	_	_	
+7-15	554-557	bad	Judgment[16]|Appreciation[17]	neg[16]|neg[17]	_	_	
+7-16	558-563	thing	Judgment[16]	neg[16]	_	_	
+7-17	563-564	.	_	_	_	_	

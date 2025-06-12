@@ -1,0 +1,10 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Yes, great writing!
+1-1	0-3	Yes	Appreciation	pos	
+1-2	3-4	,	_	_	
+1-3	5-10	great	Appreciation	pos	
+1-4	11-18	writing	_	_	
+1-5	18-19	!	_	_	

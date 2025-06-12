@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=It's stuff like this that propels Donald Trump (and let's face it, Rob Ford) into power.
+1-1	0-4	It's	_	
+1-2	5-10	stuff	_	
+1-3	11-15	like	_	
+1-4	16-20	this	_	
+1-5	21-25	that	_	
+1-6	26-33	propels	_	
+1-7	34-40	Donald	_	
+1-8	41-46	Trump	_	
+1-9	47-48	(	_	
+1-10	48-51	and	_	
+1-11	52-57	let's	_	
+1-12	58-62	face	_	
+1-13	63-65	it	_	
+1-14	65-66	,	_	
+1-15	67-70	Rob	_	
+1-16	71-75	Ford	_	
+1-17	75-76	)	_	
+1-18	77-81	into	_	
+1-19	82-87	power	_	
+1-20	87-88	.	_	
+
+#Text=People are tired of being called sexist just because (an extremely flawed) woman doesn't win.
+2-1	89-95	People	_	
+2-2	96-99	are	_	
+2-3	100-105	tired	_	
+2-4	106-108	of	_	
+2-5	109-114	being	_	
+2-6	115-121	called	_	
+2-7	122-128	sexist	_	
+2-8	129-133	just	_	
+2-9	134-141	because	_	
+2-10	142-143	(	_	
+2-11	143-145	an	_	
+2-12	146-155	extremely	_	
+2-13	156-162	flawed	_	
+2-14	162-163	)	_	
+2-15	164-169	woman	_	
+2-16	170-177	doesn't	NEG	
+2-17	178-181	win	SCOPE[2]|FOCUS[3]	
+2-18	181-182	.	_	
+
+#Text=They're tired of being called racist, xenophobic, transphobic and Islamophobic at every turn to justify progressive outcomes that 'ought to have been'.Donald Trump won fair and square.
+3-1	183-190	They're	_	
+3-2	191-196	tired	_	
+3-3	197-199	of	_	
+3-4	200-205	being	_	
+3-5	206-212	called	_	
+3-6	213-219	racist	_	
+3-7	219-220	,	_	
+3-8	221-231	xenophobic	_	
+3-9	231-232	,	_	
+3-10	233-244	transphobic	_	
+3-11	245-248	and	_	
+3-12	249-261	Islamophobic	_	
+3-13	262-264	at	_	
+3-14	265-270	every	_	
+3-15	271-275	turn	_	
+3-16	276-278	to	_	
+3-17	279-286	justify	_	
+3-18	287-298	progressive	_	
+3-19	299-307	outcomes	_	
+3-20	308-312	that	_	
+3-21	313-314	'	_	
+3-22	314-319	ought	_	
+3-23	320-322	to	_	
+3-24	323-327	have	_	
+3-25	328-332	been	_	
+3-26	332-333	'	_	
+3-27	333-334	.	_	
+3-28	334-340	Donald	_	
+3-29	341-346	Trump	_	
+3-30	347-350	won	_	
+3-31	351-355	fair	_	
+3-32	356-359	and	_	
+3-33	360-366	square	_	
+3-34	366-367	.	_	
+
+#Text=You may not like the outcome, but it has nothing to do with identity politics except that the distaste for identity politics is what bred the movement that supports him.
+4-1	368-371	You	_	
+4-2	372-375	may	_	
+4-3	376-379	not	NEG	
+4-4	380-384	like	SCOPE[5]	
+4-5	385-388	the	SCOPE[5]|FOCUS[6]	
+4-6	389-396	outcome	SCOPE[5]|FOCUS[6]	
+4-7	396-397	,	_	
+4-8	398-401	but	_	
+4-9	402-404	it	_	
+4-10	405-408	has	_	
+4-11	409-416	nothing	NEG	
+4-12	417-419	to	SCOPE[8]	
+4-13	420-422	do	SCOPE[8]	
+4-14	423-427	with	SCOPE[8]	
+4-15	428-436	identity	SCOPE[8]|FOCUS[9]	
+4-16	437-445	politics	SCOPE[8]|FOCUS[9]	
+4-17	446-452	except	_	
+4-18	453-457	that	_	
+4-19	458-461	the	_	
+4-20	462-470	distaste	_	
+4-21	471-474	for	_	
+4-22	475-483	identity	_	
+4-23	484-492	politics	_	
+4-24	493-495	is	_	
+4-25	496-500	what	_	
+4-26	501-505	bred	_	
+4-27	506-509	the	_	
+4-28	510-518	movement	_	
+4-29	519-523	that	_	
+4-30	524-532	supports	_	
+4-31	533-536	him	_	
+4-32	536-537	.	_	

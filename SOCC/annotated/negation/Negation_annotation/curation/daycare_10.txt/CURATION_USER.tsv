@@ -1,0 +1,166 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Last week it was the call for a national pharma care program to pay for drugs.
+1-1	0-4	Last	_	
+1-2	5-9	week	_	
+1-3	10-12	it	_	
+1-4	13-16	was	_	
+1-5	17-20	the	_	
+1-6	21-25	call	_	
+1-7	26-29	for	_	
+1-8	30-31	a	_	
+1-9	32-40	national	_	
+1-10	41-47	pharma	_	
+1-11	48-52	care	_	
+1-12	53-60	program	_	
+1-13	61-63	to	_	
+1-14	64-67	pay	_	
+1-15	68-71	for	_	
+1-16	72-77	drugs	_	
+1-17	77-78	.	_	
+
+#Text=Now it is day care.
+2-1	79-82	Now	_	
+2-2	83-85	it	_	
+2-3	86-88	is	_	
+2-4	89-92	day	_	
+2-5	93-97	care	_	
+2-6	97-98	.	_	
+
+#Text=I guess we no longer want responsibility for ourselves but expect government to look after everything for us.
+3-1	99-100	I	_	
+3-2	101-106	guess	_	
+3-3	107-109	we	_	
+3-4	110-112	no	NEG	
+3-5	113-119	longer	SCOPE[2]	
+3-6	120-124	want	SCOPE[2]	
+3-7	125-139	responsibility	SCOPE[2]	
+3-8	140-143	for	SCOPE[2]	
+3-9	144-153	ourselves	SCOPE[2]|FOCUS[3]	
+3-10	154-157	but	_	
+3-11	158-164	expect	_	
+3-12	165-175	government	_	
+3-13	176-178	to	_	
+3-14	179-183	look	_	
+3-15	184-189	after	_	
+3-16	190-200	everything	_	
+3-17	201-204	for	_	
+3-18	205-207	us	_	
+3-19	207-208	.	_	
+
+#Text=We cannot properly fund health care as it is and people think we should institute another expensive universal government program.
+4-1	209-211	We	_	
+4-2	212-218	cannot	NEG	
+4-3	219-227	properly	SCOPE[5]|FOCUS[6]	
+4-4	228-232	fund	SCOPE[5]	
+4-5	233-239	health	SCOPE[5]	
+4-6	240-244	care	SCOPE[5]	
+4-7	245-247	as	SCOPE[5]	
+4-8	248-250	it	SCOPE[5]	
+4-9	251-253	is	SCOPE[5]	
+4-10	254-257	and	_	
+4-11	258-264	people	_	
+4-12	265-270	think	_	
+4-13	271-273	we	_	
+4-14	274-280	should	_	
+4-15	281-290	institute	_	
+4-16	291-298	another	_	
+4-17	299-308	expensive	_	
+4-18	309-318	universal	_	
+4-19	319-329	government	_	
+4-20	330-337	program	_	
+4-21	337-338	.	_	
+
+#Text=As usual, it boils down to who pays and I suspect many think that someone else other than himself or herself will be paying.
+5-1	339-341	As	_	
+5-2	342-347	usual	_	
+5-3	347-348	,	_	
+5-4	349-351	it	_	
+5-5	352-357	boils	_	
+5-6	358-362	down	_	
+5-7	363-365	to	_	
+5-8	366-369	who	_	
+5-9	370-374	pays	_	
+5-10	375-378	and	_	
+5-11	379-380	I	_	
+5-12	381-388	suspect	_	
+5-13	389-393	many	_	
+5-14	394-399	think	_	
+5-15	400-404	that	_	
+5-16	405-412	someone	_	
+5-17	413-417	else	_	
+5-18	418-423	other	_	
+5-19	424-428	than	_	
+5-20	429-436	himself	_	
+5-21	437-439	or	_	
+5-22	440-447	herself	_	
+5-23	448-452	will	_	
+5-24	453-455	be	_	
+5-25	456-462	paying	_	
+5-26	462-463	.	_	
+
+#Text=You know, like corporations, banks and the rich.
+6-1	464-467	You	_	
+6-2	468-472	know	_	
+6-3	472-473	,	_	
+6-4	474-478	like	_	
+6-5	479-491	corporations	_	
+6-6	491-492	,	_	
+6-7	493-498	banks	_	
+6-8	499-502	and	_	
+6-9	503-506	the	_	
+6-10	507-511	rich	_	
+6-11	511-512	.	_	
+
+#Text=We are overtaxed in this country as it is.
+7-1	513-515	We	_	
+7-2	516-519	are	_	
+7-3	520-529	overtaxed	_	
+7-4	530-532	in	_	
+7-5	533-537	this	_	
+7-6	538-545	country	_	
+7-7	546-548	as	_	
+7-8	549-551	it	_	
+7-9	552-554	is	_	
+7-10	554-555	.	_	
+
+#Text=Let's focus on funding healthcare and re-listing services de-listed by governments.
+8-1	556-561	Let's	_	
+8-2	562-567	focus	_	
+8-3	568-570	on	_	
+8-4	571-578	funding	_	
+8-5	579-589	healthcare	_	
+8-6	590-593	and	_	
+8-7	594-604	re-listing	_	
+8-8	605-613	services	_	
+8-9	614-623	de-listed	_	
+8-10	624-626	by	_	
+8-11	627-638	governments	_	
+8-12	638-639	.	_	
+
+#Text=As well, let's think about debt re-payment so that we do not leave a mountain of bills for the next generation.
+9-1	640-642	As	_	
+9-2	643-647	well	_	
+9-3	647-648	,	_	
+9-4	649-654	let's	_	
+9-5	655-660	think	_	
+9-6	661-666	about	_	
+9-7	667-671	debt	_	
+9-8	672-682	re-payment	_	
+9-9	683-685	so	_	
+9-10	686-690	that	_	
+9-11	691-693	we	_	
+9-12	694-696	do	_	
+9-13	697-700	not	NEG	
+9-14	701-706	leave	SCOPE[8]	
+9-15	707-708	a	SCOPE[8]	
+9-16	709-717	mountain	SCOPE[8]	
+9-17	718-720	of	SCOPE[8]	
+9-18	721-726	bills	SCOPE[8]	
+9-19	727-730	for	SCOPE[8]	
+9-20	731-734	the	SCOPE[8]|FOCUS[9]	
+9-21	735-739	next	SCOPE[8]|FOCUS[9]	
+9-22	740-750	generation	SCOPE[8]|FOCUS[9]	
+9-23	750-751	.	_	

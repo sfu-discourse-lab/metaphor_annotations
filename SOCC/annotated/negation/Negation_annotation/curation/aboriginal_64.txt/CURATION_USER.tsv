@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=What about the stronger tribes that essentially colonized weaker tribes?
+1-1	0-4	What	_	
+1-2	5-10	about	_	
+1-3	11-14	the	_	
+1-4	15-23	stronger	_	
+1-5	24-30	tribes	_	
+1-6	31-35	that	_	
+1-7	36-47	essentially	_	
+1-8	48-57	colonized	_	
+1-9	58-64	weaker	_	
+1-10	65-71	tribes	_	
+1-11	71-72	?	_	
+
+#Text=Don't think the losers in these fights were looked after so well.
+2-1	74-79	Don't	NEG	
+2-2	80-85	think	SCOPE[2]	
+2-3	86-89	the	SCOPE[2]	
+2-4	90-96	losers	SCOPE[2]	
+2-5	97-99	in	SCOPE[2]	
+2-6	100-105	these	SCOPE[2]	
+2-7	106-112	fights	SCOPE[2]	
+2-8	113-117	were	SCOPE[2]	
+2-9	118-124	looked	SCOPE[2]	
+2-10	125-130	after	SCOPE[2]	
+2-11	131-133	so	SCOPE[2]|FOCUS[3]	
+2-12	134-138	well	SCOPE[2]|FOCUS[3]	
+2-13	138-139	.	_	

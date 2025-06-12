@@ -1,0 +1,424 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Donald J.
+1-1	0-6	Donald	_	
+1-2	7-8	J	_	
+1-3	8-9	.	_	
+
+#Text=Trump is now confirmed elected POTUS by overwhelming electoral votes majority.
+2-1	10-15	Trump	_	
+2-2	16-18	is	_	
+2-3	19-22	now	_	
+2-4	23-32	confirmed	_	
+2-5	33-40	elected	_	
+2-6	41-46	POTUS	_	
+2-7	47-49	by	_	
+2-8	50-62	overwhelming	_	
+2-9	63-72	electoral	_	
+2-10	73-78	votes	_	
+2-11	79-87	majority	_	
+2-12	87-88	.	_	
+
+#Text=Also, Republican candidates have won BOTH Senate and House.
+3-1	89-93	Also	_	
+3-2	93-94	,	_	
+3-3	95-105	Republican	_	
+3-4	106-116	candidates	_	
+3-5	117-121	have	_	
+3-6	122-125	won	_	
+3-7	126-130	BOTH	_	
+3-8	131-137	Senate	_	
+3-9	138-141	and	_	
+3-10	142-147	House	_	
+3-11	147-148	.	_	
+
+#Text=He also gets to nominate the vacated Supreme Court judge, bringing the Court to his side as well.
+4-1	149-151	He	_	
+4-2	152-156	also	_	
+4-3	157-161	gets	_	
+4-4	162-164	to	_	
+4-5	165-173	nominate	_	
+4-6	174-177	the	_	
+4-7	178-185	vacated	_	
+4-8	186-193	Supreme	_	
+4-9	194-199	Court	_	
+4-10	200-205	judge	_	
+4-11	205-206	,	_	
+4-12	207-215	bringing	_	
+4-13	216-219	the	_	
+4-14	220-225	Court	_	
+4-15	226-228	to	_	
+4-16	229-232	his	_	
+4-17	233-237	side	_	
+4-18	238-240	as	_	
+4-19	241-245	well	_	
+4-20	245-246	.	_	
+
+#Text=The Donald is de facto elected Dictator of the U.S.A.
+5-1	247-250	The	_	
+5-2	251-257	Donald	_	
+5-3	258-260	is	_	
+5-4	261-263	de	_	
+5-5	264-269	facto	_	
+5-6	270-277	elected	_	
+5-7	278-286	Dictator	_	
+5-8	287-289	of	_	
+5-9	290-293	the	_	
+5-10	294-299	U.S.A	_	
+5-11	299-300	.	_	
+
+#Text=He can do as he pleases.
+6-1	301-303	He	_	
+6-2	304-307	can	_	
+6-3	308-310	do	_	
+6-4	311-313	as	_	
+6-5	314-316	he	_	
+6-6	317-324	pleases	_	
+6-7	324-325	.	_	
+
+#Text=Given his style, he WILL do as he pleases.
+7-1	326-331	Given	_	
+7-2	332-335	his	_	
+7-3	336-341	style	_	
+7-4	341-342	,	_	
+7-5	343-345	he	_	
+7-6	346-350	WILL	_	
+7-7	351-353	do	_	
+7-8	354-356	as	_	
+7-9	357-359	he	_	
+7-10	360-367	pleases	_	
+7-11	367-368	.	_	
+
+#Text=The Donald won despite having NO support from the entire political Establishment, NO support from Big Media, NO support from Big Money, NO support from the War Machine, NO this and NO that.
+8-1	369-372	The	_	
+8-2	373-379	Donald	_	
+8-3	380-383	won	_	
+8-4	384-391	despite	_	
+8-5	392-398	having	_	
+8-6	399-401	NO	NEG	
+8-7	402-409	support	SCOPE[2]	
+8-8	410-414	from	SCOPE[2]	
+8-9	415-418	the	SCOPE[2]|FOCUS[3]	
+8-10	419-425	entire	SCOPE[2]|FOCUS[3]	
+8-11	426-435	political	SCOPE[2]|FOCUS[3]	
+8-12	436-449	Establishment	SCOPE[2]|FOCUS[3]	
+8-13	449-450	,	_	
+8-14	451-453	NO	NEG	
+8-15	454-461	support	SCOPE[5]	
+8-16	462-466	from	SCOPE[5]	
+8-17	467-470	Big	SCOPE[5]|FOCUS[6]	
+8-18	471-476	Media	SCOPE[5]|FOCUS[6]	
+8-19	476-477	,	_	
+8-20	478-480	NO	NEG	
+8-21	481-488	support	SCOPE[8]	
+8-22	489-493	from	SCOPE[8]	
+8-23	494-497	Big	SCOPE[8]|FOCUS[9]	
+8-24	498-503	Money	SCOPE[8]|FOCUS[9]	
+8-25	503-504	,	_	
+8-26	505-507	NO	NEG	
+8-27	508-515	support	SCOPE[11]	
+8-28	516-520	from	SCOPE[11]	
+8-29	521-524	the	SCOPE[11]|FOCUS[12]	
+8-30	525-528	War	SCOPE[11]|FOCUS[12]	
+8-31	529-536	Machine	SCOPE[11]|FOCUS[12]	
+8-32	536-537	,	_	
+8-33	538-540	NO	NEG	
+8-34	541-545	this	SCOPE[14]|FOCUS[15]	
+8-35	546-549	and	_	
+8-36	550-552	NO	NEG	
+8-37	553-557	that	SCOPE[17]|FOCUS[18]	
+8-38	557-558	.	_	
+
+#Text=His opponent used the most dirty of tricks, cast him as friend of 'evil' Putin, which he just smile.
+9-1	559-562	His	_	
+9-2	563-571	opponent	_	
+9-3	572-576	used	_	
+9-4	577-580	the	_	
+9-5	581-585	most	_	
+9-6	586-591	dirty	_	
+9-7	592-594	of	_	
+9-8	595-601	tricks	_	
+9-9	601-602	,	_	
+9-10	603-607	cast	_	
+9-11	608-611	him	_	
+9-12	612-614	as	_	
+9-13	615-621	friend	_	
+9-14	622-624	of	_	
+9-15	625-626	'	_	
+9-16	626-630	evil	_	
+9-17	630-631	'	_	
+9-18	632-637	Putin	_	
+9-19	637-638	,	_	
+9-20	639-644	which	_	
+9-21	645-647	he	_	
+9-22	648-652	just	_	
+9-23	653-658	smile	_	
+9-24	658-659	.	_	
+
+#Text=See, the Donald being the ultimate outsider knows a whole lot the big political machine that ran America for so long does not know.
+10-1	660-663	See	_	
+10-2	663-664	,	_	
+10-3	665-668	the	_	
+10-4	669-675	Donald	_	
+10-5	676-681	being	_	
+10-6	682-685	the	_	
+10-7	686-694	ultimate	_	
+10-8	695-703	outsider	_	
+10-9	704-709	knows	_	
+10-10	710-711	a	_	
+10-11	712-717	whole	_	
+10-12	718-721	lot	_	
+10-13	722-725	the	_	
+10-14	726-729	big	_	
+10-15	730-739	political	_	
+10-16	740-747	machine	_	
+10-17	748-752	that	_	
+10-18	753-756	ran	_	
+10-19	757-764	America	_	
+10-20	765-768	for	_	
+10-21	769-771	so	_	
+10-22	772-776	long	_	
+10-23	777-781	does	_	
+10-24	782-785	not	NEG	
+10-25	786-790	know	SCOPE[20]|FOCUS[21]	
+10-26	790-791	.	_	
+
+#Text=Chief among this is he is on his way to wipe out both the Democrat and Republican parties at the same time!
+11-1	792-797	Chief	_	
+11-2	798-803	among	_	
+11-3	804-808	this	_	
+11-4	809-811	is	_	
+11-5	812-814	he	_	
+11-6	815-817	is	_	
+11-7	818-820	on	_	
+11-8	821-824	his	_	
+11-9	825-828	way	_	
+11-10	829-831	to	_	
+11-11	832-836	wipe	_	
+11-12	837-840	out	_	
+11-13	841-845	both	_	
+11-14	846-849	the	_	
+11-15	850-858	Democrat	_	
+11-16	859-862	and	_	
+11-17	863-873	Republican	_	
+11-18	874-881	parties	_	
+11-19	882-884	at	_	
+11-20	885-888	the	_	
+11-21	889-893	same	_	
+11-22	894-898	time	_	
+11-23	898-899	!	_	
+
+#Text=The Donald ran a movement.
+12-1	899-902	The	_	
+12-2	903-909	Donald	_	
+12-3	910-913	ran	_	
+12-4	914-915	a	_	
+12-5	916-924	movement	_	
+12-6	924-925	.	_	
+
+#Text=Hillary ran a rig to construct a dynasty.
+13-1	926-933	Hillary	_	
+13-2	934-937	ran	_	
+13-3	938-939	a	_	
+13-4	940-943	rig	_	
+13-5	944-946	to	_	
+13-6	947-956	construct	_	
+13-7	957-958	a	_	
+13-8	959-966	dynasty	_	
+13-9	966-967	.	_	
+
+#Text=In a movement it does not matter about the details.
+14-1	968-970	In	_	
+14-2	971-972	a	_	
+14-3	973-981	movement	_	
+14-4	982-984	it	_	
+14-5	985-989	does	_	
+14-6	990-993	not	NEG	
+14-7	994-1000	matter	SCOPE[23]	
+14-8	1001-1006	about	SCOPE[23]	
+14-9	1007-1010	the	SCOPE[23]|FOCUS[24]	
+14-10	1011-1018	details	SCOPE[23]|FOCUS[24]	
+14-11	1018-1019	.	_	
+
+#Text=You just have to sound right and look right for the mob to follow.
+15-1	1020-1023	You	_	
+15-2	1024-1028	just	_	
+15-3	1029-1033	have	_	
+15-4	1034-1036	to	_	
+15-5	1037-1042	sound	_	
+15-6	1043-1048	right	_	
+15-7	1049-1052	and	_	
+15-8	1053-1057	look	_	
+15-9	1058-1063	right	_	
+15-10	1064-1067	for	_	
+15-11	1068-1071	the	_	
+15-12	1072-1075	mob	_	
+15-13	1076-1078	to	_	
+15-14	1079-1085	follow	_	
+15-15	1085-1086	.	_	
+
+#Text=Hillary humiliating defeat is entirely by herself.
+16-1	1087-1094	Hillary	_	
+16-2	1095-1106	humiliating	_	
+16-3	1107-1113	defeat	_	
+16-4	1114-1116	is	_	
+16-5	1117-1125	entirely	_	
+16-6	1126-1128	by	_	
+16-7	1129-1136	herself	_	
+16-8	1136-1137	.	_	
+
+#Text=Trump rise to power is completely the result of the failure of not only both parties but presidents since Reagan.
+17-1	1138-1143	Trump	_	
+17-2	1144-1148	rise	_	
+17-3	1149-1151	to	_	
+17-4	1152-1157	power	_	
+17-5	1158-1160	is	_	
+17-6	1161-1171	completely	_	
+17-7	1172-1175	the	_	
+17-8	1176-1182	result	_	
+17-9	1183-1185	of	_	
+17-10	1186-1189	the	_	
+17-11	1190-1197	failure	_	
+17-12	1198-1200	of	_	
+17-13	1201-1204	not	NEG	
+17-14	1205-1209	only	SCOPE[26]	
+17-15	1210-1214	both	SCOPE[26]|FOCUS[27]	
+17-16	1215-1222	parties	SCOPE[26]|FOCUS[27]	
+17-17	1223-1226	but	_	
+17-18	1227-1237	presidents	_	
+17-19	1238-1243	since	_	
+17-20	1244-1250	Reagan	_	
+17-21	1250-1251	.	_	
+
+#Text=One of whom is a war criminal under state protection.
+18-1	1252-1255	One	_	
+18-2	1256-1258	of	_	
+18-3	1259-1263	whom	_	
+18-4	1264-1266	is	_	
+18-5	1267-1268	a	_	
+18-6	1269-1272	war	_	
+18-7	1273-1281	criminal	_	
+18-8	1282-1287	under	_	
+18-9	1288-1293	state	_	
+18-10	1294-1304	protection	_	
+18-11	1304-1305	.	_	
+
+#Text=With both political parties wiped out, the first shot of the movement already yields a political revolution.
+19-1	1306-1310	With	_	
+19-2	1311-1315	both	_	
+19-3	1316-1325	political	_	
+19-4	1326-1333	parties	_	
+19-5	1334-1339	wiped	_	
+19-6	1340-1343	out	_	
+19-7	1343-1344	,	_	
+19-8	1345-1348	the	_	
+19-9	1349-1354	first	_	
+19-10	1355-1359	shot	_	
+19-11	1360-1362	of	_	
+19-12	1363-1366	the	_	
+19-13	1367-1375	movement	_	
+19-14	1376-1383	already	_	
+19-15	1384-1390	yields	_	
+19-16	1391-1392	a	_	
+19-17	1393-1402	political	_	
+19-18	1403-1413	revolution	_	
+19-19	1413-1414	.	_	
+
+#Text=The 'swamp' already half drained.
+20-1	1415-1418	The	_	
+20-2	1419-1420	'	_	
+20-3	1420-1425	swamp	_	
+20-4	1425-1426	'	_	
+20-5	1427-1434	already	_	
+20-6	1435-1439	half	_	
+20-7	1440-1447	drained	_	
+20-8	1447-1448	.	_	
+
+#Text=His task now is to be a Revolutionary Leader.
+21-1	1449-1452	His	_	
+21-2	1453-1457	task	_	
+21-3	1458-1461	now	_	
+21-4	1462-1464	is	_	
+21-5	1465-1467	to	_	
+21-6	1468-1470	be	_	
+21-7	1471-1472	a	_	
+21-8	1473-1486	Revolutionary	_	
+21-9	1487-1493	Leader	_	
+21-10	1493-1494	.	_	
+
+#Text=Turn everything upside down.
+22-1	1495-1499	Turn	_	
+22-2	1500-1510	everything	_	
+22-3	1511-1517	upside	_	
+22-4	1518-1522	down	_	
+22-5	1522-1523	.	_	
+
+#Text=He will do well to read up on such people in history.
+23-1	1524-1526	He	_	
+23-2	1527-1531	will	_	
+23-3	1532-1534	do	_	
+23-4	1535-1539	well	_	
+23-5	1540-1542	to	_	
+23-6	1543-1547	read	_	
+23-7	1548-1550	up	_	
+23-8	1551-1553	on	_	
+23-9	1554-1558	such	_	
+23-10	1559-1565	people	_	
+23-11	1566-1568	in	_	
+23-12	1569-1576	history	_	
+23-13	1576-1577	.	_	
+
+#Text=Such as George Washington, Napoleon, Hitler, Lenin, Stalin, Mao, Mussolini, and yes Putin.
+24-1	1578-1582	Such	_	
+24-2	1583-1585	as	_	
+24-3	1586-1592	George	_	
+24-4	1593-1603	Washington	_	
+24-5	1603-1604	,	_	
+24-6	1605-1613	Napoleon	_	
+24-7	1613-1614	,	_	
+24-8	1615-1621	Hitler	_	
+24-9	1621-1622	,	_	
+24-10	1623-1628	Lenin	_	
+24-11	1628-1629	,	_	
+24-12	1630-1636	Stalin	_	
+24-13	1636-1637	,	_	
+24-14	1638-1641	Mao	_	
+24-15	1641-1642	,	_	
+24-16	1643-1652	Mussolini	_	
+24-17	1652-1653	,	_	
+24-18	1654-1657	and	_	
+24-19	1658-1661	yes	_	
+24-20	1662-1667	Putin	_	
+24-21	1667-1668	.	_	
+
+#Text=Putin saved Russia.
+25-1	1669-1674	Putin	_	
+25-2	1675-1680	saved	_	
+25-3	1681-1687	Russia	_	
+25-4	1687-1688	.	_	
+
+#Text=Will Trump save America?
+26-1	1689-1693	Will	_	
+26-2	1694-1699	Trump	_	
+26-3	1700-1704	save	_	
+26-4	1705-1712	America	_	
+26-5	1712-1713	?	_	
+
+#Text=So his opponent accusation is right after all, just in the wrong way.
+27-1	1714-1716	So	_	
+27-2	1717-1720	his	_	
+27-3	1721-1729	opponent	_	
+27-4	1730-1740	accusation	_	
+27-5	1741-1743	is	_	
+27-6	1744-1749	right	_	
+27-7	1750-1755	after	_	
+27-8	1756-1759	all	_	
+27-9	1759-1760	,	_	
+27-10	1761-1765	just	_	
+27-11	1766-1768	in	_	
+27-12	1769-1772	the	_	
+27-13	1773-1778	wrong	_	
+27-14	1779-1782	way	_	
+27-15	1782-1783	.	_	

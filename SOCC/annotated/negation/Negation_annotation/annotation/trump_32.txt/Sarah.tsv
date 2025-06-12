@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=G&M and many of its commenters savaged this man as they tripped over themselves fawning over every word and deed from the Chineese communist government because they know they have no hope of influencing them.
+1-1	0-1	G	_	
+1-2	1-2	&	_	
+1-3	2-3	M	_	
+1-4	4-7	and	_	
+1-5	8-12	many	_	
+1-6	13-15	of	_	
+1-7	16-19	its	_	
+1-8	20-30	commenters	_	
+1-9	31-38	savaged	_	
+1-10	39-43	this	_	
+1-11	44-47	man	_	
+1-12	48-50	as	_	
+1-13	51-55	they	_	
+1-14	56-63	tripped	_	
+1-15	64-68	over	_	
+1-16	69-79	themselves	_	
+1-17	80-87	fawning	_	
+1-18	88-92	over	_	
+1-19	93-98	every	_	
+1-20	99-103	word	_	
+1-21	104-107	and	_	
+1-22	108-112	deed	_	
+1-23	113-117	from	_	
+1-24	118-121	the	_	
+1-25	122-130	Chineese	_	
+1-26	131-140	communist	_	
+1-27	141-151	government	_	
+1-28	152-159	because	_	
+1-29	160-164	they	_	
+1-30	165-169	know	_	
+1-31	170-174	they	_	
+1-32	175-179	have	_	
+1-33	180-182	no	NEG	
+1-34	183-187	hope	SCOPE[2]	
+1-35	188-190	of	SCOPE[2]	
+1-36	191-202	influencing	SCOPE[2]|FOCUS[3]	
+1-37	203-207	them	SCOPE[2]	
+1-38	207-208	.	_	
+
+#Text=The US will not be looking for Canada's approval any more.
+2-1	210-213	The	_	
+2-2	214-216	US	_	
+2-3	217-221	will	_	
+2-4	222-225	not	NEG	
+2-5	226-228	be	SCOPE[5]	
+2-6	229-236	looking	SCOPE[5]	
+2-7	237-240	for	SCOPE[5]	
+2-8	241-249	Canada's	SCOPE[5]|FOCUS[6]	
+2-9	250-258	approval	SCOPE[5]	
+2-10	259-262	any	SCOPE[5]	
+2-11	263-267	more	SCOPE[5]	
+2-12	267-268	.	_	

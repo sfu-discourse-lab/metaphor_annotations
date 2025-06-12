@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Not sure where you are getting your numbers....as of February 27, 14,383 government sponsored Syrian refugees have arrived in Canada.
+1-1	0-3	Not	NEG	
+1-2	4-8	sure	SCOPE[2]	
+1-3	9-14	where	SCOPE[2]	
+1-4	15-18	you	SCOPE[2]	
+1-5	19-22	are	SCOPE[2]	
+1-6	23-30	getting	SCOPE[2]	
+1-7	31-35	your	SCOPE[2]	
+1-8	36-43	numbers	SCOPE[2]|FOCUS[3]	
+1-9	43-44	.	_	
+1-10	44-45	.	_	
+1-11	45-46	.	_	
+1-12	46-47	.	_	
+1-13	47-49	as	_	
+1-14	50-52	of	_	
+1-15	53-61	February	_	
+1-16	62-64	27	_	
+1-17	64-65	,	_	
+1-18	66-72	14,383	_	
+1-19	73-83	government	_	
+1-20	84-93	sponsored	_	
+1-21	94-100	Syrian	_	
+1-22	101-109	refugees	_	
+1-23	110-114	have	_	
+1-24	115-122	arrived	_	
+1-25	123-125	in	_	
+1-26	126-132	Canada	_	
+1-27	132-133	.	_	
+
+#Text=As of yesterday, 69% have permanent housing.
+2-1	134-136	As	_	
+2-2	137-139	of	_	
+2-3	140-149	yesterday	_	
+2-4	149-150	,	_	
+2-5	151-154	69%	_	
+2-6	155-159	have	_	
+2-7	160-169	permanent	_	
+2-8	170-177	housing	_	
+2-9	177-178	.	_	
+
+#Text=That equals approximately 5000 without permanent housing.
+3-1	179-183	That	_	
+3-2	184-190	equals	_	
+3-3	191-204	approximately	_	
+3-4	205-209	5000	_	
+3-5	210-217	without	NEG	
+3-6	218-227	permanent	SCOPE[5]	
+3-7	228-235	housing	SCOPE[5]|FOCUS[6]	
+3-8	235-236	.	_	
+
+#Text=No housing, no job skills, language barriers...the program's a mess.
+4-1	237-239	No	NEG	
+4-2	240-247	housing	SCOPE[8]|FOCUS[9]	
+4-3	247-248	,	_	
+4-4	249-251	no	NEG	
+4-5	252-255	job	SCOPE[11]|FOCUS[12]	
+4-6	256-262	skills	SCOPE[11]	
+4-7	262-263	,	_	
+4-8	264-272	language	_	
+4-9	273-281	barriers	_	
+4-10	281-282	.	_	
+4-11	282-283	.	_	
+4-12	283-284	.	_	
+4-13	284-287	the	_	
+4-14	288-297	program's	_	
+4-15	298-299	a	_	
+4-16	300-304	mess	_	
+4-17	304-305	.	_	
+
+#Text=As far as I'm concerned, it's time to close OUR borders.
+5-1	306-308	As	_	
+5-2	309-312	far	_	
+5-3	313-315	as	_	
+5-4	316-319	I'm	_	
+5-5	320-329	concerned	_	
+5-6	329-330	,	_	
+5-7	331-335	it's	_	
+5-8	336-340	time	_	
+5-9	341-343	to	_	
+5-10	344-349	close	_	
+5-11	350-353	OUR	_	
+5-12	354-361	borders	_	
+5-13	361-362	.	_	

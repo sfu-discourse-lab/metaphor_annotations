@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Last time I checked, this country is still called Canada.
+1-1	0-4	Last	_	_	
+1-2	5-9	time	_	_	
+1-3	10-11	I	_	_	
+1-4	12-19	checked	_	_	
+1-5	19-20	,	_	_	
+1-6	21-25	this	_	_	
+1-7	26-33	country	_	_	
+1-8	34-36	is	_	_	
+1-9	37-42	still	Judgment[1]	neg[1]	
+1-10	43-49	called	Judgment[1]	neg[1]	
+1-11	50-56	Canada	Judgment[1]	neg[1]	
+1-12	56-57	.	_	_	
+
+#Text=Who knows how long it'll last given Justin Trudeau's agenda is anyone's guess, but for now Canadians have EVERY RIGHT TO MAKE THE RULES IN THEIR OWN COUNTRY.
+2-1	58-61	Who	Judgment[2]	neg[2]	
+2-2	62-67	knows	Judgment[2]	neg[2]	
+2-3	68-71	how	Judgment[2]	neg[2]	
+2-4	72-76	long	Judgment[2]	neg[2]	
+2-5	77-82	it'll	Judgment[2]	neg[2]	
+2-6	83-87	last	Judgment[2]	neg[2]	
+2-7	88-93	given	_	_	
+2-8	94-100	Justin	_	_	
+2-9	101-110	Trudeau's	_	_	
+2-10	111-117	agenda	_	_	
+2-11	118-120	is	_	_	
+2-12	121-129	anyone's	_	_	
+2-13	130-135	guess	_	_	
+2-14	135-136	,	_	_	
+2-15	137-140	but	_	_	
+2-16	141-144	for	_	_	
+2-17	145-148	now	_	_	
+2-18	149-158	Canadians	_	_	
+2-19	159-163	have	_	_	
+2-20	164-169	EVERY	Appreciation[3]	pos[3]	
+2-21	170-175	RIGHT	Appreciation[3]	pos[3]	
+2-22	176-178	TO	Appreciation[3]	pos[3]	
+2-23	179-183	MAKE	Appreciation[3]	pos[3]	
+2-24	184-187	THE	Appreciation[3]	pos[3]	
+2-25	188-193	RULES	Appreciation[3]	pos[3]	
+2-26	194-196	IN	Appreciation[3]	pos[3]	
+2-27	197-202	THEIR	Appreciation[3]	pos[3]	
+2-28	203-206	OWN	Appreciation[3]	pos[3]	
+2-29	207-214	COUNTRY	Appreciation[3]	pos[3]	
+2-30	214-215	.	_	_	
+
+#Text=You don't have to be a professor to understand that basic fact.
+3-1	216-219	You	_	_	
+3-2	220-225	don't	Judgment[4]	neg[4]	
+3-3	226-230	have	Judgment[4]	neg[4]	
+3-4	231-233	to	Judgment[4]	neg[4]	
+3-5	234-236	be	Judgment[4]	neg[4]	
+3-6	237-238	a	Judgment[4]	neg[4]	
+3-7	239-248	professor	Judgment[4]	neg[4]	
+3-8	249-251	to	Judgment[4]	neg[4]	
+3-9	252-262	understand	Judgment[4]	neg[4]	
+3-10	263-267	that	Judgment[4]	neg[4]	
+3-11	268-273	basic	Judgment[4]	neg[4]	
+3-12	274-278	fact	Judgment[4]	neg[4]	
+3-13	278-279	.	_	_	
+
+#Text=If you don't like it, then you're free to leave.
+4-1	280-282	If	Appreciation[5]	pos[5]	
+4-2	283-286	you	Appreciation[5]	pos[5]	
+4-3	287-292	don't	Appreciation[5]	pos[5]	
+4-4	293-297	like	Appreciation[5]	pos[5]	
+4-5	298-300	it	Appreciation[5]	pos[5]	
+4-6	300-301	,	Appreciation[5]	pos[5]	
+4-7	302-306	then	Appreciation[5]	pos[5]	
+4-8	307-313	you're	Appreciation[5]	pos[5]	
+4-9	314-318	free	Appreciation[5]	pos[5]	
+4-10	319-321	to	Appreciation[5]	pos[5]	
+4-11	322-327	leave	Appreciation[5]	pos[5]	
+4-12	327-328	.	_	_	

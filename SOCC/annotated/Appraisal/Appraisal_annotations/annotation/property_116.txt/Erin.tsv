@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=well it is targeted at the chinese but it picks up other groups as well because it would be unacceptable to frame legislation against the chinese specifically.
+1-1	0-4	well	_	_	
+1-2	5-7	it	_	_	
+1-3	8-10	is	_	_	
+1-4	11-19	targeted	Appreciation	neg	
+1-5	20-22	at	_	_	
+1-6	23-26	the	_	_	
+1-7	27-34	chinese	_	_	
+1-8	35-38	but	_	_	
+1-9	39-41	it	_	_	
+1-10	42-47	picks	Appreciation[2]	pos[2]	
+1-11	48-50	up	Appreciation[2]	pos[2]	
+1-12	51-56	other	Appreciation[2]	pos[2]	
+1-13	57-63	groups	Appreciation[2]	pos[2]	
+1-14	64-66	as	_	_	
+1-15	67-71	well	_	_	
+1-16	72-79	because	_	_	
+1-17	80-82	it	_	_	
+1-18	83-88	would	_	_	
+1-19	89-91	be	_	_	
+1-20	92-104	unacceptable	Appreciation	neg	
+1-21	105-107	to	_	_	
+1-22	108-113	frame	_	_	
+1-23	114-125	legislation	_	_	
+1-24	126-133	against	_	_	
+1-25	134-137	the	_	_	
+1-26	138-145	chinese	_	_	
+1-27	146-158	specifically	_	_	
+1-28	158-159	.	_	_	
+
+#Text=The real story here is though that the Provincial government waited until the last possible moment in the run up to the election to 'do something'.
+2-1	160-163	The	_	_	
+2-2	164-168	real	_	_	
+2-3	169-174	story	_	_	
+2-4	175-179	here	_	_	
+2-5	180-182	is	_	_	
+2-6	183-189	though	_	_	
+2-7	190-194	that	_	_	
+2-8	195-198	the	_	_	
+2-9	199-209	Provincial	_	_	
+2-10	210-220	government	_	_	
+2-11	221-227	waited	Judgment[4]	neg[4]	
+2-12	228-233	until	Judgment[4]	neg[4]	
+2-13	234-237	the	Judgment[4]	neg[4]	
+2-14	238-242	last	Judgment[4]	neg[4]	
+2-15	243-251	possible	Judgment[4]	neg[4]	
+2-16	252-258	moment	Judgment[4]	neg[4]	
+2-17	259-261	in	_	_	
+2-18	262-265	the	_	_	
+2-19	266-269	run	_	_	
+2-20	270-272	up	_	_	
+2-21	273-275	to	_	_	
+2-22	276-279	the	_	_	
+2-23	280-288	election	_	_	
+2-24	289-291	to	_	_	
+2-25	292-293	'	_	_	
+2-26	293-295	do	_	_	
+2-27	296-305	something	_	_	
+2-28	305-306	'	_	_	
+2-29	306-307	.	_	_	
+
+#Text=And the Canadian banks have been selling mortgages offshore for years to foreign buyers so that housing and renting is unaffordable.
+3-1	308-311	And	_	_	
+3-2	312-315	the	_	_	
+3-3	316-324	Canadian	_	_	
+3-4	325-330	banks	_	_	
+3-5	331-335	have	_	_	
+3-6	336-340	been	_	_	
+3-7	341-348	selling	Judgment[5]	neg[5]	
+3-8	349-358	mortgages	Judgment[5]	neg[5]	
+3-9	359-367	offshore	Judgment[5]	neg[5]	
+3-10	368-371	for	Judgment[5]	neg[5]	
+3-11	372-377	years	Judgment[5]	neg[5]	
+3-12	378-380	to	_	_	
+3-13	381-388	foreign	_	_	
+3-14	389-395	buyers	_	_	
+3-15	396-398	so	_	_	
+3-16	399-403	that	_	_	
+3-17	404-411	housing	_	_	
+3-18	412-415	and	_	_	
+3-19	416-423	renting	_	_	
+3-20	424-426	is	_	_	
+3-21	427-439	unaffordable	Appreciation	neg	
+3-22	439-440	.	_	_	
+
+#Text=So much for being part of the community.
+4-1	441-443	So	Appreciation[7]	neg[7]	
+4-2	444-448	much	Appreciation[7]	neg[7]	
+4-3	449-452	for	Appreciation[7]	neg[7]	
+4-4	453-458	being	Appreciation[7]	neg[7]	
+4-5	459-463	part	Appreciation[7]	neg[7]	
+4-6	464-466	of	Appreciation[7]	neg[7]	
+4-7	467-470	the	Appreciation[7]	neg[7]	
+4-8	471-480	community	Appreciation[7]	neg[7]	
+4-9	480-481	.	_	_	

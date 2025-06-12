@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Why has the NDP or Liberals not linked this 'surplus' to the unspent funds budgeted for veterans?
+1-1	0-3	Why	Judgment[1]	neg[1]	
+1-2	4-7	has	Judgment[1]	neg[1]	
+1-3	8-11	the	Judgment[1]	neg[1]	
+1-4	12-15	NDP	Judgment[1]	neg[1]	
+1-5	16-18	or	Judgment[1]	neg[1]	
+1-6	19-27	Liberals	Judgment[1]	neg[1]	
+1-7	28-31	not	Judgment[1]	neg[1]	
+1-8	32-38	linked	Judgment[1]	neg[1]	
+1-9	39-43	this	Judgment[1]	neg[1]	
+1-10	44-45	'	Judgment[1]	neg[1]	
+1-11	45-52	surplus	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	
+1-12	52-53	'	Judgment[1]	neg[1]	
+1-13	54-56	to	Judgment[1]	neg[1]	
+1-14	57-60	the	Judgment[1]	neg[1]	
+1-15	61-68	unspent	Judgment[1]|Appreciation[3]	neg[1]|neg[3]	
+1-16	69-74	funds	Judgment[1]|Appreciation[3]	neg[1]|neg[3]	
+1-17	75-83	budgeted	Judgment[1]|Appreciation[3]	neg[1]|neg[3]	
+1-18	84-87	for	Judgment[1]|Appreciation[3]	neg[1]|neg[3]	
+1-19	88-96	veterans	Judgment[1]|Appreciation[3]	neg[1]|neg[3]	
+1-20	96-97	?	_	_	
+
+#Text=Is that too much like what Harper would do if the shoe was on the other foot?
+2-1	98-100	Is	Judgment[4]	neg[4]	
+2-2	101-105	that	Judgment[4]	neg[4]	
+2-3	106-109	too	Judgment[4]	neg[4]	
+2-4	110-114	much	Judgment[4]	neg[4]	
+2-5	115-119	like	Judgment[4]	neg[4]	
+2-6	120-124	what	Judgment[4]	neg[4]	
+2-7	125-131	Harper	Judgment[4]	neg[4]	
+2-8	132-137	would	Judgment[4]	neg[4]	
+2-9	138-140	do	Judgment[4]	neg[4]	
+2-10	141-143	if	Judgment[4]	neg[4]	
+2-11	144-147	the	Judgment[4]	neg[4]	
+2-12	148-152	shoe	Judgment[4]	neg[4]	
+2-13	153-156	was	Judgment[4]	neg[4]	
+2-14	157-159	on	Judgment[4]	neg[4]	
+2-15	160-163	the	Judgment[4]	neg[4]	
+2-16	164-169	other	Judgment[4]	neg[4]	
+2-17	170-174	foot	Judgment[4]	neg[4]	
+2-18	174-175	?	_	_	

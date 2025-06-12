@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Obviously the only people fooled were Jeffrey's friends, members of the kindergarten teacher's party.
+1-1	0-9	Obviously	
+1-2	10-13	the	
+1-3	14-18	only	
+1-4	19-25	people	
+1-5	26-32	fooled	
+1-6	33-37	were	
+1-7	38-47	Jeffrey's	
+1-8	48-55	friends	
+1-9	55-56	,	
+1-10	57-64	members	
+1-11	65-67	of	
+1-12	68-71	the	
+1-13	72-84	kindergarten	
+1-14	85-94	teacher's	
+1-15	95-100	party	
+1-16	100-101	.	
+
+#Text=On one hand they want to blame PM Harper for being a bad manager, then they criticize him for ... hiding from them that he's doing a good job?
+2-1	102-104	On	
+2-2	105-108	one	
+2-3	109-113	hand	
+2-4	114-118	they	
+2-5	119-123	want	
+2-6	124-126	to	
+2-7	127-132	blame	
+2-8	133-135	PM	
+2-9	136-142	Harper	
+2-10	143-146	for	
+2-11	147-152	being	
+2-12	153-154	a	
+2-13	155-158	bad	
+2-14	159-166	manager	
+2-15	166-167	,	
+2-16	168-172	then	
+2-17	173-177	they	
+2-18	178-187	criticize	
+2-19	188-191	him	
+2-20	192-195	for	
+2-21	196-197	.	
+2-22	197-198	.	
+2-23	198-199	.	
+2-24	200-206	hiding	
+2-25	207-211	from	
+2-26	212-216	them	
+2-27	217-221	that	
+2-28	222-226	he's	
+2-29	227-232	doing	
+2-30	233-234	a	
+2-31	235-239	good	
+2-32	240-243	job	
+2-33	243-244	?	

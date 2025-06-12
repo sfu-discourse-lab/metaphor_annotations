@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Please read this article and tell me if there is a double standard applied to China in the South China Sea dispute. http://thediplomat.com/2016/05/taiwan-japan-fishing-dispute-heats-up/Taiwan-Japan Fishing Dispute Heats Up Taiwan sends Coast Guard and military vessels to enforce its right to fish in what Japan claims as its EEZ.
+1-1	0-6	Please	_	_	
+1-2	7-11	read	_	_	
+1-3	12-16	this	_	_	
+1-4	17-24	article	_	_	
+1-5	25-28	and	_	_	
+1-6	29-33	tell	_	_	
+1-7	34-36	me	_	_	
+1-8	37-39	if	_	_	
+1-9	40-45	there	_	_	
+1-10	46-48	is	_	_	
+1-11	49-50	a	_	_	
+1-12	51-57	double	Judgment[1]	neg[1]	
+1-13	58-66	standard	Judgment[1]	neg[1]	
+1-14	67-74	applied	_	_	
+1-15	75-77	to	_	_	
+1-16	78-83	China	_	_	
+1-17	84-86	in	_	_	
+1-18	87-90	the	_	_	
+1-19	91-96	South	_	_	
+1-20	97-102	China	_	_	
+1-21	103-106	Sea	_	_	
+1-22	107-114	dispute	Appreciation	neg	
+1-23	114-115	.	_	_	
+1-24	116-120	http	_	_	
+1-25	120-121	:	_	_	
+1-26	121-122	/	_	_	
+1-27	122-123	/	_	_	
+1-28	123-138	thediplomat.com	_	_	
+1-29	138-139	/	_	_	
+1-30	139-143	2016	_	_	
+1-31	143-144	/	_	_	
+1-32	144-146	05	_	_	
+1-33	146-147	/	_	_	
+1-34	147-184	taiwan-japan-fishing-dispute-heats-up	_	_	
+1-35	184-185	/	_	_	
+1-36	185-197	Taiwan-Japan	_	_	
+1-37	198-205	Fishing	_	_	
+1-38	206-213	Dispute	Appreciation	neg	
+1-39	214-219	Heats	Appreciation[4]	neg[4]	
+1-40	220-222	Up	Appreciation[4]	neg[4]	
+1-41	223-229	Taiwan	_	_	
+1-42	230-235	sends	Judgment[5]	neg[5]	
+1-43	236-241	Coast	Judgment[5]	neg[5]	
+1-44	242-247	Guard	Judgment[5]	neg[5]	
+1-45	248-251	and	Judgment[5]	neg[5]	
+1-46	252-260	military	Judgment[5]	neg[5]	
+1-47	261-268	vessels	Judgment[5]	neg[5]	
+1-48	269-271	to	_	_	
+1-49	272-279	enforce	_	_	
+1-50	280-283	its	_	_	
+1-51	284-289	right	_	_	
+1-52	290-292	to	_	_	
+1-53	293-297	fish	_	_	
+1-54	298-300	in	_	_	
+1-55	301-305	what	_	_	
+1-56	306-311	Japan	_	_	
+1-57	312-318	claims	_	_	
+1-58	319-321	as	_	_	
+1-59	322-325	its	_	_	
+1-60	326-329	EEZ	_	_	
+1-61	329-330	.	_	_	

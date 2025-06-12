@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Good analysis!
+1-1	0-4	Good	Appreciation	pos	_	_	
+1-2	5-13	analysis	_	_	_	_	
+1-3	13-14	!	_	_	_	_	
+
+#Text=The Harper Government is playing the electorate for fools, and the opposition parties fail to address the coming economic Tsunami of aging boomers.
+2-1	14-17	The	_	_	_	_	
+2-2	18-24	Harper	_	_	_	_	
+2-3	25-35	Government	_	_	_	_	
+2-4	36-38	is	_	_	_	_	
+2-5	39-46	playing	Judgment[2]	neg[2]	_	_	
+2-6	47-50	the	Judgment[2]	neg[2]	_	_	
+2-7	51-61	electorate	Judgment[2]	neg[2]	_	_	
+2-8	62-65	for	Judgment[2]	neg[2]	_	_	
+2-9	66-71	fools	Judgment[2]|Judgment[3]	neg[2]|neg[3]	_	_	
+2-10	71-72	,	_	_	_	_	
+2-11	73-76	and	_	_	_	_	
+2-12	77-80	the	_	_	_	_	
+2-13	81-91	opposition	_	_	_	_	
+2-14	92-99	parties	_	_	_	_	
+2-15	100-104	fail	Judgment[4]	neg[4]	_	_	
+2-16	105-107	to	Judgment[4]	neg[4]	_	_	
+2-17	108-115	address	Judgment[4]	neg[4]	_	_	
+2-18	116-119	the	_	_	_	_	
+2-19	120-126	coming	Appreciation[5]	neg[5]	_	_	
+2-20	127-135	economic	Appreciation[5]	neg[5]	_	_	
+2-21	136-143	Tsunami	Appreciation[5]	neg[5]	_	_	
+2-22	144-146	of	_	_	_	_	
+2-23	147-152	aging	_	_	_	_	
+2-24	153-160	boomers	_	_	_	_	
+2-25	160-161	.	_	_	_	_	
+
+#Text=Canadians desperately need a federal government that sits down and works with the provinces.
+3-1	162-171	Canadians	_	_	_	_	
+3-2	172-183	desperately	Appreciation[6]	pos[6]	Force	up	
+3-3	184-188	need	Appreciation[6]	pos[6]	_	_	
+3-4	189-190	a	Appreciation[6]	pos[6]	_	_	
+3-5	191-198	federal	Appreciation[6]	pos[6]	_	_	
+3-6	199-209	government	Appreciation[6]	pos[6]	_	_	
+3-7	210-214	that	Appreciation[6]	pos[6]	_	_	
+3-8	215-219	sits	Appreciation[6]	pos[6]	_	_	
+3-9	220-224	down	Appreciation[6]	pos[6]	_	_	
+3-10	225-228	and	Appreciation[6]	pos[6]	_	_	
+3-11	229-234	works	Appreciation[6]	pos[6]	_	_	
+3-12	235-239	with	Appreciation[6]	pos[6]	_	_	
+3-13	240-243	the	Appreciation[6]	pos[6]	_	_	
+3-14	244-253	provinces	Appreciation[6]	pos[6]	_	_	
+3-15	253-254	.	_	_	_	_	
+
+#Text=The Harper Government has proven incapable.
+4-1	255-258	The	_	_	_	_	
+4-2	259-265	Harper	_	_	_	_	
+4-3	266-276	Government	_	_	_	_	
+4-4	277-280	has	_	_	_	_	
+4-5	281-287	proven	_	_	_	_	
+4-6	288-297	incapable	Judgment	neg	_	_	
+4-7	297-298	.	_	_	_	_	
+
+#Text=Time for a change!
+5-1	299-303	Time	Appreciation[8]	pos[8]	_	_	
+5-2	304-307	for	Appreciation[8]	pos[8]	_	_	
+5-3	308-309	a	Appreciation[8]	pos[8]	_	_	
+5-4	310-316	change	Appreciation[8]	pos[8]	_	_	
+5-5	316-317	!	_	_	_	_	

@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text='Don't be fooled by the (surprise!)
+1-1	0-1	'	_	_	_	_	
+1-2	1-6	Don't	_	_	_	_	
+1-3	7-9	be	_	_	_	_	
+1-4	10-16	fooled	Affect	neg	_	_	
+1-5	17-19	by	_	_	_	_	
+1-6	20-23	the	_	_	_	_	
+1-7	24-25	(	_	_	_	_	
+1-8	25-33	surprise	_	_	_	_	
+1-9	33-34	!	_	_	_	_	
+1-10	34-35	)	_	_	_	_	
+
+#Text=budget surplus'Can't get much more bitter than this.
+2-1	36-42	budget	_	_	_	_	
+2-2	43-56	surplus'Can't	_	_	_	_	
+2-3	57-60	get	_	_	_	_	
+2-4	61-65	much	_	_	_	_	
+2-5	66-70	more	Affect[2]	neg[2]	Force	up	
+2-6	71-77	bitter	Affect[2]	neg[2]	_	_	
+2-7	78-82	than	_	_	_	_	
+2-8	83-87	this	_	_	_	_	
+2-9	87-88	.	_	_	_	_	

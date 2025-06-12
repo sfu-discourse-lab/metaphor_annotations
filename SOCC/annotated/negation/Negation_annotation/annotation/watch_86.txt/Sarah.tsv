@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Why?
+1-1	0-3	Why	
+1-2	3-4	?	
+
+#Text=Why would you spend the same amount to get less?
+2-1	4-7	Why	
+2-2	8-13	would	
+2-3	14-17	you	
+2-4	18-23	spend	
+2-5	24-27	the	
+2-6	28-32	same	
+2-7	33-39	amount	
+2-8	40-42	to	
+2-9	43-46	get	
+2-10	47-51	less	
+2-11	51-52	?	

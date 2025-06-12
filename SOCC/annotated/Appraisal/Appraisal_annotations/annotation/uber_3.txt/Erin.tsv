@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text='Yes to Uber.
+1-1	0-1	'	_	_	
+1-2	1-4	Yes	_	_	
+1-3	5-7	to	_	_	
+1-4	8-12	Uber	_	_	
+1-5	12-13	.	_	_	
+
+#Text=No to taxi cartels.' -- G&M Editorial.
+2-1	14-16	No	_	_	
+2-2	17-19	to	_	_	
+2-3	20-24	taxi	_	_	
+2-4	25-32	cartels	_	_	
+2-5	32-33	.	_	_	
+2-6	33-34	'	_	_	
+2-7	35-36	-	_	_	
+2-8	36-37	-	_	_	
+2-9	38-39	G	_	_	
+2-10	39-40	&	_	_	
+2-11	40-41	M	_	_	
+2-12	42-51	Editorial	_	_	
+2-13	51-52	.	_	_	
+
+#Text=Bang on!
+3-1	53-57	Bang	Judgment[1]	pos[1]	
+3-2	58-60	on	Judgment[1]	pos[1]	
+3-3	60-61	!	_	_	

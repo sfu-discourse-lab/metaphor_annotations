@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The historic head tax was meant to dissuade ethnic Chinese from coming to and staying in BC.
+1-1	0-3	The	_	_	
+1-2	4-12	historic	_	_	
+1-3	13-17	head	_	_	
+1-4	18-21	tax	_	_	
+1-5	22-25	was	_	_	
+1-6	26-31	meant	Appreciation[1]	neg[1]	
+1-7	32-34	to	Appreciation[1]	neg[1]	
+1-8	35-43	dissuade	Appreciation[1]	neg[1]	
+1-9	44-50	ethnic	_	_	
+1-10	51-58	Chinese	_	_	
+1-11	59-63	from	_	_	
+1-12	64-70	coming	_	_	
+1-13	71-73	to	_	_	
+1-14	74-77	and	_	_	
+1-15	78-85	staying	_	_	
+1-16	86-88	in	_	_	
+1-17	89-91	BC	_	_	
+1-18	91-92	.	_	_	
+
+#Text=As the BC property transfer tax applies to individuals who are neither Canadian citizens nor permanent residents, it's intent and effect will be to encourage foreigners, Chinese among others, who weren't intending to stay in BC to become permanent residents or citizens.
+2-1	93-95	As	_	_	
+2-2	96-99	the	_	_	
+2-3	100-102	BC	_	_	
+2-4	103-111	property	_	_	
+2-5	112-120	transfer	_	_	
+2-6	121-124	tax	_	_	
+2-7	125-132	applies	_	_	
+2-8	133-135	to	_	_	
+2-9	136-147	individuals	_	_	
+2-10	148-151	who	_	_	
+2-11	152-155	are	_	_	
+2-12	156-163	neither	_	_	
+2-13	164-172	Canadian	_	_	
+2-14	173-181	citizens	_	_	
+2-15	182-185	nor	_	_	
+2-16	186-195	permanent	_	_	
+2-17	196-205	residents	_	_	
+2-18	205-206	,	_	_	
+2-19	207-211	it's	_	_	
+2-20	212-218	intent	_	_	
+2-21	219-222	and	_	_	
+2-22	223-229	effect	_	_	
+2-23	230-234	will	_	_	
+2-24	235-237	be	_	_	
+2-25	238-240	to	_	_	
+2-26	241-250	encourage	Appreciation[2]	pos[2]	
+2-27	251-261	foreigners	Appreciation[2]	pos[2]	
+2-28	261-262	,	Appreciation[2]	pos[2]	
+2-29	263-270	Chinese	Appreciation[2]	pos[2]	
+2-30	271-276	among	Appreciation[2]	pos[2]	
+2-31	277-283	others	Appreciation[2]	pos[2]	
+2-32	283-284	,	Appreciation[2]	pos[2]	
+2-33	285-288	who	Appreciation[2]	pos[2]	
+2-34	289-296	weren't	Appreciation[2]	pos[2]	
+2-35	297-306	intending	Appreciation[2]	pos[2]	
+2-36	307-309	to	Appreciation[2]	pos[2]	
+2-37	310-314	stay	Appreciation[2]	pos[2]	
+2-38	315-317	in	Appreciation[2]	pos[2]	
+2-39	318-320	BC	Appreciation[2]	pos[2]	
+2-40	321-323	to	Appreciation[2]	pos[2]	
+2-41	324-330	become	Appreciation[2]	pos[2]	
+2-42	331-340	permanent	Appreciation[2]	pos[2]	
+2-43	341-350	residents	Appreciation[2]	pos[2]	
+2-44	351-353	or	Appreciation[2]	pos[2]	
+2-45	354-362	citizens	Appreciation[2]	pos[2]	
+2-46	362-363	.	_	_	
+
+#Text=So the intent and effect is the opposite of the head tax.
+3-1	364-366	So	_	_	
+3-2	367-370	the	_	_	
+3-3	371-377	intent	_	_	
+3-4	378-381	and	_	_	
+3-5	382-388	effect	_	_	
+3-6	389-391	is	_	_	
+3-7	392-395	the	_	_	
+3-8	396-404	opposite	Appreciation[3]	pos[3]	
+3-9	405-407	of	Appreciation[3]	pos[3]	
+3-10	408-411	the	Appreciation[3]	pos[3]	
+3-11	412-416	head	Appreciation[3]	pos[3]	
+3-12	417-420	tax	Appreciation[3]	pos[3]	
+3-13	420-421	.	_	_	

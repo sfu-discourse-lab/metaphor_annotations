@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=So, Gagnon says that the 'Flemmings speak a Dutch dialect'.
+1-1	0-2	So	_	
+1-2	2-3	,	_	
+1-3	4-10	Gagnon	_	
+1-4	11-15	says	_	
+1-5	16-20	that	_	
+1-6	21-24	the	_	
+1-7	25-26	'	_	
+1-8	26-35	Flemmings	_	
+1-9	36-41	speak	_	
+1-10	42-43	a	_	
+1-11	44-49	Dutch	_	
+1-12	50-57	dialect	_	
+1-13	57-58	'	_	
+1-14	58-59	.	_	
+
+#Text=Well, then, I guess Gagnon does not mean to suggest that those non-Dutch Belgians speak some lesser form of The Dutch Language, and so she is very happy to also assert that the Quebecois speak some French dialect, hence that the Quebecois appear to have the enunciation of a Metro announcement.
+2-1	60-64	Well	_	
+2-2	64-65	,	_	
+2-3	66-70	then	_	
+2-4	70-71	,	_	
+2-5	72-73	I	_	
+2-6	74-79	guess	_	
+2-7	80-86	Gagnon	_	
+2-8	87-91	does	_	
+2-9	92-95	not	NEG	
+2-10	96-100	mean	SCOPE[2]	
+2-11	101-103	to	SCOPE[2]	
+2-12	104-111	suggest	SCOPE[2]	
+2-13	112-116	that	SCOPE[2]	
+2-14	117-122	those	SCOPE[2]	
+2-15	123-132	non-Dutch	SCOPE[2]	
+2-16	133-141	Belgians	SCOPE[2]	
+2-17	142-147	speak	SCOPE[2]	
+2-18	148-152	some	SCOPE[2]	
+2-19	153-159	lesser	SCOPE[2]	
+2-20	160-164	form	SCOPE[2]	
+2-21	165-167	of	SCOPE[2]	
+2-22	168-171	The	SCOPE[2]|FOCUS[3]	
+2-23	172-177	Dutch	SCOPE[2]|FOCUS[3]	
+2-24	178-186	Language	SCOPE[2]|FOCUS[3]	
+2-25	186-187	,	_	
+2-26	188-191	and	_	
+2-27	192-194	so	_	
+2-28	195-198	she	_	
+2-29	199-201	is	_	
+2-30	202-206	very	_	
+2-31	207-212	happy	_	
+2-32	213-215	to	_	
+2-33	216-220	also	_	
+2-34	221-227	assert	_	
+2-35	228-232	that	_	
+2-36	233-236	the	_	
+2-37	237-246	Quebecois	_	
+2-38	247-252	speak	_	
+2-39	253-257	some	_	
+2-40	258-264	French	_	
+2-41	265-272	dialect	_	
+2-42	272-273	,	_	
+2-43	274-279	hence	_	
+2-44	280-284	that	_	
+2-45	285-288	the	_	
+2-46	289-298	Quebecois	_	
+2-47	299-305	appear	_	
+2-48	306-308	to	_	
+2-49	309-313	have	_	
+2-50	314-317	the	_	
+2-51	318-329	enunciation	_	
+2-52	330-332	of	_	
+2-53	333-334	a	_	
+2-54	335-340	Metro	_	
+2-55	341-353	announcement	_	
+2-56	353-354	.	_	
+
+#Text=As Oscar Wilde would put it: France and Quebec have many things in common, but the language is not one of them.
+3-1	355-357	As	_	
+3-2	358-363	Oscar	_	
+3-3	364-369	Wilde	_	
+3-4	370-375	would	_	
+3-5	376-379	put	_	
+3-6	380-382	it	_	
+3-7	382-383	:	_	
+3-8	384-390	France	_	
+3-9	391-394	and	_	
+3-10	395-401	Quebec	_	
+3-11	402-406	have	_	
+3-12	407-411	many	_	
+3-13	412-418	things	_	
+3-14	419-421	in	_	
+3-15	422-428	common	_	
+3-16	428-429	,	_	
+3-17	430-433	but	_	
+3-18	434-437	the	_	
+3-19	438-446	language	_	
+3-20	447-449	is	_	
+3-21	450-453	not	NEG	
+3-22	454-457	one	SCOPE[5]	
+3-23	458-460	of	SCOPE[5]	
+3-24	461-465	them	SCOPE[5]|FOCUS[6]	
+3-25	465-466	.	_	
+
+#Text=Tres bien!
+4-1	467-471	Tres	_	
+4-2	472-476	bien	_	
+4-3	476-477	!	_	

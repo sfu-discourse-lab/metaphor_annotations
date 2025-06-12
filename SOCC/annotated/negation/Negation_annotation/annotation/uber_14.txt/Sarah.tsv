@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=But how do you know the brakes work?
+1-1	0-3	But	_	
+1-2	4-7	how	_	
+1-3	8-10	do	_	
+1-4	11-14	you	_	
+1-5	15-19	know	_	
+1-6	20-23	the	_	
+1-7	24-30	brakes	_	
+1-8	31-35	work	_	
+1-9	35-36	?	_	
+
+#Text=Is there a safety shield in place to protect the driver?
+2-1	37-39	Is	_	
+2-2	40-45	there	_	
+2-3	46-47	a	_	
+2-4	48-54	safety	_	
+2-5	55-61	shield	_	
+2-6	62-64	in	_	
+2-7	65-70	place	_	
+2-8	71-73	to	_	
+2-9	74-81	protect	_	
+2-10	82-85	the	_	
+2-11	86-92	driver	_	
+2-12	92-93	?	_	
+
+#Text=People can have multiple identities so the driver never really knows who they're picking up.
+3-1	94-100	People	_	
+3-2	101-104	can	_	
+3-3	105-109	have	_	
+3-4	110-118	multiple	_	
+3-5	119-129	identities	_	
+3-6	130-132	so	_	
+3-7	133-136	the	_	
+3-8	137-143	driver	_	
+3-9	144-149	never	NEG	
+3-10	150-156	really	SCOPE[2]	
+3-11	157-162	knows	SCOPE[2]	
+3-12	163-166	who	SCOPE[2]|FOCUS[3]	
+3-13	167-174	they're	SCOPE[2]|FOCUS[3]	
+3-14	175-182	picking	SCOPE[2]|FOCUS[3]	
+3-15	183-185	up	SCOPE[2]|FOCUS[3]	
+3-16	185-186	.	_	
+
+#Text=I find a lot of the support for Uber to be naive.
+4-1	187-188	I	_	
+4-2	189-193	find	_	
+4-3	194-195	a	_	
+4-4	196-199	lot	_	
+4-5	200-202	of	_	
+4-6	203-206	the	_	
+4-7	207-214	support	_	
+4-8	215-218	for	_	
+4-9	219-223	Uber	_	
+4-10	224-226	to	_	
+4-11	227-229	be	_	
+4-12	230-235	naive	_	
+4-13	235-236	.	_	
+
+#Text=The people who run Uber are not your friends.
+5-1	237-240	The	_	
+5-2	241-247	people	_	
+5-3	248-251	who	_	
+5-4	252-255	run	_	
+5-5	256-260	Uber	_	
+5-6	261-264	are	_	
+5-7	265-268	not	NEG	
+5-8	269-273	your	SCOPE[5]	
+5-9	274-281	friends	SCOPE[5]|FOCUS[6]	
+5-10	281-282	.	_	
+
+#Text=They want their drivers to earn as little as they can get away with and they want to skim as much money as possible -- while doing basically nothing.
+6-1	283-287	They	_	
+6-2	288-292	want	_	
+6-3	293-298	their	_	
+6-4	299-306	drivers	_	
+6-5	307-309	to	_	
+6-6	310-314	earn	_	
+6-7	315-317	as	_	
+6-8	318-324	little	_	
+6-9	325-327	as	_	
+6-10	328-332	they	_	
+6-11	333-336	can	_	
+6-12	337-340	get	_	
+6-13	341-345	away	_	
+6-14	346-350	with	_	
+6-15	351-354	and	_	
+6-16	355-359	they	_	
+6-17	360-364	want	_	
+6-18	365-367	to	_	
+6-19	368-372	skim	_	
+6-20	373-375	as	_	
+6-21	376-380	much	_	
+6-22	381-386	money	_	
+6-23	387-389	as	_	
+6-24	390-398	possible	_	
+6-25	399-400	-	_	
+6-26	400-401	-	_	
+6-27	402-407	while	_	
+6-28	408-413	doing	_	
+6-29	414-423	basically	_	
+6-30	424-431	nothing	NEG	
+6-31	431-432	.	_	
+
+#Text=We need more rideshare services that are owned by the drivers, or someone needs to create an open source uber.
+7-1	433-435	We	_	
+7-2	436-440	need	_	
+7-3	441-445	more	_	
+7-4	446-455	rideshare	_	
+7-5	456-464	services	_	
+7-6	465-469	that	_	
+7-7	470-473	are	_	
+7-8	474-479	owned	_	
+7-9	480-482	by	_	
+7-10	483-486	the	_	
+7-11	487-494	drivers	_	
+7-12	494-495	,	_	
+7-13	496-498	or	_	
+7-14	499-506	someone	_	
+7-15	507-512	needs	_	
+7-16	513-515	to	_	
+7-17	516-522	create	_	
+7-18	523-525	an	_	
+7-19	526-530	open	_	
+7-20	531-537	source	_	
+7-21	538-542	uber	_	
+7-22	542-543	.	_	

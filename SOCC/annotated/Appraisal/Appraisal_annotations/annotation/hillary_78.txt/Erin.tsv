@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Perhaps I can impart some advice to the young ladies who stayed up expecting to see a female President.
+1-1	0-7	Perhaps	_	_	
+1-2	8-9	I	_	_	
+1-3	10-13	can	_	_	
+1-4	14-20	impart	_	_	
+1-5	21-25	some	_	_	
+1-6	26-32	advice	_	_	
+1-7	33-35	to	_	_	
+1-8	36-39	the	_	_	
+1-9	40-45	young	_	_	
+1-10	46-52	ladies	_	_	
+1-11	53-56	who	_	_	
+1-12	57-63	stayed	_	_	
+1-13	64-66	up	_	_	
+1-14	67-76	expecting	_	_	
+1-15	77-79	to	_	_	
+1-16	80-83	see	_	_	
+1-17	84-85	a	_	_	
+1-18	86-92	female	_	_	
+1-19	93-102	President	_	_	
+1-20	102-103	.	_	_	
+
+#Text=Your parents misled you.
+2-1	104-108	Your	_	_	
+2-2	109-116	parents	_	_	
+2-3	117-123	misled	Judgment	neg	
+2-4	124-127	you	_	_	
+2-5	127-128	.	_	_	
+
+#Text=Democracy can deliver results not anticipated.
+3-1	129-138	Democracy	_	_	
+3-2	139-142	can	Appreciation[2]	neu[2]	
+3-3	143-150	deliver	Appreciation[2]	neu[2]	
+3-4	151-158	results	Appreciation[2]	neu[2]	
+3-5	159-162	not	Appreciation[2]	neu[2]	
+3-6	163-174	anticipated	Appreciation[2]	neu[2]	
+3-7	174-175	.	_	_	
+
+#Text=There is no certain outcome.
+4-1	176-181	There	_	_	
+4-2	182-184	is	_	_	
+4-3	185-187	no	Judgment[3]	neg[3]	
+4-4	188-195	certain	Judgment[3]	neg[3]	
+4-5	196-203	outcome	Judgment[3]	neg[3]	
+4-6	203-204	.	_	_	
+
+#Text=This is the strength of democracy reiterating the importance of the difference of opinion.
+5-1	205-209	This	_	_	
+5-2	210-212	is	_	_	
+5-3	213-216	the	_	_	
+5-4	217-225	strength	Appreciation	pos	
+5-5	226-228	of	_	_	
+5-6	229-238	democracy	_	_	
+5-7	239-250	reiterating	_	_	
+5-8	251-254	the	_	_	
+5-9	255-265	importance	_	_	
+5-10	266-268	of	_	_	
+5-11	269-272	the	_	_	
+5-12	273-283	difference	_	_	
+5-13	284-286	of	_	_	
+5-14	287-294	opinion	_	_	
+5-15	294-295	.	_	_	
+
+#Text=You have been delivered an early lesson in life that your parents are not perfect.
+6-1	296-299	You	_	_	
+6-2	300-304	have	_	_	
+6-3	305-309	been	_	_	
+6-4	310-319	delivered	_	_	
+6-5	320-322	an	_	_	
+6-6	323-328	early	_	_	
+6-7	329-335	lesson	_	_	
+6-8	336-338	in	_	_	
+6-9	339-343	life	_	_	
+6-10	344-348	that	_	_	
+6-11	349-353	your	_	_	
+6-12	354-361	parents	_	_	
+6-13	362-365	are	_	_	
+6-14	366-369	not	Judgment[5]	neg[5]	
+6-15	370-377	perfect	Judgment[5]	neg[5]	
+6-16	377-378	.	_	_	
+
+#Text=The more important messages, lost on your parents, comes from baseball, and a certainty of life.
+7-1	379-382	The	_	_	
+7-2	383-387	more	Appreciation[6]	pos[6]	
+7-3	388-397	important	Appreciation[6]	pos[6]	
+7-4	398-406	messages	_	_	
+7-5	406-407	,	_	_	
+7-6	408-412	lost	_	_	
+7-7	413-415	on	_	_	
+7-8	416-420	your	_	_	
+7-9	421-428	parents	_	_	
+7-10	428-429	,	_	_	
+7-11	430-435	comes	_	_	
+7-12	436-440	from	_	_	
+7-13	441-449	baseball	_	_	
+7-14	449-450	,	_	_	
+7-15	451-454	and	_	_	
+7-16	455-456	a	_	_	
+7-17	457-466	certainty	_	_	
+7-18	467-469	of	_	_	
+7-19	470-474	life	_	_	
+7-20	474-475	.	_	_	
+
+#Text='It ain't over 'til it's over.'
+8-1	476-477	'	_	_	
+8-2	477-479	It	Appreciation[7]	pos[7]	
+8-3	480-485	ain't	Appreciation[7]	pos[7]	
+8-4	486-490	over	Appreciation[7]	pos[7]	
+8-5	491-492	'	Appreciation[7]	pos[7]	
+8-6	492-495	til	Appreciation[7]	pos[7]	
+8-7	496-500	it's	Appreciation[7]	pos[7]	
+8-8	501-505	over	Appreciation[7]	pos[7]	
+8-9	505-506	.	_	_	
+8-10	506-507	'	_	_	
+
+#Text=And from a band, 'You can't always get what you want'.
+9-1	508-511	And	_	_	
+9-2	512-516	from	_	_	
+9-3	517-518	a	_	_	
+9-4	519-523	band	_	_	
+9-5	523-524	,	_	_	
+9-6	525-526	'	_	_	
+9-7	526-529	You	Appreciation[8]	neg[8]	
+9-8	530-535	can't	Appreciation[8]	neg[8]	
+9-9	536-542	always	Appreciation[8]	neg[8]	
+9-10	543-546	get	Appreciation[8]	neg[8]	
+9-11	547-551	what	Appreciation[8]	neg[8]	
+9-12	552-555	you	Appreciation[8]	neg[8]	
+9-13	556-560	want	Appreciation[8]	neg[8]	
+9-14	560-561	'	_	_	
+9-15	561-562	.	_	_	

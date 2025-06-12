@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text='If she was a man, she would be president-elect today.'
+1-1	0-1	'	_	_	_	_	
+1-2	1-3	If	Judgment[1]	neg[1]	_	_	
+1-3	4-7	she	Judgment[1]	neg[1]	_	_	
+1-4	8-11	was	Judgment[1]	neg[1]	_	_	
+1-5	12-13	a	Judgment[1]	neg[1]	_	_	
+1-6	14-17	man	Judgment[1]	neg[1]	_	_	
+1-7	17-18	,	Judgment[1]	neg[1]	_	_	
+1-8	19-22	she	Judgment[1]	neg[1]	_	_	
+1-9	23-28	would	Judgment[1]	neg[1]	_	_	
+1-10	29-31	be	Judgment[1]	neg[1]	_	_	
+1-11	32-47	president-elect	Judgment[1]	neg[1]	_	_	
+1-12	48-53	today	Judgment[1]	neg[1]	_	_	
+1-13	53-54	.	_	_	_	_	
+1-14	54-55	'	_	_	_	_	
+
+#Text=Nonsense.
+2-1	55-63	Nonsense	Appreciation	neg	_	_	
+2-2	63-64	.	_	_	_	_	
+
+#Text=Clinton lost because of her past not because of her gender.
+3-1	65-72	Clinton	_	_	_	_	
+3-2	73-77	lost	Judgment[3]	neg[3]	_	_	
+3-3	78-85	because	Judgment[3]	neg[3]	_	_	
+3-4	86-88	of	Judgment[3]	neg[3]	_	_	
+3-5	89-92	her	Judgment[3]	neg[3]	_	_	
+3-6	93-97	past	Judgment[3]	neg[3]	_	_	
+3-7	98-101	not	Appreciation[4]	neg[4]	_	_	
+3-8	102-109	because	Appreciation[4]	neg[4]	_	_	
+3-9	110-112	of	Appreciation[4]	neg[4]	_	_	
+3-10	113-116	her	Appreciation[4]	neg[4]	_	_	
+3-11	117-123	gender	Appreciation[4]	neg[4]	_	_	
+3-12	123-124	.	_	_	_	_	
+
+#Text=You can't have it both ways - the media constantly portrayed her opponent as a buffoon, yet if she couldn't defeat a buffoon it was because of who she is not because of her genitals.
+4-1	125-128	You	_	_	_	_	
+4-2	129-134	can't	Judgment[5]	neg[5]	_	_	
+4-3	135-139	have	Judgment[5]	neg[5]	_	_	
+4-4	140-142	it	Judgment[5]	neg[5]	_	_	
+4-5	143-147	both	Judgment[5]	neg[5]	_	_	
+4-6	148-152	ways	Judgment[5]	neg[5]	_	_	
+4-7	153-154	-	_	_	_	_	
+4-8	155-158	the	_	_	_	_	
+4-9	159-164	media	_	_	_	_	
+4-10	165-175	constantly	_	_	_	_	
+4-11	176-185	portrayed	_	_	_	_	
+4-12	186-189	her	_	_	_	_	
+4-13	190-198	opponent	_	_	_	_	
+4-14	199-201	as	_	_	_	_	
+4-15	202-203	a	_	_	_	_	
+4-16	204-211	buffoon	Judgment	neg	_	_	
+4-17	211-212	,	_	_	_	_	
+4-18	213-216	yet	_	_	_	_	
+4-19	217-219	if	Judgment[7]	neg[7]	_	_	
+4-20	220-223	she	Judgment[7]	neg[7]	_	_	
+4-21	224-232	couldn't	Judgment[7]	neg[7]	_	_	
+4-22	233-239	defeat	Judgment[7]	neg[7]	_	_	
+4-23	240-241	a	Judgment[7]	neg[7]	_	_	
+4-24	242-249	buffoon	Judgment[7]	neg[7]	_	_	
+4-25	250-252	it	Judgment[7]	neg[7]	_	_	
+4-26	253-256	was	Judgment[7]	neg[7]	_	_	
+4-27	257-264	because	Judgment[7]	neg[7]	_	_	
+4-28	265-267	of	Judgment[7]	neg[7]	_	_	
+4-29	268-271	who	Judgment[7]	neg[7]	_	_	
+4-30	272-275	she	Judgment[7]	neg[7]	_	_	
+4-31	276-278	is	Judgment[7]	neg[7]	_	_	
+4-32	279-282	not	Appreciation[8]	neg[8]	_	_	
+4-33	283-290	because	Appreciation[8]	neg[8]	_	_	
+4-34	291-293	of	Appreciation[8]	neg[8]	_	_	
+4-35	294-297	her	Appreciation[8]	neg[8]	_	_	
+4-36	298-306	genitals	Appreciation[8]	neg[8]	_	_	
+4-37	306-307	.	_	_	_	_	
+
+#Text=There were better women who could have run but the Dems chose Clinton.
+5-1	308-313	There	_	_	_	_	
+5-2	314-318	were	_	_	_	_	
+5-3	319-325	better	Judgment	pos	Force	up	
+5-4	326-331	women	_	_	_	_	
+5-5	332-335	who	_	_	_	_	
+5-6	336-341	could	_	_	_	_	
+5-7	342-346	have	_	_	_	_	
+5-8	347-350	run	_	_	_	_	
+5-9	351-354	but	_	_	_	_	
+5-10	355-358	the	_	_	_	_	
+5-11	359-363	Dems	_	_	_	_	
+5-12	364-369	chose	Judgment[10]	neg[10]	_	_	
+5-13	370-377	Clinton	Judgment[10]	neg[10]	_	_	
+5-14	377-378	.	_	_	_	_	

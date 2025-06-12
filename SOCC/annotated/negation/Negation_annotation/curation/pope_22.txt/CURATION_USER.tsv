@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The Pope is the Bishop of Rome - the head of the Roman Catholic church.
+1-1	0-3	The	_	
+1-2	4-8	Pope	_	
+1-3	9-11	is	_	
+1-4	12-15	the	_	
+1-5	16-22	Bishop	_	
+1-6	23-25	of	_	
+1-7	26-30	Rome	_	
+1-8	31-32	-	_	
+1-9	33-36	the	_	
+1-10	37-41	head	_	
+1-11	42-44	of	_	
+1-12	45-48	the	_	
+1-13	49-54	Roman	_	
+1-14	55-63	Catholic	_	
+1-15	64-70	church	_	
+1-16	70-71	.	_	
+
+#Text=Are you surprised that his views mirror those of the Catholic Church?
+2-1	72-75	Are	_	
+2-2	76-79	you	_	
+2-3	80-89	surprised	_	
+2-4	90-94	that	_	
+2-5	95-98	his	_	
+2-6	99-104	views	_	
+2-7	105-111	mirror	_	
+2-8	112-117	those	_	
+2-9	118-120	of	_	
+2-10	121-124	the	_	
+2-11	125-133	Catholic	_	
+2-12	134-140	Church	_	
+2-13	140-141	?	_	
+
+#Text=Hmmm.People like the Pope because he is authentic in his faith and lives his values.
+3-1	142-153	Hmmm.People	_	
+3-2	154-158	like	_	
+3-3	159-162	the	_	
+3-4	163-167	Pope	_	
+3-5	168-175	because	_	
+3-6	176-178	he	_	
+3-7	179-181	is	_	
+3-8	182-191	authentic	_	
+3-9	192-194	in	_	
+3-10	195-198	his	_	
+3-11	199-204	faith	_	
+3-12	205-208	and	_	
+3-13	209-214	lives	_	
+3-14	215-218	his	_	
+3-15	219-225	values	_	
+3-16	225-226	.	_	
+
+#Text=He isn't fake.
+4-1	227-229	He	_	
+4-2	230-235	isn't	NEG	
+4-3	236-240	fake	SCOPE[2]|FOCUS[3]	
+4-4	240-241	.	_	
+
+#Text=Catholics and especially non-catholics see this as 'refreshing'.
+5-1	242-251	Catholics	_	
+5-2	252-255	and	_	
+5-3	256-266	especially	_	
+5-4	267-280	non-catholics	_	
+5-5	281-284	see	_	
+5-6	285-289	this	_	
+5-7	290-292	as	_	
+5-8	293-294	'	_	
+5-9	294-304	refreshing	_	
+5-10	304-305	'	_	
+5-11	305-306	.	_	
+
+#Text=The fact that his values reflect his mission to serve the forgotten, poor, abused, marginalized and disenfranchised resonates across many faiths.
+6-1	307-310	The	_	
+6-2	311-315	fact	_	
+6-3	316-320	that	_	
+6-4	321-324	his	_	
+6-5	325-331	values	_	
+6-6	332-339	reflect	_	
+6-7	340-343	his	_	
+6-8	344-351	mission	_	
+6-9	352-354	to	_	
+6-10	355-360	serve	_	
+6-11	361-364	the	_	
+6-12	365-374	forgotten	_	
+6-13	374-375	,	_	
+6-14	376-380	poor	_	
+6-15	380-381	,	_	
+6-16	382-388	abused	_	
+6-17	388-389	,	_	
+6-18	390-402	marginalized	_	
+6-19	403-406	and	_	
+6-20	407-422	disenfranchised	_	
+6-21	423-432	resonates	_	
+6-22	433-439	across	_	
+6-23	440-444	many	_	
+6-24	445-451	faiths	_	
+6-25	451-452	.	_	

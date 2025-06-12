@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text='What are you going to tell your daughters?'
+1-1	0-1	'	_	_	_	_	
+1-2	1-5	What	_	_	_	_	
+1-3	6-9	are	_	_	_	_	
+1-4	10-13	you	_	_	_	_	
+1-5	14-19	going	_	_	_	_	
+1-6	20-22	to	_	_	_	_	
+1-7	23-27	tell	_	_	_	_	
+1-8	28-32	your	_	_	_	_	
+1-9	33-42	daughters	_	_	_	_	
+1-10	42-43	?	_	_	_	_	
+1-11	43-44	'	_	_	_	_	
+
+#Text=We are going to tell them that plenty of other countries in the world have elected female leaders, prime ministers, and presidents.
+2-1	44-46	We	_	_	_	_	
+2-2	47-50	are	_	_	_	_	
+2-3	51-56	going	_	_	_	_	
+2-4	57-59	to	_	_	_	_	
+2-5	60-64	tell	_	_	_	_	
+2-6	65-69	them	_	_	_	_	
+2-7	70-74	that	_	_	_	_	
+2-8	75-81	plenty	_	_	_	_	
+2-9	82-84	of	_	_	_	_	
+2-10	85-90	other	_	_	_	_	
+2-11	91-100	countries	_	_	_	_	
+2-12	101-103	in	_	_	_	_	
+2-13	104-107	the	_	_	_	_	
+2-14	108-113	world	_	_	_	_	
+2-15	114-118	have	_	_	_	_	
+2-16	119-126	elected	Appreciation[1]	pos[1]	_	_	
+2-17	127-133	female	Appreciation[1]	pos[1]	_	_	
+2-18	134-141	leaders	Appreciation[1]	pos[1]	_	_	
+2-19	141-142	,	_	_	_	_	
+2-20	143-148	prime	_	_	_	_	
+2-21	149-158	ministers	_	_	_	_	
+2-22	158-159	,	_	_	_	_	
+2-23	160-163	and	_	_	_	_	
+2-24	164-174	presidents	_	_	_	_	
+2-25	174-175	.	_	_	_	_	
+
+#Text=Some of them even 'third world countries'.We are going to tell them that being female is no guarantee that they will succeed, or get the top job.
+3-1	176-180	Some	_	_	_	_	
+3-2	181-183	of	_	_	_	_	
+3-3	184-188	them	_	_	_	_	
+3-4	189-193	even	_	_	_	_	
+3-5	194-195	'	_	_	_	_	
+3-6	195-200	third	_	_	_	_	
+3-7	201-206	world	_	_	_	_	
+3-8	207-216	countries	_	_	_	_	
+3-9	216-217	'	_	_	_	_	
+3-10	217-218	.	_	_	_	_	
+3-11	218-220	We	_	_	_	_	
+3-12	221-224	are	_	_	_	_	
+3-13	225-230	going	_	_	_	_	
+3-14	231-233	to	_	_	_	_	
+3-15	234-238	tell	_	_	_	_	
+3-16	239-243	them	_	_	_	_	
+3-17	244-248	that	_	_	_	_	
+3-18	249-254	being	_	_	_	_	
+3-19	255-261	female	_	_	_	_	
+3-20	262-264	is	_	_	_	_	
+3-21	265-267	no	Appreciation[2]	neg[2]	_	_	
+3-22	268-277	guarantee	Appreciation[2]	neg[2]	_	_	
+3-23	278-282	that	Appreciation[2]	neg[2]	_	_	
+3-24	283-287	they	Appreciation[2]	neg[2]	_	_	
+3-25	288-292	will	Appreciation[2]	neg[2]	_	_	
+3-26	293-300	succeed	Appreciation[2]	neg[2]	_	_	
+3-27	300-301	,	_	_	_	_	
+3-28	302-304	or	_	_	_	_	
+3-29	305-308	get	_	_	_	_	
+3-30	309-312	the	_	_	_	_	
+3-31	313-316	top	_	_	_	_	
+3-32	317-320	job	_	_	_	_	
+3-33	320-321	.	_	_	_	_	
+
+#Text=We are going to tell them, when they run for election, their gender is no guarantee of winning or losing.
+4-1	322-324	We	_	_	_	_	
+4-2	325-328	are	_	_	_	_	
+4-3	329-334	going	_	_	_	_	
+4-4	335-337	to	_	_	_	_	
+4-5	338-342	tell	_	_	_	_	
+4-6	343-347	them	_	_	_	_	
+4-7	347-348	,	_	_	_	_	
+4-8	349-353	when	_	_	_	_	
+4-9	354-358	they	_	_	_	_	
+4-10	359-362	run	_	_	_	_	
+4-11	363-366	for	_	_	_	_	
+4-12	367-375	election	_	_	_	_	
+4-13	375-376	,	_	_	_	_	
+4-14	377-382	their	_	_	_	_	
+4-15	383-389	gender	_	_	_	_	
+4-16	390-392	is	_	_	_	_	
+4-17	393-395	no	Appreciation[3]	neg[3]	_	_	
+4-18	396-405	guarantee	Appreciation[3]	neg[3]	_	_	
+4-19	406-408	of	Appreciation[3]	neg[3]	_	_	
+4-20	409-416	winning	Appreciation[3]	neg[3]	_	_	
+4-21	417-419	or	Appreciation[3]	neg[3]	_	_	
+4-22	420-426	losing	Appreciation[3]	neg[3]	_	_	
+4-23	426-427	.	_	_	_	_	
+
+#Text=And we are going to tell them that the most qualified person does not always get the the elected position.
+5-1	428-431	And	_	_	_	_	
+5-2	432-434	we	_	_	_	_	
+5-3	435-438	are	_	_	_	_	
+5-4	439-444	going	_	_	_	_	
+5-5	445-447	to	_	_	_	_	
+5-6	448-452	tell	_	_	_	_	
+5-7	453-457	them	_	_	_	_	
+5-8	458-462	that	_	_	_	_	
+5-9	463-466	the	_	_	_	_	
+5-10	467-471	most	Judgment[4]	pos[4]	Force	up	
+5-11	472-481	qualified	Judgment[4]	pos[4]	_	_	
+5-12	482-488	person	_	_	_	_	
+5-13	489-493	does	_	_	_	_	
+5-14	494-497	not	Appreciation[5]	neg[5]	_	_	
+5-15	498-504	always	Appreciation[5]	neg[5]	_	_	
+5-16	505-508	get	Appreciation[5]	neg[5]	_	_	
+5-17	509-512	the	Appreciation[5]	neg[5]	_	_	
+5-18	513-516	the	Appreciation[5]	neg[5]	_	_	
+5-19	517-524	elected	Appreciation[5]	neg[5]	_	_	
+5-20	525-533	position	Appreciation[5]	neg[5]	_	_	
+5-21	533-534	.	_	_	_	_	
+
+#Text=Or the job.
+6-1	535-537	Or	_	_	_	_	
+6-2	538-541	the	_	_	_	_	
+6-3	542-545	job	_	_	_	_	
+6-4	545-546	.	_	_	_	_	
+
+#Text=And we are going to tell our sons the exact same thing.
+7-1	547-550	And	_	_	_	_	
+7-2	551-553	we	_	_	_	_	
+7-3	554-557	are	_	_	_	_	
+7-4	558-563	going	_	_	_	_	
+7-5	564-566	to	_	_	_	_	
+7-6	567-571	tell	Appreciation[6]	pos[6]	_	_	
+7-7	572-575	our	Appreciation[6]	pos[6]	_	_	
+7-8	576-580	sons	Appreciation[6]	pos[6]	_	_	
+7-9	581-584	the	Appreciation[6]	pos[6]	_	_	
+7-10	585-590	exact	Appreciation[6]	pos[6]	_	_	
+7-11	591-595	same	Appreciation[6]	pos[6]	_	_	
+7-12	596-601	thing	Appreciation[6]	pos[6]	_	_	
+7-13	601-602	.	_	_	_	_	

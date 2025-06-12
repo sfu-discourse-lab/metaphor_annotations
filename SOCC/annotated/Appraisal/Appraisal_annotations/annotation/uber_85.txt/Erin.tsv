@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=The most sensible and practical editorial I have read in a long long time.
+1-1	0-3	The	_	_	_	_	
+1-2	4-8	most	Appreciation[1]	pos[1]	Force	up	
+1-3	9-17	sensible	Appreciation[1]	pos[1]	_	_	
+1-4	18-21	and	Appreciation[1]	pos[1]	_	_	
+1-5	22-31	practical	Appreciation[1]	pos[1]	_	_	
+1-6	32-41	editorial	_	_	_	_	
+1-7	42-43	I	_	_	_	_	
+1-8	44-48	have	_	_	_	_	
+1-9	49-53	read	_	_	_	_	
+1-10	54-56	in	_	_	_	_	
+1-11	57-58	a	_	_	_	_	
+1-12	59-63	long	_	_	_	_	
+1-13	64-68	long	_	_	_	_	
+1-14	69-73	time	_	_	_	_	
+1-15	73-74	.	_	_	_	_	

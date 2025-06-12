@@ -1,0 +1,196 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Canada simply loves cartels, from milk to cheese to poultry to taxis to telecommunications, the list is endless.
+1-1	0-6	Canada	_	_	_	_	
+1-2	7-13	simply	Appreciation[1]	neg[1]	_	_	
+1-3	14-19	loves	Appreciation[1]	neg[1]	_	_	
+1-4	20-27	cartels	Appreciation[1]	neg[1]	_	_	
+1-5	27-28	,	_	_	_	_	
+1-6	29-33	from	_	_	_	_	
+1-7	34-38	milk	_	_	_	_	
+1-8	39-41	to	_	_	_	_	
+1-9	42-48	cheese	_	_	_	_	
+1-10	49-51	to	_	_	_	_	
+1-11	52-59	poultry	_	_	_	_	
+1-12	60-62	to	_	_	_	_	
+1-13	63-68	taxis	_	_	_	_	
+1-14	69-71	to	_	_	_	_	
+1-15	72-90	telecommunications	_	_	_	_	
+1-16	90-91	,	_	_	_	_	
+1-17	92-95	the	_	_	_	_	
+1-18	96-100	list	_	_	_	_	
+1-19	101-103	is	_	_	_	_	
+1-20	104-111	endless	Appreciation	neg	_	_	
+1-21	111-112	.	_	_	_	_	
+
+#Text=And this lack of competition not only hurts all citizens but in the end it severely damages our competitiveness in the global economy by constantly putting us behind the 8 ball.
+2-1	113-116	And	_	_	_	_	
+2-2	117-121	this	_	_	_	_	
+2-3	122-126	lack	Appreciation[3]	neg[3]	_	_	
+2-4	127-129	of	Appreciation[3]	neg[3]	_	_	
+2-5	130-141	competition	Appreciation[3]	neg[3]	_	_	
+2-6	142-145	not	_	_	_	_	
+2-7	146-150	only	_	_	_	_	
+2-8	151-156	hurts	Appreciation	neg	_	_	
+2-9	157-160	all	_	_	_	_	
+2-10	161-169	citizens	_	_	_	_	
+2-11	170-173	but	_	_	_	_	
+2-12	174-176	in	_	_	_	_	
+2-13	177-180	the	_	_	_	_	
+2-14	181-184	end	_	_	_	_	
+2-15	185-187	it	_	_	_	_	
+2-16	188-196	severely	Appreciation[5]	neg[5]	_	_	
+2-17	197-204	damages	Appreciation[5]	neg[5]	_	_	
+2-18	205-208	our	Appreciation[5]	neg[5]	_	_	
+2-19	209-224	competitiveness	Appreciation[5]	neg[5]	_	_	
+2-20	225-227	in	Appreciation[5]	neg[5]	_	_	
+2-21	228-231	the	Appreciation[5]	neg[5]	_	_	
+2-22	232-238	global	Appreciation[5]	neg[5]	_	_	
+2-23	239-246	economy	Appreciation[5]	neg[5]	_	_	
+2-24	247-249	by	_	_	_	_	
+2-25	250-260	constantly	Appreciation[6]	neg[6]	_	_	
+2-26	261-268	putting	Appreciation[6]	neg[6]	_	_	
+2-27	269-271	us	Appreciation[6]	neg[6]	_	_	
+2-28	272-278	behind	Appreciation[6]	neg[6]	_	_	
+2-29	279-282	the	_	_	_	_	
+2-30	283-284	8	_	_	_	_	
+2-31	285-289	ball	_	_	_	_	
+2-32	289-290	.	_	_	_	_	
+
+#Text=Toronto should do as Santiago Chile did in the 80's, and that is to open up the taxi market by stripping the government red tape for licenses and making it much cheaper and easier for those who want to drive.
+3-1	291-298	Toronto	_	_	_	_	
+3-2	299-305	should	Appreciation[7]	pos[7]	_	_	
+3-3	306-308	do	Appreciation[7]	pos[7]	_	_	
+3-4	309-311	as	Appreciation[7]	pos[7]	_	_	
+3-5	312-320	Santiago	Appreciation[7]	pos[7]	_	_	
+3-6	321-326	Chile	Appreciation[7]	pos[7]	_	_	
+3-7	327-330	did	Appreciation[7]	pos[7]	_	_	
+3-8	331-333	in	Appreciation[7]	pos[7]	_	_	
+3-9	334-337	the	Appreciation[7]	pos[7]	_	_	
+3-10	338-340	80	Appreciation[7]	pos[7]	_	_	
+3-11	340-341	'	Appreciation[7]	pos[7]	_	_	
+3-12	341-342	s	Appreciation[7]	pos[7]	_	_	
+3-13	342-343	,	_	_	_	_	
+3-14	344-347	and	_	_	_	_	
+3-15	348-352	that	_	_	_	_	
+3-16	353-355	is	_	_	_	_	
+3-17	356-358	to	_	_	_	_	
+3-18	359-363	open	Appreciation[8]	pos[8]	_	_	
+3-19	364-366	up	Appreciation[8]	pos[8]	_	_	
+3-20	367-370	the	_	_	_	_	
+3-21	371-375	taxi	_	_	_	_	
+3-22	376-382	market	_	_	_	_	
+3-23	383-385	by	_	_	_	_	
+3-24	386-395	stripping	Appreciation[9]	pos[9]	_	_	
+3-25	396-399	the	Appreciation[9]	pos[9]	_	_	
+3-26	400-410	government	Appreciation[9]	pos[9]	_	_	
+3-27	411-414	red	Appreciation[9]	pos[9]	_	_	
+3-28	415-419	tape	Appreciation[9]	pos[9]	_	_	
+3-29	420-423	for	_	_	_	_	
+3-30	424-432	licenses	_	_	_	_	
+3-31	433-436	and	_	_	_	_	
+3-32	437-443	making	_	_	_	_	
+3-33	444-446	it	_	_	_	_	
+3-34	447-451	much	Appreciation[10]	pos[10]	Force	up	
+3-35	452-459	cheaper	Appreciation[10]	pos[10]	_	_	
+3-36	460-463	and	Appreciation[10]	pos[10]	_	_	
+3-37	464-470	easier	Appreciation[10]	pos[10]	_	_	
+3-38	471-474	for	_	_	_	_	
+3-39	475-480	those	_	_	_	_	
+3-40	481-484	who	_	_	_	_	
+3-41	485-489	want	_	_	_	_	
+3-42	490-492	to	_	_	_	_	
+3-43	493-498	drive	_	_	_	_	
+3-44	498-499	.	_	_	_	_	
+
+#Text=At first there was a predictable explosion of taxis on the streets in Santiago, but over a relatively short period of time the market itself dictated the amount of taxis that would survive.
+4-1	500-502	At	_	_	_	_	
+4-2	503-508	first	_	_	_	_	
+4-3	509-514	there	_	_	_	_	
+4-4	515-518	was	_	_	_	_	
+4-5	519-520	a	_	_	_	_	
+4-6	521-532	predictable	Appreciation[11]	neg[11]	_	_	
+4-7	533-542	explosion	Appreciation[11]	neg[11]	_	_	
+4-8	543-545	of	_	_	_	_	
+4-9	546-551	taxis	_	_	_	_	
+4-10	552-554	on	_	_	_	_	
+4-11	555-558	the	_	_	_	_	
+4-12	559-566	streets	_	_	_	_	
+4-13	567-569	in	_	_	_	_	
+4-14	570-578	Santiago	_	_	_	_	
+4-15	578-579	,	_	_	_	_	
+4-16	580-583	but	_	_	_	_	
+4-17	584-588	over	_	_	_	_	
+4-18	589-590	a	_	_	_	_	
+4-19	591-601	relatively	_	_	_	_	
+4-20	602-607	short	_	_	_	_	
+4-21	608-614	period	_	_	_	_	
+4-22	615-617	of	_	_	_	_	
+4-23	618-622	time	_	_	_	_	
+4-24	623-626	the	_	_	_	_	
+4-25	627-633	market	_	_	_	_	
+4-26	634-640	itself	_	_	_	_	
+4-27	641-649	dictated	Appreciation	neg	_	_	
+4-28	650-653	the	_	_	_	_	
+4-29	654-660	amount	_	_	_	_	
+4-30	661-663	of	_	_	_	_	
+4-31	664-669	taxis	_	_	_	_	
+4-32	670-674	that	_	_	_	_	
+4-33	675-680	would	Appreciation[13]	pos[13]	_	_	
+4-34	681-688	survive	Appreciation[13]	pos[13]	_	_	
+4-35	688-689	.	_	_	_	_	
+
+#Text=In other words, the free market found its natural and proper equilibrium.
+5-1	690-692	In	_	_	_	_	
+5-2	693-698	other	_	_	_	_	
+5-3	699-704	words	_	_	_	_	
+5-4	704-705	,	_	_	_	_	
+5-5	706-709	the	_	_	_	_	
+5-6	710-714	free	_	_	_	_	
+5-7	715-721	market	_	_	_	_	
+5-8	722-727	found	_	_	_	_	
+5-9	728-731	its	_	_	_	_	
+5-10	732-739	natural	Appreciation[14]	pos[14]	_	_	
+5-11	740-743	and	Appreciation[14]	pos[14]	_	_	
+5-12	744-750	proper	Appreciation[14]	pos[14]	_	_	
+5-13	751-762	equilibrium	_	_	_	_	
+5-14	762-763	.	_	_	_	_	
+
+#Text=Uber is too good a service to ignore, it's here to stay.
+6-1	764-768	Uber	_	_	_	_	
+6-2	769-771	is	_	_	_	_	
+6-3	772-775	too	Appreciation[15]	pos[15]	_	_	
+6-4	776-780	good	Appreciation[15]	pos[15]	_	_	
+6-5	781-782	a	Appreciation[15]	pos[15]	_	_	
+6-6	783-790	service	Appreciation[15]	pos[15]	_	_	
+6-7	791-793	to	Appreciation[15]	pos[15]	_	_	
+6-8	794-800	ignore	Appreciation[15]	pos[15]	_	_	
+6-9	800-801	,	_	_	_	_	
+6-10	802-806	it's	_	_	_	_	
+6-11	807-811	here	_	_	_	_	
+6-12	812-814	to	_	_	_	_	
+6-13	815-819	stay	_	_	_	_	
+6-14	819-820	.	_	_	_	_	
+
+#Text=So let's be smart and not restrict it for the sake of protecting some tired old dinosaurs.
+7-1	821-823	So	_	_	_	_	
+7-2	824-829	let's	_	_	_	_	
+7-3	830-832	be	_	_	_	_	
+7-4	833-838	smart	Judgment	pos	_	_	
+7-5	839-842	and	_	_	_	_	
+7-6	843-846	not	Judgment[17]	pos[17]	_	_	
+7-7	847-855	restrict	Judgment[17]	pos[17]	_	_	
+7-8	856-858	it	_	_	_	_	
+7-9	859-862	for	_	_	_	_	
+7-10	863-866	the	_	_	_	_	
+7-11	867-871	sake	_	_	_	_	
+7-12	872-874	of	_	_	_	_	
+7-13	875-885	protecting	_	_	_	_	
+7-14	886-890	some	_	_	_	_	
+7-15	891-896	tired	Judgment[18]	neg[18]	_	_	
+7-16	897-900	old	Judgment[18]	neg[18]	_	_	
+7-17	901-910	dinosaurs	Judgment[18]	neg[18]	_	_	
+7-18	910-911	.	_	_	_	_	

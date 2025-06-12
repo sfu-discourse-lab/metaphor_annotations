@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=You've got that right.
+1-1	0-6	You've	_	
+1-2	7-10	got	_	
+1-3	11-15	that	_	
+1-4	16-21	right	_	
+1-5	21-22	.	_	
+
+#Text=Every updated iTunes deletes hundreds of songs it does not recognize.
+2-1	23-28	Every	_	
+2-2	29-36	updated	_	
+2-3	37-43	iTunes	_	
+2-4	44-51	deletes	_	
+2-5	52-60	hundreds	_	
+2-6	61-63	of	_	
+2-7	64-69	songs	_	
+2-8	70-72	it	_	
+2-9	73-77	does	_	
+2-10	78-81	not	NEG	
+2-11	82-91	recognize	SCOPE[2]|FOCUS[3]	
+2-12	91-92	.	_	
+
+#Text=So before an update store/backup the entire collection and then drag it back.
+3-1	93-95	So	_	
+3-2	96-102	before	_	
+3-3	103-105	an	_	
+3-4	106-112	update	_	
+3-5	113-118	store	_	
+3-6	118-119	/	_	
+3-7	119-125	backup	_	
+3-8	126-129	the	_	
+3-9	130-136	entire	_	
+3-10	137-147	collection	_	
+3-11	148-151	and	_	
+3-12	152-156	then	_	
+3-13	157-161	drag	_	
+3-14	162-164	it	_	
+3-15	165-169	back	_	
+3-16	169-170	.	_	
+
+#Text=So far it still works and will transfer to my classic iPod.
+4-1	171-173	So	_	
+4-2	174-177	far	_	
+4-3	178-180	it	_	
+4-4	181-186	still	_	
+4-5	187-192	works	_	
+4-6	193-196	and	_	
+4-7	197-201	will	_	
+4-8	202-210	transfer	_	
+4-9	211-213	to	_	
+4-10	214-216	my	_	
+4-11	217-224	classic	_	
+4-12	225-229	iPod	_	
+4-13	229-230	.	_	

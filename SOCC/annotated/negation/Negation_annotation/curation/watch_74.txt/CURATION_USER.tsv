@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Take a stopwatch and calculate how much time you are taking from your day to use on computers, iPhones, etc...
+1-1	0-4	Take	_	
+1-2	5-6	a	_	
+1-3	7-16	stopwatch	_	
+1-4	17-20	and	_	
+1-5	21-30	calculate	_	
+1-6	31-34	how	_	
+1-7	35-39	much	_	
+1-8	40-44	time	_	
+1-9	45-48	you	_	
+1-10	49-52	are	_	
+1-11	53-59	taking	_	
+1-12	60-64	from	_	
+1-13	65-69	your	_	
+1-14	70-73	day	_	
+1-15	74-76	to	_	
+1-16	77-80	use	_	
+1-17	81-83	on	_	
+1-18	84-93	computers	_	
+1-19	93-94	,	_	
+1-20	95-102	iPhones	_	
+1-21	102-103	,	_	
+1-22	104-107	etc	_	
+1-23	107-108	.	_	
+1-24	108-109	.	_	
+1-25	109-110	.	_	
+
+#Text=When it comes to the approach to the big divide you might very well think back about lost time actually talking to friends/family in person and looking around to appreciate the environment.
+2-1	111-115	When	_	
+2-2	116-118	it	_	
+2-3	119-124	comes	_	
+2-4	125-127	to	_	
+2-5	128-131	the	_	
+2-6	132-140	approach	_	
+2-7	141-143	to	_	
+2-8	144-147	the	_	
+2-9	148-151	big	_	
+2-10	152-158	divide	_	
+2-11	159-162	you	_	
+2-12	163-168	might	_	
+2-13	169-173	very	_	
+2-14	174-178	well	_	
+2-15	179-184	think	_	
+2-16	185-189	back	_	
+2-17	190-195	about	_	
+2-18	196-200	lost	_	
+2-19	201-205	time	_	
+2-20	206-214	actually	_	
+2-21	215-222	talking	_	
+2-22	223-225	to	_	
+2-23	226-233	friends	_	
+2-24	233-234	/	_	
+2-25	234-240	family	_	
+2-26	241-243	in	_	
+2-27	244-250	person	_	
+2-28	251-254	and	_	
+2-29	255-262	looking	_	
+2-30	263-269	around	_	
+2-31	270-272	to	_	
+2-32	273-283	appreciate	_	
+2-33	284-287	the	_	
+2-34	288-299	environment	_	
+2-35	299-300	.	_	
+
+#Text=Check yourself by leaving all devices at home.
+3-1	301-306	Check	_	
+3-2	307-315	yourself	_	
+3-3	316-318	by	_	
+3-4	319-326	leaving	_	
+3-5	327-330	all	_	
+3-6	331-338	devices	_	
+3-7	339-341	at	_	
+3-8	342-346	home	_	
+3-9	346-347	.	_	
+
+#Text=Probably can't do it as your, and I borrow your labeling, under 25.
+4-1	348-356	Probably	_	
+4-2	357-362	can't	NEG	
+4-3	363-365	do	SCOPE[2]	
+4-4	366-368	it	SCOPE[2]	
+4-5	369-371	as	SCOPE[2]|FOCUS[3]	
+4-6	372-376	your	SCOPE[2]|FOCUS[3]	
+4-7	376-377	,	SCOPE[2]|FOCUS[3]	
+4-8	378-381	and	SCOPE[2]|FOCUS[3]	
+4-9	382-383	I	SCOPE[2]|FOCUS[3]	
+4-10	384-390	borrow	SCOPE[2]|FOCUS[3]	
+4-11	391-395	your	SCOPE[2]|FOCUS[3]	
+4-12	396-404	labeling	SCOPE[2]|FOCUS[3]	
+4-13	404-405	,	SCOPE[2]|FOCUS[3]	
+4-14	406-411	under	SCOPE[2]|FOCUS[3]	
+4-15	412-414	25	SCOPE[2]|FOCUS[3]	
+4-16	414-415	.	_	

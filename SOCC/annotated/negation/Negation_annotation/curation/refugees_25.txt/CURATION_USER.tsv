@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Europe is NOT failing refugees, it has accepted hundreds of thousands!
+1-1	0-6	Europe	_	
+1-2	7-9	is	_	
+1-3	10-13	NOT	NEG	
+1-4	14-21	failing	SCOPE[2]|FOCUS[3]	
+1-5	22-30	refugees	SCOPE[2]	
+1-6	30-31	,	_	
+1-7	32-34	it	_	
+1-8	35-38	has	_	
+1-9	39-47	accepted	_	
+1-10	48-56	hundreds	_	
+1-11	57-59	of	_	
+1-12	60-69	thousands	_	
+1-13	69-70	!	_	
+
+#Text=They are being expected to do too much.
+2-1	71-75	They	_	
+2-2	76-79	are	_	
+2-3	80-85	being	_	
+2-4	86-94	expected	_	
+2-5	95-97	to	_	
+2-6	98-100	do	_	
+2-7	101-104	too	_	
+2-8	105-109	much	_	
+2-9	109-110	.	_	
+
+#Text=Instead of continually trying to depose Assad, the West should be trying to stabilise Syria and its neighbouring countries so that Syrians can begin to go home.
+3-1	111-118	Instead	_	
+3-2	119-121	of	_	
+3-3	122-133	continually	_	
+3-4	134-140	trying	_	
+3-5	141-143	to	_	
+3-6	144-150	depose	_	
+3-7	151-156	Assad	_	
+3-8	156-157	,	_	
+3-9	158-161	the	_	
+3-10	162-166	West	_	
+3-11	167-173	should	_	
+3-12	174-176	be	_	
+3-13	177-183	trying	_	
+3-14	184-186	to	_	
+3-15	187-196	stabilise	_	
+3-16	197-202	Syria	_	
+3-17	203-206	and	_	
+3-18	207-210	its	_	
+3-19	211-223	neighbouring	_	
+3-20	224-233	countries	_	
+3-21	234-236	so	_	
+3-22	237-241	that	_	
+3-23	242-249	Syrians	_	
+3-24	250-253	can	_	
+3-25	254-259	begin	_	
+3-26	260-262	to	_	
+3-27	263-265	go	_	
+3-28	266-270	home	_	
+3-29	270-271	.	_	
+
+#Text=The millions of refugees in Jordan, Lebanon and Turkey cannot be held there in camps forever and neither can they all be absorbed around the world.
+4-1	272-275	The	_	
+4-2	276-284	millions	_	
+4-3	285-287	of	_	
+4-4	288-296	refugees	_	
+4-5	297-299	in	_	
+4-6	300-306	Jordan	_	
+4-7	306-307	,	_	
+4-8	308-315	Lebanon	_	
+4-9	316-319	and	_	
+4-10	320-326	Turkey	_	
+4-11	327-333	cannot	NEG	
+4-12	334-336	be	SCOPE[5]	
+4-13	337-341	held	SCOPE[5]	
+4-14	342-347	there	SCOPE[5]	
+4-15	348-350	in	SCOPE[5]	
+4-16	351-356	camps	SCOPE[5]	
+4-17	357-364	forever	SCOPE[5]|FOCUS[6]	
+4-18	365-368	and	_	
+4-19	369-376	neither	NEG	
+4-20	377-380	can	SCOPE[8]	
+4-21	381-385	they	SCOPE[8]	
+4-22	386-389	all	SCOPE[8]	
+4-23	390-392	be	SCOPE[8]	
+4-24	393-401	absorbed	SCOPE[8]	
+4-25	402-408	around	SCOPE[8]|FOCUS[9]	
+4-26	409-412	the	SCOPE[8]|FOCUS[9]	
+4-27	413-418	world	SCOPE[8]|FOCUS[9]	
+4-28	418-419	.	_	
+
+#Text=More refugees need to be accepted but Syria and its neighbours need to be fixed too.
+5-1	420-424	More	_	
+5-2	425-433	refugees	_	
+5-3	434-438	need	_	
+5-4	439-441	to	_	
+5-5	442-444	be	_	
+5-6	445-453	accepted	_	
+5-7	454-457	but	_	
+5-8	458-463	Syria	_	
+5-9	464-467	and	_	
+5-10	468-471	its	_	
+5-11	472-482	neighbours	_	
+5-12	483-487	need	_	
+5-13	488-490	to	_	
+5-14	491-493	be	_	
+5-15	494-499	fixed	_	
+5-16	500-503	too	_	
+5-17	503-504	.	_	

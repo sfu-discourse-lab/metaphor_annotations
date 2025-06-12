@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Everything they manufacture was invented and originally built in Western Countries.
+1-1	0-10	Everything	Judgment[1]	neg[1]	Force	up	
+1-2	11-15	they	Judgment[1]	neg[1]	_	_	
+1-3	16-27	manufacture	Judgment[1]	neg[1]	_	_	
+1-4	28-31	was	Judgment[1]	neg[1]	_	_	
+1-5	32-40	invented	Judgment[1]	neg[1]	_	_	
+1-6	41-44	and	Judgment[1]	neg[1]	_	_	
+1-7	45-55	originally	Judgment[1]	neg[1]	_	_	
+1-8	56-61	built	Judgment[1]	neg[1]	_	_	
+1-9	62-64	in	Judgment[1]	neg[1]	_	_	
+1-10	65-72	Western	Judgment[1]	neg[1]	_	_	
+1-11	73-82	Countries	Judgment[1]	neg[1]	_	_	
+1-12	82-83	.	_	_	_	_	
+
+#Text=Manufacturers moved there to take advantage of low wages and lack of environmental and health and safety regulations.
+2-1	84-97	Manufacturers	_	_	_	_	
+2-2	98-103	moved	_	_	_	_	
+2-3	104-109	there	_	_	_	_	
+2-4	110-112	to	_	_	_	_	
+2-5	113-117	take	Judgment[2]	neg[2]	_	_	
+2-6	118-127	advantage	Judgment[2]	neg[2]	_	_	
+2-7	128-130	of	Judgment[2]	neg[2]	_	_	
+2-8	131-134	low	Judgment[2]	neg[2]	_	_	
+2-9	135-140	wages	Judgment[2]	neg[2]	_	_	
+2-10	141-144	and	Judgment[2]	neg[2]	_	_	
+2-11	145-149	lack	Judgment[2]	neg[2]	_	_	
+2-12	150-152	of	Judgment[2]	neg[2]	_	_	
+2-13	153-166	environmental	Judgment[2]	neg[2]	_	_	
+2-14	167-170	and	Judgment[2]	neg[2]	_	_	
+2-15	171-177	health	Judgment[2]	neg[2]	_	_	
+2-16	178-181	and	Judgment[2]	neg[2]	_	_	
+2-17	182-188	safety	Judgment[2]	neg[2]	_	_	
+2-18	189-200	regulations	Judgment[2]	neg[2]	_	_	
+2-19	200-201	.	_	_	_	_	
+
+#Text=China could be driven back into penury by some nice stiff import tariffs imposed by the English speaking countries.
+3-1	202-207	China	_	_	_	_	
+3-2	208-213	could	Appreciation[3]	pos[3]	_	_	
+3-3	214-216	be	Appreciation[3]	pos[3]	_	_	
+3-4	217-223	driven	Appreciation[3]	pos[3]	_	_	
+3-5	224-228	back	Appreciation[3]	pos[3]	_	_	
+3-6	229-233	into	Appreciation[3]	pos[3]	_	_	
+3-7	234-240	penury	Appreciation[3]	pos[3]	_	_	
+3-8	241-243	by	_	_	_	_	
+3-9	244-248	some	_	_	_	_	
+3-10	249-253	nice	Appreciation	pos	_	_	
+3-11	254-259	stiff	_	_	_	_	
+3-12	260-266	import	_	_	_	_	
+3-13	267-274	tariffs	_	_	_	_	
+3-14	275-282	imposed	_	_	_	_	
+3-15	283-285	by	_	_	_	_	
+3-16	286-289	the	_	_	_	_	
+3-17	290-297	English	_	_	_	_	
+3-18	298-306	speaking	_	_	_	_	
+3-19	307-316	countries	_	_	_	_	
+3-20	316-317	.	_	_	_	_	

@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Haul in all the Aboriginal guys and start questioning them...
+1-1	0-4	Haul	Judgment[1]	neg[1]	
+1-2	5-7	in	Judgment[1]	neg[1]	
+1-3	8-11	all	Judgment[1]	neg[1]	
+1-4	12-15	the	Judgment[1]	neg[1]	
+1-5	16-26	Aboriginal	Judgment[1]	neg[1]	
+1-6	27-31	guys	Judgment[1]	neg[1]	
+1-7	32-35	and	Judgment[1]	neg[1]	
+1-8	36-41	start	Judgment[1]	neg[1]	
+1-9	42-53	questioning	Judgment[1]	neg[1]	
+1-10	54-58	them	Judgment[1]	neg[1]	
+1-11	58-59	.	_	_	
+1-12	59-60	.	_	_	
+1-13	60-61	.	_	_	
+
+#Text=Violence starts at home as does everything else!!
+2-1	62-70	Violence	Appreciation	neg	
+2-2	71-77	starts	_	_	
+2-3	78-80	at	_	_	
+2-4	81-85	home	_	_	
+2-5	86-88	as	_	_	
+2-6	89-93	does	_	_	
+2-7	94-104	everything	_	_	
+2-8	105-109	else	_	_	
+2-9	109-110	!	_	_	
+2-10	110-111	!	_	_	

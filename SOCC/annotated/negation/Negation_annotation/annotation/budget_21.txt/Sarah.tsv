@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Building infrastructure while money is cheap and we need stimulus makes sense with a backdrop of aging population and lower revenues.
+1-1	0-8	Building	
+1-2	9-23	infrastructure	
+1-3	24-29	while	
+1-4	30-35	money	
+1-5	36-38	is	
+1-6	39-44	cheap	
+1-7	45-48	and	
+1-8	49-51	we	
+1-9	52-56	need	
+1-10	57-65	stimulus	
+1-11	66-71	makes	
+1-12	72-77	sense	
+1-13	78-82	with	
+1-14	83-84	a	
+1-15	85-93	backdrop	
+1-16	94-96	of	
+1-17	97-102	aging	
+1-18	103-113	population	
+1-19	114-117	and	
+1-20	118-123	lower	
+1-21	124-132	revenues	
+1-22	132-133	.	
+
+#Text=WE need the economic building blocks in place.
+2-1	134-136	WE	
+2-2	137-141	need	
+2-3	142-145	the	
+2-4	146-154	economic	
+2-5	155-163	building	
+2-6	164-170	blocks	
+2-7	171-173	in	
+2-8	174-179	place	
+2-9	179-180	.	
+
+#Text=#elxn42
+3-1	181-182	#	
+3-2	182-188	elxn42	

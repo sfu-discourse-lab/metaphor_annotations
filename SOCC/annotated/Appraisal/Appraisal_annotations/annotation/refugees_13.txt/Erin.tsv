@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Aren't we great guys?
+1-1	0-6	Aren't	_	_	
+1-2	7-9	we	_	_	
+1-3	10-15	great	_	_	
+1-4	16-20	guys	_	_	
+1-5	20-21	?	_	_	
+
+#Text=We took in the number that Prince Justin decreed !
+2-1	22-24	We	_	_	
+2-2	25-29	took	_	_	
+2-3	30-32	in	_	_	
+2-4	33-36	the	_	_	
+2-5	37-43	number	_	_	
+2-6	44-48	that	_	_	
+2-7	49-55	Prince	_	_	
+2-8	56-62	Justin	_	_	
+2-9	63-70	decreed	_	_	
+2-10	71-72	!	_	_	
+
+#Text=So what if there's no jobs, housing, no place for them to live.
+3-1	72-74	So	Judgment[1]	neg[1]	
+3-2	75-79	what	Judgment[1]	neg[1]	
+3-3	80-82	if	Judgment[1]	neg[1]	
+3-4	83-90	there's	Judgment[1]	neg[1]	
+3-5	91-93	no	Judgment[1]	neg[1]	
+3-6	94-98	jobs	Judgment[1]	neg[1]	
+3-7	98-99	,	Judgment[1]	neg[1]	
+3-8	100-107	housing	Judgment[1]	neg[1]	
+3-9	107-108	,	Judgment[1]	neg[1]	
+3-10	109-111	no	Judgment[1]	neg[1]	
+3-11	112-117	place	Judgment[1]	neg[1]	
+3-12	118-121	for	Judgment[1]	neg[1]	
+3-13	122-126	them	Judgment[1]	neg[1]	
+3-14	127-129	to	Judgment[1]	neg[1]	
+3-15	130-134	live	Judgment[1]	neg[1]	
+3-16	134-135	.	_	_	
+
+#Text=Its Platitudes and fairy tales that matter.
+4-1	136-139	Its	_	_	
+4-2	140-150	Platitudes	Appreciation[2]	neg[2]	
+4-3	151-154	and	Appreciation[2]	neg[2]	
+4-4	155-160	fairy	Appreciation[2]	neg[2]	
+4-5	161-166	tales	Appreciation[2]	neg[2]	
+4-6	167-171	that	_	_	
+4-7	172-178	matter	_	_	
+4-8	178-179	.	_	_	

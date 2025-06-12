@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=He said that on purpose and G&M published it on purpose, which is called propaganda.
+1-1	0-2	He	_	_	
+1-2	3-7	said	Judgment[1]	neg[1]	
+1-3	8-12	that	Judgment[1]	neg[1]	
+1-4	13-15	on	Judgment[1]	neg[1]	
+1-5	16-23	purpose	Judgment[1]	neg[1]	
+1-6	24-27	and	Judgment[1]	neg[1]	
+1-7	28-29	G	Judgment[1]	neg[1]	
+1-8	29-30	&	Judgment[1]	neg[1]	
+1-9	30-31	M	Judgment[1]	neg[1]	
+1-10	32-41	published	Judgment[1]	neg[1]	
+1-11	42-44	it	Judgment[1]	neg[1]	
+1-12	45-47	on	Judgment[1]	neg[1]	
+1-13	48-55	purpose	Judgment[1]	neg[1]	
+1-14	55-56	,	_	_	
+1-15	57-62	which	_	_	
+1-16	63-65	is	_	_	
+1-17	66-72	called	_	_	
+1-18	73-83	propaganda	Appreciation	neg	
+1-19	83-84	.	_	_	
+
+#Text=That is how western media works.
+2-1	85-89	That	_	_	
+2-2	90-92	is	_	_	
+2-3	93-96	how	_	_	
+2-4	97-104	western	_	_	
+2-5	105-110	media	_	_	
+2-6	111-116	works	_	_	
+2-7	116-117	.	_	_	
+
+#Text=I don't think they're not aware even UN institute publicly denounces they have anything to do with that 'court'.
+3-1	118-119	I	_	_	
+3-2	120-125	don't	_	_	
+3-3	126-131	think	_	_	
+3-4	132-139	they're	_	_	
+3-5	140-143	not	Judgment[3]	neg[3]	
+3-6	144-149	aware	Judgment[3]	neg[3]	
+3-7	150-154	even	_	_	
+3-8	155-157	UN	_	_	
+3-9	158-167	institute	_	_	
+3-10	168-176	publicly	Appreciation[4]	pos[4]	
+3-11	177-186	denounces	Appreciation[4]	pos[4]	
+3-12	187-191	they	_	_	
+3-13	192-196	have	_	_	
+3-14	197-205	anything	_	_	
+3-15	206-208	to	_	_	
+3-16	209-211	do	_	_	
+3-17	212-216	with	_	_	
+3-18	217-221	that	_	_	
+3-19	222-223	'	_	_	
+3-20	223-228	court	Appreciation	neg	
+3-21	228-229	'	_	_	
+3-22	229-230	.	_	_	

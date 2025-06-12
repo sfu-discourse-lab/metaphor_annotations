@@ -1,0 +1,139 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=There's an approach that gets too little publicity.
+1-1	0-7	There's	_	_	
+1-2	8-10	an	_	_	
+1-3	11-19	approach	_	_	
+1-4	20-24	that	_	_	
+1-5	25-29	gets	_	_	
+1-6	30-33	too	Appreciation[1]	neg[1]	
+1-7	34-40	little	Appreciation[1]	neg[1]	
+1-8	41-50	publicity	Appreciation[1]	neg[1]	
+1-9	50-51	.	_	_	
+
+#Text=The Cons pass a budget.
+2-1	52-55	The	_	_	
+2-2	56-60	Cons	_	_	
+2-3	61-65	pass	_	_	
+2-4	66-67	a	_	_	
+2-5	68-74	budget	_	_	
+2-6	74-75	.	_	_	
+
+#Text=But much of that consists of individual projects that need Ministerial approval.
+3-1	76-79	But	_	_	
+3-2	80-84	much	_	_	
+3-3	85-87	of	_	_	
+3-4	88-92	that	_	_	
+3-5	93-101	consists	_	_	
+3-6	102-104	of	_	_	
+3-7	105-115	individual	_	_	
+3-8	116-124	projects	_	_	
+3-9	125-129	that	_	_	
+3-10	130-134	need	_	_	
+3-11	135-146	Ministerial	_	_	
+3-12	147-155	approval	_	_	
+3-13	155-156	.	_	_	
+
+#Text=So the Minister stalls and by year-end lots of funds are unspent.
+4-1	157-159	So	_	_	
+4-2	160-163	the	_	_	
+4-3	164-172	Minister	_	_	
+4-4	173-179	stalls	Judgment	neg	
+4-5	180-183	and	_	_	
+4-6	184-186	by	_	_	
+4-7	187-195	year-end	_	_	
+4-8	196-200	lots	_	_	
+4-9	201-203	of	_	_	
+4-10	204-209	funds	_	_	
+4-11	210-213	are	_	_	
+4-12	214-221	unspent	Appreciation	neg	
+4-13	221-222	.	_	_	
+
+#Text=Hence the underfunding in Vet Affairs, refugee processing, foreign aid projects and the like.
+5-1	223-228	Hence	_	_	
+5-2	229-232	the	_	_	
+5-3	233-245	underfunding	Appreciation	neg	
+5-4	246-248	in	_	_	
+5-5	249-252	Vet	_	_	
+5-6	253-260	Affairs	_	_	
+5-7	260-261	,	_	_	
+5-8	262-269	refugee	_	_	
+5-9	270-280	processing	_	_	
+5-10	280-281	,	_	_	
+5-11	282-289	foreign	_	_	
+5-12	290-293	aid	_	_	
+5-13	294-302	projects	_	_	
+5-14	303-306	and	_	_	
+5-15	307-310	the	_	_	
+5-16	311-315	like	_	_	
+5-17	315-316	.	_	_	
+
+#Text=They try to pass this off as sound financial management but they're being devious. had they announced 10-15% cuts in various programs up front, there's be plenty of debate and controversy.
+6-1	317-321	They	_	_	
+6-2	322-325	try	Judgment[5]	neg[5]	
+6-3	326-328	to	Judgment[5]	neg[5]	
+6-4	329-333	pass	Judgment[5]	neg[5]	
+6-5	334-338	this	Judgment[5]	neg[5]	
+6-6	339-342	off	Judgment[5]	neg[5]	
+6-7	343-345	as	_	_	
+6-8	346-351	sound	Appreciation	pos	
+6-9	352-361	financial	_	_	
+6-10	362-372	management	_	_	
+6-11	373-376	but	_	_	
+6-12	377-384	they're	_	_	
+6-13	385-390	being	_	_	
+6-14	391-398	devious	Judgment	neg	
+6-15	398-399	.	_	_	
+6-16	400-403	had	_	_	
+6-17	404-408	they	_	_	
+6-18	409-418	announced	_	_	
+6-19	419-421	10	_	_	
+6-20	421-422	-	_	_	
+6-21	422-425	15%	_	_	
+6-22	426-430	cuts	_	_	
+6-23	431-433	in	_	_	
+6-24	434-441	various	_	_	
+6-25	442-450	programs	_	_	
+6-26	451-453	up	_	_	
+6-27	454-459	front	_	_	
+6-28	459-460	,	_	_	
+6-29	461-468	there's	Appreciation[8]	pos[8]	
+6-30	469-471	be	Appreciation[8]	pos[8]	
+6-31	472-478	plenty	Appreciation[8]	pos[8]	
+6-32	479-481	of	Appreciation[8]	pos[8]	
+6-33	482-488	debate	Appreciation[8]	pos[8]	
+6-34	489-492	and	Appreciation[8]	pos[8]	
+6-35	493-504	controversy	Appreciation[8]	pos[8]	
+6-36	504-505	.	_	_	
+
+#Text=Instead they announce no cuts but deliver them anyway and no one knows until 6 months after the books have closed.
+7-1	506-513	Instead	_	_	
+7-2	514-518	they	_	_	
+7-3	519-527	announce	Judgment[9]	neg[9]	
+7-4	528-530	no	Judgment[9]	neg[9]	
+7-5	531-535	cuts	Judgment[9]	neg[9]	
+7-6	536-539	but	Judgment[9]	neg[9]	
+7-7	540-547	deliver	Judgment[9]	neg[9]	
+7-8	548-552	them	Judgment[9]	neg[9]	
+7-9	553-559	anyway	Judgment[9]	neg[9]	
+7-10	560-563	and	_	_	
+7-11	564-566	no	Judgment[10]	neg[10]	
+7-12	567-570	one	Judgment[10]	neg[10]	
+7-13	571-576	knows	Judgment[10]	neg[10]	
+7-14	577-582	until	Judgment[10]	neg[10]	
+7-15	583-584	6	Judgment[10]	neg[10]	
+7-16	585-591	months	Judgment[10]	neg[10]	
+7-17	592-597	after	Judgment[10]	neg[10]	
+7-18	598-601	the	Judgment[10]	neg[10]	
+7-19	602-607	books	Judgment[10]	neg[10]	
+7-20	608-612	have	Judgment[10]	neg[10]	
+7-21	613-619	closed	Judgment[10]	neg[10]	
+7-22	619-620	.	_	_	
+
+#Text=It's quite deliberate.
+8-1	621-625	It's	_	_	
+8-2	626-631	quite	_	_	
+8-3	632-642	deliberate	Judgment	neg	
+8-4	642-643	.	_	_	

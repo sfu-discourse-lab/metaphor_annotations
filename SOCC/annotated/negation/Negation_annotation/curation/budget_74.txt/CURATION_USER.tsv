@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+#T_RL=webanno.custom.XNEGATION|BT_webanno.custom.NEGATION
+
+
+#Text=Reading Simpson is like reading Orwell's 1984, and the leftist commenters here are just as bad.
+1-1	0-7	Reading	_	_	
+1-2	8-15	Simpson	_	_	
+1-3	16-18	is	_	_	
+1-4	19-23	like	_	_	
+1-5	24-31	reading	_	_	
+1-6	32-40	Orwell's	_	_	
+1-7	41-45	1984	_	_	
+1-8	45-46	,	_	_	
+1-9	47-50	and	_	_	
+1-10	51-54	the	_	_	
+1-11	55-62	leftist	_	_	
+1-12	63-73	commenters	_	_	
+1-13	74-78	here	_	_	
+1-14	79-82	are	_	_	
+1-15	83-87	just	_	_	
+1-16	88-90	as	_	_	
+1-17	91-94	bad	_	_	
+1-18	94-95	.	_	_	
+
+#Text=Simpson thinks no one will check what he wrote previously.
+2-1	96-103	Simpson	_	_	
+2-2	104-110	thinks	_	_	
+2-3	111-113	no	NEG[1]	_	
+2-4	114-117	one	NEG[1]	_	
+2-5	118-122	will	SCOPE[2]	_	
+2-6	123-128	check	SCOPE[2]	_	
+2-7	129-133	what	SCOPE[2]	_	
+2-8	134-136	he	SCOPE[2]	_	
+2-9	137-142	wrote	SCOPE[2]	_	
+2-10	143-153	previously	SCOPE[2]|FOCUS[3]	_	
+2-11	153-154	.	_	_	
+
+#Text=Simpson just wrote this on September 8: 'Now that the Conservatives have brought the deficit down to a small amount - they wrongly assert the budget is balanced, but it is not, as the Parliamentary Budget Officer has reported' The lies that Simpson writes and the Globe encourages and the commenters repeat is unbelievable.
+3-1	155-162	Simpson	_	_	
+3-2	163-167	just	_	_	
+3-3	168-173	wrote	_	_	
+3-4	174-178	this	_	_	
+3-5	179-181	on	_	_	
+3-6	182-191	September	_	_	
+3-7	192-193	8	_	_	
+3-8	193-194	:	_	_	
+3-9	195-196	'	_	_	
+3-10	196-199	Now	_	_	
+3-11	200-204	that	_	_	
+3-12	205-208	the	_	_	
+3-13	209-222	Conservatives	_	_	
+3-14	223-227	have	_	_	
+3-15	228-235	brought	_	_	
+3-16	236-239	the	_	_	
+3-17	240-247	deficit	_	_	
+3-18	248-252	down	_	_	
+3-19	253-255	to	_	_	
+3-20	256-257	a	_	_	
+3-21	258-263	small	_	_	
+3-22	264-270	amount	_	_	
+3-23	271-272	-	_	_	
+3-24	273-277	they	_	_	
+3-25	278-285	wrongly	_	_	
+3-26	286-292	assert	_	_	
+3-27	293-296	the	_	_	
+3-28	297-303	budget	_	_	
+3-29	304-306	is	_	_	
+3-30	307-315	balanced	XSCOPE[4]|FOCUS[5]	3-35[0_4]	
+3-31	315-316	,	_	_	
+3-32	317-320	but	_	_	
+3-33	321-323	it	_	_	
+3-34	324-326	is	_	_	
+3-35	327-330	not	NEG	_	
+3-36	330-331	,	_	_	
+3-37	332-334	as	_	_	
+3-38	335-338	the	_	_	
+3-39	339-352	Parliamentary	_	_	
+3-40	353-359	Budget	_	_	
+3-41	360-367	Officer	_	_	
+3-42	368-371	has	_	_	
+3-43	372-380	reported	_	_	
+3-44	380-381	'	_	_	
+3-45	382-385	The	_	_	
+3-46	386-390	lies	_	_	
+3-47	391-395	that	_	_	
+3-48	396-403	Simpson	_	_	
+3-49	404-410	writes	_	_	
+3-50	411-414	and	_	_	
+3-51	415-418	the	_	_	
+3-52	419-424	Globe	_	_	
+3-53	425-435	encourages	_	_	
+3-54	436-439	and	_	_	
+3-55	440-443	the	_	_	
+3-56	444-454	commenters	_	_	
+3-57	455-461	repeat	_	_	
+3-58	462-464	is	_	_	
+3-59	465-477	unbelievable	_	_	
+3-60	477-478	.	_	_	
+
+#Text=The Globe has become a disgrace to honest journalism.
+4-1	479-482	The	_	_	
+4-2	483-488	Globe	_	_	
+4-3	489-492	has	_	_	
+4-4	493-499	become	_	_	
+4-5	500-501	a	_	_	
+4-6	502-510	disgrace	_	_	
+4-7	511-513	to	_	_	
+4-8	514-520	honest	_	_	
+4-9	521-531	journalism	_	_	
+4-10	531-532	.	_	_	

@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Look at what is happening in Sweden, Germany and the rest of Europe.
+1-1	0-4	Look	_	_	
+1-2	5-7	at	_	_	
+1-3	8-12	what	_	_	
+1-4	13-15	is	_	_	
+1-5	16-25	happening	_	_	
+1-6	26-28	in	_	_	
+1-7	29-35	Sweden	_	_	
+1-8	35-36	,	_	_	
+1-9	37-44	Germany	_	_	
+1-10	45-48	and	_	_	
+1-11	49-52	the	_	_	
+1-12	53-57	rest	_	_	
+1-13	58-60	of	_	_	
+1-14	61-67	Europe	_	_	
+1-15	67-68	.	_	_	
+
+#Text=Who in their right mind thinks that is a good thing and wants to bring that to Canada?
+2-1	69-72	Who	Judgment[1]	neg[1]	
+2-2	73-75	in	Judgment[1]	neg[1]	
+2-3	76-81	their	Judgment[1]	neg[1]	
+2-4	82-87	right	Judgment[1]	neg[1]	
+2-5	88-92	mind	Judgment[1]	neg[1]	
+2-6	93-99	thinks	Judgment[1]	neg[1]	
+2-7	100-104	that	Judgment[1]	neg[1]	
+2-8	105-107	is	Judgment[1]	neg[1]	
+2-9	108-109	a	Judgment[1]	neg[1]	
+2-10	110-114	good	Judgment[1]	neg[1]	
+2-11	115-120	thing	Judgment[1]	neg[1]	
+2-12	121-124	and	Judgment[1]	neg[1]	
+2-13	125-130	wants	Judgment[1]	neg[1]	
+2-14	131-133	to	Judgment[1]	neg[1]	
+2-15	134-139	bring	Judgment[1]	neg[1]	
+2-16	140-144	that	Judgment[1]	neg[1]	
+2-17	145-147	to	Judgment[1]	neg[1]	
+2-18	148-154	Canada	Judgment[1]	neg[1]	
+2-19	154-155	?	_	_	

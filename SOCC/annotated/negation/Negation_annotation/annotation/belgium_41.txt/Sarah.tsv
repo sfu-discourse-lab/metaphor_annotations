@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I cannot believe that one of the suicide bombers was deported back to Belgium, and they did no follow up, and he gave them the finger by committing an act of terror.
+1-1	0-1	I	_	
+1-2	2-8	cannot	NEG	
+1-3	9-16	believe	SCOPE[2]	
+1-4	17-21	that	SCOPE[2]	
+1-5	22-25	one	SCOPE[2]	
+1-6	26-28	of	SCOPE[2]	
+1-7	29-32	the	SCOPE[2]	
+1-8	33-40	suicide	SCOPE[2]	
+1-9	41-48	bombers	SCOPE[2]	
+1-10	49-52	was	SCOPE[2]	
+1-11	53-61	deported	SCOPE[2]	
+1-12	62-66	back	SCOPE[2]	
+1-13	67-69	to	SCOPE[2]	
+1-14	70-77	Belgium	SCOPE[2]|FOCUS[3]	
+1-15	77-78	,	_	
+1-16	79-82	and	_	
+1-17	83-87	they	_	
+1-18	88-91	did	_	
+1-19	92-94	no	NEG	
+1-20	95-101	follow	SCOPE[5]|FOCUS[6]	
+1-21	102-104	up	SCOPE[5]|FOCUS[6]	
+1-22	104-105	,	_	
+1-23	106-109	and	_	
+1-24	110-112	he	_	
+1-25	113-117	gave	_	
+1-26	118-122	them	_	
+1-27	123-126	the	_	
+1-28	127-133	finger	_	
+1-29	134-136	by	_	
+1-30	137-147	committing	_	
+1-31	148-150	an	_	
+1-32	151-154	act	_	
+1-33	155-157	of	_	
+1-34	158-164	terror	_	
+1-35	164-165	.	_	
+
+#Text=Glad I don't live in Belgium.
+2-1	167-171	Glad	_	
+2-2	172-173	I	_	
+2-3	174-179	don't	NEG	
+2-4	180-184	live	SCOPE[8]	
+2-5	185-187	in	SCOPE[8]	
+2-6	188-195	Belgium	SCOPE[8]|FOCUS[9]	
+2-7	195-196	.	_	

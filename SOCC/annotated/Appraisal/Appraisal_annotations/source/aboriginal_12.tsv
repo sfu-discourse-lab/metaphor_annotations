@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Agreed.
+1-1	0-6	Agreed	Appreciation	pos	
+1-2	6-7	.	_	_	
+
+#Text=It is time to drop the whining the need to self-blame ourselves e.g.
+2-1	9-11	It	_	_	
+2-2	12-14	is	_	_	
+2-3	15-19	time	Appreciation[2]	pos[2]	
+2-4	20-22	to	Appreciation[2]	pos[2]	
+2-5	23-27	drop	Appreciation[2]	pos[2]	
+2-6	28-31	the	Appreciation[2]	pos[2]	
+2-7	32-39	whining	Appreciation[2]|Judgment[3]	pos[2]|neg[3]	
+2-8	40-43	the	_	_	
+2-9	44-48	need	_	_	
+2-10	49-51	to	_	_	
+2-11	52-62	self-blame	Judgment	neg	
+2-12	63-72	ourselves	_	_	
+2-13	73-76	e.g	_	_	
+2-14	76-77	.	_	_	
+
+#Text='all of which are linked to the fallout of colonization'  - after all didn't stronger tribes colonize weaker tribes too?
+3-1	78-79	'	_	_	
+3-2	79-82	all	_	_	
+3-3	83-85	of	_	_	
+3-4	86-91	which	_	_	
+3-5	92-95	are	_	_	
+3-6	96-102	linked	_	_	
+3-7	103-105	to	_	_	
+3-8	106-109	the	_	_	
+3-9	110-117	fallout	Appreciation[5]	neg[5]	
+3-10	118-120	of	Appreciation[5]	neg[5]	
+3-11	121-133	colonization	Appreciation[5]	neg[5]	
+3-12	133-134	'	_	_	
+3-13	136-137	-	_	_	
+3-14	138-143	after	_	_	
+3-15	144-147	all	_	_	
+3-16	148-154	didn't	Appreciation[6]	neg[6]	
+3-17	155-163	stronger	Appreciation[6]|Appreciation[7]	neg[6]|pos[7]	
+3-18	164-170	tribes	Appreciation[6]	neg[6]	
+3-19	171-179	colonize	Appreciation[6]	neg[6]	
+3-20	180-186	weaker	Appreciation[6]|Appreciation[8]	neg[6]|neg[8]	
+3-21	187-193	tribes	Appreciation[6]	neg[6]	
+3-22	194-197	too	Appreciation[6]	neg[6]	
+3-23	197-198	?	_	_	

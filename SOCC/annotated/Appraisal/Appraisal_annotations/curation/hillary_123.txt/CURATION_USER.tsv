@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=this columnist thinks the loss was about women, another Globe columnist thought it was all about brown people, another thought it was about the white working poor, another thought the media steered the election.
+1-1	0-4	this	_	_	
+1-2	5-14	columnist	_	_	
+1-3	15-21	thinks	Judgment[1]	neg[1]	
+1-4	22-25	the	Judgment[1]	neg[1]	
+1-5	26-30	loss	Judgment[1]	neg[1]	
+1-6	31-34	was	Judgment[1]	neg[1]	
+1-7	35-40	about	Judgment[1]	neg[1]	
+1-8	41-46	women	Judgment[1]	neg[1]	
+1-9	46-47	,	_	_	
+1-10	48-55	another	_	_	
+1-11	56-61	Globe	_	_	
+1-12	62-71	columnist	_	_	
+1-13	72-79	thought	Judgment[2]	neg[2]	
+1-14	80-82	it	Judgment[2]	neg[2]	
+1-15	83-86	was	Judgment[2]	neg[2]	
+1-16	87-90	all	Judgment[2]	neg[2]	
+1-17	91-96	about	Judgment[2]	neg[2]	
+1-18	97-102	brown	Judgment[2]	neg[2]	
+1-19	103-109	people	Judgment[2]	neg[2]	
+1-20	109-110	,	_	_	
+1-21	111-118	another	_	_	
+1-22	119-126	thought	Judgment[3]	neg[3]	
+1-23	127-129	it	Judgment[3]	neg[3]	
+1-24	130-133	was	Judgment[3]	neg[3]	
+1-25	134-139	about	Judgment[3]	neg[3]	
+1-26	140-143	the	Judgment[3]	neg[3]	
+1-27	144-149	white	Judgment[3]	neg[3]	
+1-28	150-157	working	Judgment[3]	neg[3]	
+1-29	158-162	poor	Judgment[3]	neg[3]	
+1-30	162-163	,	_	_	
+1-31	164-171	another	_	_	
+1-32	172-179	thought	Judgment[4]	neg[4]	
+1-33	180-183	the	Judgment[4]	neg[4]	
+1-34	184-189	media	Judgment[4]	neg[4]	
+1-35	190-197	steered	Judgment[4]	neg[4]	
+1-36	198-201	the	Judgment[4]	neg[4]	
+1-37	202-210	election	Judgment[4]	neg[4]	
+1-38	210-211	.	_	_	
+
+#Text=The general population is tired of every special interest group thinking they are picked on.
+2-1	212-215	The	_	_	
+2-2	216-223	general	_	_	
+2-3	224-234	population	_	_	
+2-4	235-237	is	_	_	
+2-5	238-243	tired	Affect	neg	
+2-6	244-246	of	_	_	
+2-7	247-252	every	_	_	
+2-8	253-260	special	_	_	
+2-9	261-269	interest	_	_	
+2-10	270-275	group	_	_	
+2-11	276-284	thinking	_	_	
+2-12	285-289	they	_	_	
+2-13	290-293	are	_	_	
+2-14	294-300	picked	Appreciation[6]	neg[6]	
+2-15	301-303	on	Appreciation[6]	neg[6]	
+2-16	303-304	.	_	_	
+
+#Text=The general population is tired of alot of the 'same old' stuff.
+3-1	305-308	The	_	_	
+3-2	309-316	general	_	_	
+3-3	317-327	population	_	_	
+3-4	328-330	is	_	_	
+3-5	331-336	tired	Affect	neg	
+3-6	337-339	of	_	_	
+3-7	340-344	alot	_	_	
+3-8	345-347	of	_	_	
+3-9	348-351	the	_	_	
+3-10	352-353	'	_	_	
+3-11	353-357	same	Appreciation[8]	neg[8]	
+3-12	358-361	old	Appreciation[8]	neg[8]	
+3-13	361-362	'	_	_	
+3-14	363-368	stuff	_	_	
+3-15	368-369	.	_	_	
+
+#Text=This election was about change, and Trump new it 6 months ago.
+4-1	370-374	This	_	_	
+4-2	375-383	election	_	_	
+4-3	384-387	was	_	_	
+4-4	388-393	about	_	_	
+4-5	394-400	change	_	_	
+4-6	400-401	,	_	_	
+4-7	402-405	and	_	_	
+4-8	406-411	Trump	_	_	
+4-9	412-415	new	Judgment[9]	pos[9]	
+4-10	416-418	it	Judgment[9]	pos[9]	
+4-11	419-420	6	Judgment[9]	pos[9]	
+4-12	421-427	months	Judgment[9]	pos[9]	
+4-13	428-431	ago	Judgment[9]	pos[9]	
+4-14	431-432	.	_	_	

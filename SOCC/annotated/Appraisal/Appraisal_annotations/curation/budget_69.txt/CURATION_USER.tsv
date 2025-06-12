@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Of course we all know, unfortunately, there is a segment of the voting public that worships the ground Harper slithers on.
+1-1	0-2	Of	_	_	
+1-2	3-9	course	_	_	
+1-3	10-12	we	_	_	
+1-4	13-16	all	_	_	
+1-5	17-21	know	_	_	
+1-6	21-22	,	_	_	
+1-7	23-36	unfortunately	Affect	neg	
+1-8	36-37	,	_	_	
+1-9	38-43	there	_	_	
+1-10	44-46	is	_	_	
+1-11	47-48	a	_	_	
+1-12	49-56	segment	_	_	
+1-13	57-59	of	_	_	
+1-14	60-63	the	_	_	
+1-15	64-70	voting	_	_	
+1-16	71-77	public	_	_	
+1-17	78-82	that	_	_	
+1-18	83-91	worships	Judgment[2]	neg[2]	
+1-19	92-95	the	Judgment[2]	neg[2]	
+1-20	96-102	ground	Judgment[2]	neg[2]	
+1-21	103-109	Harper	Judgment[2]	neg[2]	
+1-22	110-118	slithers	Judgment[2]|Judgment[3]	neg[2]|neg[3]	
+1-23	119-121	on	Judgment[2]	neg[2]	
+1-24	121-122	.	_	_	
+
+#Text=That's who this 'surplus' is aimed at.
+2-1	123-129	That's	_	_	
+2-2	130-133	who	_	_	
+2-3	134-138	this	_	_	
+2-4	139-140	'	_	_	
+2-5	140-147	surplus	_	_	
+2-6	147-148	'	_	_	
+2-7	149-151	is	_	_	
+2-8	152-157	aimed	_	_	
+2-9	158-160	at	_	_	
+2-10	160-161	.	_	_	
+
+#Text=These numbers have been baked, cooked, fudged, pinched and squeezed to get the result that Dear Leader wanted.
+3-1	162-167	These	_	_	
+3-2	168-175	numbers	_	_	
+3-3	176-180	have	_	_	
+3-4	181-185	been	_	_	
+3-5	186-191	baked	Judgment[4]	neg[4]	
+3-6	191-192	,	Judgment[4]	neg[4]	
+3-7	193-199	cooked	Judgment[4]	neg[4]	
+3-8	199-200	,	Judgment[4]	neg[4]	
+3-9	201-207	fudged	Judgment[4]	neg[4]	
+3-10	207-208	,	Judgment[4]	neg[4]	
+3-11	209-216	pinched	Judgment[4]	neg[4]	
+3-12	217-220	and	Judgment[4]	neg[4]	
+3-13	221-229	squeezed	Judgment[4]	neg[4]	
+3-14	230-232	to	_	_	
+3-15	233-236	get	_	_	
+3-16	237-240	the	_	_	
+3-17	241-247	result	_	_	
+3-18	248-252	that	_	_	
+3-19	253-257	Dear	Judgment[5]	neg[5]	
+3-20	258-264	Leader	Judgment[5]	neg[5]	
+3-21	265-271	wanted	_	_	
+3-22	271-272	.	_	_	
+
+#Text=Anybody with any working brain cells understands that.
+4-1	273-280	Anybody	Judgment[6]	neg[6]	
+4-2	281-285	with	Judgment[6]	neg[6]	
+4-3	286-289	any	Judgment[6]	neg[6]	
+4-4	290-297	working	Judgment[6]	neg[6]	
+4-5	298-303	brain	Judgment[6]	neg[6]	
+4-6	304-309	cells	Judgment[6]	neg[6]	
+4-7	310-321	understands	Judgment[6]	neg[6]	
+4-8	322-326	that	Judgment[6]	neg[6]	
+4-9	326-327	.	_	_	

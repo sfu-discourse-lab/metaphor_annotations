@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Its a big world and Canada can't fix all the problems.
+1-1	0-3	Its	_	_	
+1-2	4-5	a	_	_	
+1-3	6-9	big	_	_	
+1-4	10-15	world	_	_	
+1-5	16-19	and	_	_	
+1-6	20-26	Canada	_	_	
+1-7	27-32	can't	Judgment[1]	neg[1]	
+1-8	33-36	fix	Judgment[1]	neg[1]	
+1-9	37-40	all	Judgment[1]	neg[1]	
+1-10	41-44	the	Judgment[1]	neg[1]	
+1-11	45-53	problems	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	
+1-12	53-54	.	_	_	
+
+#Text=You want these refugees to find homes, lobby larger nations, with more resources.
+2-1	55-58	You	_	_	
+2-2	59-63	want	_	_	
+2-3	64-69	these	_	_	
+2-4	70-78	refugees	_	_	
+2-5	79-81	to	_	_	
+2-6	82-86	find	_	_	
+2-7	87-92	homes	_	_	
+2-8	92-93	,	_	_	
+2-9	94-99	lobby	Appreciation[3]	pos[3]	
+2-10	100-106	larger	Appreciation[3]	pos[3]	
+2-11	107-114	nations	Appreciation[3]	pos[3]	
+2-12	114-115	,	Appreciation[3]	pos[3]	
+2-13	116-120	with	Appreciation[3]	pos[3]	
+2-14	121-125	more	Appreciation[3]	pos[3]	
+2-15	126-135	resources	Appreciation[3]	pos[3]	
+2-16	135-136	.	_	_	
+
+#Text=You might also knock on the door of the neighbors in the ME, they might want to help their own a bit.
+3-1	137-140	You	_	_	
+3-2	141-146	might	Judgment[4]	pos[4]	
+3-3	147-151	also	Judgment[4]	pos[4]	
+3-4	152-157	knock	Judgment[4]	pos[4]	
+3-5	158-160	on	Judgment[4]	pos[4]	
+3-6	161-164	the	Judgment[4]	pos[4]	
+3-7	165-169	door	Judgment[4]	pos[4]	
+3-8	170-172	of	Judgment[4]	pos[4]	
+3-9	173-176	the	Judgment[4]	pos[4]	
+3-10	177-186	neighbors	Judgment[4]	pos[4]	
+3-11	187-189	in	Judgment[4]	pos[4]	
+3-12	190-193	the	Judgment[4]	pos[4]	
+3-13	194-196	ME	Judgment[4]	pos[4]	
+3-14	196-197	,	_	_	
+3-15	198-202	they	_	_	
+3-16	203-208	might	Judgment[5]	neg[5]	
+3-17	209-213	want	Judgment[5]	neg[5]	
+3-18	214-216	to	Judgment[5]	neg[5]	
+3-19	217-221	help	Judgment[5]	neg[5]	
+3-20	222-227	their	Judgment[5]	neg[5]	
+3-21	228-231	own	Judgment[5]	neg[5]	
+3-22	232-233	a	_	_	
+3-23	234-237	bit	_	_	
+3-24	237-238	.	_	_	
+
+#Text=Of course, maybe China would have some interest in this folk, they have a thriving economy...maybe?
+4-1	239-241	Of	_	_	
+4-2	242-248	course	_	_	
+4-3	248-249	,	_	_	
+4-4	250-255	maybe	_	_	
+4-5	256-261	China	_	_	
+4-6	262-267	would	Appreciation[6]	pos[6]	
+4-7	268-272	have	Appreciation[6]	pos[6]	
+4-8	273-277	some	Appreciation[6]	pos[6]	
+4-9	278-286	interest	Appreciation[6]	pos[6]	
+4-10	287-289	in	_	_	
+4-11	290-294	this	_	_	
+4-12	295-299	folk	_	_	
+4-13	299-300	,	_	_	
+4-14	301-305	they	_	_	
+4-15	306-310	have	_	_	
+4-16	311-312	a	_	_	
+4-17	313-321	thriving	Appreciation	pos	
+4-18	322-329	economy	_	_	
+4-19	329-330	.	_	_	
+4-20	330-331	.	_	_	
+4-21	331-332	.	_	_	
+4-22	332-337	maybe	Judgment	neg	
+4-23	337-338	?	_	_	

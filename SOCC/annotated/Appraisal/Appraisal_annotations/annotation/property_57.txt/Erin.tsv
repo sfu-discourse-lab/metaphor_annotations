@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Looking for a fight Henry?
+1-1	0-7	Looking	Judgment[1]	neg[1]	
+1-2	8-11	for	Judgment[1]	neg[1]	
+1-3	12-13	a	Judgment[1]	neg[1]	
+1-4	14-19	fight	Judgment[1]	neg[1]	
+1-5	20-25	Henry	Judgment[1]	neg[1]	
+1-6	25-26	?	_	_	
+
+#Text=The word Chinese is NOT mentioned once in the legislation.
+2-1	27-30	The	_	_	
+2-2	31-35	word	_	_	
+2-3	36-43	Chinese	_	_	
+2-4	44-46	is	_	_	
+2-5	47-50	NOT	Appreciation[2]	pos[2]	
+2-6	51-60	mentioned	Appreciation[2]	pos[2]	
+2-7	61-65	once	Appreciation[2]	pos[2]	
+2-8	66-68	in	_	_	
+2-9	69-72	the	_	_	
+2-10	73-84	legislation	_	_	
+2-11	84-85	.	_	_	
+
+#Text=It applies to ANY and ALL non-residents of Canada.
+3-1	86-88	It	_	_	
+3-2	89-96	applies	Appreciation[3]	pos[3]	
+3-3	97-99	to	Appreciation[3]	pos[3]	
+3-4	100-103	ANY	Appreciation[3]	pos[3]	
+3-5	104-107	and	Appreciation[3]	pos[3]	
+3-6	108-111	ALL	Appreciation[3]	pos[3]	
+3-7	112-125	non-residents	Appreciation[3]	pos[3]	
+3-8	126-128	of	_	_	
+3-9	129-135	Canada	_	_	
+3-10	135-136	.	_	_	
+
+#Text=What in heaven's name is wrong with that?
+4-1	137-141	What	Judgment[4]	neg[4]	
+4-2	142-144	in	Judgment[4]	neg[4]	
+4-3	145-153	heaven's	Judgment[4]	neg[4]	
+4-4	154-158	name	Judgment[4]	neg[4]	
+4-5	159-161	is	Judgment[4]	neg[4]	
+4-6	162-167	wrong	Judgment[4]	neg[4]	
+4-7	168-172	with	Judgment[4]	neg[4]	
+4-8	173-177	that	Judgment[4]	neg[4]	
+4-9	177-178	?	_	_	
+
+#Text=Henry, go back to teaching at UBC.
+5-1	179-184	Henry	_	_	
+5-2	184-185	,	_	_	
+5-3	186-188	go	Judgment[5]	neg[5]	
+5-4	189-193	back	Judgment[5]	neg[5]	
+5-5	194-196	to	Judgment[5]	neg[5]	
+5-6	197-205	teaching	Judgment[5]	neg[5]	
+5-7	206-208	at	_	_	
+5-8	209-212	UBC	_	_	
+5-9	212-213	.	_	_	
+
+#Text=Stop inventing a story!!
+6-1	214-218	Stop	Judgment[6]	neg[6]	
+6-2	219-228	inventing	Judgment[6]	neg[6]	
+6-3	229-230	a	Judgment[6]	neg[6]	
+6-4	231-236	story	Judgment[6]	neg[6]	
+6-5	236-237	!	_	_	
+6-6	237-238	!	_	_	
+
+#Text=You have no idea what you are talking about.
+7-1	239-242	You	_	_	
+7-2	243-247	have	_	_	
+7-3	248-250	no	Judgment[7]	neg[7]	
+7-4	251-255	idea	Judgment[7]	neg[7]	
+7-5	256-260	what	Judgment[7]	neg[7]	
+7-6	261-264	you	Judgment[7]	neg[7]	
+7-7	265-268	are	Judgment[7]	neg[7]	
+7-8	269-276	talking	Judgment[7]	neg[7]	
+7-9	277-282	about	Judgment[7]	neg[7]	
+7-10	282-283	.	_	_	

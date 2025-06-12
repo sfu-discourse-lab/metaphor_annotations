@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Simpson is right: it's a political winner and a policy dud - just political smoke and mirrors.
+1-1	0-7	Simpson	_	_	
+1-2	8-10	is	_	_	
+1-3	11-16	right	Judgment	pos	
+1-4	16-17	:	_	_	
+1-5	18-22	it's	_	_	
+1-6	23-24	a	_	_	
+1-7	25-34	political	_	_	
+1-8	35-41	winner	Appreciation	pos	
+1-9	42-45	and	_	_	
+1-10	46-47	a	_	_	
+1-11	48-54	policy	_	_	
+1-12	55-58	dud	Appreciation	neg	
+1-13	59-60	-	_	_	
+1-14	61-65	just	Appreciation[4]	neg[4]	
+1-15	66-75	political	Appreciation[4]	neg[4]	
+1-16	76-81	smoke	Appreciation[4]	neg[4]	
+1-17	82-85	and	Appreciation[4]	neg[4]	
+1-18	86-93	mirrors	Appreciation[4]	neg[4]	
+1-19	93-94	.	_	_	
+
+#Text=Mulcair wants Canada to adopt a national childcare model so he can hang on to seats in Quebec, that's all.
+2-1	95-102	Mulcair	_	_	
+2-2	103-108	wants	Judgment[5]	neg[5]	
+2-3	109-115	Canada	Judgment[5]	neg[5]	
+2-4	116-118	to	Judgment[5]	neg[5]	
+2-5	119-124	adopt	Judgment[5]	neg[5]	
+2-6	125-126	a	Judgment[5]	neg[5]	
+2-7	127-135	national	Judgment[5]	neg[5]	
+2-8	136-145	childcare	Judgment[5]	neg[5]	
+2-9	146-151	model	Judgment[5]	neg[5]	
+2-10	152-154	so	Judgment[5]	neg[5]	
+2-11	155-157	he	Judgment[5]	neg[5]	
+2-12	158-161	can	Judgment[5]	neg[5]	
+2-13	162-166	hang	Judgment[5]	neg[5]	
+2-14	167-169	on	Judgment[5]	neg[5]	
+2-15	170-172	to	Judgment[5]	neg[5]	
+2-16	173-178	seats	Judgment[5]	neg[5]	
+2-17	179-181	in	Judgment[5]	neg[5]	
+2-18	182-188	Quebec	Judgment[5]	neg[5]	
+2-19	188-189	,	Judgment[5]	neg[5]	
+2-20	190-196	that's	Judgment[5]	neg[5]	
+2-21	197-200	all	Judgment[5]	neg[5]	
+2-22	200-201	.	_	_	
+
+#Text=Years ago I worked with a political strategist working to get a Liberal candidate elected in Conservative Calgary.
+3-1	202-207	Years	_	_	
+3-2	208-211	ago	_	_	
+3-3	212-213	I	_	_	
+3-4	214-220	worked	_	_	
+3-5	221-225	with	_	_	
+3-6	226-227	a	_	_	
+3-7	228-237	political	_	_	
+3-8	238-248	strategist	_	_	
+3-9	249-256	working	_	_	
+3-10	257-259	to	_	_	
+3-11	260-263	get	_	_	
+3-12	264-265	a	_	_	
+3-13	266-273	Liberal	_	_	
+3-14	274-283	candidate	_	_	
+3-15	284-291	elected	_	_	
+3-16	292-294	in	_	_	
+3-17	295-307	Conservative	_	_	
+3-18	308-315	Calgary	_	_	
+3-19	315-316	.	_	_	
+
+#Text=He actually told his client to talk about national daycare - this was in the early 90's.
+4-1	317-319	He	_	_	
+4-2	320-328	actually	_	_	
+4-3	329-333	told	_	_	
+4-4	334-337	his	_	_	
+4-5	338-344	client	_	_	
+4-6	345-347	to	_	_	
+4-7	348-352	talk	_	_	
+4-8	353-358	about	_	_	
+4-9	359-367	national	_	_	
+4-10	368-375	daycare	_	_	
+4-11	376-377	-	_	_	
+4-12	378-382	this	_	_	
+4-13	383-386	was	_	_	
+4-14	387-389	in	_	_	
+4-15	390-393	the	_	_	
+4-16	394-399	early	_	_	
+4-17	400-402	90	_	_	
+4-18	402-403	'	_	_	
+4-19	403-404	s	_	_	
+4-20	404-405	.	_	_	
+
+#Text=The Liberal candidate said, 'Canada can't afford that!'
+5-1	406-409	The	_	_	
+5-2	410-417	Liberal	_	_	
+5-3	418-427	candidate	_	_	
+5-4	428-432	said	_	_	
+5-5	432-433	,	_	_	
+5-6	434-435	'	_	_	
+5-7	435-441	Canada	_	_	
+5-8	442-447	can't	Appreciation[6]	neg[6]	
+5-9	448-454	afford	Appreciation[6]	neg[6]	
+5-10	455-459	that	Appreciation[6]	neg[6]	
+5-11	459-460	!	_	_	
+5-12	460-461	'	_	_	
+
+#Text=to which the strategist responded 'Just say the words, you don't have to actually do it.
+6-1	462-464	to	_	_	
+6-2	465-470	which	_	_	
+6-3	471-474	the	_	_	
+6-4	475-485	strategist	_	_	
+6-5	486-495	responded	_	_	
+6-6	496-497	'	_	_	
+6-7	497-501	Just	Judgment[7]	neg[7]	
+6-8	502-505	say	Judgment[7]	neg[7]	
+6-9	506-509	the	Judgment[7]	neg[7]	
+6-10	510-515	words	Judgment[7]	neg[7]	
+6-11	515-516	,	Judgment[7]	neg[7]	
+6-12	517-520	you	Judgment[7]	neg[7]	
+6-13	521-526	don't	Judgment[7]	neg[7]	
+6-14	527-531	have	Judgment[7]	neg[7]	
+6-15	532-534	to	Judgment[7]	neg[7]	
+6-16	535-543	actually	Judgment[7]	neg[7]	
+6-17	544-546	do	Judgment[7]	neg[7]	
+6-18	547-549	it	Judgment[7]	neg[7]	
+6-19	549-550	.	_	_	
+
+#Text=It'll be good for votes.'
+7-1	551-556	It'll	Judgment[8]	neg[8]	
+7-2	557-559	be	Judgment[8]	neg[8]	
+7-3	560-564	good	Judgment[8]	neg[8]	
+7-4	565-568	for	Judgment[8]	neg[8]	
+7-5	569-574	votes	Judgment[8]	neg[8]	
+7-6	574-575	.	_	_	
+7-7	575-576	'	_	_	
+
+#Text=I could barely believe the cynicism, but over the years I've come to realize that's what it is: vote getting and power politics.
+8-1	577-578	I	_	_	
+8-2	579-584	could	_	_	
+8-3	585-591	barely	Affect[9]	neg[9]	
+8-4	592-599	believe	Affect[9]	neg[9]	
+8-5	600-603	the	_	_	
+8-6	604-612	cynicism	Appreciation	neg	
+8-7	612-613	,	_	_	
+8-8	614-617	but	_	_	
+8-9	618-622	over	_	_	
+8-10	623-626	the	_	_	
+8-11	627-632	years	_	_	
+8-12	633-637	I've	_	_	
+8-13	638-642	come	_	_	
+8-14	643-645	to	_	_	
+8-15	646-653	realize	_	_	
+8-16	654-660	that's	_	_	
+8-17	661-665	what	_	_	
+8-18	666-668	it	_	_	
+8-19	669-671	is	_	_	
+8-20	671-672	:	_	_	
+8-21	673-677	vote	Appreciation[11]	neg[11]	
+8-22	678-685	getting	Appreciation[11]	neg[11]	
+8-23	686-689	and	Appreciation[11]	neg[11]	
+8-24	690-695	power	Appreciation[11]	neg[11]	
+8-25	696-704	politics	Appreciation[11]	neg[11]	
+8-26	704-705	.	_	_	
+
+#Text=Same thing here.
+9-1	706-710	Same	Judgment[12]	neg[12]	
+9-2	711-716	thing	Judgment[12]	neg[12]	
+9-3	717-721	here	Judgment[12]	neg[12]	
+9-4	721-722	.	_	_	

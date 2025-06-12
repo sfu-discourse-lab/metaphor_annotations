@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Other than the socons, ALL GOOD NEWS IMO!
+1-1	0-5	Other	
+1-2	6-10	than	
+1-3	11-14	the	
+1-4	15-21	socons	
+1-5	21-22	,	
+1-6	23-26	ALL	
+1-7	27-31	GOOD	
+1-8	32-36	NEWS	
+1-9	37-40	IMO	
+1-10	40-41	!	

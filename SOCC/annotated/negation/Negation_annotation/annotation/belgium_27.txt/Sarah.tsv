@@ -1,0 +1,11 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Beljium should be divided into two countries
+1-1	0-7	Beljium	
+1-2	8-14	should	
+1-3	15-17	be	
+1-4	18-25	divided	
+1-5	26-30	into	
+1-6	31-34	two	
+1-7	35-44	countries	

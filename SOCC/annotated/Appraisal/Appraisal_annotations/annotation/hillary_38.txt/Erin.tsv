@@ -1,0 +1,464 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I completely agree with Herein when she writes, \u201CThe problem is bigger than Mr.
+1-1	0-1	I	_	_	_	_	
+1-2	2-12	completely	Appreciation[1]	neg[1]	Force	up	
+1-3	13-18	agree	Appreciation[1]	neg[1]	_	_	
+1-4	19-23	with	_	_	_	_	
+1-5	24-30	Herein	_	_	_	_	
+1-6	31-35	when	_	_	_	_	
+1-7	36-39	she	_	_	_	_	
+1-8	40-46	writes	_	_	_	_	
+1-9	46-47	,	_	_	_	_	
+1-10	48-49	“	_	_	_	_	
+1-11	49-52	The	_	_	_	_	
+1-12	53-60	problem	Appreciation	neg	_	_	
+1-13	61-63	is	_	_	_	_	
+1-14	64-70	bigger	Appreciation	neg	Force	up	
+1-15	71-75	than	_	_	_	_	
+1-16	76-78	Mr	_	_	_	_	
+1-17	78-79	.	_	_	_	_	
+
+#Text=Trump\u201D.
+2-1	80-85	Trump	_	_	_	_	
+2-2	85-86	”	_	_	_	_	
+2-3	86-87	.	_	_	_	_	
+
+#Text=While I find Trump to be completely abhorrent, in essence, he has only served to reflect a society that is deeply divided and very frustrated.
+3-1	88-93	While	_	_	_	_	
+3-2	94-95	I	_	_	_	_	
+3-3	96-100	find	_	_	_	_	
+3-4	101-106	Trump	_	_	_	_	
+3-5	107-109	to	_	_	_	_	
+3-6	110-112	be	_	_	_	_	
+3-7	113-123	completely	Judgment[4]	neg[4]	Force	up	
+3-8	124-133	abhorrent	Judgment[4]	neg[4]	_	_	
+3-9	133-134	,	_	_	_	_	
+3-10	135-137	in	_	_	_	_	
+3-11	138-145	essence	_	_	_	_	
+3-12	145-146	,	_	_	_	_	
+3-13	147-149	he	_	_	_	_	
+3-14	150-153	has	_	_	_	_	
+3-15	154-158	only	Judgment[5]	neg[5]	_	_	
+3-16	159-165	served	Judgment[5]	neg[5]	_	_	
+3-17	166-168	to	Judgment[5]	neg[5]	_	_	
+3-18	169-176	reflect	Judgment[5]	neg[5]	_	_	
+3-19	177-178	a	Judgment[5]	neg[5]	_	_	
+3-20	179-186	society	Judgment[5]	neg[5]	_	_	
+3-21	187-191	that	Judgment[5]	neg[5]	_	_	
+3-22	192-194	is	Judgment[5]	neg[5]	_	_	
+3-23	195-201	deeply	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+3-24	202-209	divided	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+3-25	210-213	and	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+3-26	214-218	very	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+3-27	219-229	frustrated	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+3-28	229-230	.	_	_	_	_	
+
+#Text=He has served to illuminate and give a platform to misogynistic, racist & isolationist/nationalist idealism.
+4-1	231-233	He	_	_	_	_	
+4-2	234-237	has	_	_	_	_	
+4-3	238-244	served	Judgment[7]	neg[7]	_	_	
+4-4	245-247	to	Judgment[7]	neg[7]	_	_	
+4-5	248-258	illuminate	Judgment[7]	neg[7]	_	_	
+4-6	259-262	and	Judgment[7]	neg[7]	_	_	
+4-7	263-267	give	Judgment[7]	neg[7]	_	_	
+4-8	268-269	a	Judgment[7]	neg[7]	_	_	
+4-9	270-278	platform	Judgment[7]	neg[7]	_	_	
+4-10	279-281	to	Judgment[7]	neg[7]	_	_	
+4-11	282-294	misogynistic	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-12	294-295	,	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-13	296-302	racist	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-14	303-304	&	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-15	305-317	isolationist	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-16	317-318	/	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-17	318-329	nationalist	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	_	_	
+4-18	330-338	idealism	Judgment[7]	neg[7]	_	_	
+4-19	338-339	.	_	_	_	_	
+
+#Text=It is a frightening state of affairs here in America.
+5-1	340-342	It	_	_	_	_	
+5-2	343-345	is	_	_	_	_	
+5-3	346-347	a	_	_	_	_	
+5-4	348-359	frightening	Affect	neg	_	_	
+5-5	360-365	state	_	_	_	_	
+5-6	366-368	of	_	_	_	_	
+5-7	369-376	affairs	_	_	_	_	
+5-8	377-381	here	_	_	_	_	
+5-9	382-384	in	_	_	_	_	
+5-10	385-392	America	_	_	_	_	
+5-11	392-393	.	_	_	_	_	
+
+#Text=That said, Hillary Clinton DID win the popular vote.
+6-1	394-398	That	_	_	_	_	
+6-2	399-403	said	_	_	_	_	
+6-3	403-404	,	_	_	_	_	
+6-4	405-412	Hillary	_	_	_	_	
+6-5	413-420	Clinton	_	_	_	_	
+6-6	421-424	DID	Appreciation[10]	neg[10]	_	_	
+6-7	425-428	win	Appreciation[10]	neg[10]	_	_	
+6-8	429-432	the	Appreciation[10]	neg[10]	_	_	
+6-9	433-440	popular	Appreciation[10]	neg[10]	_	_	
+6-10	441-445	vote	Appreciation[10]	neg[10]	_	_	
+6-11	445-446	.	_	_	_	_	
+
+#Text=One of the biggest problems in America is the electoral college.
+7-1	447-450	One	_	_	_	_	
+7-2	451-453	of	_	_	_	_	
+7-3	454-457	the	_	_	_	_	
+7-4	458-465	biggest	Appreciation[11]	neg[11]	Force	up	
+7-5	466-474	problems	Appreciation[11]	neg[11]	_	_	
+7-6	475-477	in	_	_	_	_	
+7-7	478-485	America	_	_	_	_	
+7-8	486-488	is	_	_	_	_	
+7-9	489-492	the	_	_	_	_	
+7-10	493-502	electoral	_	_	_	_	
+7-11	503-510	college	_	_	_	_	
+7-12	510-511	.	_	_	_	_	
+
+#Text=Now, twice in recent history, two extremely qualified candidates have lost the election b/c of the electoral college: Hillary Clinton & Al Gore.
+8-1	512-515	Now	_	_	_	_	
+8-2	515-516	,	_	_	_	_	
+8-3	517-522	twice	_	_	_	_	
+8-4	523-525	in	_	_	_	_	
+8-5	526-532	recent	_	_	_	_	
+8-6	533-540	history	_	_	_	_	
+8-7	540-541	,	_	_	_	_	
+8-8	542-545	two	_	_	_	_	
+8-9	546-555	extremely	Judgment[12]	pos[12]	Force	up	
+8-10	556-565	qualified	Judgment[12]	pos[12]	_	_	
+8-11	566-576	candidates	_	_	_	_	
+8-12	577-581	have	_	_	_	_	
+8-13	582-586	lost	Appreciation[13]	neg[13]	_	_	
+8-14	587-590	the	Appreciation[13]	neg[13]	_	_	
+8-15	591-599	election	Appreciation[13]	neg[13]	_	_	
+8-16	600-601	b	Appreciation[13]	neg[13]	_	_	
+8-17	601-602	/	Appreciation[13]	neg[13]	_	_	
+8-18	602-603	c	Appreciation[13]	neg[13]	_	_	
+8-19	604-606	of	Appreciation[13]	neg[13]	_	_	
+8-20	607-610	the	Appreciation[13]	neg[13]	_	_	
+8-21	611-620	electoral	Appreciation[13]	neg[13]	_	_	
+8-22	621-628	college	Appreciation[13]	neg[13]	_	_	
+8-23	628-629	:	_	_	_	_	
+8-24	630-637	Hillary	_	_	_	_	
+8-25	638-645	Clinton	_	_	_	_	
+8-26	646-647	&	_	_	_	_	
+8-27	648-650	Al	_	_	_	_	
+8-28	651-655	Gore	_	_	_	_	
+8-29	655-656	.	_	_	_	_	
+
+#Text=We need to let the people\u2019s true voices be heard.
+9-1	657-659	We	_	_	_	_	
+9-2	660-664	need	Appreciation[14]	pos[14]	_	_	
+9-3	665-667	to	Appreciation[14]	pos[14]	_	_	
+9-4	668-671	let	Appreciation[14]	pos[14]	_	_	
+9-5	672-675	the	Appreciation[14]	pos[14]	_	_	
+9-6	676-682	people	Appreciation[14]	pos[14]	_	_	
+9-7	682-683	’	Appreciation[14]	pos[14]	_	_	
+9-8	683-684	s	Appreciation[14]	pos[14]	_	_	
+9-9	685-689	true	Appreciation[14]	pos[14]	_	_	
+9-10	690-696	voices	Appreciation[14]	pos[14]	_	_	
+9-11	697-699	be	Appreciation[14]	pos[14]	_	_	
+9-12	700-705	heard	Appreciation[14]	pos[14]	_	_	
+9-13	705-706	.	_	_	_	_	
+
+#Text=We need to amend the constitution and abolish the electoral college.
+10-1	707-709	We	_	_	_	_	
+10-2	710-714	need	Appreciation[15]	pos[15]	_	_	
+10-3	715-717	to	Appreciation[15]	pos[15]	_	_	
+10-4	718-723	amend	Appreciation[15]	pos[15]	_	_	
+10-5	724-727	the	Appreciation[15]	pos[15]	_	_	
+10-6	728-740	constitution	Appreciation[15]	pos[15]	_	_	
+10-7	741-744	and	Appreciation[15]	pos[15]	_	_	
+10-8	745-752	abolish	Appreciation[15]	pos[15]	_	_	
+10-9	753-756	the	Appreciation[15]	pos[15]	_	_	
+10-10	757-766	electoral	Appreciation[15]	pos[15]	_	_	
+10-11	767-774	college	Appreciation[15]	pos[15]	_	_	
+10-12	774-775	.	_	_	_	_	
+
+#Text=It was established by the founding fathers of America to ensure equal representation for each state, but it is now completely antiquated and detrimental to America.
+11-1	776-778	It	_	_	_	_	
+11-2	779-782	was	_	_	_	_	
+11-3	783-794	established	_	_	_	_	
+11-4	795-797	by	_	_	_	_	
+11-5	798-801	the	_	_	_	_	
+11-6	802-810	founding	_	_	_	_	
+11-7	811-818	fathers	_	_	_	_	
+11-8	819-821	of	_	_	_	_	
+11-9	822-829	America	_	_	_	_	
+11-10	830-832	to	_	_	_	_	
+11-11	833-839	ensure	_	_	_	_	
+11-12	840-845	equal	Appreciation[16]	neg[16]	_	_	
+11-13	846-860	representation	Appreciation[16]	neg[16]	_	_	
+11-14	861-864	for	_	_	_	_	
+11-15	865-869	each	_	_	_	_	
+11-16	870-875	state	_	_	_	_	
+11-17	875-876	,	_	_	_	_	
+11-18	877-880	but	_	_	_	_	
+11-19	881-883	it	_	_	_	_	
+11-20	884-886	is	_	_	_	_	
+11-21	887-890	now	_	_	_	_	
+11-22	891-901	completely	Appreciation[17]	neg[17]	Force	up	
+11-23	902-912	antiquated	Appreciation[17]	neg[17]	_	_	
+11-24	913-916	and	Appreciation[17]	neg[17]	_	_	
+11-25	917-928	detrimental	Appreciation[17]	neg[17]	_	_	
+11-26	929-931	to	_	_	_	_	
+11-27	932-939	America	_	_	_	_	
+11-28	939-940	.	_	_	_	_	
+
+#Text=In fact, I can think of a few constitutional amendments that need to be abolished \u2026starting with the 2nd amendment!!!
+12-1	941-943	In	_	_	_	_	
+12-2	944-948	fact	_	_	_	_	
+12-3	948-949	,	_	_	_	_	
+12-4	950-951	I	_	_	_	_	
+12-5	952-955	can	_	_	_	_	
+12-6	956-961	think	_	_	_	_	
+12-7	962-964	of	_	_	_	_	
+12-8	965-966	a	_	_	_	_	
+12-9	967-970	few	_	_	_	_	
+12-10	971-985	constitutional	_	_	_	_	
+12-11	986-996	amendments	_	_	_	_	
+12-12	997-1001	that	_	_	_	_	
+12-13	1002-1006	need	Appreciation[18]	pos[18]	_	_	
+12-14	1007-1009	to	Appreciation[18]	pos[18]	_	_	
+12-15	1010-1012	be	Appreciation[18]	pos[18]	_	_	
+12-16	1013-1022	abolished	Appreciation[18]	pos[18]	_	_	
+12-17	1023-1024	…	_	_	_	_	
+12-18	1024-1032	starting	_	_	_	_	
+12-19	1033-1037	with	_	_	_	_	
+12-20	1038-1041	the	_	_	_	_	
+12-21	1042-1045	2nd	_	_	_	_	
+12-22	1046-1055	amendment	_	_	_	_	
+12-23	1055-1056	!	_	_	_	_	
+12-24	1056-1057	!	_	_	_	_	
+12-25	1057-1058	!	_	_	_	_	
+
+#Text=(But, I digress)2) I somewhat agree with Herein when she writes, \u201CShe lost because she was a woman\u201D.
+13-1	1059-1060	(	_	_	_	_	
+13-2	1060-1063	But	_	_	_	_	
+13-3	1063-1064	,	_	_	_	_	
+13-4	1065-1066	I	_	_	_	_	
+13-5	1067-1074	digress	_	_	_	_	
+13-6	1074-1075	)	_	_	_	_	
+13-7	1075-1076	2	_	_	_	_	
+13-8	1076-1077	)	_	_	_	_	
+13-9	1078-1079	I	_	_	_	_	
+13-10	1080-1088	somewhat	Appreciation[19]	pos[19]	Force	down	
+13-11	1089-1094	agree	Appreciation[19]	pos[19]	_	_	
+13-12	1095-1099	with	_	_	_	_	
+13-13	1100-1106	Herein	_	_	_	_	
+13-14	1107-1111	when	_	_	_	_	
+13-15	1112-1115	she	_	_	_	_	
+13-16	1116-1122	writes	_	_	_	_	
+13-17	1122-1123	,	_	_	_	_	
+13-18	1124-1125	“	_	_	_	_	
+13-19	1125-1128	She	_	_	_	_	
+13-20	1129-1133	lost	_	_	_	_	
+13-21	1134-1141	because	_	_	_	_	
+13-22	1142-1145	she	_	_	_	_	
+13-23	1146-1149	was	_	_	_	_	
+13-24	1150-1151	a	_	_	_	_	
+13-25	1152-1157	woman	_	_	_	_	
+13-26	1157-1158	”	_	_	_	_	
+13-27	1158-1159	.	_	_	_	_	
+
+#Text=While I agree that it was one of the factors, I certainly did not vote for Hillary b/c she was a woman and I hope no one else did either!
+14-1	1160-1165	While	_	_	_	_	
+14-2	1166-1167	I	_	_	_	_	
+14-3	1168-1173	agree	Appreciation	pos	_	_	
+14-4	1174-1178	that	_	_	_	_	
+14-5	1179-1181	it	_	_	_	_	
+14-6	1182-1185	was	_	_	_	_	
+14-7	1186-1189	one	_	_	_	_	
+14-8	1190-1192	of	_	_	_	_	
+14-9	1193-1196	the	_	_	_	_	
+14-10	1197-1204	factors	_	_	_	_	
+14-11	1204-1205	,	_	_	_	_	
+14-12	1206-1207	I	_	_	_	_	
+14-13	1208-1217	certainly	_	_	_	_	
+14-14	1218-1221	did	_	_	_	_	
+14-15	1222-1225	not	_	_	_	_	
+14-16	1226-1230	vote	_	_	_	_	
+14-17	1231-1234	for	_	_	_	_	
+14-18	1235-1242	Hillary	_	_	_	_	
+14-19	1243-1244	b	_	_	_	_	
+14-20	1244-1245	/	_	_	_	_	
+14-21	1245-1246	c	_	_	_	_	
+14-22	1247-1250	she	_	_	_	_	
+14-23	1251-1254	was	_	_	_	_	
+14-24	1255-1256	a	_	_	_	_	
+14-25	1257-1262	woman	_	_	_	_	
+14-26	1263-1266	and	_	_	_	_	
+14-27	1267-1268	I	_	_	_	_	
+14-28	1269-1273	hope	_	_	_	_	
+14-29	1274-1276	no	_	_	_	_	
+14-30	1277-1280	one	_	_	_	_	
+14-31	1281-1285	else	_	_	_	_	
+14-32	1286-1289	did	_	_	_	_	
+14-33	1290-1296	either	_	_	_	_	
+14-34	1296-1297	!	_	_	_	_	
+
+#Text=I voted for Hillary b/c I have the utmost respect for her 30 years of public service, her balanced thoughtful approach to making decisions and b/c she is the most qualified candidate to have EVER run for the highest office in America!
+15-1	1298-1299	I	_	_	_	_	
+15-2	1300-1305	voted	_	_	_	_	
+15-3	1306-1309	for	_	_	_	_	
+15-4	1310-1317	Hillary	_	_	_	_	
+15-5	1318-1319	b	_	_	_	_	
+15-6	1319-1320	/	_	_	_	_	
+15-7	1320-1321	c	_	_	_	_	
+15-8	1322-1323	I	_	_	_	_	
+15-9	1324-1328	have	_	_	_	_	
+15-10	1329-1332	the	_	_	_	_	
+15-11	1333-1339	utmost	Judgment[21]	neg[21]	_	_	
+15-12	1340-1347	respect	Judgment[21]	neg[21]	_	_	
+15-13	1348-1351	for	_	_	_	_	
+15-14	1352-1355	her	_	_	_	_	
+15-15	1356-1358	30	_	_	_	_	
+15-16	1359-1364	years	_	_	_	_	
+15-17	1365-1367	of	_	_	_	_	
+15-18	1368-1374	public	_	_	_	_	
+15-19	1375-1382	service	_	_	_	_	
+15-20	1382-1383	,	_	_	_	_	
+15-21	1384-1387	her	_	_	_	_	
+15-22	1388-1396	balanced	Appreciation[22]	pos[22]	_	_	
+15-23	1397-1407	thoughtful	Appreciation[22]	pos[22]	_	_	
+15-24	1408-1416	approach	_	_	_	_	
+15-25	1417-1419	to	_	_	_	_	
+15-26	1420-1426	making	_	_	_	_	
+15-27	1427-1436	decisions	_	_	_	_	
+15-28	1437-1440	and	_	_	_	_	
+15-29	1441-1442	b	_	_	_	_	
+15-30	1442-1443	/	_	_	_	_	
+15-31	1443-1444	c	_	_	_	_	
+15-32	1445-1448	she	_	_	_	_	
+15-33	1449-1451	is	_	_	_	_	
+15-34	1452-1455	the	_	_	_	_	
+15-35	1456-1460	most	Judgment[23]	pos[23]	Force	up	
+15-36	1461-1470	qualified	Judgment[23]	pos[23]	_	_	
+15-37	1471-1480	candidate	_	_	_	_	
+15-38	1481-1483	to	_	_	_	_	
+15-39	1484-1488	have	_	_	_	_	
+15-40	1489-1493	EVER	_	_	_	_	
+15-41	1494-1497	run	_	_	_	_	
+15-42	1498-1501	for	_	_	_	_	
+15-43	1502-1505	the	_	_	_	_	
+15-44	1506-1513	highest	_	_	_	_	
+15-45	1514-1520	office	_	_	_	_	
+15-46	1521-1523	in	_	_	_	_	
+15-47	1524-1531	America	_	_	_	_	
+15-48	1531-1532	!	_	_	_	_	
+
+#Text=In fact, it frustrated me when Hillary kept referring to \u201Cthe glass ceiling\u201D.
+16-1	1533-1535	In	_	_	_	_	
+16-2	1536-1540	fact	_	_	_	_	
+16-3	1540-1541	,	_	_	_	_	
+16-4	1542-1544	it	_	_	_	_	
+16-5	1545-1555	frustrated	Affect	neg	_	_	
+16-6	1556-1558	me	_	_	_	_	
+16-7	1559-1563	when	_	_	_	_	
+16-8	1564-1571	Hillary	_	_	_	_	
+16-9	1572-1576	kept	_	_	_	_	
+16-10	1577-1586	referring	_	_	_	_	
+16-11	1587-1589	to	_	_	_	_	
+16-12	1590-1591	“	_	_	_	_	
+16-13	1591-1594	the	_	_	_	_	
+16-14	1595-1600	glass	_	_	_	_	
+16-15	1601-1608	ceiling	_	_	_	_	
+16-16	1608-1609	”	_	_	_	_	
+16-17	1609-1610	.	_	_	_	_	
+
+#Text=While I understand that it is not the case right now, every women should be judged on her merit alone\u2026.not the color of her pantsuit.
+17-1	1611-1616	While	_	_	_	_	
+17-2	1617-1618	I	_	_	_	_	
+17-3	1619-1629	understand	_	_	_	_	
+17-4	1630-1634	that	_	_	_	_	
+17-5	1635-1637	it	_	_	_	_	
+17-6	1638-1640	is	_	_	_	_	
+17-7	1641-1644	not	_	_	_	_	
+17-8	1645-1648	the	_	_	_	_	
+17-9	1649-1653	case	_	_	_	_	
+17-10	1654-1659	right	_	_	_	_	
+17-11	1660-1663	now	_	_	_	_	
+17-12	1663-1664	,	_	_	_	_	
+17-13	1665-1670	every	_	_	_	_	
+17-14	1671-1676	women	_	_	_	_	
+17-15	1677-1683	should	Appreciation[25]	pos[25]	_	_	
+17-16	1684-1686	be	Appreciation[25]	pos[25]	_	_	
+17-17	1687-1693	judged	Appreciation[25]	pos[25]	_	_	
+17-18	1694-1696	on	Appreciation[25]	pos[25]	_	_	
+17-19	1697-1700	her	Appreciation[25]	pos[25]	_	_	
+17-20	1701-1706	merit	Appreciation[25]	pos[25]	_	_	
+17-21	1707-1712	alone	Appreciation[25]	pos[25]	_	_	
+17-22	1712-1713	…	_	_	_	_	
+17-23	1713-1714	.	_	_	_	_	
+17-24	1714-1717	not	_	_	_	_	
+17-25	1718-1721	the	_	_	_	_	
+17-26	1722-1727	color	_	_	_	_	
+17-27	1728-1730	of	_	_	_	_	
+17-28	1731-1734	her	_	_	_	_	
+17-29	1735-1743	pantsuit	_	_	_	_	
+17-30	1743-1744	.	_	_	_	_	
+
+#Text=I am confident that within our lifetime we will be addressing a \u201CMadam President\u201D.
+18-1	1745-1746	I	_	_	_	_	
+18-2	1747-1749	am	_	_	_	_	
+18-3	1750-1759	confident	*	*	_	_	
+18-4	1760-1764	that	_	_	_	_	
+18-5	1765-1771	within	_	_	_	_	
+18-6	1772-1775	our	_	_	_	_	
+18-7	1776-1784	lifetime	_	_	_	_	
+18-8	1785-1787	we	_	_	_	_	
+18-9	1788-1792	will	_	_	_	_	
+18-10	1793-1795	be	_	_	_	_	
+18-11	1796-1806	addressing	_	_	_	_	
+18-12	1807-1808	a	_	_	_	_	
+18-13	1809-1810	“	_	_	_	_	
+18-14	1810-1815	Madam	_	_	_	_	
+18-15	1816-1825	President	_	_	_	_	
+18-16	1825-1826	”	_	_	_	_	
+18-17	1826-1827	.	_	_	_	_	
+
+#Text=Why?
+19-1	1828-1831	Why	_	_	_	_	
+19-2	1831-1832	?	_	_	_	_	
+
+#Text=...Because we are raising woman that BELIEVE they CAN be president.
+20-1	1833-1834	.	_	_	_	_	
+20-2	1834-1835	.	_	_	_	_	
+20-3	1835-1836	.	_	_	_	_	
+20-4	1836-1843	Because	_	_	_	_	
+20-5	1844-1846	we	_	_	_	_	
+20-6	1847-1850	are	_	_	_	_	
+20-7	1851-1858	raising	Judgment[27]	pos[27]	_	_	
+20-8	1859-1864	woman	Judgment[27]	pos[27]	_	_	
+20-9	1865-1869	that	Judgment[27]	pos[27]	_	_	
+20-10	1870-1877	BELIEVE	Judgment[27]	pos[27]	_	_	
+20-11	1878-1882	they	Judgment[27]	pos[27]	_	_	
+20-12	1883-1886	CAN	Judgment[27]	pos[27]	_	_	
+20-13	1887-1889	be	Judgment[27]	pos[27]	_	_	
+20-14	1890-1899	president	Judgment[27]	pos[27]	_	_	
+20-15	1899-1900	.	_	_	_	_	
+
+#Text=For that, (among so many other reasons), I am thankful to women like Hillary Clinton.
+21-1	1901-1904	For	_	_	_	_	
+21-2	1905-1909	that	_	_	_	_	
+21-3	1909-1910	,	_	_	_	_	
+21-4	1911-1912	(	_	_	_	_	
+21-5	1912-1917	among	_	_	_	_	
+21-6	1918-1920	so	_	_	_	_	
+21-7	1921-1925	many	_	_	_	_	
+21-8	1926-1931	other	_	_	_	_	
+21-9	1932-1939	reasons	_	_	_	_	
+21-10	1939-1940	)	_	_	_	_	
+21-11	1940-1941	,	_	_	_	_	
+21-12	1942-1943	I	_	_	_	_	
+21-13	1944-1946	am	_	_	_	_	
+21-14	1947-1955	thankful	Affect	pos	_	_	
+21-15	1956-1958	to	_	_	_	_	
+21-16	1959-1964	women	_	_	_	_	
+21-17	1965-1969	like	_	_	_	_	
+21-18	1970-1977	Hillary	_	_	_	_	
+21-19	1978-1985	Clinton	_	_	_	_	
+21-20	1985-1986	.	_	_	_	_	

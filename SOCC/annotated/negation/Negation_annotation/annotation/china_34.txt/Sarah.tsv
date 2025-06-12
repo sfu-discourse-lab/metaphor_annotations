@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I read this article over again and it's still not clear what the 'driving force' is behind 'Beijing's moves in the South China Sea'.
+1-1	0-1	I	_	
+1-2	2-6	read	_	
+1-3	7-11	this	_	
+1-4	12-19	article	_	
+1-5	20-24	over	_	
+1-6	25-30	again	_	
+1-7	31-34	and	_	
+1-8	35-39	it's	_	
+1-9	40-45	still	_	
+1-10	46-49	not	NEG	
+1-11	50-55	clear	SCOPE[2]	
+1-12	56-60	what	SCOPE[2]	
+1-13	61-64	the	SCOPE[2]	
+1-14	65-66	'	SCOPE[2]	
+1-15	66-73	driving	SCOPE[2]	
+1-16	74-79	force	SCOPE[2]	
+1-17	79-80	'	SCOPE[2]	
+1-18	81-83	is	SCOPE[2]	
+1-19	84-90	behind	SCOPE[2]	
+1-20	91-92	'	SCOPE[2]	
+1-21	92-101	Beijing's	SCOPE[2]|FOCUS[3]	
+1-22	102-107	moves	SCOPE[2]|FOCUS[3]	
+1-23	108-110	in	SCOPE[2]|FOCUS[3]	
+1-24	111-114	the	SCOPE[2]|FOCUS[3]	
+1-25	115-120	South	SCOPE[2]|FOCUS[3]	
+1-26	121-126	China	SCOPE[2]|FOCUS[3]	
+1-27	127-130	Sea	SCOPE[2]|FOCUS[3]	
+1-28	130-131	'	_	
+1-29	131-132	.	_	
+
+#Text=Would the Chinese still be doing the same thing if they actually trusted the U.S.?
+2-1	134-139	Would	_	
+2-2	140-143	the	_	
+2-3	144-151	Chinese	_	
+2-4	152-157	still	_	
+2-5	158-160	be	_	
+2-6	161-166	doing	_	
+2-7	167-170	the	_	
+2-8	171-175	same	_	
+2-9	176-181	thing	_	
+2-10	182-184	if	_	
+2-11	185-189	they	_	
+2-12	190-198	actually	_	
+2-13	199-206	trusted	_	
+2-14	207-210	the	_	
+2-15	211-214	U.S	_	
+2-16	214-215	.	_	
+2-17	215-216	?	_	
+
+#Text=Or are they motivated by seeing what the U.S. has done in the Middle East (and elsewhere) ?
+3-1	218-220	Or	_	
+3-2	221-224	are	_	
+3-3	225-229	they	_	
+3-4	230-239	motivated	_	
+3-5	240-242	by	_	
+3-6	243-249	seeing	_	
+3-7	250-254	what	_	
+3-8	255-258	the	_	
+3-9	259-262	U.S	_	
+3-10	262-263	.	_	
+3-11	264-267	has	_	
+3-12	268-272	done	_	
+3-13	273-275	in	_	
+3-14	276-279	the	_	
+3-15	280-286	Middle	_	
+3-16	287-291	East	_	
+3-17	292-293	(	_	
+3-18	293-296	and	_	
+3-19	297-306	elsewhere	_	
+3-20	306-307	)	_	
+3-21	308-309	?	_	

@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=\"union bosses\"?
+1-1	0-1	"	_	
+1-2	1-6	union	_	
+1-3	7-13	bosses	_	
+1-4	13-14	"	_	
+1-5	14-15	?	_	
+
+#Text=You mean democratically elected union leaders?
+2-1	16-19	You	_	
+2-2	20-24	mean	_	
+2-3	25-39	democratically	_	
+2-4	40-47	elected	_	
+2-5	48-53	union	_	
+2-6	54-61	leaders	_	
+2-7	61-62	?	_	
+
+#Text=The one who object to *their* bosses pretense that all economic activity is the result of a handfull of VERY IMPORTANT MEN?
+3-1	63-66	The	_	
+3-2	67-70	one	_	
+3-3	71-74	who	_	
+3-4	75-81	object	_	
+3-5	82-84	to	_	
+3-6	85-86	*	_	
+3-7	86-91	their	_	
+3-8	91-92	*	_	
+3-9	93-99	bosses	_	
+3-10	100-108	pretense	_	
+3-11	109-113	that	_	
+3-12	114-117	all	_	
+3-13	118-126	economic	_	
+3-14	127-135	activity	_	
+3-15	136-138	is	_	
+3-16	139-142	the	_	
+3-17	143-149	result	_	
+3-18	150-152	of	_	
+3-19	153-154	a	_	
+3-20	155-163	handfull	_	
+3-21	164-166	of	_	
+3-22	167-171	VERY	_	
+3-23	172-181	IMPORTANT	_	
+3-24	182-185	MEN	_	
+3-25	185-186	?	_	
+
+#Text=Who object to the bizarre notion that workers don't matter?
+4-1	187-190	Who	_	
+4-2	191-197	object	_	
+4-3	198-200	to	_	
+4-4	201-204	the	_	
+4-5	205-212	bizarre	_	
+4-6	213-219	notion	_	
+4-7	220-224	that	_	
+4-8	225-232	workers	_	
+4-9	233-238	don't	NEG	
+4-10	239-245	matter	SCOPE[2]|FOCUS[3]	
+4-11	245-246	?	_	

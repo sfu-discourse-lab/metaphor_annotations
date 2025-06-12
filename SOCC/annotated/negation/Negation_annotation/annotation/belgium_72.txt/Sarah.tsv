@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Plenty.
+1-1	0-6	Plenty	
+1-2	6-7	.	
+
+#Text=Ever been to Vancouver?
+2-1	8-12	Ever	
+2-2	13-17	been	
+2-3	18-20	to	
+2-4	21-30	Vancouver	
+2-5	30-31	?	
+
+#Text=There are condo boards that refuse to speak English to their homeowners in Vancouver.
+3-1	32-37	There	
+3-2	38-41	are	
+3-3	42-47	condo	
+3-4	48-54	boards	
+3-5	55-59	that	
+3-6	60-66	refuse	
+3-7	67-69	to	
+3-8	70-75	speak	
+3-9	76-83	English	
+3-10	84-86	to	
+3-11	87-92	their	
+3-12	93-103	homeowners	
+3-13	104-106	in	
+3-14	107-116	Vancouver	
+3-15	116-117	.	

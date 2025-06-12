@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=It should be no surprise to anyone anymore that Dear Leader will tell (and have others tell) whatever Lies are necessary for his own benefit.
+1-1	0-2	It	_	_	
+1-2	3-9	should	Judgment[1]	neg[1]	
+1-3	10-12	be	Judgment[1]	neg[1]	
+1-4	13-15	no	Judgment[1]	neg[1]	
+1-5	16-24	surprise	Judgment[1]	neg[1]	
+1-6	25-27	to	Judgment[1]	neg[1]	
+1-7	28-34	anyone	Judgment[1]	neg[1]	
+1-8	35-42	anymore	Judgment[1]	neg[1]	
+1-9	43-47	that	Judgment[1]	neg[1]	
+1-10	48-52	Dear	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-11	53-59	Leader	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-12	60-64	will	Judgment[1]	neg[1]	
+1-13	65-69	tell	Judgment[1]	neg[1]	
+1-14	70-71	(	Judgment[1]	neg[1]	
+1-15	71-74	and	Judgment[1]	neg[1]	
+1-16	75-79	have	Judgment[1]	neg[1]	
+1-17	80-86	others	Judgment[1]	neg[1]	
+1-18	87-91	tell	Judgment[1]	neg[1]	
+1-19	91-92	)	Judgment[1]	neg[1]	
+1-20	93-101	whatever	Judgment[1]	neg[1]	
+1-21	102-106	Lies	Judgment[1]|Appreciation[3]	neg[1]|neg[3]	
+1-22	107-110	are	Judgment[1]	neg[1]	
+1-23	111-120	necessary	Judgment[1]	neg[1]	
+1-24	121-124	for	Judgment[1]	neg[1]	
+1-25	125-128	his	Judgment[1]	neg[1]	
+1-26	129-132	own	Judgment[1]	neg[1]	
+1-27	133-140	benefit	Judgment[1]	neg[1]	
+1-28	140-141	.	_	_	

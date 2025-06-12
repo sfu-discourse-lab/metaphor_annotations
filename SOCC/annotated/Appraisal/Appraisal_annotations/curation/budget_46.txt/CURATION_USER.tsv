@@ -1,0 +1,208 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I was neither fooled or surprised, and in fact had been posting on these boards that just such a surplus would be announced for months now.
+1-1	0-1	I	_	_	_	_	
+1-2	2-5	was	_	_	_	_	
+1-3	6-13	neither	Judgment[1]	pos[1]	_	_	
+1-4	14-20	fooled	Judgment[1]	pos[1]	_	_	
+1-5	21-23	or	Judgment[1]	pos[1]	_	_	
+1-6	24-33	surprised	Judgment[1]	pos[1]	_	_	
+1-7	33-34	,	_	_	_	_	
+1-8	35-38	and	_	_	_	_	
+1-9	39-41	in	_	_	_	_	
+1-10	42-46	fact	_	_	_	_	
+1-11	47-50	had	Judgment[2]	pos[2]	_	_	
+1-12	51-55	been	Judgment[2]	pos[2]	_	_	
+1-13	56-63	posting	Judgment[2]	pos[2]	_	_	
+1-14	64-66	on	Judgment[2]	pos[2]	_	_	
+1-15	67-72	these	Judgment[2]	pos[2]	_	_	
+1-16	73-79	boards	Judgment[2]	pos[2]	_	_	
+1-17	80-84	that	Judgment[2]	pos[2]	_	_	
+1-18	85-89	just	Judgment[2]	pos[2]	_	_	
+1-19	90-94	such	Judgment[2]	pos[2]	_	_	
+1-20	95-96	a	Judgment[2]	pos[2]	_	_	
+1-21	97-104	surplus	Judgment[2]|Appreciation[3]	pos[2]|pos[3]	_	_	
+1-22	105-110	would	Judgment[2]	pos[2]	_	_	
+1-23	111-113	be	Judgment[2]	pos[2]	_	_	
+1-24	114-123	announced	Judgment[2]	pos[2]	_	_	
+1-25	124-127	for	Judgment[2]	pos[2]	Force[1]	up[1]	
+1-26	128-134	months	Judgment[2]	pos[2]	Force[1]	up[1]	
+1-27	135-138	now	Judgment[2]	pos[2]	_	_	
+1-28	138-139	.	_	_	_	_	
+
+#Text=That doesn't change the fact that we're moving in the right direction.
+2-1	140-144	That	_	_	_	_	
+2-2	145-152	doesn't	_	_	_	_	
+2-3	153-159	change	_	_	_	_	
+2-4	160-163	the	_	_	_	_	
+2-5	164-168	fact	_	_	_	_	
+2-6	169-173	that	_	_	_	_	
+2-7	174-179	we're	_	_	_	_	
+2-8	180-186	moving	Appreciation[4]	pos[4]	_	_	
+2-9	187-189	in	Appreciation[4]	pos[4]	_	_	
+2-10	190-193	the	Appreciation[4]	pos[4]	_	_	
+2-11	194-199	right	Appreciation[4]	pos[4]	_	_	
+2-12	200-209	direction	Appreciation[4]	pos[4]	_	_	
+2-13	209-210	.	_	_	_	_	
+
+#Text=A small surplus vs. a small deficit might be rather inconsequential from an economic perspective right now, but a small deficit today will turn into a BIG deficit in the not-too-distant future when the global economy weakens again.
+3-1	211-212	A	_	_	_	_	
+3-2	213-218	small	_	_	_	_	
+3-3	219-226	surplus	_	_	_	_	
+3-4	227-229	vs	_	_	_	_	
+3-5	229-230	.	_	_	_	_	
+3-6	231-232	a	_	_	_	_	
+3-7	233-238	small	_	_	_	_	
+3-8	239-246	deficit	_	_	_	_	
+3-9	247-252	might	_	_	_	_	
+3-10	253-255	be	_	_	_	_	
+3-11	256-262	rather	_	_	_	_	
+3-12	263-278	inconsequential	Appreciation	neu	_	_	
+3-13	279-283	from	_	_	_	_	
+3-14	284-286	an	_	_	_	_	
+3-15	287-295	economic	_	_	_	_	
+3-16	296-307	perspective	_	_	_	_	
+3-17	308-313	right	_	_	_	_	
+3-18	314-317	now	_	_	_	_	
+3-19	317-318	,	_	_	_	_	
+3-20	319-322	but	_	_	_	_	
+3-21	323-324	a	_	_	_	_	
+3-22	325-330	small	_	_	_	_	
+3-23	331-338	deficit	_	_	_	_	
+3-24	339-344	today	_	_	_	_	
+3-25	345-349	will	Appreciation[6]	neg[6]	_	_	
+3-26	350-354	turn	Appreciation[6]	neg[6]	_	_	
+3-27	355-359	into	Appreciation[6]	neg[6]	_	_	
+3-28	360-361	a	Appreciation[6]	neg[6]	_	_	
+3-29	362-365	BIG	Appreciation[6]|Appreciation[7]	neg[6]|neg[7]	_	_	
+3-30	366-373	deficit	Appreciation[6]|Appreciation[7]	neg[6]|neg[7]	_	_	
+3-31	374-376	in	Appreciation[6]	neg[6]	_	_	
+3-32	377-380	the	Appreciation[6]	neg[6]	_	_	
+3-33	381-396	not-too-distant	Appreciation[6]	neg[6]	_	_	
+3-34	397-403	future	Appreciation[6]	neg[6]	_	_	
+3-35	404-408	when	Appreciation[6]	neg[6]	_	_	
+3-36	409-412	the	Appreciation[6]	neg[6]	_	_	
+3-37	413-419	global	Appreciation[6]	neg[6]	_	_	
+3-38	420-427	economy	Appreciation[6]	neg[6]	_	_	
+3-39	428-435	weakens	Appreciation[6]|Appreciation[8]	neg[6]|neg[8]	_	_	
+3-40	436-441	again	Appreciation[6]	neg[6]	_	_	
+3-41	441-442	.	_	_	_	_	
+
+#Text=Going by historic economic cycles right now the world is near the peak of the current cycle, despite what some politicians might try to convince you of.
+4-1	443-448	Going	_	_	_	_	
+4-2	449-451	by	_	_	_	_	
+4-3	452-460	historic	_	_	_	_	
+4-4	461-469	economic	_	_	_	_	
+4-5	470-476	cycles	_	_	_	_	
+4-6	477-482	right	_	_	_	_	
+4-7	483-486	now	_	_	_	_	
+4-8	487-490	the	_	_	_	_	
+4-9	491-496	world	_	_	_	_	
+4-10	497-499	is	_	_	_	_	
+4-11	500-504	near	_	_	_	_	
+4-12	505-508	the	_	_	_	_	
+4-13	509-513	peak	_	_	_	_	
+4-14	514-516	of	_	_	_	_	
+4-15	517-520	the	_	_	_	_	
+4-16	521-528	current	_	_	_	_	
+4-17	529-534	cycle	_	_	_	_	
+4-18	534-535	,	_	_	_	_	
+4-19	536-543	despite	_	_	_	_	
+4-20	544-548	what	_	_	_	_	
+4-21	549-553	some	_	_	_	_	
+4-22	554-565	politicians	_	_	_	_	
+4-23	566-571	might	Judgment[9]	neg[9]	_	_	
+4-24	572-575	try	Judgment[9]	neg[9]	_	_	
+4-25	576-578	to	Judgment[9]	neg[9]	_	_	
+4-26	579-587	convince	Judgment[9]	neg[9]	_	_	
+4-27	588-591	you	Judgment[9]	neg[9]	_	_	
+4-28	592-594	of	Judgment[9]	neg[9]	_	_	
+4-29	594-595	.	_	_	_	_	
+
+#Text=That means that right now is the time to be paying down some nominal debt.
+5-1	596-600	That	_	_	_	_	
+5-2	601-606	means	_	_	_	_	
+5-3	607-611	that	_	_	_	_	
+5-4	612-617	right	Appreciation[10]	pos[10]	_	_	
+5-5	618-621	now	Appreciation[10]	pos[10]	_	_	
+5-6	622-624	is	Appreciation[10]	pos[10]	_	_	
+5-7	625-628	the	Appreciation[10]	pos[10]	_	_	
+5-8	629-633	time	Appreciation[10]	pos[10]	_	_	
+5-9	634-636	to	Appreciation[10]	pos[10]	_	_	
+5-10	637-639	be	Appreciation[10]	pos[10]	_	_	
+5-11	640-646	paying	Appreciation[10]	pos[10]	_	_	
+5-12	647-651	down	Appreciation[10]	pos[10]	_	_	
+5-13	652-656	some	Appreciation[10]	pos[10]	_	_	
+5-14	657-664	nominal	Appreciation[10]	pos[10]	_	_	
+5-15	665-669	debt	Appreciation[10]	pos[10]	_	_	
+5-16	669-670	.	_	_	_	_	
+
+#Text=The 'good times', such as they are, aren't going to last.
+6-1	671-674	The	_	_	_	_	
+6-2	675-676	'	_	_	_	_	
+6-3	676-680	good	Appreciation[11]	neg[11]	_	_	
+6-4	681-686	times	Appreciation[11]	neg[11]	_	_	
+6-5	686-687	'	_	_	_	_	
+6-6	687-688	,	_	_	_	_	
+6-7	689-693	such	_	_	_	_	
+6-8	694-696	as	_	_	_	_	
+6-9	697-701	they	_	_	_	_	
+6-10	702-705	are	_	_	_	_	
+6-11	705-706	,	_	_	_	_	
+6-12	707-713	aren't	Appreciation[12]	neg[12]	_	_	
+6-13	714-719	going	Appreciation[12]	neg[12]	_	_	
+6-14	720-722	to	Appreciation[12]	neg[12]	_	_	
+6-15	723-727	last	Appreciation[12]	neg[12]	_	_	
+6-16	727-728	.	_	_	_	_	
+
+#Text=Globally the economy is likely to weaken again in probably about 2 or 3 years time.
+7-1	729-737	Globally	_	_	_	_	
+7-2	738-741	the	_	_	_	_	
+7-3	742-749	economy	_	_	_	_	
+7-4	750-752	is	_	_	_	_	
+7-5	753-759	likely	Appreciation[13]	neg[13]	_	_	
+7-6	760-762	to	Appreciation[13]	neg[13]	_	_	
+7-7	763-769	weaken	Appreciation[13]	neg[13]	_	_	
+7-8	770-775	again	_	_	_	_	
+7-9	776-778	in	_	_	_	_	
+7-10	779-787	probably	_	_	_	_	
+7-11	788-793	about	_	_	_	_	
+7-12	794-795	2	_	_	_	_	
+7-13	796-798	or	_	_	_	_	
+7-14	799-800	3	_	_	_	_	
+7-15	801-806	years	_	_	_	_	
+7-16	807-811	time	_	_	_	_	
+7-17	811-812	.	_	_	_	_	
+
+#Text=When that happens deficits will become inevitable, but at least if we've been paying down some debt we'll be in good shape to weather the storm.
+8-1	813-817	When	_	_	_	_	
+8-2	818-822	that	_	_	_	_	
+8-3	823-830	happens	_	_	_	_	
+8-4	831-839	deficits	_	_	_	_	
+8-5	840-844	will	_	_	_	_	
+8-6	845-851	become	_	_	_	_	
+8-7	852-862	inevitable	Appreciation	neg	_	_	
+8-8	862-863	,	_	_	_	_	
+8-9	864-867	but	_	_	_	_	
+8-10	868-870	at	_	_	_	_	
+8-11	871-876	least	_	_	_	_	
+8-12	877-879	if	Appreciation[15]	pos[15]	_	_	
+8-13	880-885	we've	Appreciation[15]	pos[15]	_	_	
+8-14	886-890	been	Appreciation[15]	pos[15]	_	_	
+8-15	891-897	paying	Appreciation[15]	pos[15]	_	_	
+8-16	898-902	down	Appreciation[15]	pos[15]	_	_	
+8-17	903-907	some	Appreciation[15]	pos[15]	_	_	
+8-18	908-912	debt	Appreciation[15]	pos[15]	_	_	
+8-19	913-918	we'll	Appreciation[15]	pos[15]	_	_	
+8-20	919-921	be	Appreciation[15]	pos[15]	_	_	
+8-21	922-924	in	Appreciation[15]	pos[15]	_	_	
+8-22	925-929	good	Appreciation[15]	pos[15]	_	_	
+8-23	930-935	shape	Appreciation[15]	pos[15]	_	_	
+8-24	936-938	to	_	_	_	_	
+8-25	939-946	weather	_	_	_	_	
+8-26	947-950	the	_	_	_	_	
+8-27	951-956	storm	Appreciation	neg	_	_	
+8-28	956-957	.	_	_	_	_	

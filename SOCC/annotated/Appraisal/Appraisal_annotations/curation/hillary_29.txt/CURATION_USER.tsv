@@ -1,0 +1,167 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Hilary did not lose because she was a woman.
+1-1	0-6	Hilary	_	_	_	_	
+1-2	7-10	did	_	_	_	_	
+1-3	11-14	not	Appreciation[1]	neg[1]	_	_	
+1-4	15-19	lose	Appreciation[1]	neg[1]	_	_	
+1-5	20-27	because	Appreciation[1]	neg[1]	_	_	
+1-6	28-31	she	Appreciation[1]	neg[1]	_	_	
+1-7	32-35	was	Appreciation[1]	neg[1]	_	_	
+1-8	36-37	a	Appreciation[1]	neg[1]	_	_	
+1-9	38-43	woman	Appreciation[1]	neg[1]	_	_	
+1-10	43-44	.	_	_	_	_	
+
+#Text=She lost because the US had their version of an Arab Spring.
+2-1	45-48	She	_	_	_	_	
+2-2	49-53	lost	_	_	_	_	
+2-3	54-61	because	_	_	_	_	
+2-4	62-65	the	_	_	_	_	
+2-5	66-68	US	_	_	_	_	
+2-6	69-72	had	Appreciation[2]	neg[2]	_	_	
+2-7	73-78	their	Appreciation[2]	neg[2]	_	_	
+2-8	79-86	version	Appreciation[2]	neg[2]	_	_	
+2-9	87-89	of	Appreciation[2]	neg[2]	_	_	
+2-10	90-92	an	Appreciation[2]	neg[2]	_	_	
+2-11	93-97	Arab	Appreciation[2]	neg[2]	_	_	
+2-12	98-104	Spring	Appreciation[2]	neg[2]	_	_	
+2-13	104-105	.	_	_	_	_	
+
+#Text=A restless electorate wanted an outsider.
+3-1	106-107	A	_	_	_	_	
+3-2	108-116	restless	Affect	neg	_	_	
+3-3	117-127	electorate	_	_	_	_	
+3-4	128-134	wanted	_	_	_	_	
+3-5	135-137	an	_	_	_	_	
+3-6	138-146	outsider	Judgment	pos	_	_	
+3-7	146-147	.	_	_	_	_	
+
+#Text=It is unfortunate that Trump was the one to tap into that movement.
+4-1	148-150	It	_	_	_	_	
+4-2	151-153	is	_	_	_	_	
+4-3	154-165	unfortunate	Affect	neg	_	_	
+4-4	166-170	that	_	_	_	_	
+4-5	171-176	Trump	_	_	_	_	
+4-6	177-180	was	_	_	_	_	
+4-7	181-184	the	_	_	_	_	
+4-8	185-188	one	_	_	_	_	
+4-9	189-191	to	_	_	_	_	
+4-10	192-195	tap	_	_	_	_	
+4-11	196-200	into	_	_	_	_	
+4-12	201-205	that	_	_	_	_	
+4-13	206-214	movement	_	_	_	_	
+4-14	214-215	.	_	_	_	_	
+
+#Text=Bernie nearly defeated Hilary by calling for a revolution.
+5-1	216-222	Bernie	_	_	_	_	
+5-2	223-229	nearly	Appreciation[6]	pos[6]	Focus	down	
+5-3	230-238	defeated	Appreciation[6]	pos[6]	_	_	
+5-4	239-245	Hilary	Appreciation[6]	pos[6]	_	_	
+5-5	246-248	by	Appreciation[6]	pos[6]	_	_	
+5-6	249-256	calling	_	_	_	_	
+5-7	257-260	for	_	_	_	_	
+5-8	261-262	a	_	_	_	_	
+5-9	263-273	revolution	_	_	_	_	
+5-10	273-274	.	_	_	_	_	
+
+#Text=Meanwhile Hilary was the typical establishment candidate who had become wealthy through pay to play.
+6-1	275-284	Meanwhile	_	_	_	_	
+6-2	285-291	Hilary	_	_	_	_	
+6-3	292-295	was	_	_	_	_	
+6-4	296-299	the	_	_	_	_	
+6-5	300-307	typical	Judgment[7]	neg[7]	_	_	
+6-6	308-321	establishment	Judgment[7]	neg[7]	_	_	
+6-7	322-331	candidate	Judgment[7]	neg[7]	_	_	
+6-8	332-335	who	_	_	_	_	
+6-9	336-339	had	_	_	_	_	
+6-10	340-346	become	_	_	_	_	
+6-11	347-354	wealthy	Judgment[8]	neg[8]	_	_	
+6-12	355-362	through	Judgment[8]	neg[8]	_	_	
+6-13	363-366	pay	Judgment[8]	neg[8]	_	_	
+6-14	367-369	to	Judgment[8]	neg[8]	_	_	
+6-15	370-374	play	Judgment[8]	neg[8]	_	_	
+6-16	374-375	.	_	_	_	_	
+
+#Text=Hilary and her spokespersons certainly played the woman card often enough but Hilary's enthusiastic response to Madeline Allbright's declaration of a special place in hell for women who would not vote for women was a mistake.
+7-1	376-382	Hilary	_	_	_	_	
+7-2	383-386	and	_	_	_	_	
+7-3	387-390	her	_	_	_	_	
+7-4	391-404	spokespersons	_	_	_	_	
+7-5	405-414	certainly	Judgment[9]	neg[9]	Focus	up	
+7-6	415-421	played	Judgment[9]	neg[9]	_	_	
+7-7	422-425	the	Judgment[9]	neg[9]	_	_	
+7-8	426-431	woman	Judgment[9]	neg[9]	_	_	
+7-9	432-436	card	Judgment[9]	neg[9]	_	_	
+7-10	437-442	often	Judgment[9]	neg[9]	Force[3]	up[3]	
+7-11	443-449	enough	Judgment[9]	neg[9]	Force[3]	up[3]	
+7-12	450-453	but	_	_	_	_	
+7-13	454-462	Hilary's	_	_	_	_	
+7-14	463-475	enthusiastic	Affect	pos	_	_	
+7-15	476-484	response	_	_	_	_	
+7-16	485-487	to	_	_	_	_	
+7-17	488-496	Madeline	_	_	_	_	
+7-18	497-508	Allbright's	_	_	_	_	
+7-19	509-520	declaration	_	_	_	_	
+7-20	521-523	of	_	_	_	_	
+7-21	524-525	a	_	_	_	_	
+7-22	526-533	special	Appreciation[11]	neg[11]	_	_	
+7-23	534-539	place	Appreciation[11]	neg[11]	_	_	
+7-24	540-542	in	Appreciation[11]	neg[11]	_	_	
+7-25	543-547	hell	Appreciation[11]	neg[11]	_	_	
+7-26	548-551	for	_	_	_	_	
+7-27	552-557	women	_	_	_	_	
+7-28	558-561	who	_	_	_	_	
+7-29	562-567	would	_	_	_	_	
+7-30	568-571	not	_	_	_	_	
+7-31	572-576	vote	_	_	_	_	
+7-32	577-580	for	_	_	_	_	
+7-33	581-586	women	_	_	_	_	
+7-34	587-590	was	_	_	_	_	
+7-35	591-592	a	_	_	_	_	
+7-36	593-600	mistake	Appreciation	neg	_	_	
+7-37	600-601	.	_	_	_	_	
+
+#Text=That backfired with younger women who see themselves as able to compete on merit alone.
+8-1	602-606	That	_	_	_	_	
+8-2	607-616	backfired	Appreciation	neg	_	_	
+8-3	617-621	with	_	_	_	_	
+8-4	622-629	younger	_	_	_	_	
+8-5	630-635	women	_	_	_	_	
+8-6	636-639	who	_	_	_	_	
+8-7	640-643	see	_	_	_	_	
+8-8	644-654	themselves	_	_	_	_	
+8-9	655-657	as	_	_	_	_	
+8-10	658-662	able	Judgment[14]	neg[14]	_	_	
+8-11	663-665	to	Judgment[14]	neg[14]	_	_	
+8-12	666-673	compete	Judgment[14]	neg[14]	_	_	
+8-13	674-676	on	Judgment[14]	neg[14]	_	_	
+8-14	677-682	merit	Judgment[14]	neg[14]	_	_	
+8-15	683-688	alone	Judgment[14]	neg[14]	_	_	
+8-16	688-689	.	_	_	_	_	
+
+#Text=In the end Hilary probably got as many votes because she was a woman as she lost for the same reason.
+9-1	690-692	In	_	_	_	_	
+9-2	693-696	the	_	_	_	_	
+9-3	697-700	end	_	_	_	_	
+9-4	701-707	Hilary	_	_	_	_	
+9-5	708-716	probably	Appreciation[15]	neu[15]	_	_	
+9-6	717-720	got	Appreciation[15]	neu[15]	_	_	
+9-7	721-723	as	Appreciation[15]	neu[15]	_	_	
+9-8	724-728	many	Appreciation[15]	neu[15]	_	_	
+9-9	729-734	votes	Appreciation[15]	neu[15]	_	_	
+9-10	735-742	because	Appreciation[15]	neu[15]	_	_	
+9-11	743-746	she	Appreciation[15]	neu[15]	_	_	
+9-12	747-750	was	Appreciation[15]	neu[15]	_	_	
+9-13	751-752	a	Appreciation[15]	neu[15]	_	_	
+9-14	753-758	woman	Appreciation[15]	neu[15]	_	_	
+9-15	759-761	as	Appreciation[15]	neu[15]	_	_	
+9-16	762-765	she	Appreciation[15]	neu[15]	_	_	
+9-17	766-770	lost	Appreciation[15]	neu[15]	_	_	
+9-18	771-774	for	Appreciation[15]	neu[15]	_	_	
+9-19	775-778	the	Appreciation[15]	neu[15]	_	_	
+9-20	779-783	same	Appreciation[15]	neu[15]	_	_	
+9-21	784-790	reason	Appreciation[15]	neu[15]	_	_	
+9-22	790-791	.	_	_	_	_	

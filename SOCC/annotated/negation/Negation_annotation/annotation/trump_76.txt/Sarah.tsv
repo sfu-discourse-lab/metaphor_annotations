@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=THis editorial misses the whole point.
+1-1	0-4	THis	_	
+1-2	5-14	editorial	_	
+1-3	15-21	misses	_	
+1-4	22-25	the	_	
+1-5	26-31	whole	_	
+1-6	32-37	point	_	
+1-7	37-38	.	_	
+
+#Text=Trump's victory is a repudiation of everything Obama and socialism represent because it simply doesn't work.
+2-1	39-46	Trump's	_	
+2-2	47-54	victory	_	
+2-3	55-57	is	_	
+2-4	58-59	a	_	
+2-5	60-71	repudiation	_	
+2-6	72-74	of	_	
+2-7	75-85	everything	_	
+2-8	86-91	Obama	_	
+2-9	92-95	and	_	
+2-10	96-105	socialism	_	
+2-11	106-115	represent	_	
+2-12	116-123	because	_	
+2-13	124-126	it	_	
+2-14	127-133	simply	_	
+2-15	134-141	doesn't	NEG	
+2-16	142-146	work	SCOPE[2]|FOCUS[3]	
+2-17	146-147	.	_	

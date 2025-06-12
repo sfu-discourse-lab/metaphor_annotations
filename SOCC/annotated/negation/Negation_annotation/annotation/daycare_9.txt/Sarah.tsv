@@ -1,0 +1,197 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=It's easy to complain about the cost of a government program, but that cost must be measured against its benefits.
+1-1	0-4	It's	_	
+1-2	5-9	easy	_	
+1-3	10-12	to	_	
+1-4	13-21	complain	_	
+1-5	22-27	about	_	
+1-6	28-31	the	_	
+1-7	32-36	cost	_	
+1-8	37-39	of	_	
+1-9	40-41	a	_	
+1-10	42-52	government	_	
+1-11	53-60	program	_	
+1-12	60-61	,	_	
+1-13	62-65	but	_	
+1-14	66-70	that	_	
+1-15	71-75	cost	_	
+1-16	76-80	must	_	
+1-17	81-83	be	_	
+1-18	84-92	measured	_	
+1-19	93-100	against	_	
+1-20	101-104	its	_	
+1-21	105-113	benefits	_	
+1-22	113-114	.	_	
+
+#Text=Fighter planes and ships are expensive too, but we know we need them.
+2-1	115-122	Fighter	_	
+2-2	123-129	planes	_	
+2-3	130-133	and	_	
+2-4	134-139	ships	_	
+2-5	140-143	are	_	
+2-6	144-153	expensive	_	
+2-7	154-157	too	_	
+2-8	157-158	,	_	
+2-9	159-162	but	_	
+2-10	163-165	we	_	
+2-11	166-170	know	_	
+2-12	171-173	we	_	
+2-13	174-178	need	_	
+2-14	179-183	them	_	
+2-15	183-184	.	_	
+
+#Text=Let's get the best benefit for the expenditures.Government programs aren't wrong.
+3-1	185-190	Let's	_	
+3-2	191-194	get	_	
+3-3	195-198	the	_	
+3-4	199-203	best	_	
+3-5	204-211	benefit	_	
+3-6	212-215	for	_	
+3-7	216-219	the	_	
+3-8	220-243	expenditures.Government	_	
+3-9	244-252	programs	_	
+3-10	253-259	aren't	NEG	
+3-11	260-265	wrong	SCOPE[2]|FOCUS[3]	
+3-12	265-266	.	_	
+
+#Text=All governments tax and spend. it's what they spend the tax money on and how we all benefit that are at issue.I think many Canadians have seen their taxes spent without getting enough benefit from them.
+4-1	267-270	All	_	
+4-2	271-282	governments	_	
+4-3	283-286	tax	_	
+4-4	287-290	and	_	
+4-5	291-296	spend	_	
+4-6	296-297	.	_	
+4-7	298-302	it's	_	
+4-8	303-307	what	_	
+4-9	308-312	they	_	
+4-10	313-318	spend	_	
+4-11	319-322	the	_	
+4-12	323-326	tax	_	
+4-13	327-332	money	_	
+4-14	333-335	on	_	
+4-15	336-339	and	_	
+4-16	340-343	how	_	
+4-17	344-346	we	_	
+4-18	347-350	all	_	
+4-19	351-358	benefit	_	
+4-20	359-363	that	_	
+4-21	364-367	are	_	
+4-22	368-370	at	_	
+4-23	371-378	issue.I	_	
+4-24	379-384	think	_	
+4-25	385-389	many	_	
+4-26	390-399	Canadians	_	
+4-27	400-404	have	_	
+4-28	405-409	seen	_	
+4-29	410-415	their	_	
+4-30	416-421	taxes	_	
+4-31	422-427	spent	_	
+4-32	428-435	without	NEG	
+4-33	436-443	getting	SCOPE[5]	
+4-34	444-450	enough	SCOPE[5]|FOCUS[6]	
+4-35	451-458	benefit	SCOPE[5]	
+4-36	459-463	from	SCOPE[5]	
+4-37	464-468	them	SCOPE[5]	
+4-38	468-469	.	_	
+
+#Text=They want their hard lives to get easier, not harder, and they want Canada to progress too.We've heard enough focus on macro-economic things like 'the economy', 'the stock market', and 'debt-to-income ratios'.
+5-1	470-474	They	_	
+5-2	475-479	want	_	
+5-3	480-485	their	_	
+5-4	486-490	hard	_	
+5-5	491-496	lives	_	
+5-6	497-499	to	_	
+5-7	500-503	get	_	
+5-8	504-510	easier	_	
+5-9	510-511	,	_	
+5-10	512-515	not	NEG	
+5-11	516-522	harder	SCOPE[8]|FOCUS[9]	
+5-12	522-523	,	_	
+5-13	524-527	and	_	
+5-14	528-532	they	_	
+5-15	533-537	want	_	
+5-16	538-544	Canada	_	
+5-17	545-547	to	_	
+5-18	548-556	progress	_	
+5-19	557-566	too.We've	_	
+5-20	567-572	heard	_	
+5-21	573-579	enough	_	
+5-22	580-585	focus	_	
+5-23	586-588	on	_	
+5-24	589-603	macro-economic	_	
+5-25	604-610	things	_	
+5-26	611-615	like	_	
+5-27	616-617	'	_	
+5-28	617-620	the	_	
+5-29	621-628	economy	_	
+5-30	628-629	'	_	
+5-31	629-630	,	_	
+5-32	631-632	'	_	
+5-33	632-635	the	_	
+5-34	636-641	stock	_	
+5-35	642-648	market	_	
+5-36	648-649	'	_	
+5-37	649-650	,	_	
+5-38	651-654	and	_	
+5-39	655-656	'	_	
+5-40	656-670	debt-to-income	_	
+5-41	671-677	ratios	_	
+5-42	677-678	'	_	
+5-43	678-679	.	_	
+
+#Text=These things matter only to people who have more money than they can spend.
+6-1	680-685	These	_	
+6-2	686-692	things	_	
+6-3	693-699	matter	_	
+6-4	700-704	only	_	
+6-5	705-707	to	_	
+6-6	708-714	people	_	
+6-7	715-718	who	_	
+6-8	719-723	have	_	
+6-9	724-728	more	_	
+6-10	729-734	money	_	
+6-11	735-739	than	_	
+6-12	740-744	they	_	
+6-13	745-748	can	_	
+6-14	749-754	spend	_	
+6-15	754-755	.	_	
+
+#Text=It's micro-economic things like 'How do I feed my kids?'
+7-1	756-760	It's	_	
+7-2	761-775	micro-economic	_	
+7-3	776-782	things	_	
+7-4	783-787	like	_	
+7-5	788-789	'	_	
+7-6	789-792	How	_	
+7-7	793-795	do	_	
+7-8	796-797	I	_	
+7-9	798-802	feed	_	
+7-10	803-805	my	_	
+7-11	806-810	kids	_	
+7-12	810-811	?	_	
+7-13	811-812	'	_	
+
+#Text=, and 'How do I pay my mortgage?'
+8-1	812-813	,	_	
+8-2	814-817	and	_	
+8-3	818-819	'	_	
+8-4	819-822	How	_	
+8-5	823-825	do	_	
+8-6	826-827	I	_	
+8-7	828-831	pay	_	
+8-8	832-834	my	_	
+8-9	835-843	mortgage	_	
+8-10	843-844	?	_	
+8-11	844-845	'	_	
+
+#Text=that most matter to most Canadians.
+9-1	846-850	that	_	
+9-2	851-855	most	_	
+9-3	856-862	matter	_	
+9-4	863-865	to	_	
+9-5	866-870	most	_	
+9-6	871-880	Canadians	_	
+9-7	880-881	.	_	

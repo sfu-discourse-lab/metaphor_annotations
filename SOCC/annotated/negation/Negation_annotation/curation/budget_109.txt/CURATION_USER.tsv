@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Those in the know understood that Prime Minister Stephen Harper had instructed his finance minister, Jim Flaherty, to present a budget in February, 2014, that would make it look as if fiscal 2014-15 would end in a deficit of $2.9-billion.
+1-1	0-5	Those	
+1-2	6-8	in	
+1-3	9-12	the	
+1-4	13-17	know	
+1-5	18-28	understood	
+1-6	29-33	that	
+1-7	34-39	Prime	
+1-8	40-48	Minister	
+1-9	49-56	Stephen	
+1-10	57-63	Harper	
+1-11	64-67	had	
+1-12	68-78	instructed	
+1-13	79-82	his	
+1-14	83-90	finance	
+1-15	91-99	minister	
+1-16	99-100	,	
+1-17	101-104	Jim	
+1-18	105-113	Flaherty	
+1-19	113-114	,	
+1-20	115-117	to	
+1-21	118-125	present	
+1-22	126-127	a	
+1-23	128-134	budget	
+1-24	135-137	in	
+1-25	138-146	February	
+1-26	146-147	,	
+1-27	148-152	2014	
+1-28	152-153	,	
+1-29	154-158	that	
+1-30	159-164	would	
+1-31	165-169	make	
+1-32	170-172	it	
+1-33	173-177	look	
+1-34	178-180	as	
+1-35	181-183	if	
+1-36	184-190	fiscal	
+1-37	191-195	2014	
+1-38	195-196	-	
+1-39	196-198	15	
+1-40	199-204	would	
+1-41	205-208	end	
+1-42	209-211	in	
+1-43	212-213	a	
+1-44	214-221	deficit	
+1-45	222-224	of	
+1-46	225-229	$2.9	
+1-47	229-230	-	
+1-48	230-237	billion	
+1-49	237-238	.	
+
+#Text='Just who are those in the know?
+2-1	239-240	'	
+2-2	240-244	Just	
+2-3	245-248	who	
+2-4	249-252	are	
+2-5	253-258	those	
+2-6	259-261	in	
+2-7	262-265	the	
+2-8	266-270	know	
+2-9	270-271	?	
+
+#Text=What an outrageous unsupported statement.
+3-1	272-276	What	
+3-2	277-279	an	
+3-3	280-290	outrageous	
+3-4	291-302	unsupported	
+3-5	303-312	statement	
+3-6	312-313	.	
+
+#Text='Those in the know'??!!
+4-1	314-315	'	
+4-2	315-320	Those	
+4-3	321-323	in	
+4-4	324-327	the	
+4-5	328-332	know	
+4-6	332-333	'	
+4-7	333-334	?	
+4-8	334-335	?	
+4-9	335-336	!	
+4-10	336-337	!	
+
+#Text=What crap journalism.
+5-1	338-342	What	
+5-2	343-347	crap	
+5-3	348-358	journalism	
+5-4	358-359	.	
+
+#Text=Only a fool would turn this economy over to socialists like Justin or Mulcair
+6-1	360-364	Only	
+6-2	365-366	a	
+6-3	367-371	fool	
+6-4	372-377	would	
+6-5	378-382	turn	
+6-6	383-387	this	
+6-7	388-395	economy	
+6-8	396-400	over	
+6-9	401-403	to	
+6-10	404-414	socialists	
+6-11	415-419	like	
+6-12	420-426	Justin	
+6-13	427-429	or	
+6-14	430-437	Mulcair	

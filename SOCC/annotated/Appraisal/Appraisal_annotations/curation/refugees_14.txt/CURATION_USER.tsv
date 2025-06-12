@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Attempting to resettle millions of refugees in the West was never a feasible option.
+1-1	0-10	Attempting	_	_	_	_	
+1-2	11-13	to	_	_	_	_	
+1-3	14-22	resettle	_	_	_	_	
+1-4	23-31	millions	_	_	_	_	
+1-5	32-34	of	_	_	_	_	
+1-6	35-43	refugees	_	_	_	_	
+1-7	44-46	in	_	_	_	_	
+1-8	47-50	the	_	_	_	_	
+1-9	51-55	West	_	_	_	_	
+1-10	56-59	was	_	_	_	_	
+1-11	60-65	never	Appreciation[1]	neg[1]	Force	up	
+1-12	66-67	a	Appreciation[1]	neg[1]	_	_	
+1-13	68-76	feasible	Appreciation[1]	neg[1]	_	_	
+1-14	77-83	option	_	_	_	_	
+1-15	83-84	.	_	_	_	_	
+
+#Text=Putting an end to the chaos in failed states like Syria is the only viable policy and we know how our current government gutted that effort.
+2-1	85-92	Putting	_	_	_	_	
+2-2	93-95	an	_	_	_	_	
+2-3	96-99	end	Appreciation[2]	neg[2]	_	_	
+2-4	100-102	to	Appreciation[2]	neg[2]	_	_	
+2-5	103-106	the	Appreciation[2]	neg[2]	_	_	
+2-6	107-112	chaos	Appreciation[2]	neg[2]	_	_	
+2-7	113-115	in	_	_	_	_	
+2-8	116-122	failed	_	_	_	_	
+2-9	123-129	states	_	_	_	_	
+2-10	130-134	like	_	_	_	_	
+2-11	135-140	Syria	_	_	_	_	
+2-12	141-143	is	_	_	_	_	
+2-13	144-147	the	_	_	_	_	
+2-14	148-152	only	Appreciation[3]	pos[3]	_	_	
+2-15	153-159	viable	Appreciation[3]	pos[3]	_	_	
+2-16	160-166	policy	_	_	_	_	
+2-17	167-170	and	_	_	_	_	
+2-18	171-173	we	_	_	_	_	
+2-19	174-178	know	_	_	_	_	
+2-20	179-182	how	_	_	_	_	
+2-21	183-186	our	_	_	_	_	
+2-22	187-194	current	_	_	_	_	
+2-23	195-205	government	_	_	_	_	
+2-24	206-212	gutted	Judgment	neg	_	_	
+2-25	213-217	that	_	_	_	_	
+2-26	218-224	effort	_	_	_	_	
+2-27	224-225	.	_	_	_	_	
+
+#Text=The writer's guilt fest is misdirected.
+3-1	226-229	The	_	_	_	_	
+3-2	230-238	writer's	_	_	_	_	
+3-3	239-244	guilt	Appreciation[5]	neg[5]	_	_	
+3-4	245-249	fest	Appreciation[5]	neg[5]	_	_	
+3-5	250-252	is	_	_	_	_	
+3-6	253-264	misdirected	Judgment	neg	_	_	
+3-7	264-265	.	_	_	_	_	

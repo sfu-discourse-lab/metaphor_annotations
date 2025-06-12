@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The left-wing city council will always vote to protect the entrenched cartel system.
+1-1	0-3	The	_	_	
+1-2	4-13	left-wing	_	_	
+1-3	14-18	city	_	_	
+1-4	19-26	council	_	_	
+1-5	27-31	will	_	_	
+1-6	32-38	always	Judgment[1]	neg[1]	
+1-7	39-43	vote	Judgment[1]	neg[1]	
+1-8	44-46	to	Judgment[1]	neg[1]	
+1-9	47-54	protect	Judgment[1]	neg[1]	
+1-10	55-58	the	Judgment[1]	neg[1]	
+1-11	59-69	entrenched	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	
+1-12	70-76	cartel	Judgment[1]	neg[1]	
+1-13	77-83	system	Judgment[1]	neg[1]	
+1-14	83-84	.	_	_	
+
+#Text=They are generally against the Conservative ideas of free market/technology etc which is what Uber is basically doing....I'm sure at the turn of the 20th century some of these left-wing city councilors would demand the car be outlawed if they thought it would protect the horse and buggie industry.
+2-1	85-89	They	_	_	
+2-2	90-93	are	_	_	
+2-3	94-103	generally	Judgment[3]	neg[3]	
+2-4	104-111	against	Judgment[3]	neg[3]	
+2-5	112-115	the	Judgment[3]	neg[3]	
+2-6	116-128	Conservative	Judgment[3]	neg[3]	
+2-7	129-134	ideas	Judgment[3]	neg[3]	
+2-8	135-137	of	Judgment[3]	neg[3]	
+2-9	138-142	free	Judgment[3]	neg[3]	
+2-10	143-149	market	Judgment[3]	neg[3]	
+2-11	149-150	/	Judgment[3]	neg[3]	
+2-12	150-160	technology	Judgment[3]	neg[3]	
+2-13	161-164	etc	_	_	
+2-14	165-170	which	_	_	
+2-15	171-173	is	_	_	
+2-16	174-178	what	_	_	
+2-17	179-183	Uber	_	_	
+2-18	184-186	is	_	_	
+2-19	187-196	basically	_	_	
+2-20	197-202	doing	_	_	
+2-21	202-203	.	_	_	
+2-22	203-204	.	_	_	
+2-23	204-205	.	_	_	
+2-24	205-206	.	_	_	
+2-25	206-209	I'm	_	_	
+2-26	210-214	sure	_	_	
+2-27	215-217	at	_	_	
+2-28	218-221	the	_	_	
+2-29	222-226	turn	_	_	
+2-30	227-229	of	_	_	
+2-31	230-233	the	_	_	
+2-32	234-238	20th	_	_	
+2-33	239-246	century	_	_	
+2-34	247-251	some	_	_	
+2-35	252-254	of	_	_	
+2-36	255-260	these	_	_	
+2-37	261-270	left-wing	Judgment	neg	
+2-38	271-275	city	_	_	
+2-39	276-286	councilors	_	_	
+2-40	287-292	would	Judgment[5]	neg[5]	
+2-41	293-299	demand	Judgment[5]	neg[5]	
+2-42	300-303	the	Judgment[5]	neg[5]	
+2-43	304-307	car	Judgment[5]	neg[5]	
+2-44	308-310	be	Judgment[5]	neg[5]	
+2-45	311-319	outlawed	Judgment[5]	neg[5]	
+2-46	320-322	if	Judgment[5]	neg[5]	
+2-47	323-327	they	Judgment[5]	neg[5]	
+2-48	328-335	thought	Judgment[5]	neg[5]	
+2-49	336-338	it	Judgment[5]	neg[5]	
+2-50	339-344	would	Judgment[5]	neg[5]	
+2-51	345-352	protect	Judgment[5]	neg[5]	
+2-52	353-356	the	Judgment[5]	neg[5]	
+2-53	357-362	horse	Judgment[5]	neg[5]	
+2-54	363-366	and	Judgment[5]	neg[5]	
+2-55	367-373	buggie	Judgment[5]	neg[5]	
+2-56	374-382	industry	Judgment[5]	neg[5]	
+2-57	382-383	.	_	_	

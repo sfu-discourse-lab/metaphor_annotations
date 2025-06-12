@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=You are right - the point being that we do not develop our God given resources, we like the quick profit, so we sell them.
+1-1	0-3	You	_	
+1-2	4-7	are	_	
+1-3	8-13	right	_	
+1-4	14-15	-	_	
+1-5	16-19	the	_	
+1-6	20-25	point	_	
+1-7	26-31	being	_	
+1-8	32-36	that	_	
+1-9	37-39	we	_	
+1-10	40-42	do	_	
+1-11	43-46	not	NEG	
+1-12	47-54	develop	SCOPE[2]	
+1-13	55-58	our	SCOPE[2]|FOCUS[3]	
+1-14	59-62	God	SCOPE[2]|FOCUS[3]	
+1-15	63-68	given	SCOPE[2]|FOCUS[3]	
+1-16	69-78	resources	SCOPE[2]|FOCUS[3]	
+1-17	78-79	,	_	
+1-18	80-82	we	_	
+1-19	83-87	like	_	
+1-20	88-91	the	_	
+1-21	92-97	quick	_	
+1-22	98-104	profit	_	
+1-23	104-105	,	_	
+1-24	106-108	so	_	
+1-25	109-111	we	_	
+1-26	112-116	sell	_	
+1-27	117-121	them	_	
+1-28	121-122	.	_	
+
+#Text=So we sold Inco, world's largest nickel producer, sold Alcan, sold Falconbridge, sold Nexen and a hole list of oil and gas companies - we are good at selling the farms, not the produce. and nobody has facilitated that more than Mr.
+2-1	123-125	So	_	
+2-2	126-128	we	_	
+2-3	129-133	sold	_	
+2-4	134-138	Inco	_	
+2-5	138-139	,	_	
+2-6	140-147	world's	_	
+2-7	148-155	largest	_	
+2-8	156-162	nickel	_	
+2-9	163-171	producer	_	
+2-10	171-172	,	_	
+2-11	173-177	sold	_	
+2-12	178-183	Alcan	_	
+2-13	183-184	,	_	
+2-14	185-189	sold	_	
+2-15	190-202	Falconbridge	_	
+2-16	202-203	,	_	
+2-17	204-208	sold	_	
+2-18	209-214	Nexen	_	
+2-19	215-218	and	_	
+2-20	219-220	a	_	
+2-21	221-225	hole	_	
+2-22	226-230	list	_	
+2-23	231-233	of	_	
+2-24	234-237	oil	_	
+2-25	238-241	and	_	
+2-26	242-245	gas	_	
+2-27	246-255	companies	_	
+2-28	256-257	-	_	
+2-29	258-260	we	_	
+2-30	261-264	are	_	
+2-31	265-269	good	_	
+2-32	270-272	at	_	
+2-33	273-280	selling	_	
+2-34	281-284	the	_	
+2-35	285-290	farms	_	
+2-36	290-291	,	_	
+2-37	292-295	not	NEG	
+2-38	296-299	the	SCOPE[5]|FOCUS[6]	
+2-39	300-307	produce	SCOPE[5]|FOCUS[6]	
+2-40	307-308	.	_	
+2-41	309-312	and	_	
+2-42	313-319	nobody	NEG	
+2-43	320-323	has	SCOPE[8]	
+2-44	324-335	facilitated	SCOPE[8]	
+2-45	336-340	that	SCOPE[8]	
+2-46	341-345	more	SCOPE[8]	
+2-47	346-350	than	SCOPE[8]	
+2-48	351-353	Mr	SCOPE[8]|FOCUS[9]	
+2-49	353-354	.	SCOPE[8]|FOCUS[9]	
+
+#Text=Harper.
+3-1	355-361	Harper	SCOPE[8]|FOCUS[9]	
+3-2	361-362	.	SCOPE[8]|FOCUS[9]	
+
+#Text=So how do you develop your God given resources when when you sell them as soon as there are willing buyers!
+4-1	363-365	So	_	
+4-2	366-369	how	_	
+4-3	370-372	do	_	
+4-4	373-376	you	_	
+4-5	377-384	develop	_	
+4-6	385-389	your	_	
+4-7	390-393	God	_	
+4-8	394-399	given	_	
+4-9	400-409	resources	_	
+4-10	410-414	when	_	
+4-11	415-419	when	_	
+4-12	420-423	you	_	
+4-13	424-428	sell	_	
+4-14	429-433	them	_	
+4-15	434-436	as	_	
+4-16	437-441	soon	_	
+4-17	442-444	as	_	
+4-18	445-450	there	_	
+4-19	451-454	are	_	
+4-20	455-462	willing	_	
+4-21	463-469	buyers	_	
+4-22	469-470	!	_	
+
+#Text=You do not seem to like democracy which has proven over and over again that it is essential for widespread wealth creation.
+5-1	471-474	You	_	
+5-2	475-477	do	_	
+5-3	478-481	not	NEG	
+5-4	482-486	seem	SCOPE[11]	
+5-5	487-489	to	SCOPE[11]	
+5-6	490-494	like	SCOPE[11]	
+5-7	495-504	democracy	SCOPE[11]|FOCUS[12]	
+5-8	505-510	which	_	
+5-9	511-514	has	_	
+5-10	515-521	proven	_	
+5-11	522-526	over	_	
+5-12	527-530	and	_	
+5-13	531-535	over	_	
+5-14	536-541	again	_	
+5-15	542-546	that	_	
+5-16	547-549	it	_	
+5-17	550-552	is	_	
+5-18	553-562	essential	_	
+5-19	563-566	for	_	
+5-20	567-577	widespread	_	
+5-21	578-584	wealth	_	
+5-22	585-593	creation	_	
+5-23	593-594	.	_	

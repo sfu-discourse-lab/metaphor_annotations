@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Innovation is the critical component to improving our lives, whether for basic information technology or health and well being.
+1-1	0-10	Innovation	Appreciation	pos	
+1-2	11-13	is	_	_	
+1-3	14-17	the	_	_	
+1-4	18-26	critical	Appreciation	pos	
+1-5	27-36	component	_	_	
+1-6	37-39	to	_	_	
+1-7	40-49	improving	Appreciation	pos	
+1-8	50-53	our	_	_	
+1-9	54-59	lives	_	_	
+1-10	59-60	,	_	_	
+1-11	61-68	whether	_	_	
+1-12	69-72	for	_	_	
+1-13	73-78	basic	_	_	
+1-14	79-90	information	_	_	
+1-15	91-101	technology	_	_	
+1-16	102-104	or	_	_	
+1-17	105-111	health	Appreciation[4]	pos[4]	
+1-18	112-115	and	Appreciation[4]	pos[4]	
+1-19	116-120	well	Appreciation[4]	pos[4]	
+1-20	121-126	being	Appreciation[4]	pos[4]	
+1-21	126-127	.	_	_	
+
+#Text=Canada is almost trailing the industrial world in the use of electronic health records and our joy of waging war on drug companies keeps us in the last quartile of pharmaceutical innovation because we can't afford the cost of risk, research and development.
+2-1	128-134	Canada	_	_	
+2-2	135-137	is	_	_	
+2-3	138-144	almost	Appreciation[5]	neg[5]	
+2-4	145-153	trailing	Appreciation[5]	neg[5]	
+2-5	154-157	the	_	_	
+2-6	158-168	industrial	_	_	
+2-7	169-174	world	_	_	
+2-8	175-177	in	_	_	
+2-9	178-181	the	_	_	
+2-10	182-185	use	_	_	
+2-11	186-188	of	_	_	
+2-12	189-199	electronic	_	_	
+2-13	200-206	health	_	_	
+2-14	207-214	records	_	_	
+2-15	215-218	and	_	_	
+2-16	219-222	our	_	_	
+2-17	223-226	joy	Judgment	neg	
+2-18	227-229	of	_	_	
+2-19	230-236	waging	Judgment[7]	neg[7]	
+2-20	237-240	war	Judgment[7]	neg[7]	
+2-21	241-243	on	_	_	
+2-22	244-248	drug	_	_	
+2-23	249-258	companies	_	_	
+2-24	259-264	keeps	_	_	
+2-25	265-267	us	_	_	
+2-26	268-270	in	_	_	
+2-27	271-274	the	_	_	
+2-28	275-279	last	Appreciation[8]	neg[8]	
+2-29	280-288	quartile	Appreciation[8]	neg[8]	
+2-30	289-291	of	Appreciation[8]	neg[8]	
+2-31	292-306	pharmaceutical	Appreciation[8]	neg[8]	
+2-32	307-317	innovation	Appreciation[8]|Appreciation[9]	neg[8]|pos[9]	
+2-33	318-325	because	_	_	
+2-34	326-328	we	_	_	
+2-35	329-334	can't	Appreciation[10]	neg[10]	
+2-36	335-341	afford	Appreciation[10]	neg[10]	
+2-37	342-345	the	Appreciation[10]	neg[10]	
+2-38	346-350	cost	Appreciation[10]	neg[10]	
+2-39	351-353	of	Appreciation[10]	neg[10]	
+2-40	354-358	risk	Appreciation[10]|Appreciation[11]	neg[10]|neg[11]	
+2-41	358-359	,	Appreciation[10]	neg[10]	
+2-42	360-368	research	Appreciation[10]	neg[10]	
+2-43	369-372	and	Appreciation[10]	neg[10]	
+2-44	373-384	development	Appreciation[10]	neg[10]	
+2-45	384-385	.	_	_	
+
+#Text=It appears we enjoy adopting some technology at a fast pace but we assume the barrier to other technologies, primarily controlled by government, are not as important.
+3-1	386-388	It	_	_	
+3-2	389-396	appears	_	_	
+3-3	397-399	we	_	_	
+3-4	400-405	enjoy	Judgment[12]	pos[12]	
+3-5	406-414	adopting	Judgment[12]	pos[12]	
+3-6	415-419	some	Judgment[12]	pos[12]	
+3-7	420-430	technology	Judgment[12]	pos[12]	
+3-8	431-433	at	Judgment[12]	pos[12]	
+3-9	434-435	a	Judgment[12]	pos[12]	
+3-10	436-440	fast	Judgment[12]	pos[12]	
+3-11	441-445	pace	Judgment[12]	pos[12]	
+3-12	446-449	but	_	_	
+3-13	450-452	we	_	_	
+3-14	453-459	assume	Judgment[13]	neg[13]	
+3-15	460-463	the	Judgment[13]	neg[13]	
+3-16	464-471	barrier	Judgment[13]|Appreciation[14]	neg[13]|neg[14]	
+3-17	472-474	to	Judgment[13]	neg[13]	
+3-18	475-480	other	Judgment[13]	neg[13]	
+3-19	481-493	technologies	Judgment[13]	neg[13]	
+3-20	493-494	,	Judgment[13]	neg[13]	
+3-21	495-504	primarily	Judgment[13]	neg[13]	
+3-22	505-515	controlled	Judgment[13]	neg[13]	
+3-23	516-518	by	Judgment[13]	neg[13]	
+3-24	519-529	government	Judgment[13]	neg[13]	
+3-25	529-530	,	Judgment[13]	neg[13]	
+3-26	531-534	are	Judgment[13]	neg[13]	
+3-27	535-538	not	Judgment[13]	neg[13]	
+3-28	539-541	as	Judgment[13]	neg[13]	
+3-29	542-551	important	Judgment[13]	neg[13]	
+3-30	551-552	.	_	_	

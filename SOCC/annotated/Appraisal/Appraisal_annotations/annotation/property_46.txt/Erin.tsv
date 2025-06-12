@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=In my opinion this is not a head tax.
+1-1	0-2	In	_	_	
+1-2	3-5	my	_	_	
+1-3	6-13	opinion	_	_	
+1-4	14-18	this	_	_	
+1-5	19-21	is	_	_	
+1-6	22-25	not	_	_	
+1-7	26-27	a	_	_	
+1-8	28-32	head	_	_	
+1-9	33-36	tax	_	_	
+1-10	36-37	.	_	_	
+
+#Text=But yes there is a head tax alright.
+2-1	38-41	But	_	_	
+2-2	42-45	yes	_	_	
+2-3	46-51	there	_	_	
+2-4	52-54	is	_	_	
+2-5	55-56	a	_	_	
+2-6	57-61	head	_	_	
+2-7	62-65	tax	_	_	
+2-8	66-73	alright	_	_	
+2-9	73-74	.	_	_	
+
+#Text=It is I believe $ 5 Million cash you have to put up for investment for a few years to get a permit for living in canada.
+3-1	75-77	It	_	_	
+3-2	78-80	is	_	_	
+3-3	81-82	I	_	_	
+3-4	83-90	believe	_	_	
+3-5	91-92	$	_	_	
+3-6	93-94	5	_	_	
+3-7	95-102	Million	_	_	
+3-8	103-107	cash	_	_	
+3-9	108-111	you	_	_	
+3-10	112-116	have	_	_	
+3-11	117-119	to	_	_	
+3-12	120-123	put	Appreciation[1]	neg[1]	
+3-13	124-126	up	Appreciation[1]	neg[1]	
+3-14	127-130	for	Appreciation[1]	neg[1]	
+3-15	131-141	investment	Appreciation[1]	neg[1]	
+3-16	142-145	for	Appreciation[1]	neg[1]	
+3-17	146-147	a	Appreciation[1]	neg[1]	
+3-18	148-151	few	Appreciation[1]	neg[1]	
+3-19	152-157	years	Appreciation[1]	neg[1]	
+3-20	158-160	to	Appreciation[1]	neg[1]	
+3-21	161-164	get	Appreciation[1]	neg[1]	
+3-22	165-166	a	Appreciation[1]	neg[1]	
+3-23	167-173	permit	Appreciation[1]	neg[1]	
+3-24	174-177	for	Appreciation[1]	neg[1]	
+3-25	178-184	living	Appreciation[1]	neg[1]	
+3-26	185-187	in	Appreciation[1]	neg[1]	
+3-27	188-194	canada	Appreciation[1]	neg[1]	
+3-28	194-195	.	_	_	
+
+#Text=You could call this really a head tax for wealthy people only.
+4-1	196-199	You	_	_	
+4-2	200-205	could	Appreciation[2]	neg[2]	
+4-3	206-210	call	Appreciation[2]	neg[2]	
+4-4	211-215	this	Appreciation[2]	neg[2]	
+4-5	216-222	really	Appreciation[2]	neg[2]	
+4-6	223-224	a	Appreciation[2]	neg[2]	
+4-7	225-229	head	Appreciation[2]	neg[2]	
+4-8	230-233	tax	Appreciation[2]	neg[2]	
+4-9	234-237	for	Appreciation[2]	neg[2]	
+4-10	238-245	wealthy	Appreciation[2]	neg[2]	
+4-11	246-252	people	Appreciation[2]	neg[2]	
+4-12	253-257	only	_	_	
+4-13	257-258	.	_	_	

@@ -1,0 +1,143 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=For a history professor who purportedly is an expert in this area, he missed some Canadian history.
+1-1	0-3	For	Judgment[1]	neg[1]	_	_	
+1-2	4-5	a	Judgment[1]	neg[1]	_	_	
+1-3	6-13	history	Judgment[1]	neg[1]	_	_	
+1-4	14-23	professor	Judgment[1]	neg[1]	_	_	
+1-5	24-27	who	Judgment[1]	neg[1]	_	_	
+1-6	28-39	purportedly	Judgment[1]	neg[1]	_	_	
+1-7	40-42	is	Judgment[1]	neg[1]	_	_	
+1-8	43-45	an	Judgment[1]	neg[1]	_	_	
+1-9	46-52	expert	Judgment[1]	neg[1]	_	_	
+1-10	53-55	in	Judgment[1]	neg[1]	_	_	
+1-11	56-60	this	Judgment[1]	neg[1]	_	_	
+1-12	61-65	area	Judgment[1]	neg[1]	_	_	
+1-13	65-66	,	Judgment[1]	neg[1]	_	_	
+1-14	67-69	he	Judgment[1]	neg[1]	_	_	
+1-15	70-76	missed	Judgment[1]	neg[1]	_	_	
+1-16	77-81	some	Judgment[1]	neg[1]	_	_	
+1-17	82-90	Canadian	Judgment[1]	neg[1]	_	_	
+1-18	91-98	history	Judgment[1]	neg[1]	_	_	
+1-19	98-99	.	_	_	_	_	
+
+#Text=One of the key reasons private property is not a Charter Right is because provinces in the 1980s were worried about foreign, at that time, American and Germans buying up shorelines and farmland, locking out local populations.
+2-1	100-103	One	_	_	_	_	
+2-2	104-106	of	_	_	_	_	
+2-3	107-110	the	_	_	_	_	
+2-4	111-114	key	_	_	_	_	
+2-5	115-122	reasons	_	_	_	_	
+2-6	123-130	private	_	_	_	_	
+2-7	131-139	property	_	_	_	_	
+2-8	140-142	is	_	_	_	_	
+2-9	143-146	not	_	_	_	_	
+2-10	147-148	a	_	_	_	_	
+2-11	149-156	Charter	_	_	_	_	
+2-12	157-162	Right	_	_	_	_	
+2-13	163-165	is	_	_	_	_	
+2-14	166-173	because	_	_	_	_	
+2-15	174-183	provinces	_	_	_	_	
+2-16	184-186	in	_	_	_	_	
+2-17	187-190	the	_	_	_	_	
+2-18	191-196	1980s	_	_	_	_	
+2-19	197-201	were	_	_	_	_	
+2-20	202-209	worried	Affect	neg	_	_	
+2-21	210-215	about	_	_	_	_	
+2-22	216-223	foreign	_	_	_	_	
+2-23	223-224	,	_	_	_	_	
+2-24	225-227	at	_	_	_	_	
+2-25	228-232	that	_	_	_	_	
+2-26	233-237	time	_	_	_	_	
+2-27	237-238	,	_	_	_	_	
+2-28	239-247	American	_	_	_	_	
+2-29	248-251	and	_	_	_	_	
+2-30	252-259	Germans	_	_	_	_	
+2-31	260-266	buying	_	_	_	_	
+2-32	267-269	up	_	_	_	_	
+2-33	270-280	shorelines	_	_	_	_	
+2-34	281-284	and	_	_	_	_	
+2-35	285-293	farmland	_	_	_	_	
+2-36	293-294	,	_	_	_	_	
+2-37	295-302	locking	Judgment[3]	neg[3]	_	_	
+2-38	303-306	out	Judgment[3]	neg[3]	_	_	
+2-39	307-312	local	Judgment[3]	neg[3]	_	_	
+2-40	313-324	populations	Judgment[3]	neg[3]	_	_	
+2-41	324-325	.	_	_	_	_	
+
+#Text=They wanted to have the right to impose a tax to curb foreign buyers.
+3-1	326-330	They	_	_	_	_	
+3-2	331-337	wanted	_	_	_	_	
+3-3	338-340	to	_	_	_	_	
+3-4	341-345	have	_	_	_	_	
+3-5	346-349	the	_	_	_	_	
+3-6	350-355	right	_	_	_	_	
+3-7	356-358	to	_	_	_	_	
+3-8	359-365	impose	_	_	_	_	
+3-9	366-367	a	_	_	_	_	
+3-10	368-371	tax	_	_	_	_	
+3-11	372-374	to	_	_	_	_	
+3-12	375-379	curb	Appreciation	pos	_	_	
+3-13	380-387	foreign	_	_	_	_	
+3-14	388-394	buyers	_	_	_	_	
+3-15	394-395	.	_	_	_	_	
+
+#Text=Ontario, PEI and a few others implemented a tax to curb outside buyers from purchasing property in their respective provinces.
+4-1	396-403	Ontario	_	_	_	_	
+4-2	403-404	,	_	_	_	_	
+4-3	405-408	PEI	_	_	_	_	
+4-4	409-412	and	_	_	_	_	
+4-5	413-414	a	_	_	_	_	
+4-6	415-418	few	_	_	_	_	
+4-7	419-425	others	_	_	_	_	
+4-8	426-437	implemented	_	_	_	_	
+4-9	438-439	a	_	_	_	_	
+4-10	440-443	tax	_	_	_	_	
+4-11	444-446	to	_	_	_	_	
+4-12	447-451	curb	Appreciation	pos	_	_	
+4-13	452-459	outside	_	_	_	_	
+4-14	460-466	buyers	_	_	_	_	
+4-15	467-471	from	_	_	_	_	
+4-16	472-482	purchasing	_	_	_	_	
+4-17	483-491	property	_	_	_	_	
+4-18	492-494	in	_	_	_	_	
+4-19	495-500	their	_	_	_	_	
+4-20	501-511	respective	_	_	_	_	
+4-21	512-521	provinces	_	_	_	_	
+4-22	521-522	.	_	_	_	_	
+
+#Text=The BC tax is nothing new and, if history is any guide, will only last a for a few years until the market cools and prices start dropping dramatically.
+5-1	523-526	The	_	_	_	_	
+5-2	527-529	BC	_	_	_	_	
+5-3	530-533	tax	_	_	_	_	
+5-4	534-536	is	_	_	_	_	
+5-5	537-544	nothing	Appreciation[6]	neu[6]	_	_	
+5-6	545-548	new	Appreciation[6]	neu[6]	_	_	
+5-7	549-552	and	_	_	_	_	
+5-8	552-553	,	_	_	_	_	
+5-9	554-556	if	Appreciation[7]	pos[7]	_	_	
+5-10	557-564	history	Appreciation[7]	pos[7]	_	_	
+5-11	565-567	is	Appreciation[7]	pos[7]	_	_	
+5-12	568-571	any	Appreciation[7]	pos[7]	_	_	
+5-13	572-577	guide	Appreciation[7]	pos[7]	_	_	
+5-14	577-578	,	Appreciation[7]	pos[7]	_	_	
+5-15	579-583	will	Appreciation[7]	pos[7]	_	_	
+5-16	584-588	only	Appreciation[7]	pos[7]	_	_	
+5-17	589-593	last	Appreciation[7]	pos[7]	_	_	
+5-18	594-595	a	Appreciation[7]	pos[7]	_	_	
+5-19	596-599	for	Appreciation[7]	pos[7]	_	_	
+5-20	600-601	a	Appreciation[7]	pos[7]	_	_	
+5-21	602-605	few	Appreciation[7]	pos[7]	_	_	
+5-22	606-611	years	Appreciation[7]	pos[7]	_	_	
+5-23	612-617	until	_	_	_	_	
+5-24	618-621	the	_	_	_	_	
+5-25	622-628	market	Appreciation[8]	pos[8]	_	_	
+5-26	629-634	cools	Appreciation[8]	pos[8]	_	_	
+5-27	635-638	and	Appreciation[8]	pos[8]	_	_	
+5-28	639-645	prices	Appreciation[8]	pos[8]	_	_	
+5-29	646-651	start	Appreciation[8]	pos[8]	_	_	
+5-30	652-660	dropping	Appreciation[8]	pos[8]	_	_	
+5-31	661-673	dramatically	Appreciation[8]	pos[8]	Force	up	
+5-32	673-674	.	_	_	_	_	

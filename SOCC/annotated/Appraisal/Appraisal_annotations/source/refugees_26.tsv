@@ -1,0 +1,308 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I can't help but notice that the writer of this article has an Arabic name.
+1-1	0-1	I	_	_	
+1-2	2-7	can't	_	_	
+1-3	8-12	help	_	_	
+1-4	13-16	but	_	_	
+1-5	17-23	notice	_	_	
+1-6	24-28	that	_	_	
+1-7	29-32	the	_	_	
+1-8	33-39	writer	_	_	
+1-9	40-42	of	_	_	
+1-10	43-47	this	_	_	
+1-11	48-55	article	_	_	
+1-12	56-59	has	Judgment[1]	neg[1]	
+1-13	60-62	an	Judgment[1]	neg[1]	
+1-14	63-69	Arabic	Judgment[1]	neg[1]	
+1-15	70-74	name	Judgment[1]	neg[1]	
+1-16	74-75	.	_	_	
+
+#Text=She is a part time professor of Arabic politics.
+2-1	76-79	She	_	_	
+2-2	80-82	is	_	_	
+2-3	83-84	a	_	_	
+2-4	85-89	part	_	_	
+2-5	90-94	time	_	_	
+2-6	95-104	professor	Judgment[2]	neg[2]	
+2-7	105-107	of	Judgment[2]	neg[2]	
+2-8	108-114	Arabic	Judgment[2]	neg[2]	
+2-9	115-123	politics	_	_	
+2-10	123-124	.	_	_	
+
+#Text=This should not however prevent her from trying to understand the dilemmas of the West to handle this massive influx of refugees from a conflict between rivalling ideologies in Syria primarily.
+3-1	125-129	This	_	_	
+3-2	130-136	should	Judgment[3]	neg[3]	
+3-3	137-140	not	Judgment[3]	neg[3]	
+3-4	141-148	however	Judgment[3]	neg[3]	
+3-5	149-156	prevent	Judgment[3]	neg[3]	
+3-6	157-160	her	Judgment[3]	neg[3]	
+3-7	161-165	from	Judgment[3]	neg[3]	
+3-8	166-172	trying	Judgment[3]	neg[3]	
+3-9	173-175	to	Judgment[3]	neg[3]	
+3-10	176-186	understand	Judgment[3]	neg[3]	
+3-11	187-190	the	Judgment[3]	neg[3]	
+3-12	191-199	dilemmas	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	
+3-13	200-202	of	_	_	
+3-14	203-206	the	_	_	
+3-15	207-211	West	_	_	
+3-16	212-214	to	_	_	
+3-17	215-221	handle	_	_	
+3-18	222-226	this	_	_	
+3-19	227-234	massive	Appreciation[5]	neg[5]	
+3-20	235-241	influx	Appreciation[5]	neg[5]	
+3-21	242-244	of	_	_	
+3-22	245-253	refugees	_	_	
+3-23	254-258	from	_	_	
+3-24	259-260	a	_	_	
+3-25	261-269	conflict	Appreciation	neg	
+3-26	270-277	between	_	_	
+3-27	278-287	rivalling	_	_	
+3-28	288-298	ideologies	_	_	
+3-29	299-301	in	_	_	
+3-30	302-307	Syria	_	_	
+3-31	308-317	primarily	_	_	
+3-32	317-318	.	_	_	
+
+#Text=Sweden, Germany, all or Europe and Canada as well are living through difficult economic times since 2007.
+4-1	319-325	Sweden	_	_	
+4-2	325-326	,	_	_	
+4-3	327-334	Germany	_	_	
+4-4	334-335	,	_	_	
+4-5	336-339	all	_	_	
+4-6	340-342	or	_	_	
+4-7	343-349	Europe	_	_	
+4-8	350-353	and	_	_	
+4-9	354-360	Canada	_	_	
+4-10	361-363	as	_	_	
+4-11	364-368	well	_	_	
+4-12	369-372	are	_	_	
+4-13	373-379	living	_	_	
+4-14	380-387	through	_	_	
+4-15	388-397	difficult	Appreciation	neg	
+4-16	398-406	economic	_	_	
+4-17	407-412	times	_	_	
+4-18	413-418	since	_	_	
+4-19	419-423	2007	_	_	
+4-20	423-424	.	_	_	
+
+#Text=The situation for domestic populations in those countries aren't perfect either.
+5-1	425-428	The	_	_	
+5-2	429-438	situation	_	_	
+5-3	439-442	for	_	_	
+5-4	443-451	domestic	_	_	
+5-5	452-463	populations	_	_	
+5-6	464-466	in	_	_	
+5-7	467-472	those	_	_	
+5-8	473-482	countries	_	_	
+5-9	483-489	aren't	Appreciation[8]	neg[8]	
+5-10	490-497	perfect	Appreciation[8]	neg[8]	
+5-11	498-504	either	_	_	
+5-12	504-505	.	_	_	
+
+#Text=Few born and bred Europeans have easy access to higher education, housing, social support, subsidized daycare spots.
+6-1	506-509	Few	_	_	
+6-2	510-514	born	_	_	
+6-3	515-518	and	_	_	
+6-4	519-523	bred	_	_	
+6-5	524-533	Europeans	_	_	
+6-6	534-538	have	_	_	
+6-7	539-543	easy	Appreciation[9]	neg[9]	
+6-8	544-550	access	Appreciation[9]	neg[9]	
+6-9	551-553	to	_	_	
+6-10	554-560	higher	_	_	
+6-11	561-570	education	_	_	
+6-12	570-571	,	_	_	
+6-13	572-579	housing	_	_	
+6-14	579-580	,	_	_	
+6-15	581-587	social	_	_	
+6-16	588-595	support	_	_	
+6-17	595-596	,	_	_	
+6-18	597-607	subsidized	_	_	
+6-19	608-615	daycare	_	_	
+6-20	616-621	spots	_	_	
+6-21	621-622	.	_	_	
+
+#Text=Those things have never been just served up ona silver platter even for those who have paid very high taxes all their lives.
+7-1	623-628	Those	_	_	
+7-2	629-635	things	_	_	
+7-3	636-640	have	_	_	
+7-4	641-646	never	Appreciation[10]	neg[10]	
+7-5	647-651	been	Appreciation[10]	neg[10]	
+7-6	652-656	just	Appreciation[10]	neg[10]	
+7-7	657-663	served	Appreciation[10]	neg[10]	
+7-8	664-666	up	Appreciation[10]	neg[10]	
+7-9	667-670	ona	Appreciation[10]	neg[10]	
+7-10	671-677	silver	Appreciation[10]	neg[10]	
+7-11	678-685	platter	Appreciation[10]	neg[10]	
+7-12	686-690	even	_	_	
+7-13	691-694	for	_	_	
+7-14	695-700	those	_	_	
+7-15	701-704	who	_	_	
+7-16	705-709	have	_	_	
+7-17	710-714	paid	_	_	
+7-18	715-719	very	_	_	
+7-19	720-724	high	_	_	
+7-20	725-730	taxes	_	_	
+7-21	731-734	all	_	_	
+7-22	735-740	their	_	_	
+7-23	741-746	lives	_	_	
+7-24	746-747	.	_	_	
+
+#Text=This goes for Canada as well.
+8-1	748-752	This	_	_	
+8-2	753-757	goes	_	_	
+8-3	758-761	for	_	_	
+8-4	762-768	Canada	_	_	
+8-5	769-771	as	_	_	
+8-6	772-776	well	_	_	
+8-7	776-777	.	_	_	
+
+#Text=We cannot as countries fix all the difficulties for these refugees with one swift move ofa magic wand.
+9-1	778-780	We	_	_	
+9-2	781-787	cannot	Appreciation[11]	neg[11]	
+9-3	788-790	as	Appreciation[11]	neg[11]	
+9-4	791-800	countries	Appreciation[11]	neg[11]	
+9-5	801-804	fix	Appreciation[11]	neg[11]	
+9-6	805-808	all	Appreciation[11]	neg[11]	
+9-7	809-812	the	Appreciation[11]	neg[11]	
+9-8	813-825	difficulties	Appreciation[11]	neg[11]	
+9-9	826-829	for	Appreciation[11]	neg[11]	
+9-10	830-835	these	Appreciation[11]	neg[11]	
+9-11	836-844	refugees	Appreciation[11]	neg[11]	
+9-12	845-849	with	Appreciation[11]	neg[11]	
+9-13	850-853	one	Appreciation[11]	neg[11]	
+9-14	854-859	swift	Appreciation[11]	neg[11]	
+9-15	860-864	move	Appreciation[11]	neg[11]	
+9-16	865-868	ofa	Appreciation[11]	neg[11]	
+9-17	869-874	magic	Appreciation[11]	neg[11]	
+9-18	875-879	wand	Appreciation[11]	neg[11]	
+9-19	879-880	.	_	_	
+
+#Text=We cannot accept an un surmountable number of refugees when so many who already live here are struggling with unemployment, lack of cheap daycare or access to free health and dental care.
+10-1	881-883	We	_	_	
+10-2	884-890	cannot	Appreciation[12]	neg[12]	
+10-3	891-897	accept	Appreciation[12]	neg[12]	
+10-4	898-900	an	Appreciation[12]	neg[12]	
+10-5	901-903	un	Appreciation[12]	neg[12]	
+10-6	904-916	surmountable	Appreciation[12]	neg[12]	
+10-7	917-923	number	Appreciation[12]	neg[12]	
+10-8	924-926	of	Appreciation[12]	neg[12]	
+10-9	927-935	refugees	Appreciation[12]	neg[12]	
+10-10	936-940	when	_	_	
+10-11	941-943	so	_	_	
+10-12	944-948	many	_	_	
+10-13	949-952	who	_	_	
+10-14	953-960	already	_	_	
+10-15	961-965	live	_	_	
+10-16	966-970	here	_	_	
+10-17	971-974	are	_	_	
+10-18	975-985	struggling	Appreciation[13]	neg[13]	
+10-19	986-990	with	Appreciation[13]	neg[13]	
+10-20	991-1003	unemployment	Appreciation[13]	neg[13]	
+10-21	1003-1004	,	Appreciation[13]	neg[13]	
+10-22	1005-1009	lack	Appreciation[13]	neg[13]	
+10-23	1010-1012	of	Appreciation[13]	neg[13]	
+10-24	1013-1018	cheap	Appreciation[13]	neg[13]	
+10-25	1019-1026	daycare	Appreciation[13]	neg[13]	
+10-26	1027-1029	or	Appreciation[13]	neg[13]	
+10-27	1030-1036	access	Appreciation[13]	neg[13]	
+10-28	1037-1039	to	Appreciation[13]	neg[13]	
+10-29	1040-1044	free	Appreciation[13]	neg[13]	
+10-30	1045-1051	health	Appreciation[13]	neg[13]	
+10-31	1052-1055	and	Appreciation[13]	neg[13]	
+10-32	1056-1062	dental	Appreciation[13]	neg[13]	
+10-33	1063-1067	care	Appreciation[13]	neg[13]	
+10-34	1067-1068	.	_	_	
+
+#Text=Our political system is not fool proof even if it seems a better one than the one in Syria.
+11-1	1069-1072	Our	_	_	
+11-2	1073-1082	political	_	_	
+11-3	1083-1089	system	_	_	
+11-4	1090-1092	is	_	_	
+11-5	1093-1096	not	Appreciation[14]	neg[14]	
+11-6	1097-1101	fool	Appreciation[14]	neg[14]	
+11-7	1102-1107	proof	Appreciation[14]	neg[14]	
+11-8	1108-1112	even	_	_	
+11-9	1113-1115	if	_	_	
+11-10	1116-1118	it	_	_	
+11-11	1119-1124	seems	_	_	
+11-12	1125-1126	a	_	_	
+11-13	1127-1133	better	Appreciation[15]	pos[15]	
+11-14	1134-1137	one	Appreciation[15]	pos[15]	
+11-15	1138-1142	than	Appreciation[15]	pos[15]	
+11-16	1143-1146	the	Appreciation[15]	pos[15]	
+11-17	1147-1150	one	Appreciation[15]	pos[15]	
+11-18	1151-1153	in	Appreciation[15]	pos[15]	
+11-19	1154-1159	Syria	Appreciation[15]	pos[15]	
+11-20	1159-1160	.	_	_	
+
+#Text=We live with a situation that is not going to be solved over night.
+12-1	1161-1163	We	_	_	
+12-2	1164-1168	live	_	_	
+12-3	1169-1173	with	_	_	
+12-4	1174-1175	a	_	_	
+12-5	1176-1185	situation	_	_	
+12-6	1186-1190	that	_	_	
+12-7	1191-1193	is	_	_	
+12-8	1194-1197	not	Appreciation[16]	neg[16]	
+12-9	1198-1203	going	Appreciation[16]	neg[16]	
+12-10	1204-1206	to	Appreciation[16]	neg[16]	
+12-11	1207-1209	be	Appreciation[16]	neg[16]	
+12-12	1210-1216	solved	Appreciation[16]	neg[16]	
+12-13	1217-1221	over	Appreciation[16]	neg[16]	
+12-14	1222-1227	night	Appreciation[16]	neg[16]	
+12-15	1227-1228	.	_	_	
+
+#Text=And it will certainly not happen any faster if we just open the flood gates and let the masses arrive.
+13-1	1229-1232	And	_	_	
+13-2	1233-1235	it	_	_	
+13-3	1236-1240	will	_	_	
+13-4	1241-1250	certainly	Appreciation[17]	neg[17]	
+13-5	1251-1254	not	Appreciation[17]	neg[17]	
+13-6	1255-1261	happen	Appreciation[17]	neg[17]	
+13-7	1262-1265	any	Appreciation[17]	neg[17]	
+13-8	1266-1272	faster	Appreciation[17]	neg[17]	
+13-9	1273-1275	if	Appreciation[17]	neg[17]	
+13-10	1276-1278	we	Appreciation[17]	neg[17]	
+13-11	1279-1283	just	Appreciation[17]	neg[17]	
+13-12	1284-1288	open	Appreciation[17]	neg[17]	
+13-13	1289-1292	the	Appreciation[17]	neg[17]	
+13-14	1293-1298	flood	Appreciation[17]	neg[17]	
+13-15	1299-1304	gates	Appreciation[17]	neg[17]	
+13-16	1305-1308	and	Appreciation[17]	neg[17]	
+13-17	1309-1312	let	Appreciation[17]	neg[17]	
+13-18	1313-1316	the	Appreciation[17]	neg[17]	
+13-19	1317-1323	masses	Appreciation[17]	neg[17]	
+13-20	1324-1330	arrive	Appreciation[17]	neg[17]	
+13-21	1330-1331	.	_	_	
+
+#Text=Andit's not going to solve anything long term if the same needs for our own native populations aren't being attended to with the same determination.
+14-1	1332-1339	Andit's	_	_	
+14-2	1340-1343	not	Appreciation[18]	neg[18]	
+14-3	1344-1349	going	Appreciation[18]	neg[18]	
+14-4	1350-1352	to	Appreciation[18]	neg[18]	
+14-5	1353-1358	solve	Appreciation[18]	neg[18]	
+14-6	1359-1367	anything	Appreciation[18]	neg[18]	
+14-7	1368-1372	long	Appreciation[18]	neg[18]	
+14-8	1373-1377	term	Appreciation[18]	neg[18]	
+14-9	1378-1380	if	_	_	
+14-10	1381-1384	the	_	_	
+14-11	1385-1389	same	_	_	
+14-12	1390-1395	needs	_	_	
+14-13	1396-1399	for	_	_	
+14-14	1400-1403	our	_	_	
+14-15	1404-1407	own	_	_	
+14-16	1408-1414	native	_	_	
+14-17	1415-1426	populations	_	_	
+14-18	1427-1433	aren't	Appreciation[19]	neg[19]	
+14-19	1434-1439	being	Appreciation[19]	neg[19]	
+14-20	1440-1448	attended	Appreciation[19]	neg[19]	
+14-21	1449-1451	to	Appreciation[19]	neg[19]	
+14-22	1452-1456	with	_	_	
+14-23	1457-1460	the	_	_	
+14-24	1461-1465	same	_	_	
+14-25	1466-1479	determination	_	_	
+14-26	1479-1480	.	_	_	

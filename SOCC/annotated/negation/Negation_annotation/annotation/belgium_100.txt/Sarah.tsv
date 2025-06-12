@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=They did when non Muslims like Hitler and Mussolini and Christian countries like Germany and Italy started taking over Europe in the 1940s.
+1-1	0-4	They	_	
+1-2	5-8	did	_	
+1-3	9-13	when	_	
+1-4	14-17	non	_	
+1-5	18-25	Muslims	_	
+1-6	26-30	like	_	
+1-7	31-37	Hitler	_	
+1-8	38-41	and	_	
+1-9	42-51	Mussolini	_	
+1-10	52-55	and	_	
+1-11	56-65	Christian	_	
+1-12	66-75	countries	_	
+1-13	76-80	like	_	
+1-14	81-88	Germany	_	
+1-15	89-92	and	_	
+1-16	93-98	Italy	_	
+1-17	99-106	started	_	
+1-18	107-113	taking	_	
+1-19	114-118	over	_	
+1-20	119-125	Europe	_	
+1-21	126-128	in	_	
+1-22	129-132	the	_	
+1-23	133-138	1940s	_	
+1-24	138-139	.	_	
+
+#Text=Christians from countries around the world fought other Christians who were militant, violent and trying to take over.
+2-1	141-151	Christians	_	
+2-2	152-156	from	_	
+2-3	157-166	countries	_	
+2-4	167-173	around	_	
+2-5	174-177	the	_	
+2-6	178-183	world	_	
+2-7	184-190	fought	_	
+2-8	191-196	other	_	
+2-9	197-207	Christians	_	
+2-10	208-211	who	_	
+2-11	212-216	were	_	
+2-12	217-225	militant	_	
+2-13	225-226	,	_	
+2-14	227-234	violent	_	
+2-15	235-238	and	_	
+2-16	239-245	trying	_	
+2-17	246-248	to	_	
+2-18	249-253	take	_	
+2-19	254-258	over	_	
+2-20	258-259	.	_	
+
+#Text=So why don't moderate Muslims head to places like Iraq and Syria and to other countries where Muslim extremists and terrorists exist to eradicate those Muslim radicals, to protect Islam and to prevent it from being hijacked and perverted?
+3-1	261-263	So	_	
+3-2	264-267	why	_	
+3-3	268-273	don't	NEG	
+3-4	274-282	moderate	SCOPE[2]	
+3-5	283-290	Muslims	SCOPE[2]	
+3-6	291-295	head	SCOPE[2]	
+3-7	296-298	to	SCOPE[2]	
+3-8	299-305	places	SCOPE[2]	
+3-9	306-310	like	SCOPE[2]	
+3-10	311-315	Iraq	SCOPE[2]	
+3-11	316-319	and	SCOPE[2]	
+3-12	320-325	Syria	SCOPE[2]	
+3-13	326-329	and	SCOPE[2]	
+3-14	330-332	to	SCOPE[2]	
+3-15	333-338	other	SCOPE[2]	
+3-16	339-348	countries	SCOPE[2]	
+3-17	349-354	where	SCOPE[2]	
+3-18	355-361	Muslim	SCOPE[2]	
+3-19	362-372	extremists	SCOPE[2]	
+3-20	373-376	and	SCOPE[2]	
+3-21	377-387	terrorists	SCOPE[2]	
+3-22	388-393	exist	SCOPE[2]	
+3-23	394-396	to	SCOPE[2]	
+3-24	397-406	eradicate	SCOPE[2]	
+3-25	407-412	those	SCOPE[2]|FOCUS[3]	
+3-26	413-419	Muslim	SCOPE[2]|FOCUS[3]	
+3-27	420-428	radicals	SCOPE[2]|FOCUS[3]	
+3-28	428-429	,	_	
+3-29	430-432	to	_	
+3-30	433-440	protect	_	
+3-31	441-446	Islam	_	
+3-32	447-450	and	_	
+3-33	451-453	to	_	
+3-34	454-461	prevent	_	
+3-35	462-464	it	_	
+3-36	465-469	from	_	
+3-37	470-475	being	_	
+3-38	476-484	hijacked	_	
+3-39	485-488	and	_	
+3-40	489-498	perverted	_	
+3-41	498-499	?	_	

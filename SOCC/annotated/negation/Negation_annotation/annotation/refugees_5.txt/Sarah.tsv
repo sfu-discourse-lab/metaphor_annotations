@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+#T_RL=webanno.custom.XNEGATION|BT_webanno.custom.NEGATION
+
+
+#Text='Europe may be failing Syrian refugees...'
+1-1	0-1	'	_	_	
+1-2	1-7	Europe	XSCOPE[1]|FOCUS[2]	2-1[0_1]	
+1-3	8-11	may	XSCOPE[1]	_	
+1-4	12-14	be	XSCOPE[1]	_	
+1-5	15-22	failing	XSCOPE[1]	_	
+1-6	23-29	Syrian	XSCOPE[1]	_	
+1-7	30-38	refugees	XSCOPE[1]	_	
+1-8	38-39	.	_	_	
+1-9	39-40	.	_	_	
+1-10	40-41	.	_	_	
+1-11	41-42	'	_	_	
+
+#Text=NONSENSE.A more accurate statement would be that Islam and its culture of sectarian violence, misogyny, and intolerance have failed the residents of Arabic nations, including Syria.
+2-1	42-52	NONSENSE.A	NEG	_	
+2-2	53-57	more	_	_	
+2-3	58-66	accurate	_	_	
+2-4	67-76	statement	_	_	
+2-5	77-82	would	_	_	
+2-6	83-85	be	_	_	
+2-7	86-90	that	_	_	
+2-8	91-96	Islam	_	_	
+2-9	97-100	and	_	_	
+2-10	101-104	its	_	_	
+2-11	105-112	culture	_	_	
+2-12	113-115	of	_	_	
+2-13	116-125	sectarian	_	_	
+2-14	126-134	violence	_	_	
+2-15	134-135	,	_	_	
+2-16	136-144	misogyny	_	_	
+2-17	144-145	,	_	_	
+2-18	146-149	and	_	_	
+2-19	150-161	intolerance	_	_	
+2-20	162-166	have	_	_	
+2-21	167-173	failed	_	_	
+2-22	174-177	the	_	_	
+2-23	178-187	residents	_	_	
+2-24	188-190	of	_	_	
+2-25	191-197	Arabic	_	_	
+2-26	198-205	nations	_	_	
+2-27	205-206	,	_	_	
+2-28	207-216	including	_	_	
+2-29	217-222	Syria	_	_	
+2-30	222-223	.	_	_	

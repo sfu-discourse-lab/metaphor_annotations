@@ -1,0 +1,147 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=My partner is Chinese Canadian and i can tell you the 'old' Chinese community in Vancouver thinks this tax is long overdue and that the government (at all levels) has been completely taken in or are being paid off.
+1-1	0-2	My	_	
+1-2	3-10	partner	_	
+1-3	11-13	is	_	
+1-4	14-21	Chinese	_	
+1-5	22-30	Canadian	_	
+1-6	31-34	and	_	
+1-7	35-36	i	_	
+1-8	37-40	can	_	
+1-9	41-45	tell	_	
+1-10	46-49	you	_	
+1-11	50-53	the	_	
+1-12	54-55	'	_	
+1-13	55-58	old	_	
+1-14	58-59	'	_	
+1-15	60-67	Chinese	_	
+1-16	68-77	community	_	
+1-17	78-80	in	_	
+1-18	81-90	Vancouver	_	
+1-19	91-97	thinks	_	
+1-20	98-102	this	_	
+1-21	103-106	tax	_	
+1-22	107-109	is	_	
+1-23	110-114	long	_	
+1-24	115-122	overdue	_	
+1-25	123-126	and	_	
+1-26	127-131	that	_	
+1-27	132-135	the	_	
+1-28	136-146	government	_	
+1-29	147-148	(	_	
+1-30	148-150	at	_	
+1-31	151-154	all	_	
+1-32	155-161	levels	_	
+1-33	161-162	)	_	
+1-34	163-166	has	_	
+1-35	167-171	been	_	
+1-36	172-182	completely	_	
+1-37	183-188	taken	_	
+1-38	189-191	in	_	
+1-39	192-194	or	_	
+1-40	195-198	are	_	
+1-41	199-204	being	_	
+1-42	205-209	paid	_	
+1-43	210-213	off	_	
+1-44	213-214	.	_	
+
+#Text=There has been money laundering for years and people not paying taxes or claiming welfare while living in multi-million dollar homes.
+2-1	215-220	There	_	
+2-2	221-224	has	_	
+2-3	225-229	been	_	
+2-4	230-235	money	_	
+2-5	236-246	laundering	_	
+2-6	247-250	for	_	
+2-7	251-256	years	_	
+2-8	257-260	and	_	
+2-9	261-267	people	_	
+2-10	268-271	not	NEG	
+2-11	272-278	paying	SCOPE[2]	
+2-12	279-284	taxes	SCOPE[2]|FOCUS[3]	
+2-13	285-287	or	_	
+2-14	288-296	claiming	_	
+2-15	297-304	welfare	_	
+2-16	305-310	while	_	
+2-17	311-317	living	_	
+2-18	318-320	in	_	
+2-19	321-334	multi-million	_	
+2-20	335-341	dollar	_	
+2-21	342-347	homes	_	
+2-22	347-348	.	_	
+
+#Text=It's an open truth in the Asian community and has been for years.
+3-1	349-353	It's	_	
+3-2	354-356	an	_	
+3-3	357-361	open	_	
+3-4	362-367	truth	_	
+3-5	368-370	in	_	
+3-6	371-374	the	_	
+3-7	375-380	Asian	_	
+3-8	381-390	community	_	
+3-9	391-394	and	_	
+3-10	395-398	has	_	
+3-11	399-403	been	_	
+3-12	404-407	for	_	
+3-13	408-413	years	_	
+3-14	413-414	.	_	
+
+#Text=Are you going to call my Chinese mother in law a racist or a resentful immigrant who doesn't like it when new immigrants come?
+4-1	415-418	Are	_	
+4-2	419-422	you	_	
+4-3	423-428	going	_	
+4-4	429-431	to	_	
+4-5	432-436	call	_	
+4-6	437-439	my	_	
+4-7	440-447	Chinese	_	
+4-8	448-454	mother	_	
+4-9	455-457	in	_	
+4-10	458-461	law	_	
+4-11	462-463	a	_	
+4-12	464-470	racist	_	
+4-13	471-473	or	_	
+4-14	474-475	a	_	
+4-15	476-485	resentful	_	
+4-16	486-495	immigrant	_	
+4-17	496-499	who	_	
+4-18	500-507	doesn't	NEG	
+4-19	508-512	like	SCOPE[5]	
+4-20	513-515	it	SCOPE[5]	
+4-21	516-520	when	SCOPE[5]	
+4-22	521-524	new	SCOPE[5]|FOCUS[6]	
+4-23	525-535	immigrants	SCOPE[5]	
+4-24	536-540	come	SCOPE[5]	
+4-25	540-541	?	_	
+
+#Text=And CRA doesn't crack down on tax evasion for fear of being racist?
+5-1	542-545	And	_	
+5-2	546-549	CRA	_	
+5-3	550-557	doesn't	NEG	
+5-4	558-563	crack	SCOPE[8]	
+5-5	564-568	down	SCOPE[8]	
+5-6	569-571	on	SCOPE[8]	
+5-7	572-575	tax	SCOPE[8]	
+5-8	576-583	evasion	SCOPE[8]	
+5-9	584-587	for	SCOPE[8]	
+5-10	588-592	fear	SCOPE[8]|FOCUS[9]	
+5-11	593-595	of	SCOPE[8]|FOCUS[9]	
+5-12	596-601	being	SCOPE[8]|FOCUS[9]	
+5-13	602-608	racist	SCOPE[8]|FOCUS[9]	
+5-14	608-609	?	_	
+
+#Text=This is completely ridiculous and leads to people like Trump!!!
+6-1	610-614	This	_	
+6-2	615-617	is	_	
+6-3	618-628	completely	_	
+6-4	629-639	ridiculous	_	
+6-5	640-643	and	_	
+6-6	644-649	leads	_	
+6-7	650-652	to	_	
+6-8	653-659	people	_	
+6-9	660-664	like	_	
+6-10	665-670	Trump	_	
+6-11	670-671	!	_	
+6-12	671-672	!	_	
+6-13	672-673	!	_	

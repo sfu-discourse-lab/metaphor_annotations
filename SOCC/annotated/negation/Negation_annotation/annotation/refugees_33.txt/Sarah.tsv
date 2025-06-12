@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Indeed.
+1-1	0-6	Indeed	
+1-2	6-7	.	
+
+#Text=Getting them here was the easy part.
+2-1	8-15	Getting	
+2-2	16-20	them	
+2-3	21-25	here	
+2-4	26-29	was	
+2-5	30-33	the	
+2-6	34-38	easy	
+2-7	39-43	part	
+2-8	43-44	.	
+
+#Text=Now comes the hard part, and that is where we are dropping the ball.
+3-1	45-48	Now	
+3-2	49-54	comes	
+3-3	55-58	the	
+3-4	59-63	hard	
+3-5	64-68	part	
+3-6	68-69	,	
+3-7	70-73	and	
+3-8	74-78	that	
+3-9	79-81	is	
+3-10	82-87	where	
+3-11	88-90	we	
+3-12	91-94	are	
+3-13	95-103	dropping	
+3-14	104-107	the	
+3-15	108-112	ball	
+3-16	112-113	.	
+
+#Text=We are getting the most uneducated, religiously conservative Syrians, the most unprepared to adapt to a modern society already dealing with its own economic problems, and all signs point to the fact we are just as unprepared to deal with properly.
+4-1	114-116	We	
+4-2	117-120	are	
+4-3	121-128	getting	
+4-4	129-132	the	
+4-5	133-137	most	
+4-6	138-148	uneducated	
+4-7	148-149	,	
+4-8	150-161	religiously	
+4-9	162-174	conservative	
+4-10	175-182	Syrians	
+4-11	182-183	,	
+4-12	184-187	the	
+4-13	188-192	most	
+4-14	193-203	unprepared	
+4-15	204-206	to	
+4-16	207-212	adapt	
+4-17	213-215	to	
+4-18	216-217	a	
+4-19	218-224	modern	
+4-20	225-232	society	
+4-21	233-240	already	
+4-22	241-248	dealing	
+4-23	249-253	with	
+4-24	254-257	its	
+4-25	258-261	own	
+4-26	262-270	economic	
+4-27	271-279	problems	
+4-28	279-280	,	
+4-29	281-284	and	
+4-30	285-288	all	
+4-31	289-294	signs	
+4-32	295-300	point	
+4-33	301-303	to	
+4-34	304-307	the	
+4-35	308-312	fact	
+4-36	313-315	we	
+4-37	316-319	are	
+4-38	320-324	just	
+4-39	325-327	as	
+4-40	328-338	unprepared	
+4-41	339-341	to	
+4-42	342-346	deal	
+4-43	347-351	with	
+4-44	352-360	properly	
+4-45	360-361	.	

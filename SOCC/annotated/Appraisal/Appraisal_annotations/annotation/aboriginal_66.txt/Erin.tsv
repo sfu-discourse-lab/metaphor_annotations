@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=When you say 'we' don't have a strategy you mean all concerned not just the non FNs, right?
+1-1	0-4	When	Judgment[1]	neg[1]	
+1-2	5-8	you	Judgment[1]	neg[1]	
+1-3	9-12	say	Judgment[1]	neg[1]	
+1-4	13-14	'	Judgment[1]	neg[1]	
+1-5	14-16	we	Judgment[1]	neg[1]	
+1-6	16-17	'	Judgment[1]	neg[1]	
+1-7	18-23	don't	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-8	24-28	have	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-9	29-30	a	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-10	31-39	strategy	Judgment[1]|Judgment[2]|Appreciation[3]	neg[1]|neg[2]|neg[3]	
+1-11	40-43	you	Judgment[1]	neg[1]	
+1-12	44-48	mean	Judgment[1]	neg[1]	
+1-13	49-52	all	Judgment[1]	neg[1]	
+1-14	53-62	concerned	Judgment[1]	neg[1]	
+1-15	63-66	not	Judgment[1]	neg[1]	
+1-16	67-71	just	Judgment[1]	neg[1]	
+1-17	72-75	the	Judgment[1]	neg[1]	
+1-18	76-79	non	Judgment[1]	neg[1]	
+1-19	80-83	FNs	Judgment[1]	neg[1]	
+1-20	83-84	,	Judgment[1]	neg[1]	
+1-21	85-90	right	Judgment[1]	neg[1]	
+1-22	90-91	?	_	_	

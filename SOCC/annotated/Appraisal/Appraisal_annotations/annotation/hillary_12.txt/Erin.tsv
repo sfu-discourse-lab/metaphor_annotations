@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Another misguided soul.
+1-1	0-7	Another	_	_	
+1-2	8-17	misguided	Judgment	neg	
+1-3	18-22	soul	_	_	
+1-4	22-23	.	_	_	
+
+#Text=Hillary isn't Mother Teresa and neither was Trump Moses.
+2-1	24-31	Hillary	_	_	
+2-2	32-37	isn't	Judgment[2]	neg[2]	
+2-3	38-44	Mother	Judgment[2]	neg[2]	
+2-4	45-51	Teresa	Judgment[2]	neg[2]	
+2-5	52-55	and	Judgment[2]	neg[2]	
+2-6	56-63	neither	Judgment[2]	neg[2]	
+2-7	64-67	was	Judgment[2]	neg[2]	
+2-8	68-73	Trump	Judgment[2]	neg[2]	
+2-9	74-79	Moses	Judgment[2]	neg[2]	
+2-10	79-80	.	_	_	
+
+#Text=And neither have the qualifications or the personal character to aspire to the Presidency.
+3-1	81-84	And	_	_	
+3-2	85-92	neither	Judgment[3]	neg[3]	
+3-3	93-97	have	Judgment[3]	neg[3]	
+3-4	98-101	the	Judgment[3]	neg[3]	
+3-5	102-116	qualifications	Judgment[3]	neg[3]	
+3-6	117-119	or	Judgment[3]	neg[3]	
+3-7	120-123	the	Judgment[3]	neg[3]	
+3-8	124-132	personal	Judgment[3]	neg[3]	
+3-9	133-142	character	Judgment[3]	neg[3]	
+3-10	143-145	to	Judgment[3]	neg[3]	
+3-11	146-152	aspire	Judgment[3]	neg[3]	
+3-12	153-155	to	Judgment[3]	neg[3]	
+3-13	156-159	the	Judgment[3]	neg[3]	
+3-14	160-170	Presidency	Judgment[3]	neg[3]	
+3-15	170-171	.	_	_	
+
+#Text=Whatever Trump's misdeeds, Hillary and Bill outdid him in spades.
+4-1	172-180	Whatever	Judgment[4]	neg[4]	
+4-2	181-188	Trump's	Judgment[4]	neg[4]	
+4-3	189-197	misdeeds	Judgment[4]|Appreciation[5]	neg[4]|neg[5]	
+4-4	197-198	,	Judgment[4]	neg[4]	
+4-5	199-206	Hillary	Judgment[4]	neg[4]	
+4-6	207-210	and	Judgment[4]	neg[4]	
+4-7	211-215	Bill	Judgment[4]	neg[4]	
+4-8	216-222	outdid	Judgment[4]	neg[4]	
+4-9	223-226	him	Judgment[4]	neg[4]	
+4-10	227-229	in	Judgment[4]	neg[4]	
+4-11	230-236	spades	Judgment[4]	neg[4]	
+4-12	236-237	.	_	_	
+
+#Text=Would you want a President who denigrated a 12-year old girl who was repeatedly beaten and raped to get a client off?
+5-1	238-243	Would	Judgment[6]	neg[6]	
+5-2	244-247	you	Judgment[6]	neg[6]	
+5-3	248-252	want	Judgment[6]	neg[6]	
+5-4	253-254	a	Judgment[6]	neg[6]	
+5-5	255-264	President	Judgment[6]	neg[6]	
+5-6	265-268	who	Judgment[6]	neg[6]	
+5-7	269-279	denigrated	Judgment[6]|Judgment[7]	neg[6]|neg[7]	
+5-8	280-281	a	Judgment[6]	neg[6]	
+5-9	282-284	12	Judgment[6]	neg[6]	
+5-10	284-285	-	Judgment[6]	neg[6]	
+5-11	285-289	year	Judgment[6]	neg[6]	
+5-12	290-293	old	Judgment[6]	neg[6]	
+5-13	294-298	girl	Judgment[6]	neg[6]	
+5-14	299-302	who	Judgment[6]	neg[6]	
+5-15	303-306	was	Judgment[6]	neg[6]	
+5-16	307-317	repeatedly	Judgment[6]|Appreciation[8]	neg[6]|neg[8]	
+5-17	318-324	beaten	Judgment[6]|Appreciation[8]	neg[6]|neg[8]	
+5-18	325-328	and	Judgment[6]|Appreciation[8]	neg[6]|neg[8]	
+5-19	329-334	raped	Judgment[6]|Appreciation[8]	neg[6]|neg[8]	
+5-20	335-337	to	Judgment[6]	neg[6]	
+5-21	338-341	get	Judgment[6]	neg[6]	
+5-22	342-343	a	Judgment[6]	neg[6]	
+5-23	344-350	client	Judgment[6]	neg[6]	
+5-24	351-354	off	Judgment[6]	neg[6]	
+5-25	354-355	?	_	_	
+
+#Text=Would you want a President who said she would do anything and say anything to achieve her personal goals?
+6-1	355-360	Would	Judgment[9]	neg[9]	
+6-2	361-364	you	Judgment[9]	neg[9]	
+6-3	365-369	want	Judgment[9]	neg[9]	
+6-4	370-371	a	Judgment[9]	neg[9]	
+6-5	372-381	President	Judgment[9]	neg[9]	
+6-6	382-385	who	Judgment[9]	neg[9]	
+6-7	386-390	said	Judgment[9]	neg[9]	
+6-8	391-394	she	Judgment[9]	neg[9]	
+6-9	395-400	would	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-10	401-403	do	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-11	404-412	anything	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-12	413-416	and	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-13	417-420	say	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-14	421-429	anything	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-15	430-432	to	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-16	433-440	achieve	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-17	441-444	her	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-18	445-453	personal	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-19	454-459	goals	Judgment[9]|Judgment[10]	neg[9]|neg[10]	
+6-20	459-460	?	_	_	
+
+#Text=Oh, and by the way who said publicly that she had two persona - a public one and a private one.
+7-1	460-462	Oh	_	_	
+7-2	462-463	,	_	_	
+7-3	464-467	and	_	_	
+7-4	468-470	by	_	_	
+7-5	471-474	the	_	_	
+7-6	475-478	way	_	_	
+7-7	479-482	who	_	_	
+7-8	483-487	said	_	_	
+7-9	488-496	publicly	_	_	
+7-10	497-501	that	_	_	
+7-11	502-505	she	_	_	
+7-12	506-509	had	_	_	
+7-13	510-513	two	Judgment[11]	neg[11]	
+7-14	514-521	persona	Judgment[11]	neg[11]	
+7-15	522-523	-	_	_	
+7-16	524-525	a	_	_	
+7-17	526-532	public	_	_	
+7-18	533-536	one	_	_	
+7-19	537-540	and	_	_	
+7-20	541-542	a	_	_	
+7-21	543-550	private	_	_	
+7-22	551-554	one	_	_	
+7-23	554-555	.	_	_	
+
+#Text=Would you want President who deliberately ignored repeated requests from her diplomats in Benghazi for more protection?
+8-1	556-561	Would	Judgment[12]	neg[12]	
+8-2	562-565	you	Judgment[12]	neg[12]	
+8-3	566-570	want	Judgment[12]	neg[12]	
+8-4	571-580	President	Judgment[12]	neg[12]	
+8-5	581-584	who	Judgment[12]	neg[12]	
+8-6	585-597	deliberately	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-7	598-605	ignored	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-8	606-614	repeated	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-9	615-623	requests	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-10	624-628	from	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-11	629-632	her	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-12	633-642	diplomats	Judgment[12]|Judgment[13]	neg[12]|neg[13]	
+8-13	643-645	in	Judgment[12]	neg[12]	
+8-14	646-654	Benghazi	Judgment[12]	neg[12]	
+8-15	655-658	for	Judgment[12]	neg[12]	
+8-16	659-663	more	Judgment[12]	neg[12]	
+8-17	664-674	protection	Judgment[12]	neg[12]	
+8-18	674-675	?	_	_	
+
+#Text=She left her people hung out to dry there.
+9-1	676-679	She	_	_	
+9-2	680-684	left	Judgment[14]	neg[14]	
+9-3	685-688	her	Judgment[14]	neg[14]	
+9-4	689-695	people	Judgment[14]	neg[14]	
+9-5	696-700	hung	Judgment[14]	neg[14]	
+9-6	701-704	out	Judgment[14]	neg[14]	
+9-7	705-707	to	Judgment[14]	neg[14]	
+9-8	708-711	dry	Judgment[14]	neg[14]	
+9-9	712-717	there	_	_	
+9-10	717-718	.	_	_	
+
+#Text=Would you want a President who sanctioned the downfall of two Middle East countries who were no threat to the U.S.A.?
+10-1	719-724	Would	Judgment[15]	neg[15]	
+10-2	725-728	you	Judgment[15]	neg[15]	
+10-3	729-733	want	Judgment[15]	neg[15]	
+10-4	734-735	a	Judgment[15]	neg[15]	
+10-5	736-745	President	Judgment[15]	neg[15]	
+10-6	746-749	who	Judgment[15]	neg[15]	
+10-7	750-760	sanctioned	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-8	761-764	the	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-9	765-773	downfall	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-10	774-776	of	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-11	777-780	two	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-12	781-787	Middle	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-13	788-792	East	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-14	793-802	countries	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-15	803-806	who	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-16	807-811	were	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-17	812-814	no	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-18	815-821	threat	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-19	822-824	to	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-20	825-828	the	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-21	829-834	U.S.A	Judgment[15]|Judgment[16]	neg[15]|neg[16]	
+10-22	834-835	.	_	_	
+10-23	835-836	?	_	_	
+
+#Text=Theses countries are now threats to the U.S.A. as Libya is under the influence of ISIS and Egypt has moved into Russia's sphere of influence.
+11-1	836-842	Theses	_	_	
+11-2	843-852	countries	_	_	
+11-3	853-856	are	_	_	
+11-4	857-860	now	_	_	
+11-5	861-868	threats	Appreciation	neg	
+11-6	869-871	to	_	_	
+11-7	872-875	the	_	_	
+11-8	876-881	U.S.A	_	_	
+11-9	881-882	.	_	_	
+11-10	883-885	as	_	_	
+11-11	886-891	Libya	_	_	
+11-12	892-894	is	_	_	
+11-13	895-900	under	Appreciation[18]	neg[18]	
+11-14	901-904	the	Appreciation[18]	neg[18]	
+11-15	905-914	influence	Appreciation[18]	neg[18]	
+11-16	915-917	of	Appreciation[18]	neg[18]	
+11-17	918-922	ISIS	Appreciation[18]	neg[18]	
+11-18	923-926	and	_	_	
+11-19	927-932	Egypt	_	_	
+11-20	933-936	has	_	_	
+11-21	937-942	moved	Judgment[19]	neg[19]	
+11-22	943-947	into	Judgment[19]	neg[19]	
+11-23	948-956	Russia's	Judgment[19]	neg[19]	
+11-24	957-963	sphere	Judgment[19]	neg[19]	
+11-25	964-966	of	Judgment[19]	neg[19]	
+11-26	967-976	influence	Judgment[19]	neg[19]	
+11-27	976-977	.	_	_	
+
+#Text=Hillary wasn't doing this for women she was doing this for herself and no one else.
+12-1	978-985	Hillary	_	_	
+12-2	986-992	wasn't	Judgment[20]	neg[20]	
+12-3	993-998	doing	Judgment[20]	neg[20]	
+12-4	999-1003	this	Judgment[20]	neg[20]	
+12-5	1004-1007	for	Judgment[20]	neg[20]	
+12-6	1008-1013	women	Judgment[20]	neg[20]	
+12-7	1014-1017	she	_	_	
+12-8	1018-1021	was	_	_	
+12-9	1022-1027	doing	Judgment[21]	neg[21]	
+12-10	1028-1032	this	Judgment[21]	neg[21]	
+12-11	1033-1036	for	Judgment[21]	neg[21]	
+12-12	1037-1044	herself	Judgment[21]	neg[21]	
+12-13	1045-1048	and	Judgment[21]	neg[21]	
+12-14	1049-1051	no	Judgment[21]	neg[21]	
+12-15	1052-1055	one	Judgment[21]	neg[21]	
+12-16	1056-1060	else	Judgment[21]	neg[21]	
+12-17	1060-1061	.	_	_	
+
+#Text=So stop with the pedestal - she has feet of clay.
+13-1	1062-1064	So	_	_	
+13-2	1065-1069	stop	Judgment[22]	neg[22]	
+13-3	1070-1074	with	Judgment[22]	neg[22]	
+13-4	1075-1078	the	Judgment[22]	neg[22]	
+13-5	1079-1087	pedestal	Judgment[22]	neg[22]	
+13-6	1088-1089	-	_	_	
+13-7	1090-1093	she	_	_	
+13-8	1094-1097	has	Judgment[23]	neg[23]	
+13-9	1098-1102	feet	Judgment[23]	neg[23]	
+13-10	1103-1105	of	Judgment[23]	neg[23]	
+13-11	1106-1110	clay	Judgment[23]	neg[23]	
+13-12	1110-1111	.	_	_	

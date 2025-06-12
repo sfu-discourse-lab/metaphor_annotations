@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Since we are the energy superpower, the immense financial success is a natural consequence.
+1-1	0-5	Since	
+1-2	6-8	we	
+1-3	9-12	are	
+1-4	13-16	the	
+1-5	17-23	energy	
+1-6	24-34	superpower	
+1-7	34-35	,	
+1-8	36-39	the	
+1-9	40-47	immense	
+1-10	48-57	financial	
+1-11	58-65	success	
+1-12	66-68	is	
+1-13	69-70	a	
+1-14	71-78	natural	
+1-15	79-90	consequence	
+1-16	90-91	.	
+
+#Text=Did I make it perfectly clear?
+2-1	92-95	Did	
+2-2	96-97	I	
+2-3	98-102	make	
+2-4	103-105	it	
+2-5	106-115	perfectly	
+2-6	116-121	clear	
+2-7	121-122	?	
+
+#Text=If the reformcon party is blessed with another majority, the harperites will lift Canada to the top one hundred in the annual GDP statistics.
+3-1	122-124	If	
+3-2	125-128	the	
+3-3	129-138	reformcon	
+3-4	139-144	party	
+3-5	145-147	is	
+3-6	148-155	blessed	
+3-7	156-160	with	
+3-8	161-168	another	
+3-9	169-177	majority	
+3-10	177-178	,	
+3-11	179-182	the	
+3-12	183-193	harperites	
+3-13	194-198	will	
+3-14	199-203	lift	
+3-15	204-210	Canada	
+3-16	211-213	to	
+3-17	214-217	the	
+3-18	218-221	top	
+3-19	222-225	one	
+3-20	226-233	hundred	
+3-21	234-236	in	
+3-22	237-240	the	
+3-23	241-247	annual	
+3-24	248-251	GDP	
+3-25	252-262	statistics	
+3-26	262-263	.	
+
+#Text=That would be a Harper's legacy to the hard working Canadians.
+4-1	264-268	That	
+4-2	269-274	would	
+4-3	275-277	be	
+4-4	278-279	a	
+4-5	280-288	Harper's	
+4-6	289-295	legacy	
+4-7	296-298	to	
+4-8	299-302	the	
+4-9	303-307	hard	
+4-10	308-315	working	
+4-11	316-325	Canadians	
+4-12	325-326	.	

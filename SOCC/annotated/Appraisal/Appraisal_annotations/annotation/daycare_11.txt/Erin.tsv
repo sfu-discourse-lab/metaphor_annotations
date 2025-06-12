@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Lots of opposition to publicly-subsidized daycare here.
+1-1	0-4	Lots	_	_	_	_	
+1-2	5-7	of	_	_	_	_	
+1-3	8-18	opposition	_	_	_	_	
+1-4	19-21	to	_	_	_	_	
+1-5	22-41	publicly-subsidized	_	_	_	_	
+1-6	42-49	daycare	_	_	_	_	
+1-7	50-54	here	_	_	_	_	
+1-8	54-55	.	_	_	_	_	
+
+#Text=But most of it just seems to be an emotional reaction to the cost, without looking at the economic benefits.
+2-1	56-59	But	_	_	_	_	
+2-2	60-64	most	_	_	_	_	
+2-3	65-67	of	_	_	_	_	
+2-4	68-70	it	_	_	_	_	
+2-5	71-75	just	_	_	_	_	
+2-6	76-81	seems	_	_	_	_	
+2-7	82-84	to	_	_	_	_	
+2-8	85-87	be	_	_	_	_	
+2-9	88-90	an	_	_	_	_	
+2-10	91-100	emotional	Judgment[1]|Affect[2]	neg[1]|neg[2]	_	_	
+2-11	101-109	reaction	Judgment[1]	neg[1]	_	_	
+2-12	110-112	to	Judgment[1]	neg[1]	_	_	
+2-13	113-116	the	Judgment[1]	neg[1]	_	_	
+2-14	117-121	cost	Judgment[1]	neg[1]	_	_	
+2-15	121-122	,	Judgment[1]	neg[1]	_	_	
+2-16	123-130	without	Judgment[1]	neg[1]	_	_	
+2-17	131-138	looking	Judgment[1]	neg[1]	_	_	
+2-18	139-141	at	Judgment[1]	neg[1]	_	_	
+2-19	142-145	the	Judgment[1]	neg[1]	_	_	
+2-20	146-154	economic	Judgment[1]	neg[1]	_	_	
+2-21	155-163	benefits	Judgment[1]	neg[1]	_	_	
+2-22	163-164	.	_	_	_	_	
+
+#Text=More people in the work force to pay taxes, more disposable income to help spur the economy.
+3-1	165-169	More	Appreciation[3]	pos[3]	_	_	
+3-2	170-176	people	Appreciation[3]	pos[3]	_	_	
+3-3	177-179	in	Appreciation[3]	pos[3]	_	_	
+3-4	180-183	the	Appreciation[3]	pos[3]	_	_	
+3-5	184-188	work	Appreciation[3]	pos[3]	_	_	
+3-6	189-194	force	Appreciation[3]	pos[3]	_	_	
+3-7	195-197	to	Appreciation[3]	pos[3]	_	_	
+3-8	198-201	pay	Appreciation[3]	pos[3]	_	_	
+3-9	202-207	taxes	Appreciation[3]	pos[3]	_	_	
+3-10	207-208	,	Appreciation[3]	pos[3]	_	_	
+3-11	209-213	more	Appreciation[3]	pos[3]	_	_	
+3-12	214-224	disposable	Appreciation[3]	pos[3]	_	_	
+3-13	225-231	income	Appreciation[3]	pos[3]	_	_	
+3-14	232-234	to	Appreciation[3]	pos[3]	_	_	
+3-15	235-239	help	Appreciation[3]	pos[3]	_	_	
+3-16	240-244	spur	Appreciation[3]	pos[3]	_	_	
+3-17	245-248	the	Appreciation[3]	pos[3]	_	_	
+3-18	249-256	economy	Appreciation[3]	pos[3]	_	_	
+3-19	256-257	.	_	_	_	_	
+
+#Text=It's an idea whose time has come (in fact, it came long ago, but no politician had the guts to suggest it).
+4-1	258-262	It's	_	_	_	_	
+4-2	263-265	an	_	_	_	_	
+4-3	266-270	idea	_	_	_	_	
+4-4	271-276	whose	_	_	_	_	
+4-5	277-281	time	Appreciation[4]	pos[4]	_	_	
+4-6	282-285	has	Appreciation[4]	pos[4]	_	_	
+4-7	286-290	come	Appreciation[4]	pos[4]	_	_	
+4-8	291-292	(	_	_	_	_	
+4-9	292-294	in	_	_	_	_	
+4-10	295-299	fact	_	_	_	_	
+4-11	299-300	,	_	_	_	_	
+4-12	301-303	it	_	_	_	_	
+4-13	304-308	came	Judgment[5]	neg[5]	_	_	
+4-14	309-313	long	Judgment[5]	neg[5]	_	_	
+4-15	314-317	ago	Judgment[5]	neg[5]	_	_	
+4-16	317-318	,	_	_	_	_	
+4-17	319-322	but	_	_	_	_	
+4-18	323-325	no	Judgment[6]	neg[6]	_	_	
+4-19	326-336	politician	Judgment[6]	neg[6]	_	_	
+4-20	337-340	had	Judgment[6]	neg[6]	_	_	
+4-21	341-344	the	Judgment[6]	neg[6]	_	_	
+4-22	345-349	guts	Judgment[6]	neg[6]	_	_	
+4-23	350-352	to	Judgment[6]	neg[6]	_	_	
+4-24	353-360	suggest	Judgment[6]	neg[6]	_	_	
+4-25	361-363	it	Judgment[6]	neg[6]	_	_	
+4-26	363-364	)	_	_	_	_	
+4-27	364-365	.	_	_	_	_	
+
+#Text=Too bad business has been so persuasive at convincing governments and the citizenry that social programmes are a waste of money while subsidizing business and loosening regulatory oversight is a noble enterprise.
+5-1	366-369	Too	Appreciation[7]	neg[7]	_	_	
+5-2	370-373	bad	Appreciation[7]	neg[7]	_	_	
+5-3	374-382	business	_	_	_	_	
+5-4	383-386	has	_	_	_	_	
+5-5	387-391	been	_	_	_	_	
+5-6	392-394	so	Judgment[8]	neg[8]	Force	up	
+5-7	395-405	persuasive	Judgment[8]	neg[8]	_	_	
+5-8	406-408	at	Judgment[8]	neg[8]	_	_	
+5-9	409-419	convincing	Judgment[8]	neg[8]	_	_	
+5-10	420-431	governments	Judgment[8]	neg[8]	_	_	
+5-11	432-435	and	Judgment[8]	neg[8]	_	_	
+5-12	436-439	the	Judgment[8]	neg[8]	_	_	
+5-13	440-449	citizenry	Judgment[8]	neg[8]	_	_	
+5-14	450-454	that	Judgment[8]	neg[8]	_	_	
+5-15	455-461	social	Judgment[8]	neg[8]	_	_	
+5-16	462-472	programmes	Judgment[8]	neg[8]	_	_	
+5-17	473-476	are	Judgment[8]	neg[8]	_	_	
+5-18	477-478	a	Judgment[8]	neg[8]	_	_	
+5-19	479-484	waste	Judgment[8]|Appreciation[9]	neg[8]|neg[9]	_	_	
+5-20	485-487	of	Judgment[8]	neg[8]	_	_	
+5-21	488-493	money	Judgment[8]	neg[8]	_	_	
+5-22	494-499	while	Judgment[8]	neg[8]	_	_	
+5-23	500-511	subsidizing	Judgment[8]	neg[8]	_	_	
+5-24	512-520	business	Judgment[8]	neg[8]	_	_	
+5-25	521-524	and	Judgment[8]	neg[8]	_	_	
+5-26	525-534	loosening	Judgment[8]	neg[8]	_	_	
+5-27	535-545	regulatory	Judgment[8]	neg[8]	_	_	
+5-28	546-555	oversight	Judgment[8]	neg[8]	_	_	
+5-29	556-558	is	Judgment[8]	neg[8]	_	_	
+5-30	559-560	a	Judgment[8]	neg[8]	_	_	
+5-31	561-566	noble	Judgment[8]|Appreciation[10]	neg[8]|neg[10]	_	_	
+5-32	567-577	enterprise	Judgment[8]	neg[8]	_	_	
+5-33	577-578	.	_	_	_	_	

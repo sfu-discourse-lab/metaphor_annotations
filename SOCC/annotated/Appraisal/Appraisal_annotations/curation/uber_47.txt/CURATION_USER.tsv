@@ -1,0 +1,177 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I would add that they need to ensure that minimum safety standards -- for riders and drivers -- are met.
+1-1	0-1	I	_	_	_	_	
+1-2	2-7	would	_	_	_	_	
+1-3	8-11	add	_	_	_	_	
+1-4	12-16	that	_	_	_	_	
+1-5	17-21	they	_	_	_	_	
+1-6	22-26	need	Judgment[1]	neg[1]	_	_	
+1-7	27-29	to	Judgment[1]	neg[1]	_	_	
+1-8	30-36	ensure	Judgment[1]	neg[1]	_	_	
+1-9	37-41	that	Judgment[1]	neg[1]	_	_	
+1-10	42-49	minimum	Judgment[1]	neg[1]	_	_	
+1-11	50-56	safety	Judgment[1]	neg[1]	_	_	
+1-12	57-66	standards	Judgment[1]	neg[1]	_	_	
+1-13	67-68	-	Judgment[1]	neg[1]	_	_	
+1-14	68-69	-	Judgment[1]	neg[1]	_	_	
+1-15	70-73	for	Judgment[1]	neg[1]	_	_	
+1-16	74-80	riders	Judgment[1]	neg[1]	_	_	
+1-17	81-84	and	Judgment[1]	neg[1]	_	_	
+1-18	85-92	drivers	Judgment[1]	neg[1]	_	_	
+1-19	93-94	-	Judgment[1]	neg[1]	_	_	
+1-20	94-95	-	Judgment[1]	neg[1]	_	_	
+1-21	96-99	are	Judgment[1]	neg[1]	_	_	
+1-22	100-103	met	Judgment[1]	neg[1]	_	_	
+1-23	103-104	.	_	_	_	_	
+
+#Text=For example, safety shields, operational seatbelts and possibly speed governors.
+2-1	105-108	For	_	_	_	_	
+2-2	109-116	example	_	_	_	_	
+2-3	116-117	,	_	_	_	_	
+2-4	118-124	safety	_	_	_	_	
+2-5	125-132	shields	_	_	_	_	
+2-6	132-133	,	_	_	_	_	
+2-7	134-145	operational	_	_	_	_	
+2-8	146-155	seatbelts	_	_	_	_	
+2-9	156-159	and	_	_	_	_	
+2-10	160-168	possibly	_	_	_	_	
+2-11	169-174	speed	_	_	_	_	
+2-12	175-184	governors	_	_	_	_	
+2-13	184-185	.	_	_	_	_	
+
+#Text=Drivers should also be required to have training in first aid and be able to speak fluent English (or French, where that is the predominant language.)
+3-1	186-193	Drivers	_	_	_	_	
+3-2	194-200	should	Appreciation[2]	pos[2]	_	_	
+3-3	201-205	also	Appreciation[2]	pos[2]	_	_	
+3-4	206-208	be	Appreciation[2]	pos[2]	_	_	
+3-5	209-217	required	Appreciation[2]	pos[2]	_	_	
+3-6	218-220	to	Appreciation[2]	pos[2]	_	_	
+3-7	221-225	have	Appreciation[2]	pos[2]	_	_	
+3-8	226-234	training	Appreciation[2]	pos[2]	_	_	
+3-9	235-237	in	Appreciation[2]	pos[2]	_	_	
+3-10	238-243	first	Appreciation[2]	pos[2]	_	_	
+3-11	244-247	aid	Appreciation[2]	pos[2]	_	_	
+3-12	248-251	and	Appreciation[2]	pos[2]	_	_	
+3-13	252-254	be	Appreciation[2]	pos[2]	_	_	
+3-14	255-259	able	Appreciation[2]	pos[2]	_	_	
+3-15	260-262	to	Appreciation[2]	pos[2]	_	_	
+3-16	263-268	speak	Appreciation[2]	pos[2]	_	_	
+3-17	269-275	fluent	Appreciation[2]	pos[2]	_	_	
+3-18	276-283	English	Appreciation[2]	pos[2]	_	_	
+3-19	284-285	(	Appreciation[2]	pos[2]	_	_	
+3-20	285-287	or	Appreciation[2]	pos[2]	_	_	
+3-21	288-294	French	Appreciation[2]	pos[2]	_	_	
+3-22	294-295	,	Appreciation[2]	pos[2]	_	_	
+3-23	296-301	where	Appreciation[2]	pos[2]	_	_	
+3-24	302-306	that	Appreciation[2]	pos[2]	_	_	
+3-25	307-309	is	Appreciation[2]	pos[2]	_	_	
+3-26	310-313	the	Appreciation[2]	pos[2]	_	_	
+3-27	314-325	predominant	Appreciation[2]	pos[2]	_	_	
+3-28	326-334	language	Appreciation[2]	pos[2]	_	_	
+3-29	334-335	.	_	_	_	_	
+3-30	335-336	)	_	_	_	_	
+
+#Text=Right now Uber is a little too wild west.
+4-1	337-342	Right	_	_	_	_	
+4-2	343-346	now	_	_	_	_	
+4-3	347-351	Uber	_	_	_	_	
+4-4	352-354	is	_	_	_	_	
+4-5	355-356	a	_	_	_	_	
+4-6	357-363	little	Appreciation[3]	neg[3]	Force[1]|Force[2]	up[1]|down[2]	
+4-7	364-367	too	Appreciation[3]	neg[3]	Force[1]	up[1]	
+4-8	368-372	wild	Appreciation[3]	neg[3]	_	_	
+4-9	373-377	west	Appreciation[3]	neg[3]	_	_	
+4-10	377-378	.	_	_	_	_	
+
+#Text=Otherwise the market will just drive prices down until enough players drop out and the one's with big cash piles (like Uber who've made their money skirting the rules everyone else has to play by) will consolidate and jack up prices.
+5-1	379-388	Otherwise	_	_	_	_	
+5-2	389-392	the	_	_	_	_	
+5-3	393-399	market	_	_	_	_	
+5-4	400-404	will	_	_	_	_	
+5-5	405-409	just	_	_	_	_	
+5-6	410-415	drive	Appreciation[4]	neg[4]	_	_	
+5-7	416-422	prices	Appreciation[4]	neg[4]	_	_	
+5-8	423-427	down	Appreciation[4]	neg[4]	_	_	
+5-9	428-433	until	_	_	_	_	
+5-10	434-440	enough	_	_	_	_	
+5-11	441-448	players	_	_	_	_	
+5-12	449-453	drop	_	_	_	_	
+5-13	454-457	out	_	_	_	_	
+5-14	458-461	and	_	_	_	_	
+5-15	462-465	the	_	_	_	_	
+5-16	466-471	one's	_	_	_	_	
+5-17	472-476	with	Judgment[5]	neg[5]	_	_	
+5-18	477-480	big	Judgment[5]	neg[5]	_	_	
+5-19	481-485	cash	Judgment[5]	neg[5]	_	_	
+5-20	486-491	piles	Judgment[5]	neg[5]	_	_	
+5-21	492-493	(	_	_	_	_	
+5-22	493-497	like	_	_	_	_	
+5-23	498-502	Uber	_	_	_	_	
+5-24	503-509	who've	_	_	_	_	
+5-25	510-514	made	_	_	_	_	
+5-26	515-520	their	_	_	_	_	
+5-27	521-526	money	_	_	_	_	
+5-28	527-535	skirting	Judgment[6]	neg[6]	_	_	
+5-29	536-539	the	Judgment[6]	neg[6]	_	_	
+5-30	540-545	rules	Judgment[6]	neg[6]	_	_	
+5-31	546-554	everyone	_	_	_	_	
+5-32	555-559	else	_	_	_	_	
+5-33	560-563	has	_	_	_	_	
+5-34	564-566	to	_	_	_	_	
+5-35	567-571	play	_	_	_	_	
+5-36	572-574	by	_	_	_	_	
+5-37	574-575	)	_	_	_	_	
+5-38	576-580	will	_	_	_	_	
+5-39	581-592	consolidate	Appreciation[7]	neg[7]	_	_	
+5-40	593-596	and	Appreciation[7]	neg[7]	_	_	
+5-41	597-601	jack	Appreciation[7]	neg[7]	_	_	
+5-42	602-604	up	Appreciation[7]	neg[7]	_	_	
+5-43	605-611	prices	Appreciation[7]	neg[7]	_	_	
+5-44	611-612	.	_	_	_	_	
+
+#Text=But mostly it's a safety thing.
+6-1	613-616	But	_	_	_	_	
+6-2	617-623	mostly	_	_	_	_	
+6-3	624-628	it's	_	_	_	_	
+6-4	629-630	a	_	_	_	_	
+6-5	631-637	safety	Appreciation[8]	pos[8]	_	_	
+6-6	638-643	thing	Appreciation[8]	pos[8]	_	_	
+6-7	643-644	.	_	_	_	_	
+
+#Text=For the rider and driver.
+7-1	645-648	For	_	_	_	_	
+7-2	649-652	the	_	_	_	_	
+7-3	653-658	rider	_	_	_	_	
+7-4	659-662	and	_	_	_	_	
+7-5	663-669	driver	_	_	_	_	
+7-6	669-670	.	_	_	_	_	
+
+#Text=The last thing we need is to ratchet down more incomes while the fat cats skim the cream off of the worker's labour.
+8-1	671-674	The	_	_	_	_	
+8-2	675-679	last	_	_	_	_	
+8-3	680-685	thing	_	_	_	_	
+8-4	686-688	we	_	_	_	_	
+8-5	689-693	need	_	_	_	_	
+8-6	694-696	is	_	_	_	_	
+8-7	697-699	to	_	_	_	_	
+8-8	700-707	ratchet	Appreciation[9]	neg[9]	_	_	
+8-9	708-712	down	Appreciation[9]	neg[9]	_	_	
+8-10	713-717	more	Appreciation[9]	neg[9]	_	_	
+8-11	718-725	incomes	Appreciation[9]	neg[9]	_	_	
+8-12	726-731	while	_	_	_	_	
+8-13	732-735	the	_	_	_	_	
+8-14	736-739	fat	Judgment[10]	neg[10]	_	_	
+8-15	740-744	cats	Judgment[10]	neg[10]	_	_	
+8-16	745-749	skim	Judgment[11]	neg[11]	_	_	
+8-17	750-753	the	Judgment[11]	neg[11]	_	_	
+8-18	754-759	cream	Judgment[11]	neg[11]	_	_	
+8-19	760-763	off	Judgment[11]	neg[11]	_	_	
+8-20	764-766	of	Judgment[11]	neg[11]	_	_	
+8-21	767-770	the	Judgment[11]	neg[11]	_	_	
+8-22	771-779	worker's	Judgment[11]	neg[11]	_	_	
+8-23	780-786	labour	Judgment[11]	neg[11]	_	_	
+8-24	786-787	.	_	_	_	_	

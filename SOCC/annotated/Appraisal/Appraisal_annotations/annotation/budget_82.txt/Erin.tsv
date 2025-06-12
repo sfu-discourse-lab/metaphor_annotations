@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=So Harper hid this knowledge for more than a year, Mr Secret strikes again.
+1-1	0-2	So	_	_	
+1-2	3-9	Harper	_	_	
+1-3	10-13	hid	Judgment[1]	neg[1]	
+1-4	14-18	this	Judgment[1]	neg[1]	
+1-5	19-28	knowledge	Judgment[1]	neg[1]	
+1-6	29-32	for	Judgment[1]	neg[1]	
+1-7	33-37	more	Judgment[1]	neg[1]	
+1-8	38-42	than	Judgment[1]	neg[1]	
+1-9	43-44	a	Judgment[1]	neg[1]	
+1-10	45-49	year	Judgment[1]	neg[1]	
+1-11	49-50	,	_	_	
+1-12	51-53	Mr	Judgment[2]	neg[2]	
+1-13	54-60	Secret	Judgment[2]	neg[2]	
+1-14	61-68	strikes	_	_	
+1-15	69-74	again	_	_	
+1-16	74-75	.	_	_	
+
+#Text=If revenue increased so much more than expenses, why wasn't the surplus much bigger?'
+2-1	76-78	If	Appreciation[3]	neg[3]	
+2-2	79-86	revenue	Appreciation[3]	neg[3]	
+2-3	87-96	increased	Appreciation[3]	neg[3]	
+2-4	97-99	so	Appreciation[3]	neg[3]	
+2-5	100-104	much	Appreciation[3]	neg[3]	
+2-6	105-109	more	Appreciation[3]	neg[3]	
+2-7	110-114	than	Appreciation[3]	neg[3]	
+2-8	115-123	expenses	Appreciation[3]	neg[3]	
+2-9	123-124	,	Appreciation[3]	neg[3]	
+2-10	125-128	why	Appreciation[3]	neg[3]	
+2-11	129-135	wasn't	Appreciation[3]	neg[3]	
+2-12	136-139	the	Appreciation[3]	neg[3]	
+2-13	140-147	surplus	Appreciation[3]	neg[3]	
+2-14	148-152	much	Appreciation[3]	neg[3]	
+2-15	153-159	bigger	Appreciation[3]	neg[3]	
+2-16	159-160	?	_	_	
+2-17	160-161	'	_	_	
+
+#Text=Both men and women are living longer, yet the opposition parties want to roll back a legislated change to the age for receiving Old Age Security benefits, to 65 from 67.'
+3-1	161-165	Both	_	_	
+3-2	166-169	men	_	_	
+3-3	170-173	and	_	_	
+3-4	174-179	women	_	_	
+3-5	180-183	are	_	_	
+3-6	184-190	living	_	_	
+3-7	191-197	longer	_	_	
+3-8	197-198	,	_	_	
+3-9	199-202	yet	_	_	
+3-10	203-206	the	_	_	
+3-11	207-217	opposition	_	_	
+3-12	218-225	parties	_	_	
+3-13	226-230	want	_	_	
+3-14	231-233	to	_	_	
+3-15	234-238	roll	Appreciation[4]	neg[4]	
+3-16	239-243	back	Appreciation[4]	neg[4]	
+3-17	244-245	a	_	_	
+3-18	246-256	legislated	_	_	
+3-19	257-263	change	_	_	
+3-20	264-266	to	_	_	
+3-21	267-270	the	_	_	
+3-22	271-274	age	_	_	
+3-23	275-278	for	_	_	
+3-24	279-288	receiving	_	_	
+3-25	289-292	Old	_	_	
+3-26	293-296	Age	_	_	
+3-27	297-305	Security	_	_	
+3-28	306-314	benefits	_	_	
+3-29	314-315	,	_	_	
+3-30	316-318	to	_	_	
+3-31	319-321	65	_	_	
+3-32	322-326	from	_	_	
+3-33	327-329	67	_	_	
+3-34	329-330	.	_	_	
+3-35	330-331	'	_	_	
+
+#Text=So?
+4-1	331-333	So	_	_	
+4-2	333-334	?	_	_	
+
+#Text=Even more reason why seniors still need that extra funding from age 65.
+5-1	335-339	Even	_	_	
+5-2	340-344	more	_	_	
+5-3	345-351	reason	_	_	
+5-4	352-355	why	_	_	
+5-5	356-363	seniors	_	_	
+5-6	364-369	still	Appreciation[5]	pos[5]	
+5-7	370-374	need	Appreciation[5]	pos[5]	
+5-8	375-379	that	Appreciation[5]	pos[5]	
+5-9	380-385	extra	Appreciation[5]	pos[5]	
+5-10	386-393	funding	Appreciation[5]	pos[5]	
+5-11	394-398	from	_	_	
+5-12	399-402	age	_	_	
+5-13	403-405	65	_	_	
+5-14	405-406	.	_	_	

@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Nonsensical, extreme feminist blather.'
+1-1	0-11	Nonsensical	Appreciation[1]	neg[1]	_	_	
+1-2	11-12	,	Appreciation[1]	neg[1]	_	_	
+1-3	13-20	extreme	Appreciation[1]	neg[1]	_	_	
+1-4	21-29	feminist	Appreciation[1]	neg[1]	_	_	
+1-5	30-37	blather	Appreciation[1]	neg[1]	_	_	
+1-6	37-38	.	_	_	_	_	
+1-7	38-39	'	_	_	_	_	
+
+#Text=[W]hat women \u2013 particularly young girls who stayed up to watch the historic moment that never was \u2013 are going to take from this' is that few people are willing to support a conniving, two-faced career politician; and I do mean 'politician' in the worst sense of the word.
+2-1	39-40	[	_	_	_	_	
+2-2	40-41	W	_	_	_	_	
+2-3	41-42	]	_	_	_	_	
+2-4	42-45	hat	_	_	_	_	
+2-5	46-51	women	_	_	_	_	
+2-6	52-53	–	_	_	_	_	
+2-7	54-66	particularly	_	_	_	_	
+2-8	67-72	young	_	_	_	_	
+2-9	73-78	girls	_	_	_	_	
+2-10	79-82	who	_	_	_	_	
+2-11	83-89	stayed	_	_	_	_	
+2-12	90-92	up	_	_	_	_	
+2-13	93-95	to	_	_	_	_	
+2-14	96-101	watch	_	_	_	_	
+2-15	102-105	the	_	_	_	_	
+2-16	106-114	historic	_	_	_	_	
+2-17	115-121	moment	_	_	_	_	
+2-18	122-126	that	_	_	_	_	
+2-19	127-132	never	_	_	_	_	
+2-20	133-136	was	_	_	_	_	
+2-21	137-138	–	_	_	_	_	
+2-22	139-142	are	_	_	_	_	
+2-23	143-148	going	_	_	_	_	
+2-24	149-151	to	_	_	_	_	
+2-25	152-156	take	_	_	_	_	
+2-26	157-161	from	_	_	_	_	
+2-27	162-166	this	_	_	_	_	
+2-28	166-167	'	_	_	_	_	
+2-29	168-170	is	_	_	_	_	
+2-30	171-175	that	_	_	_	_	
+2-31	176-179	few	Judgment[2]	pos[2]	_	_	
+2-32	180-186	people	Judgment[2]	pos[2]	_	_	
+2-33	187-190	are	Judgment[2]	pos[2]	_	_	
+2-34	191-198	willing	Judgment[2]	pos[2]	_	_	
+2-35	199-201	to	Judgment[2]	pos[2]	_	_	
+2-36	202-209	support	Judgment[2]	pos[2]	_	_	
+2-37	210-211	a	Judgment[2]	pos[2]	_	_	
+2-38	212-221	conniving	Judgment[2]|Judgment[3]	pos[2]|neg[3]	_	_	
+2-39	221-222	,	Judgment[2]|Judgment[3]	pos[2]|neg[3]	_	_	
+2-40	223-232	two-faced	Judgment[2]|Judgment[3]	pos[2]|neg[3]	_	_	
+2-41	233-239	career	Judgment[2]	pos[2]	_	_	
+2-42	240-250	politician	Judgment[2]	pos[2]	_	_	
+2-43	250-251	;	_	_	_	_	
+2-44	252-255	and	_	_	_	_	
+2-45	256-257	I	_	_	_	_	
+2-46	258-260	do	_	_	_	_	
+2-47	261-265	mean	_	_	_	_	
+2-48	266-267	'	_	_	_	_	
+2-49	267-277	politician	_	_	_	_	
+2-50	277-278	'	_	_	_	_	
+2-51	279-281	in	_	_	_	_	
+2-52	282-285	the	_	_	_	_	
+2-53	286-291	worst	Judgment[4]	neg[4]	Force	up	
+2-54	292-297	sense	Judgment[4]	neg[4]	_	_	
+2-55	298-300	of	_	_	_	_	
+2-56	301-304	the	_	_	_	_	
+2-57	305-309	word	_	_	_	_	
+2-58	309-310	.	_	_	_	_	
+
+#Text=That's what Ms.
+3-1	311-317	That's	_	_	_	_	
+3-2	318-322	what	_	_	_	_	
+3-3	323-325	Ms	_	_	_	_	
+3-4	325-326	.	_	_	_	_	
+
+#Text=Clinton's run told us.Oh, and by the way, women ARE engaged in all facets of the professional world.
+4-1	327-336	Clinton's	_	_	_	_	
+4-2	337-340	run	_	_	_	_	
+4-3	341-345	told	_	_	_	_	
+4-4	346-351	us.Oh	_	_	_	_	
+4-5	351-352	,	_	_	_	_	
+4-6	353-356	and	_	_	_	_	
+4-7	357-359	by	_	_	_	_	
+4-8	360-363	the	_	_	_	_	
+4-9	364-367	way	_	_	_	_	
+4-10	367-368	,	_	_	_	_	
+4-11	369-374	women	_	_	_	_	
+4-12	375-378	ARE	_	_	_	_	
+4-13	379-386	engaged	Appreciation[5]	pos[5]	_	_	
+4-14	387-389	in	Appreciation[5]	pos[5]	_	_	
+4-15	390-393	all	Appreciation[5]	pos[5]	_	_	
+4-16	394-400	facets	Appreciation[5]	pos[5]	_	_	
+4-17	401-403	of	Appreciation[5]	pos[5]	_	_	
+4-18	404-407	the	Appreciation[5]	pos[5]	_	_	
+4-19	408-420	professional	Appreciation[5]	pos[5]	_	_	
+4-20	421-426	world	Appreciation[5]	pos[5]	_	_	
+4-21	426-427	.	_	_	_	_	
+
+#Text=They are Engineers, Lawyers, Doctors, Politicians, Scientists, Business Executives, held in equal esteem to their male colleagues.
+5-1	428-432	They	_	_	_	_	
+5-2	433-436	are	_	_	_	_	
+5-3	437-446	Engineers	_	_	_	_	
+5-4	446-447	,	_	_	_	_	
+5-5	448-455	Lawyers	_	_	_	_	
+5-6	455-456	,	_	_	_	_	
+5-7	457-464	Doctors	_	_	_	_	
+5-8	464-465	,	_	_	_	_	
+5-9	466-477	Politicians	_	_	_	_	
+5-10	477-478	,	_	_	_	_	
+5-11	479-489	Scientists	_	_	_	_	
+5-12	489-490	,	_	_	_	_	
+5-13	491-499	Business	_	_	_	_	
+5-14	500-510	Executives	_	_	_	_	
+5-15	510-511	,	_	_	_	_	
+5-16	512-516	held	Appreciation[6]	pos[6]	_	_	
+5-17	517-519	in	Appreciation[6]	pos[6]	_	_	
+5-18	520-525	equal	Appreciation[6]	pos[6]	_	_	
+5-19	526-532	esteem	Appreciation[6]	pos[6]	_	_	
+5-20	533-535	to	Appreciation[6]	pos[6]	_	_	
+5-21	536-541	their	Appreciation[6]	pos[6]	_	_	
+5-22	542-546	male	Appreciation[6]	pos[6]	_	_	
+5-23	547-557	colleagues	Appreciation[6]	pos[6]	_	_	
+5-24	557-558	.	_	_	_	_	
+
+#Text=The women who do well in their chosen profession don't whine about how hard it was to achieve their station because of their being women.
+6-1	559-562	The	_	_	_	_	
+6-2	563-568	women	_	_	_	_	
+6-3	569-572	who	_	_	_	_	
+6-4	573-575	do	_	_	_	_	
+6-5	576-580	well	_	_	_	_	
+6-6	581-583	in	_	_	_	_	
+6-7	584-589	their	_	_	_	_	
+6-8	590-596	chosen	_	_	_	_	
+6-9	597-607	profession	_	_	_	_	
+6-10	608-613	don't	Judgment[7]	pos[7]	_	_	
+6-11	614-619	whine	Judgment[7]	pos[7]	_	_	
+6-12	620-625	about	Judgment[7]	pos[7]	_	_	
+6-13	626-629	how	Judgment[7]	pos[7]	_	_	
+6-14	630-634	hard	Judgment[7]	pos[7]	_	_	
+6-15	635-637	it	Judgment[7]	pos[7]	_	_	
+6-16	638-641	was	Judgment[7]	pos[7]	_	_	
+6-17	642-644	to	Judgment[7]	pos[7]	_	_	
+6-18	645-652	achieve	Judgment[7]	pos[7]	_	_	
+6-19	653-658	their	Judgment[7]	pos[7]	_	_	
+6-20	659-666	station	Judgment[7]	pos[7]	_	_	
+6-21	667-674	because	_	_	_	_	
+6-22	675-677	of	_	_	_	_	
+6-23	678-683	their	_	_	_	_	
+6-24	684-689	being	_	_	_	_	
+6-25	690-695	women	_	_	_	_	
+6-26	695-696	.	_	_	_	_	
+
+#Text=They.
+7-1	697-701	They	Judgment[8]	pos[8]	_	_	
+7-2	701-702	.	Judgment[8]	pos[8]	_	_	
+
+#Text=Just.
+8-1	703-707	Just	Judgment[8]	pos[8]	_	_	
+8-2	707-708	.	Judgment[8]	pos[8]	_	_	
+
+#Text=Do it.
+9-1	709-711	Do	Judgment[8]	pos[8]	_	_	
+9-2	712-714	it	Judgment[8]	pos[8]	_	_	
+9-3	714-715	.	_	_	_	_	

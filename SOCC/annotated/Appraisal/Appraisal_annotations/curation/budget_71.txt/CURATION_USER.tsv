@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=People see what they want to see and believe what they want to believe.
+1-1	0-6	People	_	_	_	_	
+1-2	7-10	see	Judgment[1]	neg[1]	_	_	
+1-3	11-15	what	Judgment[1]	neg[1]	_	_	
+1-4	16-20	they	Judgment[1]	neg[1]	_	_	
+1-5	21-25	want	Judgment[1]	neg[1]	_	_	
+1-6	26-28	to	Judgment[1]	neg[1]	_	_	
+1-7	29-32	see	Judgment[1]	neg[1]	_	_	
+1-8	33-36	and	Judgment[1]	neg[1]	_	_	
+1-9	37-44	believe	Judgment[1]	neg[1]	_	_	
+1-10	45-49	what	Judgment[1]	neg[1]	_	_	
+1-11	50-54	they	Judgment[1]	neg[1]	_	_	
+1-12	55-59	want	Judgment[1]	neg[1]	_	_	
+1-13	60-62	to	Judgment[1]	neg[1]	_	_	
+1-14	63-70	believe	Judgment[1]	neg[1]	_	_	
+1-15	70-71	.	_	_	_	_	
+
+#Text=The announcement of a budget surplus from the completely untrustworthy Harper administration will not sway all voters, it will merely solidify support in those who already support Harper.
+2-1	72-75	The	_	_	_	_	
+2-2	76-88	announcement	_	_	_	_	
+2-3	89-91	of	_	_	_	_	
+2-4	92-93	a	_	_	_	_	
+2-5	94-100	budget	_	_	_	_	
+2-6	101-108	surplus	_	_	_	_	
+2-7	109-113	from	_	_	_	_	
+2-8	114-117	the	_	_	_	_	
+2-9	118-128	completely	Judgment[2]	neg[2]	Force	up	
+2-10	129-142	untrustworthy	Judgment[2]	neg[2]	_	_	
+2-11	143-149	Harper	_	_	_	_	
+2-12	150-164	administration	_	_	_	_	
+2-13	165-169	will	_	_	_	_	
+2-14	170-173	not	Appreciation[3]	neg[3]	_	_	
+2-15	174-178	sway	Appreciation[3]	neg[3]	_	_	
+2-16	179-182	all	_	_	_	_	
+2-17	183-189	voters	_	_	_	_	
+2-18	189-190	,	_	_	_	_	
+2-19	191-193	it	_	_	_	_	
+2-20	194-198	will	_	_	_	_	
+2-21	199-205	merely	Appreciation[4]	pos[4]	Focus	down	
+2-22	206-214	solidify	Appreciation[4]	pos[4]	_	_	
+2-23	215-222	support	_	_	_	_	
+2-24	223-225	in	_	_	_	_	
+2-25	226-231	those	_	_	_	_	
+2-26	232-235	who	_	_	_	_	
+2-27	236-243	already	_	_	_	_	
+2-28	244-251	support	_	_	_	_	
+2-29	252-258	Harper	_	_	_	_	
+2-30	258-259	.	_	_	_	_	
+
+#Text=What is sad, however, is the brazen manipulation of the truth conducted by Harper in the first place and the fact that anyone at all believes him. 33 days to go and Harper will be gone in any case.
+3-1	260-264	What	_	_	_	_	
+3-2	265-267	is	_	_	_	_	
+3-3	268-271	sad	Affect	neg	_	_	
+3-4	271-272	,	_	_	_	_	
+3-5	273-280	however	_	_	_	_	
+3-6	280-281	,	_	_	_	_	
+3-7	282-284	is	_	_	_	_	
+3-8	285-288	the	_	_	_	_	
+3-9	289-295	brazen	Judgment[6]	neg[6]	_	_	
+3-10	296-308	manipulation	Judgment[6]	neg[6]	_	_	
+3-11	309-311	of	Judgment[6]	neg[6]	_	_	
+3-12	312-315	the	Judgment[6]	neg[6]	_	_	
+3-13	316-321	truth	Judgment[6]	neg[6]	_	_	
+3-14	322-331	conducted	_	_	_	_	
+3-15	332-334	by	_	_	_	_	
+3-16	335-341	Harper	_	_	_	_	
+3-17	342-344	in	_	_	_	_	
+3-18	345-348	the	_	_	_	_	
+3-19	349-354	first	_	_	_	_	
+3-20	355-360	place	_	_	_	_	
+3-21	361-364	and	_	_	_	_	
+3-22	365-368	the	_	_	_	_	
+3-23	369-373	fact	_	_	_	_	
+3-24	374-378	that	_	_	_	_	
+3-25	379-385	anyone	_	_	_	_	
+3-26	386-388	at	_	_	_	_	
+3-27	389-392	all	_	_	_	_	
+3-28	393-401	believes	_	_	_	_	
+3-29	402-405	him	_	_	_	_	
+3-30	405-406	.	_	_	_	_	
+3-31	407-409	33	Appreciation[7]	pos[7]	Force[3]	down[3]	
+3-32	410-414	days	Appreciation[7]	pos[7]	Force[3]	down[3]	
+3-33	415-417	to	Appreciation[7]	pos[7]	_	_	
+3-34	418-420	go	Appreciation[7]	pos[7]	_	_	
+3-35	421-424	and	_	_	_	_	
+3-36	425-431	Harper	_	_	_	_	
+3-37	432-436	will	_	_	_	_	
+3-38	437-439	be	_	_	_	_	
+3-39	440-444	gone	_	_	_	_	
+3-40	445-447	in	_	_	_	_	
+3-41	448-451	any	_	_	_	_	
+3-42	452-456	case	_	_	_	_	
+3-43	456-457	.	_	_	_	_	

@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The Chinese Government seems to think there's a problem with Chinese citizens purchasing property in Vancouver.
+1-1	0-3	The	_	
+1-2	4-11	Chinese	_	
+1-3	12-22	Government	_	
+1-4	23-28	seems	_	
+1-5	29-31	to	_	
+1-6	32-37	think	_	
+1-7	38-45	there's	_	
+1-8	46-47	a	_	
+1-9	48-55	problem	_	
+1-10	56-60	with	_	
+1-11	61-68	Chinese	_	
+1-12	69-77	citizens	_	
+1-13	78-88	purchasing	_	
+1-14	89-97	property	_	
+1-15	98-100	in	_	
+1-16	101-110	Vancouver	_	
+1-17	110-111	.	_	
+
+#Text=Why don't you, Professor?
+2-1	112-115	Why	_	
+2-2	116-121	don't	NEG	
+2-3	122-125	you	SCOPE[2]|FOCUS[3]	
+2-4	125-126	,	_	
+2-5	127-136	Professor	_	
+2-6	136-137	?	_	

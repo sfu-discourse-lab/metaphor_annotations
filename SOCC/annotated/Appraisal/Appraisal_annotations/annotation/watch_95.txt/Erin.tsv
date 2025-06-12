@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=all things considered I'd be more concerned about what harper is doing to this country than distractions like this watch but the globe needs a diverse readership and the hits I guess
+1-1	0-3	all	_	_	
+1-2	4-10	things	_	_	
+1-3	11-21	considered	_	_	
+1-4	22-25	I'd	_	_	
+1-5	26-28	be	_	_	
+1-6	29-33	more	Affect[1]	neg[1]	
+1-7	34-43	concerned	Affect[1]	neg[1]	
+1-8	44-49	about	_	_	
+1-9	50-54	what	_	_	
+1-10	55-61	harper	_	_	
+1-11	62-64	is	_	_	
+1-12	65-70	doing	_	_	
+1-13	71-73	to	_	_	
+1-14	74-78	this	_	_	
+1-15	79-86	country	_	_	
+1-16	87-91	than	_	_	
+1-17	92-104	distractions	Appreciation	neg	
+1-18	105-109	like	_	_	
+1-19	110-114	this	_	_	
+1-20	115-120	watch	_	_	
+1-21	121-124	but	_	_	
+1-22	125-128	the	_	_	
+1-23	129-134	globe	_	_	
+1-24	135-140	needs	Judgment[3]	neg[3]	
+1-25	141-142	a	Judgment[3]	neg[3]	
+1-26	143-150	diverse	Judgment[3]	neg[3]	
+1-27	151-161	readership	Judgment[3]	neg[3]	
+1-28	162-165	and	_	_	
+1-29	166-169	the	_	_	
+1-30	170-174	hits	_	_	
+1-31	175-176	I	_	_	
+1-32	177-182	guess	_	_	

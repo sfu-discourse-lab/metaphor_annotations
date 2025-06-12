@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=@DennisCasaccio,
+#Text=
+#Text=So what do you base your decision on?
+1-1	0-1	@	_	
+1-2	1-15	DennisCasaccio	_	
+1-3	15-16	,	_	
+1-4	18-20	So	_	
+1-5	21-25	what	_	
+1-6	26-28	do	_	
+1-7	29-32	you	_	
+1-8	33-37	base	_	
+1-9	38-42	your	_	
+1-10	43-51	decision	_	
+1-11	52-54	on	_	
+1-12	54-55	?	_	
+
+#Text=You have not seen one in person, nor touched one.
+2-1	56-59	You	_	
+2-2	60-64	have	_	
+2-3	65-68	not	NEG	
+2-4	69-73	seen	SCOPE[2]	
+2-5	74-77	one	SCOPE[2]	
+2-6	78-80	in	SCOPE[2]	
+2-7	81-87	person	SCOPE[2]|FOCUS[3]	
+2-8	87-88	,	_	
+2-9	89-92	nor	NEG	
+2-10	93-100	touched	SCOPE[5]|FOCUS[6]	
+2-11	101-104	one	SCOPE[5]	
+2-12	104-105	.	_	
+
+#Text=And you most likely do not know anyone who has.
+3-1	106-109	And	_	
+3-2	110-113	you	_	
+3-3	114-118	most	_	
+3-4	119-125	likely	_	
+3-5	126-128	do	_	
+3-6	129-132	not	NEG	
+3-7	133-137	know	SCOPE[8]	
+3-8	138-144	anyone	SCOPE[8]	
+3-9	145-148	who	SCOPE[8]	
+3-10	149-152	has	SCOPE[8]|FOCUS[9]	
+3-11	152-153	.	_	
+
+#Text=But even reading the marketing materials from the various manufactures reveals that there are differences.
+4-1	155-158	But	_	
+4-2	159-163	even	_	
+4-3	164-171	reading	_	
+4-4	172-175	the	_	
+4-5	176-185	marketing	_	
+4-6	186-195	materials	_	
+4-7	196-200	from	_	
+4-8	201-204	the	_	
+4-9	205-212	various	_	
+4-10	213-225	manufactures	_	
+4-11	226-233	reveals	_	
+4-12	234-238	that	_	
+4-13	239-244	there	_	
+4-14	245-248	are	_	
+4-15	249-260	differences	_	
+4-16	260-261	.	_	
+
+#Text=Will people find them useful and compelling?
+5-1	262-266	Will	_	
+5-2	267-273	people	_	
+5-3	274-278	find	_	
+5-4	279-283	them	_	
+5-5	284-290	useful	_	
+5-6	291-294	and	_	
+5-7	295-305	compelling	_	
+5-8	305-306	?	_	
+
+#Text=Time will tell.
+6-1	307-311	Time	_	
+6-2	312-316	will	_	
+6-3	317-321	tell	_	
+6-4	321-322	.	_	
+
+#Text=But to pronounce judgement at this point in time is nothing but pure bluster.
+7-1	324-327	But	_	
+7-2	328-330	to	_	
+7-3	331-340	pronounce	_	
+7-4	341-350	judgement	_	
+7-5	351-353	at	_	
+7-6	354-358	this	_	
+7-7	359-364	point	_	
+7-8	365-367	in	_	
+7-9	368-372	time	_	
+7-10	373-375	is	_	
+7-11	376-383	nothing	NEG	
+7-12	384-387	but	_	
+7-13	388-392	pure	_	
+7-14	393-400	bluster	_	
+7-15	400-401	.	_	

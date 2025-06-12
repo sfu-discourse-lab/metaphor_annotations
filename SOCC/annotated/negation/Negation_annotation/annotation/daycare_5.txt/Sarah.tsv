@@ -1,0 +1,153 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Harper promised 15% discount of 1000 dollars spent on children's sports activities.
+1-1	0-6	Harper	_	
+1-2	7-15	promised	_	
+1-3	16-19	15%	_	
+1-4	20-28	discount	_	
+1-5	29-31	of	_	
+1-6	32-36	1000	_	
+1-7	37-44	dollars	_	
+1-8	45-50	spent	_	
+1-9	51-53	on	_	
+1-10	54-64	children's	_	
+1-11	65-71	sports	_	
+1-12	72-82	activities	_	
+1-13	82-83	.	_	
+
+#Text=Mulcair promises 15 dollar a day child care.
+2-1	84-91	Mulcair	_	
+2-2	92-100	promises	_	
+2-3	101-103	15	_	
+2-4	104-110	dollar	_	
+2-5	111-112	a	_	
+2-6	113-116	day	_	
+2-7	117-122	child	_	
+2-8	123-127	care	_	
+2-9	127-128	.	_	
+
+#Text=I will go with Mulcair.
+3-1	129-130	I	_	
+3-2	131-135	will	_	
+3-3	136-138	go	_	
+3-4	139-143	with	_	
+3-5	144-151	Mulcair	_	
+3-6	151-152	.	_	
+
+#Text=Harper helps rich parents who can afford 1000 dollars sports activities per child.
+4-1	153-159	Harper	_	
+4-2	160-165	helps	_	
+4-3	166-170	rich	_	
+4-4	171-178	parents	_	
+4-5	179-182	who	_	
+4-6	183-186	can	_	
+4-7	187-193	afford	_	
+4-8	194-198	1000	_	
+4-9	199-206	dollars	_	
+4-10	207-213	sports	_	
+4-11	214-224	activities	_	
+4-12	225-228	per	_	
+4-13	229-234	child	_	
+4-14	234-235	.	_	
+
+#Text=Mulcair cares for the middle and poor class.
+5-1	236-243	Mulcair	_	
+5-2	244-249	cares	_	
+5-3	250-253	for	_	
+5-4	254-257	the	_	
+5-5	258-264	middle	_	
+5-6	265-268	and	_	
+5-7	269-273	poor	_	
+5-8	274-279	class	_	
+5-9	279-280	.	_	
+
+#Text=Lot of parents could not afford second child because of huge child care expenses.
+6-1	281-284	Lot	_	
+6-2	285-287	of	_	
+6-3	288-295	parents	_	
+6-4	296-301	could	_	
+6-5	302-305	not	NEG	
+6-6	306-312	afford	SCOPE[2]	
+6-7	313-319	second	SCOPE[2]	
+6-8	320-325	child	SCOPE[2]	
+6-9	326-333	because	SCOPE[2]|FOCUS[3]	
+6-10	334-336	of	SCOPE[2]|FOCUS[3]	
+6-11	337-341	huge	SCOPE[2]|FOCUS[3]	
+6-12	342-347	child	SCOPE[2]|FOCUS[3]	
+6-13	348-352	care	SCOPE[2]|FOCUS[3]	
+6-14	353-361	expenses	SCOPE[2]|FOCUS[3]	
+6-15	361-362	.	_	
+
+#Text=We should not entirely depend on the immigration population.
+7-1	363-365	We	_	
+7-2	366-372	should	_	
+7-3	373-376	not	NEG	
+7-4	377-385	entirely	SCOPE[5]	
+7-5	386-392	depend	SCOPE[5]	
+7-6	393-395	on	SCOPE[5]	
+7-7	396-399	the	SCOPE[5]	
+7-8	400-411	immigration	SCOPE[5]|FOCUS[6]	
+7-9	412-422	population	SCOPE[5]	
+7-10	422-423	.	_	
+
+#Text=We need more canadian born people.
+8-1	424-426	We	_	
+8-2	427-431	need	_	
+8-3	432-436	more	_	
+8-4	437-445	canadian	_	
+8-5	446-450	born	_	
+8-6	451-457	people	_	
+8-7	457-458	.	_	
+
+#Text=If there will be any economic armagaddon like greece, all the immigrants will disappear and make the situation worse, but canadian born people will never leave this beautiful country.
+9-1	459-461	If	_	
+9-2	462-467	there	_	
+9-3	468-472	will	_	
+9-4	473-475	be	_	
+9-5	476-479	any	_	
+9-6	480-488	economic	_	
+9-7	489-499	armagaddon	_	
+9-8	500-504	like	_	
+9-9	505-511	greece	_	
+9-10	511-512	,	_	
+9-11	513-516	all	_	
+9-12	517-520	the	_	
+9-13	521-531	immigrants	_	
+9-14	532-536	will	_	
+9-15	537-546	disappear	_	
+9-16	547-550	and	_	
+9-17	551-555	make	_	
+9-18	556-559	the	_	
+9-19	560-569	situation	_	
+9-20	570-575	worse	_	
+9-21	575-576	,	_	
+9-22	577-580	but	_	
+9-23	581-589	canadian	_	
+9-24	590-594	born	_	
+9-25	595-601	people	_	
+9-26	602-606	will	_	
+9-27	607-612	never	NEG	
+9-28	613-618	leave	SCOPE[8]	
+9-29	619-623	this	SCOPE[8]|FOCUS[9]	
+9-30	624-633	beautiful	SCOPE[8]|FOCUS[9]	
+9-31	634-641	country	SCOPE[8]|FOCUS[9]	
+9-32	641-642	.	_	
+
+#Text=Thomas, Bring it on.
+10-1	643-649	Thomas	_	
+10-2	649-650	,	_	
+10-3	651-656	Bring	_	
+10-4	657-659	it	_	
+10-5	660-662	on	_	
+10-6	662-663	.	_	
+
+#Text=You are the next prime minister.
+11-1	664-667	You	_	
+11-2	668-671	are	_	
+11-3	672-675	the	_	
+11-4	676-680	next	_	
+11-5	681-686	prime	_	
+11-6	687-695	minister	_	
+11-7	695-696	.	_	

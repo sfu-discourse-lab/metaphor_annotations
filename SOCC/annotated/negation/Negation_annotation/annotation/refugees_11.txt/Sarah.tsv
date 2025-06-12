@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=After they reach a safe country, i.e.
+1-1	0-5	After	_	
+1-2	6-10	they	_	
+1-3	11-16	reach	_	
+1-4	17-18	a	_	
+1-5	19-23	safe	_	
+1-6	24-31	country	_	
+1-7	31-32	,	_	
+1-8	33-36	i.e	_	
+1-9	36-37	.	_	
+
+#Text=Turkey, they're no longer refugees.
+2-1	38-44	Turkey	_	
+2-2	44-45	,	_	
+2-3	46-53	they're	_	
+2-4	54-56	no	NEG	
+2-5	57-63	longer	SCOPE[2]	
+2-6	64-72	refugees	SCOPE[2]|FOCUS[3]	
+2-7	72-73	.	_	
+
+#Text=They are economic migrants.
+3-1	74-78	They	_	
+3-2	79-82	are	_	
+3-3	83-91	economic	_	
+3-4	92-100	migrants	_	
+3-5	100-101	.	_	

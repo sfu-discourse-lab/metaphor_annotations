@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Fact: The Conservative federal debt in 2008-09 = $457.6-billion.Fact: The expected Conservative debt in 2014-15 = $616.0-billion.Fact: 24% of the total accumulated debt since Confederation was amassed under Stephen Harper.
+1-1	0-4	Fact	_	_	_	_	
+1-2	4-5	:	_	_	_	_	
+1-3	6-9	The	_	_	_	_	
+1-4	10-22	Conservative	_	_	_	_	
+1-5	23-30	federal	_	_	_	_	
+1-6	31-35	debt	_	_	_	_	
+1-7	36-38	in	_	_	_	_	
+1-8	39-43	2008	_	_	_	_	
+1-9	43-44	-	_	_	_	_	
+1-10	44-46	09	_	_	_	_	
+1-11	47-48	=	_	_	_	_	
+1-12	49-55	$457.6	_	_	_	_	
+1-13	55-56	-	_	_	_	_	
+1-14	56-68	billion.Fact	_	_	_	_	
+1-15	68-69	:	_	_	_	_	
+1-16	70-73	The	_	_	_	_	
+1-17	74-82	expected	_	_	_	_	
+1-18	83-95	Conservative	_	_	_	_	
+1-19	96-100	debt	_	_	_	_	
+1-20	101-103	in	_	_	_	_	
+1-21	104-108	2014	_	_	_	_	
+1-22	108-109	-	_	_	_	_	
+1-23	109-111	15	_	_	_	_	
+1-24	112-113	=	_	_	_	_	
+1-25	114-120	$616.0	_	_	_	_	
+1-26	120-121	-	_	_	_	_	
+1-27	121-133	billion.Fact	_	_	_	_	
+1-28	133-134	:	_	_	_	_	
+1-29	135-138	24%	_	_	_	_	
+1-30	139-141	of	_	_	_	_	
+1-31	142-145	the	_	_	_	_	
+1-32	146-151	total	_	_	_	_	
+1-33	152-163	accumulated	_	_	_	_	
+1-34	164-168	debt	_	_	_	_	
+1-35	169-174	since	_	_	_	_	
+1-36	175-188	Confederation	_	_	_	_	
+1-37	189-192	was	_	_	_	_	
+1-38	193-200	amassed	_	_	_	_	
+1-39	201-206	under	_	_	_	_	
+1-40	207-214	Stephen	_	_	_	_	
+1-41	215-221	Harper	_	_	_	_	
+1-42	221-222	.	_	_	_	_	
+
+#Text=This is not a surprise surplus.
+2-1	223-227	This	_	_	_	_	
+2-2	228-230	is	_	_	_	_	
+2-3	231-234	not	Appreciation[1]	neg[1]	_	_	
+2-4	235-236	a	Appreciation[1]	neg[1]	_	_	
+2-5	237-245	surprise	Appreciation[1]	neg[1]	_	_	
+2-6	246-253	surplus	Appreciation[1]	neg[1]	_	_	
+2-7	253-254	.	_	_	_	_	
+
+#Text=It is a political surplus and not a meaningful one as it only represents .7% of Canada's economy.
+3-1	255-257	It	_	_	_	_	
+3-2	258-260	is	_	_	_	_	
+3-3	261-262	a	_	_	_	_	
+3-4	263-272	political	Appreciation	neg	_	_	
+3-5	273-280	surplus	_	_	_	_	
+3-6	281-284	and	_	_	_	_	
+3-7	285-288	not	Appreciation[3]	neg[3]	_	_	
+3-8	289-290	a	Appreciation[3]	neg[3]	_	_	
+3-9	291-301	meaningful	Appreciation[3]	neg[3]	_	_	
+3-10	302-305	one	_	_	_	_	
+3-11	306-308	as	_	_	_	_	
+3-12	309-311	it	_	_	_	_	
+3-13	312-316	only	_	_	_	_	
+3-14	317-327	represents	_	_	_	_	
+3-15	328-331	.7%	_	_	_	_	
+3-16	332-334	of	_	_	_	_	
+3-17	335-343	Canada's	_	_	_	_	
+3-18	344-351	economy	_	_	_	_	
+3-19	351-352	.	_	_	_	_	
+
+#Text=It would take 80 years of $2 billion surprise surpluses to pay down Harper's contribution to the national debt.
+4-1	353-355	It	_	_	_	_	
+4-2	356-361	would	Appreciation[4]	neg[4]	_	_	
+4-3	362-366	take	Appreciation[4]	neg[4]	_	_	
+4-4	367-369	80	Appreciation[4]	neg[4]	_	_	
+4-5	370-375	years	Appreciation[4]	neg[4]	_	_	
+4-6	376-378	of	Appreciation[4]	neg[4]	_	_	
+4-7	379-381	$2	Appreciation[4]	neg[4]	_	_	
+4-8	382-389	billion	Appreciation[4]	neg[4]	_	_	
+4-9	390-398	surprise	Appreciation[4]	neg[4]	_	_	
+4-10	399-408	surpluses	Appreciation[4]	neg[4]	_	_	
+4-11	409-411	to	Appreciation[4]	neg[4]	_	_	
+4-12	412-415	pay	Appreciation[4]	neg[4]	_	_	
+4-13	416-420	down	Appreciation[4]	neg[4]	_	_	
+4-14	421-429	Harper's	Appreciation[4]	neg[4]	_	_	
+4-15	430-442	contribution	Appreciation[4]	neg[4]	_	_	
+4-16	443-445	to	Appreciation[4]	neg[4]	_	_	
+4-17	446-449	the	Appreciation[4]	neg[4]	_	_	
+4-18	450-458	national	Appreciation[4]	neg[4]	_	_	
+4-19	459-463	debt	Appreciation[4]	neg[4]	_	_	
+4-20	463-464	.	_	_	_	_	
+
+#Text=That doesn't account for the interest payments and doesn't consider that he only achieved one surplus in 7 years.
+5-1	465-469	That	_	_	_	_	
+5-2	470-477	doesn't	_	_	_	_	
+5-3	478-485	account	_	_	_	_	
+5-4	486-489	for	_	_	_	_	
+5-5	490-493	the	_	_	_	_	
+5-6	494-502	interest	_	_	_	_	
+5-7	503-511	payments	_	_	_	_	
+5-8	512-515	and	_	_	_	_	
+5-9	516-523	doesn't	_	_	_	_	
+5-10	524-532	consider	_	_	_	_	
+5-11	533-537	that	_	_	_	_	
+5-12	538-540	he	_	_	_	_	
+5-13	541-545	only	Judgment[5]	neg[5]	Focus	up	
+5-14	546-554	achieved	Judgment[5]	neg[5]	_	_	
+5-15	555-558	one	Judgment[5]	neg[5]	_	_	
+5-16	559-566	surplus	Judgment[5]	neg[5]	_	_	
+5-17	567-569	in	Judgment[5]	neg[5]	_	_	
+5-18	570-571	7	Judgment[5]	neg[5]	_	_	
+5-19	572-577	years	Judgment[5]	neg[5]	_	_	
+5-20	577-578	.	_	_	_	_	
+
+#Text=That would mean we need 560 years of Harper 'protecting our economy' to pay down his portion of the national debt.
+6-1	579-583	That	_	_	_	_	
+6-2	584-589	would	_	_	_	_	
+6-3	590-594	mean	_	_	_	_	
+6-4	595-597	we	_	_	_	_	
+6-5	598-602	need	Appreciation[6]	neg[6]	_	_	
+6-6	603-606	560	Appreciation[6]	neg[6]	_	_	
+6-7	607-612	years	Appreciation[6]	neg[6]	_	_	
+6-8	613-615	of	Appreciation[6]	neg[6]	_	_	
+6-9	616-622	Harper	Appreciation[6]	neg[6]	_	_	
+6-10	623-624	'	Appreciation[6]	neg[6]	_	_	
+6-11	624-634	protecting	Appreciation[6]|Judgment[7]	neg[6]|neg[7]	_	_	
+6-12	635-638	our	Appreciation[6]|Judgment[7]	neg[6]|neg[7]	_	_	
+6-13	639-646	economy	Appreciation[6]|Judgment[7]	neg[6]|neg[7]	_	_	
+6-14	646-647	'	Appreciation[6]	neg[6]	_	_	
+6-15	648-650	to	Appreciation[6]	neg[6]	_	_	
+6-16	651-654	pay	Appreciation[6]	neg[6]	_	_	
+6-17	655-659	down	Appreciation[6]	neg[6]	_	_	
+6-18	660-663	his	Appreciation[6]	neg[6]	_	_	
+6-19	664-671	portion	Appreciation[6]	neg[6]	_	_	
+6-20	672-674	of	Appreciation[6]	neg[6]	_	_	
+6-21	675-678	the	Appreciation[6]	neg[6]	_	_	
+6-22	679-687	national	Appreciation[6]	neg[6]	_	_	
+6-23	688-692	debt	Appreciation[6]	neg[6]	_	_	
+6-24	692-693	.	_	_	_	_	

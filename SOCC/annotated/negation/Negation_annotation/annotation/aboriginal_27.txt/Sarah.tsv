@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I agree with her that the problems stem from colonialism - more specifically, residential schools.
+1-1	0-1	I	_	
+1-2	2-7	agree	_	
+1-3	8-12	with	_	
+1-4	13-16	her	_	
+1-5	17-21	that	_	
+1-6	22-25	the	_	
+1-7	26-34	problems	_	
+1-8	35-39	stem	_	
+1-9	40-44	from	_	
+1-10	45-56	colonialism	_	
+1-11	57-58	-	_	
+1-12	59-63	more	_	
+1-13	64-76	specifically	_	
+1-14	76-77	,	_	
+1-15	78-89	residential	_	
+1-16	90-97	schools	_	
+1-17	97-98	.	_	
+
+#Text=The survivors can't parent because they never experienced good parenting.
+2-1	100-103	The	_	
+2-2	104-113	survivors	_	
+2-3	114-119	can't	NEG	
+2-4	120-126	parent	SCOPE[2]	
+2-5	127-134	because	SCOPE[2]|FOCUS[3]	
+2-6	135-139	they	SCOPE[2]|FOCUS[3]	
+2-7	140-145	never	SCOPE[2]|FOCUS[3]|NEG[4]	
+2-8	146-157	experienced	SCOPE[2]|FOCUS[3]|SCOPE[5]	
+2-9	158-162	good	SCOPE[2]|FOCUS[3]|SCOPE[5]|FOCUS[6]	
+2-10	163-172	parenting	SCOPE[2]|FOCUS[3]|SCOPE[5]	
+2-11	172-173	.	_	
+
+#Text=Plus they're traumatized and poor.
+3-1	175-179	Plus	_	
+3-2	180-187	they're	_	
+3-3	188-199	traumatized	_	
+3-4	200-203	and	_	
+3-5	204-208	poor	_	
+3-6	208-209	.	_	
+
+#Text=Its complete dysfunction.The solution doesn't lie in decolonizing (not gonna happen) but its good and healing to point out that its not their fault.
+4-1	211-214	Its	_	
+4-2	215-223	complete	_	
+4-3	224-239	dysfunction.The	_	
+4-4	240-248	solution	_	
+4-5	249-256	doesn't	NEG	
+4-6	257-260	lie	SCOPE[8]	
+4-7	261-263	in	SCOPE[8]	
+4-8	264-276	decolonizing	SCOPE[8]|FOCUS[9]	
+4-9	277-278	(	_	
+4-10	278-281	not	NEG	
+4-11	282-287	gonna	SCOPE[11]	
+4-12	288-294	happen	SCOPE[11]|FOCUS[12]	
+4-13	294-295	)	_	
+4-14	296-299	but	_	
+4-15	300-303	its	_	
+4-16	304-308	good	_	
+4-17	309-312	and	_	
+4-18	313-320	healing	_	
+4-19	321-323	to	_	
+4-20	324-329	point	_	
+4-21	330-333	out	_	
+4-22	334-338	that	_	
+4-23	339-342	its	_	
+4-24	343-346	not	NEG	
+4-25	347-352	their	SCOPE[14]	
+4-26	353-358	fault	SCOPE[14]|FOCUS[15]	
+4-27	358-359	.	_	

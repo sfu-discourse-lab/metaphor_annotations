@@ -1,0 +1,214 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text='More than 1,000 of the newcomers are living in temporary housing.
+1-1	0-1	'	_	
+1-2	1-5	More	_	
+1-3	6-10	than	_	
+1-4	11-16	1,000	_	
+1-5	17-19	of	_	
+1-6	20-23	the	_	
+1-7	24-33	newcomers	_	
+1-8	34-37	are	_	
+1-9	38-44	living	_	
+1-10	45-47	in	_	
+1-11	48-57	temporary	_	
+1-12	58-65	housing	_	
+1-13	65-66	.	_	
+
+#Text=And we still have a shortage of family doctors, a lack of proper dental care for low-income adults and a lack of subsidized daycare spaces for parents...'
+2-1	67-70	And	_	
+2-2	71-73	we	_	
+2-3	74-79	still	_	
+2-4	80-84	have	_	
+2-5	85-86	a	_	
+2-6	87-95	shortage	_	
+2-7	96-98	of	_	
+2-8	99-105	family	_	
+2-9	106-113	doctors	_	
+2-10	113-114	,	_	
+2-11	115-116	a	_	
+2-12	117-121	lack	NEG	
+2-13	122-124	of	SCOPE[2]	
+2-14	125-131	proper	SCOPE[2]	
+2-15	132-138	dental	SCOPE[2]	
+2-16	139-143	care	SCOPE[2]	
+2-17	144-147	for	SCOPE[2]	
+2-18	148-158	low-income	SCOPE[2]|FOCUS[3]	
+2-19	159-165	adults	SCOPE[2]	
+2-20	166-169	and	_	
+2-21	170-171	a	_	
+2-22	172-176	lack	NEG	
+2-23	177-179	of	SCOPE[5]	
+2-24	180-190	subsidized	SCOPE[5]|FOCUS[6]	
+2-25	191-198	daycare	SCOPE[5]	
+2-26	199-205	spaces	SCOPE[5]	
+2-27	206-209	for	SCOPE[5]	
+2-28	210-217	parents	SCOPE[5]	
+2-29	217-218	.	_	
+2-30	218-219	.	_	
+2-31	219-220	.	_	
+2-32	220-221	'	_	
+
+#Text=Meanwhile, by some estimates 200,000 Canadian are either homeless or insecurely housed.
+3-1	221-230	Meanwhile	_	
+3-2	230-231	,	_	
+3-3	232-234	by	_	
+3-4	235-239	some	_	
+3-5	240-249	estimates	_	
+3-6	250-257	200,000	_	
+3-7	258-266	Canadian	_	
+3-8	267-270	are	_	
+3-9	271-277	either	_	
+3-10	278-286	homeless	_	
+3-11	287-289	or	_	
+3-12	290-300	insecurely	_	
+3-13	301-307	housed	_	
+3-14	307-308	.	_	
+
+#Text=And hundreds of thousands more pay in excess of 50% of the income on rent and are a paycheque away from eviction.
+4-1	309-312	And	_	
+4-2	313-321	hundreds	_	
+4-3	322-324	of	_	
+4-4	325-334	thousands	_	
+4-5	335-339	more	_	
+4-6	340-343	pay	_	
+4-7	344-346	in	_	
+4-8	347-353	excess	_	
+4-9	354-356	of	_	
+4-10	357-360	50%	_	
+4-11	361-363	of	_	
+4-12	364-367	the	_	
+4-13	368-374	income	_	
+4-14	375-377	on	_	
+4-15	378-382	rent	_	
+4-16	383-386	and	_	
+4-17	387-390	are	_	
+4-18	391-392	a	_	
+4-19	393-402	paycheque	_	
+4-20	403-407	away	_	
+4-21	408-412	from	_	
+4-22	413-421	eviction	_	
+4-23	421-422	.	_	
+
+#Text=There is no right to housing in Canada for Canadians.
+5-1	423-428	There	_	
+5-2	429-431	is	_	
+5-3	432-434	no	NEG	
+5-4	435-440	right	SCOPE[8]	
+5-5	441-443	to	SCOPE[8]	
+5-6	444-451	housing	SCOPE[8]	
+5-7	452-454	in	SCOPE[8]	
+5-8	455-461	Canada	SCOPE[8]	
+5-9	462-465	for	SCOPE[8]	
+5-10	466-475	Canadians	SCOPE[8]|FOCUS[9]	
+5-11	475-476	.	_	
+
+#Text=Why should there be such a right for others?
+6-1	477-480	Why	_	
+6-2	481-487	should	_	
+6-3	488-493	there	_	
+6-4	494-496	be	_	
+6-5	497-501	such	_	
+6-6	502-503	a	_	
+6-7	504-509	right	_	
+6-8	510-513	for	_	
+6-9	514-520	others	_	
+6-10	520-521	?	_	
+
+#Text=As for medical care, millions of Canadians lack a family doctor and millions of low-income Canadians have no access to affordable dental care.
+7-1	522-524	As	_	
+7-2	525-528	for	_	
+7-3	529-536	medical	_	
+7-4	537-541	care	_	
+7-5	541-542	,	_	
+7-6	543-551	millions	_	
+7-7	552-554	of	_	
+7-8	555-564	Canadians	_	
+7-9	565-569	lack	NEG	
+7-10	570-571	a	SCOPE[11]|FOCUS[12]	
+7-11	572-578	family	SCOPE[11]|FOCUS[12]	
+7-12	579-585	doctor	SCOPE[11]|FOCUS[12]	
+7-13	586-589	and	_	
+7-14	590-598	millions	_	
+7-15	599-601	of	_	
+7-16	602-612	low-income	_	
+7-17	613-622	Canadians	_	
+7-18	623-627	have	_	
+7-19	628-630	no	NEG	
+7-20	631-637	access	SCOPE[14]	
+7-21	638-640	to	SCOPE[14]	
+7-22	641-651	affordable	SCOPE[14]|FOCUS[15]	
+7-23	652-658	dental	SCOPE[14]	
+7-24	659-663	care	SCOPE[14]	
+7-25	663-664	.	_	
+
+#Text=And daycare availability is spotty, to say the least.
+8-1	665-668	And	_	
+8-2	669-676	daycare	_	
+8-3	677-689	availability	_	
+8-4	690-692	is	_	
+8-5	693-699	spotty	_	
+8-6	699-700	,	_	
+8-7	701-703	to	_	
+8-8	704-707	say	_	
+8-9	708-711	the	_	
+8-10	712-717	least	_	
+8-11	717-718	.	_	
+
+#Text=The author appears to lack perspective.
+9-1	719-722	The	_	
+9-2	723-729	author	_	
+9-3	730-737	appears	_	
+9-4	738-740	to	_	
+9-5	741-745	lack	NEG	
+9-6	746-757	perspective	SCOPE[17]|FOCUS[18]	
+9-7	757-758	.	_	
+
+#Text=Canada is in the bottom third of OECD countries in social program spending calculated as a percentage of GDP.
+10-1	759-765	Canada	_	
+10-2	766-768	is	_	
+10-3	769-771	in	_	
+10-4	772-775	the	_	
+10-5	776-782	bottom	_	
+10-6	783-788	third	_	
+10-7	789-791	of	_	
+10-8	792-796	OECD	_	
+10-9	797-806	countries	_	
+10-10	807-809	in	_	
+10-11	810-816	social	_	
+10-12	817-824	program	_	
+10-13	825-833	spending	_	
+10-14	834-844	calculated	_	
+10-15	845-847	as	_	
+10-16	848-849	a	_	
+10-17	850-860	percentage	_	
+10-18	861-863	of	_	
+10-19	864-867	GDP	_	
+10-20	867-868	.	_	
+
+#Text=It's not a very generous country to its own disadvantaged citizens.
+11-1	869-873	It's	_	
+11-2	874-877	not	NEG	
+11-3	878-879	a	SCOPE[20]	
+11-4	880-884	very	SCOPE[20]	
+11-5	885-893	generous	SCOPE[20]	
+11-6	894-901	country	SCOPE[20]	
+11-7	902-904	to	SCOPE[20]	
+11-8	905-908	its	SCOPE[20]	
+11-9	909-912	own	SCOPE[20]|FOCUS[21]	
+11-10	913-926	disadvantaged	SCOPE[20]	
+11-11	927-935	citizens	SCOPE[20]	
+11-12	935-936	.	_	
+
+#Text=Sorry, but that's the way it is.
+12-1	937-942	Sorry	_	
+12-2	942-943	,	_	
+12-3	944-947	but	_	
+12-4	948-954	that's	_	
+12-5	955-958	the	_	
+12-6	959-962	way	_	
+12-7	963-965	it	_	
+12-8	966-968	is	_	
+12-9	968-969	.	_	

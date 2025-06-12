@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Wow, Seiko's cost that much?
+1-1	0-3	Wow	
+1-2	3-4	,	
+1-3	5-12	Seiko's	
+1-4	13-17	cost	
+1-5	18-22	that	
+1-6	23-27	much	
+1-7	27-28	?	
+
+#Text=For half that you can buy a 75 year old Bulova, which will run another 75 years.
+2-1	30-33	For	
+2-2	34-38	half	
+2-3	39-43	that	
+2-4	44-47	you	
+2-5	48-51	can	
+2-6	52-55	buy	
+2-7	56-57	a	
+2-8	58-60	75	
+2-9	61-65	year	
+2-10	66-69	old	
+2-11	70-76	Bulova	
+2-12	76-77	,	
+2-13	78-83	which	
+2-14	84-88	will	
+2-15	89-92	run	
+2-16	93-100	another	
+2-17	101-103	75	
+2-18	104-109	years	
+2-19	109-110	.	

@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=What do we have that the Americans need?
+1-1	0-4	What	
+1-2	5-7	do	
+1-3	8-10	we	
+1-4	11-15	have	
+1-5	16-20	that	
+1-6	21-24	the	
+1-7	25-34	Americans	
+1-8	35-39	need	
+1-9	39-40	?	
+
+#Text=Water.
+2-1	42-47	Water	
+2-2	47-48	.	
+
+#Text=Trump's going to tie any trade deal we want with building a water pipeline from Canada to B.C.
+3-1	50-57	Trump's	
+3-2	58-63	going	
+3-3	64-66	to	
+3-4	67-70	tie	
+3-5	71-74	any	
+3-6	75-80	trade	
+3-7	81-85	deal	
+3-8	86-88	we	
+3-9	89-93	want	
+3-10	94-98	with	
+3-11	99-107	building	
+3-12	108-109	a	
+3-13	110-115	water	
+3-14	116-124	pipeline	
+3-15	125-129	from	
+3-16	130-136	Canada	
+3-17	137-139	to	
+3-18	140-143	B.C	
+3-19	143-144	.	
