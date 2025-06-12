@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Unfortunately, this child was taken from her home because she kept running away from the help her family (aunt) was trying to provide.
+1-1	0-13	Unfortunately	Appreciation	neg	
+1-2	13-14	,	_	_	
+1-3	15-19	this	_	_	
+1-4	20-25	child	_	_	
+1-5	26-29	was	_	_	
+1-6	30-35	taken	_	_	
+1-7	36-40	from	_	_	
+1-8	41-44	her	_	_	
+1-9	45-49	home	_	_	
+1-10	50-57	because	_	_	
+1-11	58-61	she	_	_	
+1-12	62-66	kept	Judgment[2]	neg[2]	
+1-13	67-74	running	Judgment[2]	neg[2]	
+1-14	75-79	away	Judgment[2]	neg[2]	
+1-15	80-84	from	Judgment[2]	neg[2]	
+1-16	85-88	the	Judgment[2]	neg[2]	
+1-17	89-93	help	Judgment[2]	neg[2]	
+1-18	94-97	her	_	_	
+1-19	98-104	family	_	_	
+1-20	105-106	(	_	_	
+1-21	106-110	aunt	_	_	
+1-22	110-111	)	_	_	
+1-23	112-115	was	_	_	
+1-24	116-122	trying	Judgment[3]	pos[3]	
+1-25	123-125	to	Judgment[3]	pos[3]	
+1-26	126-133	provide	Judgment[3]	pos[3]	
+1-27	133-134	.	_	_	
+
+#Text=Her aunt requested the help of social services.
+2-1	135-138	Her	_	_	
+2-2	139-143	aunt	_	_	
+2-3	144-153	requested	Judgment[4]	pos[4]	
+2-4	154-157	the	Judgment[4]	pos[4]	
+2-5	158-162	help	Judgment[4]	pos[4]	
+2-6	163-165	of	_	_	
+2-7	166-172	social	_	_	
+2-8	173-181	services	_	_	
+2-9	181-182	.	_	_	
+
+#Text=The child ran away from them too.
+3-1	183-186	The	_	_	
+3-2	187-192	child	_	_	
+3-3	193-196	ran	Judgment[5]	neg[5]	
+3-4	197-201	away	Judgment[5]	neg[5]	
+3-5	202-206	from	_	_	
+3-6	207-211	them	_	_	
+3-7	212-215	too	_	_	
+3-8	215-216	.	_	_	
+
+#Text=More First Nations children are being scooped today than ever before, because of family dysfunction.
+4-1	217-221	More	_	_	
+4-2	222-227	First	_	_	
+4-3	228-235	Nations	_	_	
+4-4	236-244	children	_	_	
+4-5	245-248	are	_	_	
+4-6	249-254	being	_	_	
+4-7	255-262	scooped	Appreciation	neg	
+4-8	263-268	today	_	_	
+4-9	269-273	than	_	_	
+4-10	274-278	ever	_	_	
+4-11	279-285	before	_	_	
+4-12	285-286	,	_	_	
+4-13	287-294	because	_	_	
+4-14	295-297	of	_	_	
+4-15	298-304	family	_	_	
+4-16	305-316	dysfunction	Appreciation	neg	
+4-17	316-317	.	_	_	

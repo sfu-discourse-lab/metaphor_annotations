@@ -1,0 +1,329 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Your article 'As technology marches'. . . mirrors my own emotional / psychological experience of technology.
+1-1	0-4	Your	_	_	
+1-2	5-12	article	_	_	
+1-3	13-14	'	_	_	
+1-4	14-16	As	_	_	
+1-5	17-27	technology	_	_	
+1-6	28-35	marches	_	_	
+1-7	35-36	'	_	_	
+1-8	36-37	.	_	_	
+1-9	38-39	.	_	_	
+1-10	40-41	.	_	_	
+1-11	42-49	mirrors	Appreciation[1]	pos[1]	
+1-12	50-52	my	Appreciation[1]	pos[1]	
+1-13	53-56	own	Appreciation[1]	pos[1]	
+1-14	57-66	emotional	Appreciation[1]	pos[1]	
+1-15	67-68	/	Appreciation[1]	pos[1]	
+1-16	69-82	psychological	Appreciation[1]	pos[1]	
+1-17	83-93	experience	Appreciation[1]	pos[1]	
+1-18	94-96	of	_	_	
+1-19	97-107	technology	_	_	
+1-20	107-108	.	_	_	
+
+#Text=How do you put AC Milan, Chelsea FC &amp; Vancouver Canucks in the same sentence?
+2-1	109-112	How	Judgment[2]	neg[2]	
+2-2	113-115	do	Judgment[2]	neg[2]	
+2-3	116-119	you	Judgment[2]	neg[2]	
+2-4	120-123	put	Judgment[2]	neg[2]	
+2-5	124-126	AC	Judgment[2]	neg[2]	
+2-6	127-132	Milan	Judgment[2]	neg[2]	
+2-7	132-133	,	Judgment[2]	neg[2]	
+2-8	134-141	Chelsea	Judgment[2]	neg[2]	
+2-9	142-144	FC	Judgment[2]	neg[2]	
+2-10	145-146	&	Judgment[2]	neg[2]	
+2-11	146-149	amp	Judgment[2]	neg[2]	
+2-12	149-150	;	Judgment[2]	neg[2]	
+2-13	151-160	Vancouver	Judgment[2]	neg[2]	
+2-14	161-168	Canucks	Judgment[2]	neg[2]	
+2-15	169-171	in	Judgment[2]	neg[2]	
+2-16	172-175	the	Judgment[2]	neg[2]	
+2-17	176-180	same	Judgment[2]	neg[2]	
+2-18	181-189	sentence	Judgment[2]	neg[2]	
+2-19	189-190	?	_	_	
+
+#Text=Thought Technology Ltd.!
+3-1	191-198	Thought	_	_	
+3-2	199-209	Technology	_	_	
+3-3	210-213	Ltd	_	_	
+3-4	213-214	.	_	_	
+3-5	214-215	!	_	_	
+
+#Text=http://tinyurl.com/l5866xcWe are in our 41st year, as a Medical Instrumentation Manufacturer.
+4-1	216-220	http	_	_	
+4-2	220-221	:	_	_	
+4-3	221-222	/	_	_	
+4-4	222-223	/	_	_	
+4-5	223-234	tinyurl.com	_	_	
+4-6	234-235	/	_	_	
+4-7	235-244	l5866xcWe	_	_	
+4-8	245-248	are	_	_	
+4-9	249-251	in	_	_	
+4-10	252-255	our	_	_	
+4-11	256-260	41st	_	_	
+4-12	261-265	year	_	_	
+4-13	265-266	,	_	_	
+4-14	267-269	as	_	_	
+4-15	270-271	a	_	_	
+4-16	272-279	Medical	_	_	
+4-17	280-295	Instrumentation	_	_	
+4-18	296-308	Manufacturer	_	_	
+4-19	308-309	.	_	_	
+
+#Text=The Biofeedback Federation of Europe BFE Annual Meeting - March 24-28, 2015 - Rome Meet the Presenters - Workshop Abstracts -http://bfe-meeting.blogspot.ca/p/workshop-abstracts.htmlThe BFE will host 2 two day Elite Sport Performance Workshops:http://bfe-meeting.blogspot.ca/2014/12/workshop-dr-lindsay-thornton.html - Workshop - Dr.
+5-1	310-313	The	_	_	
+5-2	314-325	Biofeedback	_	_	
+5-3	326-336	Federation	_	_	
+5-4	337-339	of	_	_	
+5-5	340-346	Europe	_	_	
+5-6	347-350	BFE	_	_	
+5-7	351-357	Annual	_	_	
+5-8	358-365	Meeting	_	_	
+5-9	366-367	-	_	_	
+5-10	368-373	March	_	_	
+5-11	374-376	24	_	_	
+5-12	376-377	-	_	_	
+5-13	377-379	28	_	_	
+5-14	379-380	,	_	_	
+5-15	381-385	2015	_	_	
+5-16	386-387	-	_	_	
+5-17	388-392	Rome	_	_	
+5-18	393-397	Meet	_	_	
+5-19	398-401	the	_	_	
+5-20	402-412	Presenters	_	_	
+5-21	413-414	-	_	_	
+5-22	415-423	Workshop	_	_	
+5-23	424-433	Abstracts	_	_	
+5-24	434-435	-	_	_	
+5-25	435-439	http	_	_	
+5-26	439-440	:	_	_	
+5-27	440-441	/	_	_	
+5-28	441-442	/	_	_	
+5-29	442-465	bfe-meeting.blogspot.ca	_	_	
+5-30	465-466	/	_	_	
+5-31	466-467	p	_	_	
+5-32	467-468	/	_	_	
+5-33	468-494	workshop-abstracts.htmlThe	_	_	
+5-34	495-498	BFE	_	_	
+5-35	499-503	will	_	_	
+5-36	504-508	host	_	_	
+5-37	509-510	2	_	_	
+5-38	511-514	two	_	_	
+5-39	515-518	day	_	_	
+5-40	519-524	Elite	_	_	
+5-41	525-530	Sport	_	_	
+5-42	531-542	Performance	_	_	
+5-43	543-552	Workshops	_	_	
+5-44	552-553	:	_	_	
+5-45	553-557	http	_	_	
+5-46	557-558	:	_	_	
+5-47	558-559	/	_	_	
+5-48	559-560	/	_	_	
+5-49	560-583	bfe-meeting.blogspot.ca	_	_	
+5-50	583-584	/	_	_	
+5-51	584-588	2014	_	_	
+5-52	588-589	/	_	_	
+5-53	589-591	12	_	_	
+5-54	591-592	/	_	_	
+5-55	592-625	workshop-dr-lindsay-thornton.html	_	_	
+5-56	626-627	-	_	_	
+5-57	628-636	Workshop	_	_	
+5-58	637-638	-	_	_	
+5-59	639-641	Dr	_	_	
+5-60	641-642	.	_	_	
+
+#Text=Lindsay Thorntonhttp://bfe-meeting.blogspot.ca/2015/01/workshop-dr-penny-werthner.html - Workshop - Dr.
+6-1	643-650	Lindsay	_	_	
+6-2	651-663	Thorntonhttp	_	_	
+6-3	663-664	:	_	_	
+6-4	664-665	/	_	_	
+6-5	665-666	/	_	_	
+6-6	666-689	bfe-meeting.blogspot.ca	_	_	
+6-7	689-690	/	_	_	
+6-8	690-694	2015	_	_	
+6-9	694-695	/	_	_	
+6-10	695-697	01	_	_	
+6-11	697-698	/	_	_	
+6-12	698-729	workshop-dr-penny-werthner.html	_	_	
+6-13	730-731	-	_	_	
+6-14	732-740	Workshop	_	_	
+6-15	741-742	-	_	_	
+6-16	743-745	Dr	_	_	
+6-17	745-746	.	_	_	
+
+#Text=Penny Werther &amp; Marc Saab, MEng.
+7-1	747-752	Penny	_	_	
+7-2	753-760	Werther	_	_	
+7-3	761-762	&	_	_	
+7-4	762-765	amp	_	_	
+7-5	765-766	;	_	_	
+7-6	767-771	Marc	_	_	
+7-7	772-776	Saab	_	_	
+7-8	776-777	,	_	_	
+7-9	778-782	MEng	_	_	
+7-10	782-783	.	_	_	
+
+#Text=These 4 days of workshops are from two Female Elite Sport Psychologists, who are MOST newsworthy.
+8-1	784-789	These	_	_	
+8-2	790-791	4	_	_	
+8-3	792-796	days	_	_	
+8-4	797-799	of	_	_	
+8-5	800-809	workshops	_	_	
+8-6	810-813	are	_	_	
+8-7	814-818	from	_	_	
+8-8	819-822	two	_	_	
+8-9	823-829	Female	_	_	
+8-10	830-835	Elite	_	_	
+8-11	836-841	Sport	_	_	
+8-12	842-855	Psychologists	_	_	
+8-13	855-856	,	_	_	
+8-14	857-860	who	_	_	
+8-15	861-864	are	_	_	
+8-16	865-869	MOST	_	_	
+8-17	870-880	newsworthy	_	_	
+8-18	880-881	.	_	_	
+
+#Text=Lindsay is Canadian and the Head of Sport Psychophysiology for the USOC!
+9-1	882-889	Lindsay	_	_	
+9-2	890-892	is	_	_	
+9-3	893-901	Canadian	_	_	
+9-4	902-905	and	_	_	
+9-5	906-909	the	_	_	
+9-6	910-914	Head	_	_	
+9-7	915-917	of	_	_	
+9-8	918-923	Sport	_	_	
+9-9	924-940	Psychophysiology	_	_	
+9-10	941-944	for	_	_	
+9-11	945-948	the	_	_	
+9-12	949-953	USOC	_	_	
+9-13	953-954	!	_	_	
+
+#Text=https://www.youtube.com/watch?
+10-1	955-960	https	_	_	
+10-2	960-961	:	_	_	
+10-3	961-962	/	_	_	
+10-4	962-963	/	_	_	
+10-5	963-978	www.youtube.com	_	_	
+10-6	978-979	/	_	_	
+10-7	979-984	watch	_	_	
+10-8	984-985	?	_	_	
+
+#Text=v=IHMO91TvY2YDr.
+11-1	985-986	v	_	_	
+11-2	986-987	=	_	_	
+11-3	987-1000	IHMO91TvY2YDr	_	_	
+11-4	1000-1001	.	_	_	
+
+#Text=Penny Werther was the Head of Sport Psych at U of Ottawa, and this year became the Head of Kinesiology at University of Calgary.
+12-1	1002-1007	Penny	_	_	
+12-2	1008-1015	Werther	_	_	
+12-3	1016-1019	was	_	_	
+12-4	1020-1023	the	_	_	
+12-5	1024-1028	Head	_	_	
+12-6	1029-1031	of	_	_	
+12-7	1032-1037	Sport	_	_	
+12-8	1038-1043	Psych	_	_	
+12-9	1044-1046	at	_	_	
+12-10	1047-1048	U	_	_	
+12-11	1049-1051	of	_	_	
+12-12	1052-1058	Ottawa	_	_	
+12-13	1058-1059	,	_	_	
+12-14	1060-1063	and	_	_	
+12-15	1064-1068	this	_	_	
+12-16	1069-1073	year	_	_	
+12-17	1074-1080	became	_	_	
+12-18	1081-1084	the	_	_	
+12-19	1085-1089	Head	_	_	
+12-20	1090-1092	of	_	_	
+12-21	1093-1104	Kinesiology	_	_	
+12-22	1105-1107	at	_	_	
+12-23	1108-1118	University	_	_	
+12-24	1119-1121	of	_	_	
+12-25	1122-1129	Calgary	_	_	
+12-26	1129-1130	.	_	_	
+
+#Text=Both are gifted, with Gold Medal Results.
+13-1	1131-1135	Both	_	_	
+13-2	1136-1139	are	_	_	
+13-3	1140-1146	gifted	_	_	
+13-4	1146-1147	,	_	_	
+13-5	1148-1152	with	_	_	
+13-6	1153-1157	Gold	_	_	
+13-7	1158-1163	Medal	_	_	
+13-8	1164-1171	Results	_	_	
+13-9	1171-1172	.	_	_	
+
+#Text=They are the pinnacle of Sport Psychology, and are at the Vatican University, showing Canadian Accomplishment!
+14-1	1173-1177	They	_	_	
+14-2	1178-1181	are	_	_	
+14-3	1182-1185	the	_	_	
+14-4	1186-1194	pinnacle	_	_	
+14-5	1195-1197	of	_	_	
+14-6	1198-1203	Sport	_	_	
+14-7	1204-1214	Psychology	_	_	
+14-8	1214-1215	,	_	_	
+14-9	1216-1219	and	_	_	
+14-10	1220-1223	are	_	_	
+14-11	1224-1226	at	_	_	
+14-12	1227-1230	the	_	_	
+14-13	1231-1238	Vatican	_	_	
+14-14	1239-1249	University	_	_	
+14-15	1249-1250	,	_	_	
+14-16	1251-1258	showing	_	_	
+14-17	1259-1267	Canadian	_	_	
+14-18	1268-1282	Accomplishment	_	_	
+14-19	1282-1283	!	_	_	
+
+#Text=Sincerely yours, Lawrencehttp://www.thoughttechnology.com/blog/wp/?
+15-1	1283-1292	Sincerely	_	_	
+15-2	1293-1298	yours	_	_	
+15-3	1298-1299	,	_	_	
+15-4	1300-1312	Lawrencehttp	_	_	
+15-5	1312-1313	:	_	_	
+15-6	1313-1314	/	_	_	
+15-7	1314-1315	/	_	_	
+15-8	1315-1340	www.thoughttechnology.com	_	_	
+15-9	1340-1341	/	_	_	
+15-10	1341-1345	blog	_	_	
+15-11	1345-1346	/	_	_	
+15-12	1346-1348	wp	_	_	
+15-13	1348-1349	/	_	_	
+15-14	1349-1350	?	_	_	
+
+#Text=works-categories=sportshttp://www.thoughttechnology.com/blog/wp/?
+16-1	1350-1366	works-categories	_	_	
+16-2	1366-1367	=	_	_	
+16-3	1367-1377	sportshttp	_	_	
+16-4	1377-1378	:	_	_	
+16-5	1378-1379	/	_	_	
+16-6	1379-1380	/	_	_	
+16-7	1380-1405	www.thoughttechnology.com	_	_	
+16-8	1405-1406	/	_	_	
+16-9	1406-1410	blog	_	_	
+16-10	1410-1411	/	_	_	
+16-11	1411-1413	wp	_	_	
+16-12	1413-1414	/	_	_	
+16-13	1414-1415	?	_	_	
+
+#Text=works-categories=medicalhttp://www.thoughttechnology.com/blog/wp/?
+17-1	1415-1431	works-categories	_	_	
+17-2	1431-1432	=	_	_	
+17-3	1432-1443	medicalhttp	_	_	
+17-4	1443-1444	:	_	_	
+17-5	1444-1445	/	_	_	
+17-6	1445-1446	/	_	_	
+17-7	1446-1471	www.thoughttechnology.com	_	_	
+17-8	1471-1472	/	_	_	
+17-9	1472-1476	blog	_	_	
+17-10	1476-1477	/	_	_	
+17-11	1477-1479	wp	_	_	
+17-12	1479-1480	/	_	_	
+17-13	1480-1481	?	_	_	
+
+#Text=works-categories=consumer
+18-1	1481-1497	works-categories	_	_	
+18-2	1497-1498	=	_	_	
+18-3	1498-1506	consumer	_	_	

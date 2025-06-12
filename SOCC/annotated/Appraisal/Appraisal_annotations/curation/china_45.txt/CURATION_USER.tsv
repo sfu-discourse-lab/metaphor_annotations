@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Please be sure to pick up after it.
+1-1	0-6	Please	_	_	
+1-2	7-9	be	Judgment[1]	neg[1]	
+1-3	10-14	sure	Judgment[1]	neg[1]	
+1-4	15-17	to	Judgment[1]	neg[1]	
+1-5	18-22	pick	Judgment[1]	neg[1]	
+1-6	23-25	up	Judgment[1]	neg[1]	
+1-7	26-31	after	_	_	
+1-8	32-34	it	_	_	
+1-9	34-35	.	_	_	

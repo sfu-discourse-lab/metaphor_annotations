@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=It should be no surprise to anyone anymore that Dear Leader will tell (and have others tell) whatever Lies are necessary for his own benefit.
+1-1	0-2	It	_	
+1-2	3-9	should	_	
+1-3	10-12	be	_	
+1-4	13-15	no	NEG	
+1-5	16-24	surprise	SCOPE[2]	
+1-6	25-27	to	SCOPE[2]	
+1-7	28-34	anyone	SCOPE[2]	
+1-8	35-42	anymore	SCOPE[2]	
+1-9	43-47	that	SCOPE[2]	
+1-10	48-52	Dear	SCOPE[2]	
+1-11	53-59	Leader	SCOPE[2]	
+1-12	60-64	will	SCOPE[2]	
+1-13	65-69	tell	SCOPE[2]	
+1-14	70-71	(	SCOPE[2]	
+1-15	71-74	and	SCOPE[2]	
+1-16	75-79	have	SCOPE[2]	
+1-17	80-86	others	SCOPE[2]	
+1-18	87-91	tell	SCOPE[2]	
+1-19	91-92	)	SCOPE[2]	
+1-20	93-101	whatever	SCOPE[2]	
+1-21	102-106	Lies	SCOPE[2]	
+1-22	107-110	are	SCOPE[2]	
+1-23	111-120	necessary	SCOPE[2]	
+1-24	121-124	for	SCOPE[2]	
+1-25	125-128	his	SCOPE[2]|FOCUS[3]	
+1-26	129-132	own	SCOPE[2]|FOCUS[3]	
+1-27	133-140	benefit	SCOPE[2]|FOCUS[3]	
+1-28	140-141	.	_	

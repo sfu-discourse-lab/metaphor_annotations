@@ -1,0 +1,17 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Because only the Germans are productive, the others produce zero.
+1-1	0-7	Because	_	
+1-2	8-12	only	_	
+1-3	13-16	the	_	
+1-4	17-24	Germans	_	
+1-5	25-28	are	_	
+1-6	29-39	productive	_	
+1-7	39-40	,	_	
+1-8	41-44	the	_	
+1-9	45-51	others	_	
+1-10	52-59	produce	_	
+1-11	60-64	zero	NEG	
+1-12	64-65	.	_	

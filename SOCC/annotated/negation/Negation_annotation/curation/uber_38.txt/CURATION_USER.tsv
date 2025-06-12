@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=I am at Yonge and 7, a 20 minute drive along the 407 to the Airport costs me 80 bucks.
+1-1	0-1	I	
+1-2	2-4	am	
+1-3	5-7	at	
+1-4	8-13	Yonge	
+1-5	14-17	and	
+1-6	18-19	7	
+1-7	19-20	,	
+1-8	21-22	a	
+1-9	23-25	20	
+1-10	26-32	minute	
+1-11	33-38	drive	
+1-12	39-44	along	
+1-13	45-48	the	
+1-14	49-52	407	
+1-15	53-55	to	
+1-16	56-59	the	
+1-17	60-67	Airport	
+1-18	68-73	costs	
+1-19	74-76	me	
+1-20	77-79	80	
+1-21	80-85	bucks	
+1-22	85-86	.	
+
+#Text=Gas is cheaper these days, 407 is around 5 bucks, they are making way too much money.
+2-1	88-91	Gas	
+2-2	92-94	is	
+2-3	95-102	cheaper	
+2-4	103-108	these	
+2-5	109-113	days	
+2-6	113-114	,	
+2-7	115-118	407	
+2-8	119-121	is	
+2-9	122-128	around	
+2-10	129-130	5	
+2-11	131-136	bucks	
+2-12	136-137	,	
+2-13	138-142	they	
+2-14	143-146	are	
+2-15	147-153	making	
+2-16	154-157	way	
+2-17	158-161	too	
+2-18	162-166	much	
+2-19	167-172	money	
+2-20	172-173	.	
+
+#Text=The cartel has had it good for a long time, we need competition and we need it now.
+3-1	175-178	The	
+3-2	179-185	cartel	
+3-3	186-189	has	
+3-4	190-193	had	
+3-5	194-196	it	
+3-6	197-201	good	
+3-7	202-205	for	
+3-8	206-207	a	
+3-9	208-212	long	
+3-10	213-217	time	
+3-11	217-218	,	
+3-12	219-221	we	
+3-13	222-226	need	
+3-14	227-238	competition	
+3-15	239-242	and	
+3-16	243-245	we	
+3-17	246-250	need	
+3-18	251-253	it	
+3-19	254-257	now	
+3-20	257-258	.	

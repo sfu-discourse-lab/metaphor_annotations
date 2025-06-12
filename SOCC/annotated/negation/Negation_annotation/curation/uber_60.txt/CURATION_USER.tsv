@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Maybe this will motivate the cabbies in TO to clean their filthy cars!
+1-1	0-5	Maybe	
+1-2	6-10	this	
+1-3	11-15	will	
+1-4	16-24	motivate	
+1-5	25-28	the	
+1-6	29-36	cabbies	
+1-7	37-39	in	
+1-8	40-42	TO	
+1-9	43-45	to	
+1-10	46-51	clean	
+1-11	52-57	their	
+1-12	58-64	filthy	
+1-13	65-69	cars	
+1-14	69-70	!	
+
+#Text=That are a disgrace.
+2-1	71-75	That	
+2-2	76-79	are	
+2-3	80-81	a	
+2-4	82-90	disgrace	
+2-5	90-91	.	

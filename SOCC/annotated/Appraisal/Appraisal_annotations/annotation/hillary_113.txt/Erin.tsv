@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=What do you tell your sons when men are falsely accused on a daily basis.
+1-1	0-4	What	Judgment[1]	neg[1]	
+1-2	5-7	do	Judgment[1]	neg[1]	
+1-3	8-11	you	Judgment[1]	neg[1]	
+1-4	12-16	tell	Judgment[1]	neg[1]	
+1-5	17-21	your	Judgment[1]	neg[1]	
+1-6	22-26	sons	Judgment[1]	neg[1]	
+1-7	27-31	when	Judgment[1]	neg[1]	
+1-8	32-35	men	Judgment[1]	neg[1]	
+1-9	36-39	are	Judgment[1]	neg[1]	
+1-10	40-47	falsely	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-11	48-55	accused	Judgment[1]|Judgment[2]	neg[1]|neg[2]	
+1-12	56-58	on	Judgment[1]	neg[1]	
+1-13	59-60	a	Judgment[1]	neg[1]	
+1-14	61-66	daily	Judgment[1]	neg[1]	
+1-15	67-72	basis	Judgment[1]	neg[1]	
+1-16	72-73	.	_	_	
+
+#Text=What are you going to tell your son who just lost a placement in a university grad program, because he didn't fit the quota..?
+2-1	74-78	What	Appreciation[3]	neg[3]	
+2-2	79-82	are	Appreciation[3]	neg[3]	
+2-3	83-86	you	Appreciation[3]	neg[3]	
+2-4	87-92	going	Appreciation[3]	neg[3]	
+2-5	93-95	to	Appreciation[3]	neg[3]	
+2-6	96-100	tell	Appreciation[3]	neg[3]	
+2-7	101-105	your	Appreciation[3]	neg[3]	
+2-8	106-109	son	Appreciation[3]	neg[3]	
+2-9	110-113	who	Appreciation[3]	neg[3]	
+2-10	114-118	just	Appreciation[3]	neg[3]	
+2-11	119-123	lost	Appreciation[3]	neg[3]	
+2-12	124-125	a	Appreciation[3]	neg[3]	
+2-13	126-135	placement	Appreciation[3]	neg[3]	
+2-14	136-138	in	Appreciation[3]	neg[3]	
+2-15	139-140	a	Appreciation[3]	neg[3]	
+2-16	141-151	university	Appreciation[3]	neg[3]	
+2-17	152-156	grad	Appreciation[3]	neg[3]	
+2-18	157-164	program	Appreciation[3]	neg[3]	
+2-19	164-165	,	Appreciation[3]	neg[3]	
+2-20	166-173	because	Appreciation[3]	neg[3]	
+2-21	174-176	he	Appreciation[3]	neg[3]	
+2-22	177-183	didn't	Appreciation[3]|Appreciation[4]	neg[3]|neg[4]	
+2-23	184-187	fit	Appreciation[3]|Appreciation[4]	neg[3]|neg[4]	
+2-24	188-191	the	Appreciation[3]|Appreciation[4]	neg[3]|neg[4]	
+2-25	192-197	quota	Appreciation[3]|Appreciation[4]	neg[3]|neg[4]	
+2-26	197-198	.	_	_	
+2-27	198-199	.	_	_	
+2-28	199-200	?	_	_	
+
+#Text=Women are no more special than men and we need to stop this All.
+3-1	200-205	Women	_	_	
+3-2	206-209	are	_	_	
+3-3	210-212	no	Judgment[5]	neu[5]	
+3-4	213-217	more	Judgment[5]	neu[5]	
+3-5	218-225	special	Judgment[5]	neu[5]	
+3-6	226-230	than	Judgment[5]	neu[5]	
+3-7	231-234	men	Judgment[5]	neu[5]	
+3-8	235-238	and	_	_	
+3-9	239-241	we	_	_	
+3-10	242-246	need	Judgment[6]	neg[6]	
+3-11	247-249	to	Judgment[6]	neg[6]	
+3-12	250-254	stop	Judgment[6]	neg[6]	
+3-13	255-259	this	Judgment[6]	neg[6]	
+3-14	260-263	All	_	_	
+3-15	263-264	.	_	_	
+
+#Text=Women.
+4-1	265-270	Women	_	_	
+4-2	270-271	.	_	_	
+
+#Text=Good.
+5-1	272-276	Good	_	_	
+5-2	276-277	.	_	_	
+
+#Text=All.
+6-1	278-281	All	_	_	
+6-2	281-282	.	_	_	
+
+#Text=Men.
+7-1	283-286	Men	_	_	
+7-2	286-287	.	_	_	
+
+#Text=Bad.
+8-1	288-291	Bad	_	_	
+8-2	291-292	.	_	_	
+
+#Text=Goodness, imagine if a woman was actually feminine one day, oh the horrors...
+9-1	293-301	Goodness	_	_	
+9-2	301-302	,	_	_	
+9-3	303-310	imagine	_	_	
+9-4	311-313	if	_	_	
+9-5	314-315	a	_	_	
+9-6	316-321	woman	_	_	
+9-7	322-325	was	_	_	
+9-8	326-334	actually	_	_	
+9-9	335-343	feminine	_	_	
+9-10	344-347	one	_	_	
+9-11	348-351	day	_	_	
+9-12	351-352	,	_	_	
+9-13	353-355	oh	_	_	
+9-14	356-359	the	_	_	
+9-15	360-367	horrors	_	_	
+9-16	367-368	.	_	_	
+9-17	368-369	.	_	_	
+9-18	369-370	.	_	_	

@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=He said that on purpose and G&M published it on purpose, which is called propaganda.
+1-1	0-2	He	_	
+1-2	3-7	said	_	
+1-3	8-12	that	_	
+1-4	13-15	on	_	
+1-5	16-23	purpose	_	
+1-6	24-27	and	_	
+1-7	28-29	G	_	
+1-8	29-30	&	_	
+1-9	30-31	M	_	
+1-10	32-41	published	_	
+1-11	42-44	it	_	
+1-12	45-47	on	_	
+1-13	48-55	purpose	_	
+1-14	55-56	,	_	
+1-15	57-62	which	_	
+1-16	63-65	is	_	
+1-17	66-72	called	_	
+1-18	73-83	propaganda	_	
+1-19	83-84	.	_	
+
+#Text=That is how western media works.I don't think they're not aware even UN institute publicly denounces they have anything to do with that 'court'.
+2-1	85-89	That	_	
+2-2	90-92	is	_	
+2-3	93-96	how	_	
+2-4	97-104	western	_	
+2-5	105-110	media	_	
+2-6	111-118	works.I	_	
+2-7	119-124	don't	NEG	
+2-8	125-130	think	SCOPE[2]	
+2-9	131-138	they're	SCOPE[2]	
+2-10	139-142	not	SCOPE[2]|FOCUS[3]|NEG[4]	
+2-11	143-148	aware	SCOPE[2]|FOCUS[3]|SCOPE[5]|FOCUS[6]	
+2-12	149-153	even	_	
+2-13	154-156	UN	_	
+2-14	157-166	institute	_	
+2-15	167-175	publicly	_	
+2-16	176-185	denounces	_	
+2-17	186-190	they	_	
+2-18	191-195	have	_	
+2-19	196-204	anything	_	
+2-20	205-207	to	_	
+2-21	208-210	do	_	
+2-22	211-215	with	_	
+2-23	216-220	that	_	
+2-24	221-222	'	_	
+2-25	222-227	court	_	
+2-26	227-228	'	_	
+2-27	228-229	.	_	

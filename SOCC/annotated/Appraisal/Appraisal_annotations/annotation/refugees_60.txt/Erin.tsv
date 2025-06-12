@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The world is awash in more third world refugees and those seeking to leave their destitute conditions than Canada could ever hope to make a dent in.
+1-1	0-3	The	_	_	
+1-2	4-9	world	_	_	
+1-3	10-12	is	_	_	
+1-4	13-18	awash	Appreciation[1]	neg[1]	
+1-5	19-21	in	Appreciation[1]	neg[1]	
+1-6	22-26	more	Appreciation[1]	neg[1]	
+1-7	27-32	third	Appreciation[1]	neg[1]	
+1-8	33-38	world	Appreciation[1]	neg[1]	
+1-9	39-47	refugees	Appreciation[1]	neg[1]	
+1-10	48-51	and	Appreciation[1]	neg[1]	
+1-11	52-57	those	Appreciation[1]	neg[1]	
+1-12	58-65	seeking	Appreciation[1]	neg[1]	
+1-13	66-68	to	Appreciation[1]	neg[1]	
+1-14	69-74	leave	Appreciation[1]	neg[1]	
+1-15	75-80	their	Appreciation[1]	neg[1]	
+1-16	81-90	destitute	Appreciation[1]|Appreciation[2]	neg[1]|neg[2]	
+1-17	91-101	conditions	Appreciation[1]	neg[1]	
+1-18	102-106	than	Appreciation[1]	neg[1]	
+1-19	107-113	Canada	Appreciation[1]	neg[1]	
+1-20	114-119	could	Appreciation[1]	neg[1]	
+1-21	120-124	ever	Appreciation[1]	neg[1]	
+1-22	125-129	hope	Appreciation[1]	neg[1]	
+1-23	130-132	to	Appreciation[1]	neg[1]	
+1-24	133-137	make	Appreciation[1]	neg[1]	
+1-25	138-139	a	Appreciation[1]	neg[1]	
+1-26	140-144	dent	Appreciation[1]	neg[1]	
+1-27	145-147	in	Appreciation[1]	neg[1]	
+1-28	147-148	.	_	_	
+
+#Text=This sole focus on Syria is ridiculous.
+2-1	149-153	This	_	_	
+2-2	154-158	sole	_	_	
+2-3	159-164	focus	_	_	
+2-4	165-167	on	_	_	
+2-5	168-173	Syria	_	_	
+2-6	174-176	is	_	_	
+2-7	177-187	ridiculous	Appreciation	neg	
+2-8	187-188	.	_	_	
+
+#Text=What about Haiti?
+3-1	189-193	What	Judgment[4]	neg[4]	
+3-2	194-199	about	Judgment[4]	neg[4]	
+3-3	200-205	Haiti	Judgment[4]	neg[4]	
+3-4	205-206	?	_	_	
+
+#Text=Surely they need to be rescued too.
+4-1	207-213	Surely	_	_	
+4-2	214-218	they	_	_	
+4-3	219-223	need	Judgment[5]	neg[5]	
+4-4	224-226	to	Judgment[5]	neg[5]	
+4-5	227-229	be	Judgment[5]	neg[5]	
+4-6	230-237	rescued	Judgment[5]	neg[5]	
+4-7	238-241	too	_	_	
+4-8	241-242	.	_	_	
+
+#Text=The list is virtually endless.
+5-1	243-246	The	_	_	
+5-2	247-251	list	_	_	
+5-3	252-254	is	_	_	
+5-4	255-264	virtually	Appreciation[6]	neg[6]	
+5-5	265-272	endless	Appreciation[6]	neg[6]	
+5-6	272-273	.	_	_	
+
+#Text=We also have many aboriginal 'refuges' living in squalor on reserves - why not let them emigrate?
+6-1	274-276	We	_	_	
+6-2	277-281	also	_	_	
+6-3	282-286	have	_	_	
+6-4	287-291	many	_	_	
+6-5	292-302	aboriginal	_	_	
+6-6	303-304	'	_	_	
+6-7	304-311	refuges	Appreciation	neg	
+6-8	311-312	'	_	_	
+6-9	313-319	living	_	_	
+6-10	320-322	in	_	_	
+6-11	323-330	squalor	Appreciation	neg	
+6-12	331-333	on	_	_	
+6-13	334-342	reserves	_	_	
+6-14	343-344	-	_	_	
+6-15	345-348	why	Judgment[9]	neg[9]	
+6-16	349-352	not	Judgment[9]	neg[9]	
+6-17	353-356	let	Judgment[9]	neg[9]	
+6-18	357-361	them	Judgment[9]	neg[9]	
+6-19	362-370	emigrate	Judgment[9]	neg[9]	
+6-20	370-371	?	_	_	

@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=@DennisCasaccio, So what do you base your decision on?
+1-1	0-1	@	_	_	_	_	
+1-2	1-15	DennisCasaccio	_	_	_	_	
+1-3	15-16	,	_	_	_	_	
+1-4	17-19	So	Judgment[1]	neg[1]	_	_	
+1-5	20-24	what	Judgment[1]	neg[1]	_	_	
+1-6	25-27	do	Judgment[1]	neg[1]	_	_	
+1-7	28-31	you	Judgment[1]	neg[1]	_	_	
+1-8	32-36	base	Judgment[1]	neg[1]	_	_	
+1-9	37-41	your	Judgment[1]	neg[1]	_	_	
+1-10	42-50	decision	Judgment[1]	neg[1]	_	_	
+1-11	51-53	on	Judgment[1]	neg[1]	_	_	
+1-12	53-54	?	_	_	_	_	
+
+#Text=You have not seen one in person, nor touched one.
+2-1	55-58	You	_	_	_	_	
+2-2	59-63	have	_	_	_	_	
+2-3	64-67	not	Judgment[2]	neg[2]	_	_	
+2-4	68-72	seen	Judgment[2]	neg[2]	_	_	
+2-5	73-76	one	Judgment[2]	neg[2]	_	_	
+2-6	77-79	in	Judgment[2]	neg[2]	_	_	
+2-7	80-86	person	Judgment[2]	neg[2]	_	_	
+2-8	86-87	,	Judgment[2]	neg[2]	_	_	
+2-9	88-91	nor	Judgment[2]	neg[2]	_	_	
+2-10	92-99	touched	Judgment[2]	neg[2]	_	_	
+2-11	100-103	one	Judgment[2]	neg[2]	_	_	
+2-12	103-104	.	_	_	_	_	
+
+#Text=And you most likely do not know anyone who has.
+3-1	105-108	And	_	_	_	_	
+3-2	109-112	you	_	_	_	_	
+3-3	113-117	most	Judgment[3]	neg[3]	_	_	
+3-4	118-124	likely	Judgment[3]	neg[3]	_	_	
+3-5	125-127	do	Judgment[3]	neg[3]	_	_	
+3-6	128-131	not	Judgment[3]	neg[3]	_	_	
+3-7	132-136	know	Judgment[3]	neg[3]	_	_	
+3-8	137-143	anyone	Judgment[3]	neg[3]	_	_	
+3-9	144-147	who	Judgment[3]	neg[3]	_	_	
+3-10	148-151	has	Judgment[3]	neg[3]	_	_	
+3-11	151-152	.	_	_	_	_	
+
+#Text=But even reading the marketing materials from the various manufactures reveals that there are differences.
+4-1	153-156	But	_	_	_	_	
+4-2	157-161	even	_	_	_	_	
+4-3	162-169	reading	_	_	_	_	
+4-4	170-173	the	_	_	_	_	
+4-5	174-183	marketing	_	_	_	_	
+4-6	184-193	materials	_	_	_	_	
+4-7	194-198	from	_	_	_	_	
+4-8	199-202	the	_	_	_	_	
+4-9	203-210	various	_	_	_	_	
+4-10	211-223	manufactures	_	_	_	_	
+4-11	224-231	reveals	_	_	_	_	
+4-12	232-236	that	_	_	_	_	
+4-13	237-242	there	_	_	_	_	
+4-14	243-246	are	_	_	_	_	
+4-15	247-258	differences	_	_	_	_	
+4-16	258-259	.	_	_	_	_	
+
+#Text=Will people find them useful and compelling?
+5-1	260-264	Will	Appreciation[4]	neg[4]	_	_	
+5-2	265-271	people	Appreciation[4]	neg[4]	_	_	
+5-3	272-276	find	Appreciation[4]	neg[4]	_	_	
+5-4	277-281	them	Appreciation[4]	neg[4]	_	_	
+5-5	282-288	useful	Appreciation[4]|Appreciation[5]	neg[4]|pos[5]	_	_	
+5-6	289-292	and	Appreciation[4]|Appreciation[5]	neg[4]|pos[5]	_	_	
+5-7	293-303	compelling	Appreciation[4]|Appreciation[5]	neg[4]|pos[5]	_	_	
+5-8	303-304	?	_	_	_	_	
+
+#Text=Time will tell.
+6-1	305-309	Time	_	_	_	_	
+6-2	310-314	will	_	_	_	_	
+6-3	315-319	tell	_	_	_	_	
+6-4	319-320	.	_	_	_	_	
+
+#Text=But to pronounce judgement at this point in time is nothing but pure bluster.
+7-1	321-324	But	_	_	_	_	
+7-2	325-327	to	_	_	_	_	
+7-3	328-337	pronounce	Judgment[6]	neg[6]	_	_	
+7-4	338-347	judgement	Judgment[6]	neg[6]	_	_	
+7-5	348-350	at	_	_	_	_	
+7-6	351-355	this	_	_	_	_	
+7-7	356-361	point	_	_	_	_	
+7-8	362-364	in	_	_	_	_	
+7-9	365-369	time	_	_	_	_	
+7-10	370-372	is	_	_	_	_	
+7-11	373-380	nothing	Appreciation[7]	neg[7]	_	_	
+7-12	381-384	but	Appreciation[7]	neg[7]	_	_	
+7-13	385-389	pure	Appreciation[7]	neg[7]	Force	up	
+7-14	390-397	bluster	Appreciation[7]	neg[7]	_	_	
+7-15	397-398	.	_	_	_	_	

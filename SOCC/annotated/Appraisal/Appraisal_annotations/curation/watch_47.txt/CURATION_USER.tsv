@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I got a watch for graduation 35+ years ago.
+1-1	0-1	I	_	_	_	_	
+1-2	2-5	got	_	_	_	_	
+1-3	6-7	a	_	_	_	_	
+1-4	8-13	watch	_	_	_	_	
+1-5	14-17	for	_	_	_	_	
+1-6	18-28	graduation	_	_	_	_	
+1-7	29-31	35	_	_	_	_	
+1-8	31-32	+	_	_	_	_	
+1-9	33-38	years	_	_	_	_	
+1-10	39-42	ago	_	_	_	_	
+1-11	42-43	.	_	_	_	_	
+
+#Text=No sooner did I put it on than the strap broke.
+2-1	44-46	No	_	_	_	_	
+2-2	47-53	sooner	_	_	_	_	
+2-3	54-57	did	_	_	_	_	
+2-4	58-59	I	_	_	_	_	
+2-5	60-63	put	_	_	_	_	
+2-6	64-66	it	_	_	_	_	
+2-7	67-69	on	_	_	_	_	
+2-8	70-74	than	_	_	_	_	
+2-9	75-78	the	_	_	_	_	
+2-10	79-84	strap	_	_	_	_	
+2-11	85-90	broke	Appreciation	neg	_	_	
+2-12	90-91	.	_	_	_	_	
+
+#Text=I put it away intending to get a new strap.
+3-1	92-93	I	_	_	_	_	
+3-2	94-97	put	_	_	_	_	
+3-3	98-100	it	_	_	_	_	
+3-4	101-105	away	_	_	_	_	
+3-5	106-115	intending	_	_	_	_	
+3-6	116-118	to	_	_	_	_	
+3-7	119-122	get	_	_	_	_	
+3-8	123-124	a	_	_	_	_	
+3-9	125-128	new	_	_	_	_	
+3-10	129-134	strap	_	_	_	_	
+3-11	134-135	.	_	_	_	_	
+
+#Text=Five years later I got around to getting a strap.
+4-1	136-140	Five	_	_	_	_	
+4-2	141-146	years	_	_	_	_	
+4-3	147-152	later	_	_	_	_	
+4-4	153-154	I	_	_	_	_	
+4-5	155-158	got	_	_	_	_	
+4-6	159-165	around	_	_	_	_	
+4-7	166-168	to	_	_	_	_	
+4-8	169-176	getting	_	_	_	_	
+4-9	177-178	a	_	_	_	_	
+4-10	179-184	strap	_	_	_	_	
+4-11	184-185	.	_	_	_	_	
+
+#Text=It was 15 minutes later the battery went dead.
+5-1	186-188	It	_	_	_	_	
+5-2	189-192	was	_	_	_	_	
+5-3	193-195	15	_	_	_	_	
+5-4	196-203	minutes	_	_	_	_	
+5-5	204-209	later	_	_	_	_	
+5-6	210-213	the	_	_	_	_	
+5-7	214-221	battery	_	_	_	_	
+5-8	222-226	went	_	_	_	_	
+5-9	227-231	dead	Appreciation	neg	_	_	
+5-10	231-232	.	_	_	_	_	
+
+#Text=So I have worn a watch for about 15 minutes of my life.
+6-1	233-235	So	_	_	_	_	
+6-2	236-237	I	_	_	_	_	
+6-3	238-242	have	_	_	_	_	
+6-4	243-247	worn	Appreciation[3]	neg[3]	_	_	
+6-5	248-249	a	Appreciation[3]	neg[3]	_	_	
+6-6	250-255	watch	Appreciation[3]	neg[3]	_	_	
+6-7	256-259	for	Appreciation[3]	neg[3]	_	_	
+6-8	260-265	about	Appreciation[3]	neg[3]	_	_	
+6-9	266-268	15	Appreciation[3]	neg[3]	_	_	
+6-10	269-276	minutes	Appreciation[3]	neg[3]	_	_	
+6-11	277-279	of	Appreciation[3]	neg[3]	_	_	
+6-12	280-282	my	Appreciation[3]	neg[3]	_	_	
+6-13	283-287	life	Appreciation[3]	neg[3]	_	_	
+6-14	287-288	.	_	_	_	_	
+
+#Text=Oddly I seem to always know what time it is, give or take 10 minutes.
+7-1	289-294	Oddly	_	_	_	_	
+7-2	295-296	I	_	_	_	_	
+7-3	297-301	seem	Judgment[4]	pos[4]	_	_	
+7-4	302-304	to	Judgment[4]	pos[4]	_	_	
+7-5	305-311	always	Judgment[4]	pos[4]	_	_	
+7-6	312-316	know	Judgment[4]	pos[4]	_	_	
+7-7	317-321	what	Judgment[4]	pos[4]	_	_	
+7-8	322-326	time	Judgment[4]	pos[4]	_	_	
+7-9	327-329	it	Judgment[4]	pos[4]	_	_	
+7-10	330-332	is	Judgment[4]	pos[4]	_	_	
+7-11	332-333	,	Judgment[4]	pos[4]	_	_	
+7-12	334-338	give	Judgment[4]	pos[4]	Focus[1]	down[1]	
+7-13	339-341	or	Judgment[4]	pos[4]	Focus[1]	down[1]	
+7-14	342-346	take	Judgment[4]	pos[4]	Focus[1]	down[1]	
+7-15	347-349	10	Judgment[4]	pos[4]	Focus[1]	down[1]	
+7-16	350-357	minutes	Judgment[4]	pos[4]	Focus[1]	down[1]	
+7-17	357-358	.	_	_	_	_	
+
+#Text=It can be a pitch black overcast night and the wife will ask what time it is, I go 'its quarter after two' she goes to the kitchen and it is 10 after.
+8-1	359-361	It	Judgment[5]	pos[5]	_	_	
+8-2	362-365	can	Judgment[5]	pos[5]	_	_	
+8-3	366-368	be	Judgment[5]	pos[5]	_	_	
+8-4	369-370	a	Judgment[5]	pos[5]	_	_	
+8-5	371-376	pitch	Judgment[5]	pos[5]	_	_	
+8-6	377-382	black	Judgment[5]	pos[5]	_	_	
+8-7	383-391	overcast	Judgment[5]	pos[5]	_	_	
+8-8	392-397	night	Judgment[5]	pos[5]	_	_	
+8-9	398-401	and	Judgment[5]	pos[5]	_	_	
+8-10	402-405	the	Judgment[5]	pos[5]	_	_	
+8-11	406-410	wife	Judgment[5]	pos[5]	_	_	
+8-12	411-415	will	Judgment[5]	pos[5]	_	_	
+8-13	416-419	ask	Judgment[5]	pos[5]	_	_	
+8-14	420-424	what	Judgment[5]	pos[5]	_	_	
+8-15	425-429	time	Judgment[5]	pos[5]	_	_	
+8-16	430-432	it	Judgment[5]	pos[5]	_	_	
+8-17	433-435	is	Judgment[5]	pos[5]	_	_	
+8-18	435-436	,	Judgment[5]	pos[5]	_	_	
+8-19	437-438	I	Judgment[5]	pos[5]	_	_	
+8-20	439-441	go	Judgment[5]	pos[5]	_	_	
+8-21	442-443	'	Judgment[5]	pos[5]	_	_	
+8-22	443-446	its	Judgment[5]	pos[5]	_	_	
+8-23	447-454	quarter	Judgment[5]	pos[5]	_	_	
+8-24	455-460	after	Judgment[5]	pos[5]	_	_	
+8-25	461-464	two	Judgment[5]	pos[5]	_	_	
+8-26	464-465	'	Judgment[5]	pos[5]	_	_	
+8-27	466-469	she	Judgment[5]	pos[5]	_	_	
+8-28	470-474	goes	Judgment[5]	pos[5]	_	_	
+8-29	475-477	to	Judgment[5]	pos[5]	_	_	
+8-30	478-481	the	Judgment[5]	pos[5]	_	_	
+8-31	482-489	kitchen	Judgment[5]	pos[5]	_	_	
+8-32	490-493	and	Judgment[5]	pos[5]	_	_	
+8-33	494-496	it	Judgment[5]	pos[5]	_	_	
+8-34	497-499	is	Judgment[5]	pos[5]	_	_	
+8-35	500-502	10	Judgment[5]	pos[5]	_	_	
+8-36	503-508	after	Judgment[5]	pos[5]	_	_	
+8-37	508-509	.	_	_	_	_	
+
+#Text=I don't use an alarm clock, don't wear a watch, yet somehow I sense the time of day.
+9-1	510-511	I	_	_	_	_	
+9-2	512-517	don't	Appreciation[6]	neg[6]	_	_	
+9-3	518-521	use	Appreciation[6]	neg[6]	_	_	
+9-4	522-524	an	_	_	_	_	
+9-5	525-530	alarm	_	_	_	_	
+9-6	531-536	clock	_	_	_	_	
+9-7	536-537	,	_	_	_	_	
+9-8	538-543	don't	Appreciation[7]	neg[7]	_	_	
+9-9	544-548	wear	Appreciation[7]	neg[7]	_	_	
+9-10	549-550	a	_	_	_	_	
+9-11	551-556	watch	_	_	_	_	
+9-12	556-557	,	_	_	_	_	
+9-13	558-561	yet	_	_	_	_	
+9-14	562-569	somehow	_	_	_	_	
+9-15	570-571	I	_	_	_	_	
+9-16	572-577	sense	Judgment[8]	pos[8]	_	_	
+9-17	578-581	the	Judgment[8]	pos[8]	_	_	
+9-18	582-586	time	Judgment[8]	pos[8]	_	_	
+9-19	587-589	of	Judgment[8]	pos[8]	_	_	
+9-20	590-593	day	Judgment[8]	pos[8]	_	_	
+9-21	593-594	.	_	_	_	_	
+
+#Text=Then as Nebuly said, there are clocks everywhere when it gets down to a matter of a few minutes.
+10-1	595-599	Then	_	_	_	_	
+10-2	600-602	as	_	_	_	_	
+10-3	603-609	Nebuly	_	_	_	_	
+10-4	610-614	said	_	_	_	_	
+10-5	614-615	,	_	_	_	_	
+10-6	616-621	there	Appreciation[9]	neg[9]	_	_	
+10-7	622-625	are	Appreciation[9]	neg[9]	_	_	
+10-8	626-632	clocks	Appreciation[9]	neg[9]	_	_	
+10-9	633-643	everywhere	Appreciation[9]	neg[9]	_	_	
+10-10	644-648	when	Appreciation[9]	neg[9]	_	_	
+10-11	649-651	it	Appreciation[9]	neg[9]	_	_	
+10-12	652-656	gets	Appreciation[9]	neg[9]	_	_	
+10-13	657-661	down	Appreciation[9]	neg[9]	_	_	
+10-14	662-664	to	Appreciation[9]	neg[9]	_	_	
+10-15	665-666	a	Appreciation[9]	neg[9]	_	_	
+10-16	667-673	matter	Appreciation[9]	neg[9]	_	_	
+10-17	674-676	of	Appreciation[9]	neg[9]	_	_	
+10-18	677-678	a	Appreciation[9]	neg[9]	_	_	
+10-19	679-682	few	Appreciation[9]	neg[9]	_	_	
+10-20	683-690	minutes	Appreciation[9]	neg[9]	_	_	
+10-21	690-691	.	_	_	_	_	
+
+#Text=Anywhere where things are time sensitive there are clocks around.
+11-1	692-700	Anywhere	Appreciation[10]	neg[10]	_	_	
+11-2	701-706	where	Appreciation[10]	neg[10]	_	_	
+11-3	707-713	things	Appreciation[10]	neg[10]	_	_	
+11-4	714-717	are	Appreciation[10]	neg[10]	_	_	
+11-5	718-722	time	Appreciation[10]	neg[10]	_	_	
+11-6	723-732	sensitive	Appreciation[10]	neg[10]	_	_	
+11-7	733-738	there	Appreciation[10]	neg[10]	_	_	
+11-8	739-742	are	Appreciation[10]	neg[10]	_	_	
+11-9	743-749	clocks	Appreciation[10]	neg[10]	_	_	
+11-10	750-756	around	Appreciation[10]	neg[10]	_	_	
+11-11	756-757	.	_	_	_	_	

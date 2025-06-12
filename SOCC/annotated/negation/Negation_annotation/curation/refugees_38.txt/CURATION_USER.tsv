@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Just in case you did NOT know, Syrian 'refugees' are not being forced to come to Canada.
+1-1	0-4	Just	_	
+1-2	5-7	in	_	
+1-3	8-12	case	_	
+1-4	13-16	you	_	
+1-5	17-20	did	_	
+1-6	21-24	NOT	NEG	
+1-7	25-29	know	SCOPE[2]|FOCUS[3]	
+1-8	29-30	,	_	
+1-9	31-37	Syrian	_	
+1-10	38-39	'	_	
+1-11	39-47	refugees	_	
+1-12	47-48	'	_	
+1-13	49-52	are	_	
+1-14	53-56	not	NEG	
+1-15	57-62	being	SCOPE[5]	
+1-16	63-69	forced	SCOPE[5]	
+1-17	70-72	to	SCOPE[5]	
+1-18	73-77	come	SCOPE[5]	
+1-19	78-80	to	SCOPE[5]	
+1-20	81-87	Canada	SCOPE[5]|FOCUS[6]	
+1-21	87-88	.	_	
+
+#Text=I am sure that the oil rich Gulf states would be more than willing to help them out.
+2-1	89-90	I	_	
+2-2	91-93	am	_	
+2-3	94-98	sure	_	
+2-4	99-103	that	_	
+2-5	104-107	the	_	
+2-6	108-111	oil	_	
+2-7	112-116	rich	_	
+2-8	117-121	Gulf	_	
+2-9	122-128	states	_	
+2-10	129-134	would	_	
+2-11	135-137	be	_	
+2-12	138-142	more	_	
+2-13	143-147	than	_	
+2-14	148-155	willing	_	
+2-15	156-158	to	_	
+2-16	159-163	help	_	
+2-17	164-168	them	_	
+2-18	169-172	out	_	
+2-19	172-173	.	_	

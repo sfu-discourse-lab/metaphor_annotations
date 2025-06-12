@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=axel
+#Text=
+#Text=The UAE, Qatar, Kuwait, Oman, Turkey, Brunei, Malaysia, etc are Muslim countries that are effectively First World.
+1-1	0-4	axel	_	
+1-2	6-9	The	_	
+1-3	10-13	UAE	_	
+1-4	13-14	,	_	
+1-5	15-20	Qatar	_	
+1-6	20-21	,	_	
+1-7	22-28	Kuwait	_	
+1-8	28-29	,	_	
+1-9	30-34	Oman	_	
+1-10	34-35	,	_	
+1-11	36-42	Turkey	_	
+1-12	42-43	,	_	
+1-13	44-50	Brunei	_	
+1-14	50-51	,	_	
+1-15	52-60	Malaysia	_	
+1-16	60-61	,	_	
+1-17	62-65	etc	_	
+1-18	66-69	are	_	
+1-19	70-76	Muslim	_	
+1-20	77-86	countries	_	
+1-21	87-91	that	_	
+1-22	92-95	are	_	
+1-23	96-107	effectively	_	
+1-24	108-113	First	_	
+1-25	114-119	World	_	
+1-26	119-120	.	_	
+
+#Text=No terrorists there.
+2-1	121-123	No	NEG	
+2-2	124-134	terrorists	SCOPE[2]	
+2-3	135-140	there	SCOPE[2]|FOCUS[3]	
+2-4	140-141	.	_	

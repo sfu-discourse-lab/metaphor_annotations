@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Seems to me that it is the media that is playing games here....our economy is doing extremely well given the short term commodity pricing drop.
+1-1	0-5	Seems	
+1-2	6-8	to	
+1-3	9-11	me	
+1-4	12-16	that	
+1-5	17-19	it	
+1-6	20-22	is	
+1-7	23-26	the	
+1-8	27-32	media	
+1-9	33-37	that	
+1-10	38-40	is	
+1-11	41-48	playing	
+1-12	49-54	games	
+1-13	55-59	here	
+1-14	59-60	.	
+1-15	60-61	.	
+1-16	61-62	.	
+1-17	62-63	.	
+1-18	63-66	our	
+1-19	67-74	economy	
+1-20	75-77	is	
+1-21	78-83	doing	
+1-22	84-93	extremely	
+1-23	94-98	well	
+1-24	99-104	given	
+1-25	105-108	the	
+1-26	109-114	short	
+1-27	115-119	term	
+1-28	120-129	commodity	
+1-29	130-137	pricing	
+1-30	138-142	drop	
+1-31	142-143	.	
+
+#Text=Expect GDP to double within two years as commodity prices normalize.
+2-1	144-150	Expect	
+2-2	151-154	GDP	
+2-3	155-157	to	
+2-4	158-164	double	
+2-5	165-171	within	
+2-6	172-175	two	
+2-7	176-181	years	
+2-8	182-184	as	
+2-9	185-194	commodity	
+2-10	195-201	prices	
+2-11	202-211	normalize	
+2-12	211-212	.	

@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The EU response to radical Islam:#JeSuisYourTownHere
+1-1	0-3	The	Judgment[1]	neg[1]	
+1-2	4-6	EU	Judgment[1]	neg[1]	
+1-3	7-15	response	Judgment[1]	neg[1]	
+1-4	16-18	to	Judgment[1]	neg[1]	
+1-5	19-26	radical	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	
+1-6	27-32	Islam	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	
+1-7	32-33	:	Judgment[1]	neg[1]	
+1-8	33-34	#	Judgment[1]	neg[1]	
+1-9	34-52	JeSuisYourTownHere	Judgment[1]	neg[1]	

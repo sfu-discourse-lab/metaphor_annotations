@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=You may be using a blackberry.
+1-1	1-4	You	
+1-2	5-8	may	
+1-3	9-11	be	
+1-4	12-17	using	
+1-5	18-19	a	
+1-6	20-30	blackberry	
+1-7	30-31	.	
+
+#Text=I'm still using a gooseberry.
+2-1	32-35	I'm	
+2-2	36-41	still	
+2-3	42-47	using	
+2-4	48-49	a	
+2-5	50-60	gooseberry	
+2-6	60-61	.	

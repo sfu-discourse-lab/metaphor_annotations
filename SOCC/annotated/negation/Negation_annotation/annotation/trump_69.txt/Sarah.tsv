@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Our drama teacher will be no match for President Trump .We need a Trump to match Trump.I sincerely hope it will work out for Canda
+1-1	0-3	Our	_	
+1-2	4-9	drama	_	
+1-3	10-17	teacher	_	
+1-4	18-22	will	_	
+1-5	23-25	be	_	
+1-6	26-28	no	NEG	
+1-7	29-34	match	SCOPE[2]	
+1-8	35-38	for	SCOPE[2]	
+1-9	39-48	President	SCOPE[2]|FOCUS[3]	
+1-10	49-54	Trump	SCOPE[2]|FOCUS[3]	
+1-11	55-56	.	_	
+1-12	56-58	We	_	
+1-13	59-63	need	_	
+1-14	64-65	a	_	
+1-15	66-71	Trump	_	
+1-16	72-74	to	_	
+1-17	75-80	match	_	
+1-18	81-88	Trump.I	_	
+1-19	89-98	sincerely	_	
+1-20	99-103	hope	_	
+1-21	104-106	it	_	
+1-22	107-111	will	_	
+1-23	112-116	work	_	
+1-24	117-120	out	_	
+1-25	121-124	for	_	
+1-26	125-130	Canda	_	

@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=It must be nice to sit back in academia, with benefits and tenure, and debate points in the media.
+1-1	0-2	It	_	
+1-2	3-7	must	_	
+1-3	8-10	be	_	
+1-4	11-15	nice	_	
+1-5	16-18	to	_	
+1-6	19-22	sit	_	
+1-7	23-27	back	_	
+1-8	28-30	in	_	
+1-9	31-39	academia	_	
+1-10	39-40	,	_	
+1-11	41-45	with	_	
+1-12	46-54	benefits	_	
+1-13	55-58	and	_	
+1-14	59-65	tenure	_	
+1-15	65-66	,	_	
+1-16	67-70	and	_	
+1-17	71-77	debate	_	
+1-18	78-84	points	_	
+1-19	85-87	in	_	
+1-20	88-91	the	_	
+1-21	92-97	media	_	
+1-22	97-98	.	_	
+
+#Text=This is very simple, Mr.
+2-1	99-103	This	_	
+2-2	104-106	is	_	
+2-3	107-111	very	_	
+2-4	112-118	simple	_	
+2-5	118-119	,	_	
+2-6	120-122	Mr	_	
+2-7	122-123	.	_	
+
+#Text=Professor.
+3-1	124-133	Professor	_	
+3-2	133-134	.	_	
+
+#Text=Non residents are assessed a tax if they purchase real estate.
+4-1	135-138	Non	_	
+4-2	139-148	residents	_	
+4-3	149-152	are	_	
+4-4	153-161	assessed	_	
+4-5	162-163	a	_	
+4-6	164-167	tax	_	
+4-7	168-170	if	_	
+4-8	171-175	they	_	
+4-9	176-184	purchase	_	
+4-10	185-189	real	_	
+4-11	190-196	estate	_	
+4-12	196-197	.	_	
+
+#Text=It applies to Americas, Italians, and the Chinese, that are non residents.
+5-1	198-200	It	_	
+5-2	201-208	applies	_	
+5-3	209-211	to	_	
+5-4	212-220	Americas	_	
+5-5	220-221	,	_	
+5-6	222-230	Italians	_	
+5-7	230-231	,	_	
+5-8	232-235	and	_	
+5-9	236-239	the	_	
+5-10	240-247	Chinese	_	
+5-11	247-248	,	_	
+5-12	249-253	that	_	
+5-13	254-257	are	_	
+5-14	258-261	non	_	
+5-15	262-271	residents	_	
+5-16	271-272	.	_	
+
+#Text=What part do you not understand.
+6-1	273-277	What	_	
+6-2	278-282	part	_	
+6-3	283-285	do	_	
+6-4	286-289	you	_	
+6-5	290-293	not	NEG	
+6-6	294-304	understand	SCOPE[2]|FOCUS[3]	
+6-7	304-305	.	_	
+
+#Text=You are smart.
+7-1	306-309	You	_	
+7-2	310-313	are	_	
+7-3	314-319	smart	_	
+7-4	319-320	.	_	
+
+#Text=Think about it.
+8-1	321-326	Think	_	
+8-2	327-332	about	_	
+8-3	333-335	it	_	
+8-4	335-336	.	_	
+
+#Text=Actually, if you are really not too burdened in academia, think about all the Canadians and residents that cannot affort a place to live in BC.
+9-1	337-345	Actually	_	
+9-2	345-346	,	_	
+9-3	347-349	if	_	
+9-4	350-353	you	_	
+9-5	354-357	are	_	
+9-6	358-364	really	_	
+9-7	365-368	not	NEG	
+9-8	369-372	too	SCOPE[5]	
+9-9	373-381	burdened	SCOPE[5]	
+9-10	382-384	in	SCOPE[5]	
+9-11	385-393	academia	SCOPE[5]|FOCUS[6]	
+9-12	393-394	,	_	
+9-13	395-400	think	_	
+9-14	401-406	about	_	
+9-15	407-410	all	_	
+9-16	411-414	the	_	
+9-17	415-424	Canadians	_	
+9-18	425-428	and	_	
+9-19	429-438	residents	_	
+9-20	439-443	that	_	
+9-21	444-450	cannot	NEG	
+9-22	451-457	affort	SCOPE[8]	
+9-23	458-459	a	SCOPE[8]	
+9-24	460-465	place	SCOPE[8]	
+9-25	466-468	to	SCOPE[8]	
+9-26	469-473	live	SCOPE[8]	
+9-27	474-476	in	SCOPE[8]	
+9-28	477-479	BC	SCOPE[8]|FOCUS[9]	
+9-29	479-480	.	_	
+
+#Text=It is not always about you, Professor.
+10-1	481-483	It	_	
+10-2	484-486	is	_	
+10-3	487-490	not	NEG	
+10-4	491-497	always	SCOPE[11]	
+10-5	498-503	about	SCOPE[11]	
+10-6	504-507	you	SCOPE[11]|FOCUS[12]	
+10-7	507-508	,	_	
+10-8	509-518	Professor	_	
+10-9	518-519	.	_	

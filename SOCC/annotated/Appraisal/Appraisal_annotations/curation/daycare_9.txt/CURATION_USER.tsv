@@ -1,0 +1,210 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=It's easy to complain about the cost of a government program, but that cost must be measured against its benefits.
+1-1	0-4	It's	_	_	_	_	
+1-2	5-9	easy	_	_	_	_	
+1-3	10-12	to	_	_	_	_	
+1-4	13-21	complain	Affect	neg	_	_	
+1-5	22-27	about	_	_	_	_	
+1-6	28-31	the	_	_	_	_	
+1-7	32-36	cost	_	_	_	_	
+1-8	37-39	of	_	_	_	_	
+1-9	40-41	a	_	_	_	_	
+1-10	42-52	government	_	_	_	_	
+1-11	53-60	program	_	_	_	_	
+1-12	60-61	,	_	_	_	_	
+1-13	62-65	but	_	_	_	_	
+1-14	66-70	that	_	_	_	_	
+1-15	71-75	cost	_	_	_	_	
+1-16	76-80	must	Appreciation[2]	pos[2]	_	_	
+1-17	81-83	be	Appreciation[2]	pos[2]	_	_	
+1-18	84-92	measured	Appreciation[2]	pos[2]	_	_	
+1-19	93-100	against	Appreciation[2]	pos[2]	_	_	
+1-20	101-104	its	Appreciation[2]	pos[2]	_	_	
+1-21	105-113	benefits	Appreciation[2]|Appreciation[3]	pos[2]|pos[3]	_	_	
+1-22	113-114	.	_	_	_	_	
+
+#Text=Fighter planes and ships are expensive too, but we know we need them.
+2-1	115-122	Fighter	_	_	_	_	
+2-2	123-129	planes	_	_	_	_	
+2-3	130-133	and	_	_	_	_	
+2-4	134-139	ships	_	_	_	_	
+2-5	140-143	are	_	_	_	_	
+2-6	144-153	expensive	Appreciation	neg	_	_	
+2-7	154-157	too	_	_	_	_	
+2-8	157-158	,	_	_	_	_	
+2-9	159-162	but	_	_	_	_	
+2-10	163-165	we	_	_	_	_	
+2-11	166-170	know	_	_	_	_	
+2-12	171-173	we	_	_	_	_	
+2-13	174-178	need	Appreciation[5]	pos[5]	_	_	
+2-14	179-183	them	Appreciation[5]	pos[5]	_	_	
+2-15	183-184	.	_	_	_	_	
+
+#Text=Let's get the best benefit for the expenditures.
+3-1	185-190	Let's	_	_	_	_	
+3-2	191-194	get	_	_	_	_	
+3-3	195-198	the	_	_	_	_	
+3-4	199-203	best	Appreciation[6]	pos[6]	_	_	
+3-5	204-211	benefit	Appreciation[6]	pos[6]	_	_	
+3-6	212-215	for	Appreciation[6]	pos[6]	_	_	
+3-7	216-219	the	Appreciation[6]	pos[6]	_	_	
+3-8	220-232	expenditures	Appreciation[6]	pos[6]	_	_	
+3-9	232-233	.	_	_	_	_	
+
+#Text=Government programs aren't wrong.
+4-1	234-244	Government	_	_	_	_	
+4-2	245-253	programs	_	_	_	_	
+4-3	254-260	aren't	Appreciation[7]	pos[7]	_	_	
+4-4	261-266	wrong	Appreciation[7]	pos[7]	_	_	
+4-5	266-267	.	_	_	_	_	
+
+#Text=All governments tax and spend. it's what they spend the tax money on and how we all benefit that are at issue.
+5-1	268-271	All	_	_	_	_	
+5-2	272-283	governments	_	_	_	_	
+5-3	284-287	tax	_	_	_	_	
+5-4	288-291	and	_	_	_	_	
+5-5	292-297	spend	_	_	_	_	
+5-6	297-298	.	_	_	_	_	
+5-7	299-303	it's	_	_	_	_	
+5-8	304-308	what	_	_	_	_	
+5-9	309-313	they	_	_	_	_	
+5-10	314-319	spend	_	_	_	_	
+5-11	320-323	the	_	_	_	_	
+5-12	324-327	tax	_	_	_	_	
+5-13	328-333	money	_	_	_	_	
+5-14	334-336	on	_	_	_	_	
+5-15	337-340	and	_	_	_	_	
+5-16	341-344	how	_	_	_	_	
+5-17	345-347	we	_	_	_	_	
+5-18	348-351	all	_	_	_	_	
+5-19	352-359	benefit	Appreciation	pos	_	_	
+5-20	360-364	that	_	_	_	_	
+5-21	365-368	are	_	_	_	_	
+5-22	369-371	at	_	_	_	_	
+5-23	372-377	issue	_	_	_	_	
+5-24	377-378	.	_	_	_	_	
+
+#Text=I think many Canadians have seen their taxes spent without getting enough benefit from them.
+6-1	379-380	I	_	_	_	_	
+6-2	381-386	think	_	_	_	_	
+6-3	387-391	many	_	_	_	_	
+6-4	392-401	Canadians	_	_	_	_	
+6-5	402-406	have	_	_	_	_	
+6-6	407-411	seen	Appreciation[9]	neg[9]	_	_	
+6-7	412-417	their	Appreciation[9]	neg[9]	_	_	
+6-8	418-423	taxes	Appreciation[9]	neg[9]	_	_	
+6-9	424-429	spent	Appreciation[9]	neg[9]	_	_	
+6-10	430-437	without	Appreciation[9]	neg[9]	_	_	
+6-11	438-445	getting	Appreciation[9]	neg[9]	_	_	
+6-12	446-452	enough	Appreciation[9]	neg[9]	_	_	
+6-13	453-460	benefit	Appreciation[9]	neg[9]	_	_	
+6-14	461-465	from	Appreciation[9]	neg[9]	_	_	
+6-15	466-470	them	Appreciation[9]	neg[9]	_	_	
+6-16	470-471	.	_	_	_	_	
+
+#Text=They want their hard lives to get easier, not harder, and they want Canada to progress too.
+7-1	472-476	They	_	_	_	_	
+7-2	477-481	want	Judgment[10]	pos[10]	_	_	
+7-3	482-487	their	Judgment[10]	pos[10]	_	_	
+7-4	488-492	hard	Judgment[10]	pos[10]	_	_	
+7-5	493-498	lives	Judgment[10]	pos[10]	_	_	
+7-6	499-501	to	Judgment[10]	pos[10]	_	_	
+7-7	502-505	get	Judgment[10]	pos[10]	_	_	
+7-8	506-512	easier	Judgment[10]|Appreciation[11]	pos[10]|pos[11]	_	_	
+7-9	512-513	,	_	_	_	_	
+7-10	514-517	not	_	_	_	_	
+7-11	518-524	harder	_	_	_	_	
+7-12	524-525	,	_	_	_	_	
+7-13	526-529	and	_	_	_	_	
+7-14	530-534	they	_	_	_	_	
+7-15	535-539	want	Judgment[12]	pos[12]	_	_	
+7-16	540-546	Canada	Judgment[12]	pos[12]	_	_	
+7-17	547-549	to	Judgment[12]	pos[12]	_	_	
+7-18	550-558	progress	Judgment[12]	pos[12]	_	_	
+7-19	559-562	too	Judgment[12]	pos[12]	_	_	
+7-20	562-563	.	_	_	_	_	
+
+#Text=We've heard enough focus on macro-economic things like 'the economy', 'the stock market', and 'debt-to-income ratios'.
+8-1	564-569	We've	_	_	_	_	
+8-2	570-575	heard	_	_	_	_	
+8-3	576-582	enough	Appreciation[13]	neg[13]	_	_	
+8-4	583-588	focus	Appreciation[13]	neg[13]	_	_	
+8-5	589-591	on	Appreciation[13]	neg[13]	_	_	
+8-6	592-606	macro-economic	Appreciation[13]	neg[13]	_	_	
+8-7	607-613	things	Appreciation[13]	neg[13]	_	_	
+8-8	614-618	like	_	_	_	_	
+8-9	619-620	'	Appreciation[14]	neg[14]	_	_	
+8-10	620-623	the	Appreciation[14]	neg[14]	_	_	
+8-11	624-631	economy	Appreciation[14]	neg[14]	_	_	
+8-12	631-632	'	Appreciation[14]	neg[14]	_	_	
+8-13	632-633	,	Appreciation[14]	neg[14]	_	_	
+8-14	634-635	'	Appreciation[14]	neg[14]	_	_	
+8-15	635-638	the	Appreciation[14]	neg[14]	_	_	
+8-16	639-644	stock	Appreciation[14]	neg[14]	_	_	
+8-17	645-651	market	Appreciation[14]	neg[14]	_	_	
+8-18	651-652	'	Appreciation[14]	neg[14]	_	_	
+8-19	652-653	,	Appreciation[14]	neg[14]	_	_	
+8-20	654-657	and	Appreciation[14]	neg[14]	_	_	
+8-21	658-659	'	Appreciation[14]	neg[14]	_	_	
+8-22	659-673	debt-to-income	Appreciation[14]	neg[14]	_	_	
+8-23	674-680	ratios	Appreciation[14]	neg[14]	_	_	
+8-24	680-681	'	_	_	_	_	
+8-25	681-682	.	_	_	_	_	
+
+#Text=These things matter only to people who have more money than they can spend.
+9-1	683-688	These	_	_	_	_	
+9-2	689-695	things	_	_	_	_	
+9-3	696-702	matter	Appreciation[15]	neg[15]	_	_	
+9-4	703-707	only	Appreciation[15]	neg[15]	_	_	
+9-5	708-710	to	Appreciation[15]	neg[15]	_	_	
+9-6	711-717	people	Appreciation[15]	neg[15]	_	_	
+9-7	718-721	who	Appreciation[15]	neg[15]	_	_	
+9-8	722-726	have	Appreciation[15]	neg[15]	_	_	
+9-9	727-731	more	Appreciation[15]	neg[15]	_	_	
+9-10	732-737	money	Appreciation[15]	neg[15]	_	_	
+9-11	738-742	than	Appreciation[15]	neg[15]	_	_	
+9-12	743-747	they	Appreciation[15]	neg[15]	_	_	
+9-13	748-751	can	Appreciation[15]	neg[15]	_	_	
+9-14	752-757	spend	Appreciation[15]	neg[15]	_	_	
+9-15	757-758	.	_	_	_	_	
+
+#Text=It's micro-economic things like 'How do I feed my kids?'
+10-1	759-763	It's	Appreciation[16]	neg[16]	_	_	
+10-2	764-778	micro-economic	Appreciation[16]	neg[16]	_	_	
+10-3	779-785	things	Appreciation[16]	neg[16]	_	_	
+10-4	786-790	like	Appreciation[16]	neg[16]	_	_	
+10-5	791-792	'	Appreciation[16]	neg[16]	_	_	
+10-6	792-795	How	Appreciation[16]	neg[16]	_	_	
+10-7	796-798	do	Appreciation[16]	neg[16]	_	_	
+10-8	799-800	I	Appreciation[16]	neg[16]	_	_	
+10-9	801-805	feed	Appreciation[16]	neg[16]	_	_	
+10-10	806-808	my	Appreciation[16]	neg[16]	_	_	
+10-11	809-813	kids	Appreciation[16]	neg[16]	_	_	
+10-12	813-814	?	Appreciation[16]	neg[16]	_	_	
+10-13	814-815	'	Appreciation[16]	neg[16]	_	_	
+
+#Text=, and 'How do I pay my mortgage?'
+11-1	815-816	,	Appreciation[16]	neg[16]	_	_	
+11-2	817-820	and	Appreciation[16]	neg[16]	_	_	
+11-3	821-822	'	Appreciation[16]	neg[16]	_	_	
+11-4	822-825	How	Appreciation[16]	neg[16]	_	_	
+11-5	826-828	do	Appreciation[16]	neg[16]	_	_	
+11-6	829-830	I	Appreciation[16]	neg[16]	_	_	
+11-7	831-834	pay	Appreciation[16]	neg[16]	_	_	
+11-8	835-837	my	Appreciation[16]	neg[16]	_	_	
+11-9	838-846	mortgage	Appreciation[16]	neg[16]	_	_	
+11-10	846-847	?	_	_	_	_	
+11-11	847-848	'	_	_	_	_	
+
+#Text=that most matter to most Canadians.
+12-1	849-853	that	_	_	_	_	
+12-2	854-858	most	Appreciation[17]	pos[17]	Force	up	
+12-3	859-865	matter	Appreciation[17]	pos[17]	_	_	
+12-4	866-868	to	_	_	_	_	
+12-5	869-873	most	_	_	_	_	
+12-6	874-883	Canadians	_	_	_	_	
+12-7	883-884	.	_	_	_	_	

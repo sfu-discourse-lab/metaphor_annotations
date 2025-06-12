@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Sarah Palin might very well have been the first female president, had she decided to run.
+1-1	0-5	Sarah	_	_	
+1-2	6-11	Palin	_	_	
+1-3	12-17	might	_	_	
+1-4	18-22	very	_	_	
+1-5	23-27	well	_	_	
+1-6	28-32	have	_	_	
+1-7	33-37	been	_	_	
+1-8	38-41	the	_	_	
+1-9	42-47	first	_	_	
+1-10	48-54	female	_	_	
+1-11	55-64	president	_	_	
+1-12	64-65	,	_	_	
+1-13	66-69	had	_	_	
+1-14	70-73	she	_	_	
+1-15	74-81	decided	_	_	
+1-16	82-84	to	_	_	
+1-17	85-88	run	_	_	
+1-18	88-89	.	_	_	
+
+#Text=Would you have voted for her though?
+2-1	90-95	Would	Judgment[1]	neg[1]	
+2-2	96-99	you	Judgment[1]	neg[1]	
+2-3	100-104	have	Judgment[1]	neg[1]	
+2-4	105-110	voted	Judgment[1]	neg[1]	
+2-5	111-114	for	Judgment[1]	neg[1]	
+2-6	115-118	her	Judgment[1]	neg[1]	
+2-7	119-125	though	Judgment[1]	neg[1]	
+2-8	125-126	?	_	_	
+
+#Text=Thought so.
+3-1	126-133	Thought	Judgment[2]	neg[2]	
+3-2	134-136	so	Judgment[2]	neg[2]	
+3-3	136-137	.	_	_	

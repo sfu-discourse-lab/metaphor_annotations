@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=This story gives broader context to the earlier reports of the abuse of band finances by the native leadership.
+1-1	0-4	This	
+1-2	5-10	story	
+1-3	11-16	gives	
+1-4	17-24	broader	
+1-5	25-32	context	
+1-6	33-35	to	
+1-7	36-39	the	
+1-8	40-47	earlier	
+1-9	48-55	reports	
+1-10	56-58	of	
+1-11	59-62	the	
+1-12	63-68	abuse	
+1-13	69-71	of	
+1-14	72-76	band	
+1-15	77-85	finances	
+1-16	86-88	by	
+1-17	89-92	the	
+1-18	93-99	native	
+1-19	100-110	leadership	
+1-20	110-111	.	
+
+#Text=The hardship on the reserves does have to be addressed but the people who have to lead on this are the reserve leaders themselves.
+2-1	112-115	The	
+2-2	116-124	hardship	
+2-3	125-127	on	
+2-4	128-131	the	
+2-5	132-140	reserves	
+2-6	141-145	does	
+2-7	146-150	have	
+2-8	151-153	to	
+2-9	154-156	be	
+2-10	157-166	addressed	
+2-11	167-170	but	
+2-12	171-174	the	
+2-13	175-181	people	
+2-14	182-185	who	
+2-15	186-190	have	
+2-16	191-193	to	
+2-17	194-198	lead	
+2-18	199-201	on	
+2-19	202-206	this	
+2-20	207-210	are	
+2-21	211-214	the	
+2-22	215-222	reserve	
+2-23	223-230	leaders	
+2-24	231-241	themselves	
+2-25	241-242	.	
+
+#Text=Trying to do anything from the outside, as was the case recently with education, will be another waste of time and scarce money, resulting more bruised feelings.
+3-1	243-249	Trying	
+3-2	250-252	to	
+3-3	253-255	do	
+3-4	256-264	anything	
+3-5	265-269	from	
+3-6	270-273	the	
+3-7	274-281	outside	
+3-8	281-282	,	
+3-9	283-285	as	
+3-10	286-289	was	
+3-11	290-293	the	
+3-12	294-298	case	
+3-13	299-307	recently	
+3-14	308-312	with	
+3-15	313-322	education	
+3-16	322-323	,	
+3-17	324-328	will	
+3-18	329-331	be	
+3-19	332-339	another	
+3-20	340-345	waste	
+3-21	346-348	of	
+3-22	349-353	time	
+3-23	354-357	and	
+3-24	358-364	scarce	
+3-25	365-370	money	
+3-26	370-371	,	
+3-27	372-381	resulting	
+3-28	382-386	more	
+3-29	387-394	bruised	
+3-30	395-403	feelings	
+3-31	403-404	.	
+
+#Text=We have to see the problem for what it is : reserve based and nurtured.
+4-1	405-407	We	
+4-2	408-412	have	
+4-3	413-415	to	
+4-4	416-419	see	
+4-5	420-423	the	
+4-6	424-431	problem	
+4-7	432-435	for	
+4-8	436-440	what	
+4-9	441-443	it	
+4-10	444-446	is	
+4-11	447-448	:	
+4-12	449-456	reserve	
+4-13	457-462	based	
+4-14	463-466	and	
+4-15	467-475	nurtured	
+4-16	475-476	.	

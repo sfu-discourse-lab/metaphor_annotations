@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Hmm I have , much of this nonsense is nonsense,,, but keep trying you may convince yourself, me,,, I'm waiting, we charge by the hour,,,, LOL
+1-1	0-3	Hmm	_	_	
+1-2	4-5	I	_	_	
+1-3	6-10	have	_	_	
+1-4	11-12	,	_	_	
+1-5	13-17	much	_	_	
+1-6	18-20	of	_	_	
+1-7	21-25	this	_	_	
+1-8	26-34	nonsense	Appreciation	neg	
+1-9	35-37	is	_	_	
+1-10	38-46	nonsense	Appreciation	neg	
+1-11	46-47	,	_	_	
+1-12	47-48	,	_	_	
+1-13	48-49	,	_	_	
+1-14	50-53	but	_	_	
+1-15	54-58	keep	Judgment[3]	neg[3]	
+1-16	59-65	trying	Judgment[3]	neg[3]	
+1-17	66-69	you	_	_	
+1-18	70-73	may	Judgment[4]	neg[4]	
+1-19	74-82	convince	Judgment[4]	neg[4]	
+1-20	83-91	yourself	Judgment[4]	neg[4]	
+1-21	91-92	,	_	_	
+1-22	93-95	me	_	_	
+1-23	95-96	,	_	_	
+1-24	96-97	,	_	_	
+1-25	97-98	,	_	_	
+1-26	99-102	I'm	_	_	
+1-27	103-110	waiting	_	_	
+1-28	110-111	,	_	_	
+1-29	112-114	we	_	_	
+1-30	115-121	charge	_	_	
+1-31	122-124	by	_	_	
+1-32	125-128	the	_	_	
+1-33	129-133	hour	_	_	
+1-34	133-134	,	_	_	
+1-35	134-135	,	_	_	
+1-36	135-136	,	_	_	
+1-37	136-137	,	_	_	
+1-38	138-141	LOL	Judgment	neg	

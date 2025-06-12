@@ -1,0 +1,11 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Great piece!
+1-1	0-5	Great	
+1-2	6-11	piece	
+1-3	11-12	!	
+
+#Text=Thanks.
+2-1	13-19	Thanks	
+2-2	19-20	.	

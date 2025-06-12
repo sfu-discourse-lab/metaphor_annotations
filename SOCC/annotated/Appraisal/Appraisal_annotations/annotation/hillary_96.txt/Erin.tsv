@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The numbers show that Democrats stayed at home and didn't vote.
+1-1	0-3	The	_	_	
+1-2	4-11	numbers	_	_	
+1-3	12-16	show	_	_	
+1-4	17-21	that	_	_	
+1-5	22-31	Democrats	_	_	
+1-6	32-38	stayed	Judgment[1]	neg[1]	
+1-7	39-41	at	Judgment[1]	neg[1]	
+1-8	42-46	home	Judgment[1]	neg[1]	
+1-9	47-50	and	Judgment[1]	neg[1]	
+1-10	51-57	didn't	Judgment[1]	neg[1]	
+1-11	58-62	vote	Judgment[1]	neg[1]	
+1-12	62-63	.	_	_	
+
+#Text=She lost the support of her own party.
+2-1	64-67	She	_	_	
+2-2	68-72	lost	Judgment[2]	neg[2]	
+2-3	73-76	the	Judgment[2]	neg[2]	
+2-4	77-84	support	Judgment[2]	neg[2]	
+2-5	85-87	of	Judgment[2]	neg[2]	
+2-6	88-91	her	Judgment[2]	neg[2]	
+2-7	92-95	own	Judgment[2]	neg[2]	
+2-8	96-101	party	Judgment[2]	neg[2]	
+2-9	101-102	.	_	_	
+
+#Text=In 2008 almost 80 million voted D and 50+ million R.
+3-1	103-105	In	_	_	
+3-2	106-110	2008	_	_	
+3-3	111-117	almost	_	_	
+3-4	118-120	80	_	_	
+3-5	121-128	million	_	_	
+3-6	129-134	voted	_	_	
+3-7	135-136	D	_	_	
+3-8	137-140	and	_	_	
+3-9	141-143	50	_	_	
+3-10	143-144	+	_	_	
+3-11	145-152	million	_	_	
+3-12	153-154	R	_	_	
+3-13	154-155	.	_	_	
+
+#Text=That dwindled to about 65 million D and 50 million R in 2012. 2016 saw an even 50+ million to each party.
+4-1	156-160	That	_	_	
+4-2	161-169	dwindled	Appreciation	neg	
+4-3	170-172	to	_	_	
+4-4	173-178	about	_	_	
+4-5	179-181	65	_	_	
+4-6	182-189	million	_	_	
+4-7	190-191	D	_	_	
+4-8	192-195	and	_	_	
+4-9	196-198	50	_	_	
+4-10	199-206	million	_	_	
+4-11	207-208	R	_	_	
+4-12	209-211	in	_	_	
+4-13	212-216	2012	_	_	
+4-14	216-217	.	_	_	
+4-15	218-222	2016	_	_	
+4-16	223-226	saw	_	_	
+4-17	227-229	an	_	_	
+4-18	230-234	even	_	_	
+4-19	235-237	50	_	_	
+4-20	237-238	+	_	_	
+4-21	239-246	million	_	_	
+4-22	247-249	to	_	_	
+4-23	250-254	each	_	_	
+4-24	255-260	party	_	_	
+4-25	260-261	.	_	_	
+
+#Text=Who's fault is that?
+5-1	262-267	Who's	Judgment[4]	neg[4]	
+5-2	268-273	fault	Judgment[4]	neg[4]	
+5-3	274-276	is	Judgment[4]	neg[4]	
+5-4	277-281	that	Judgment[4]	neg[4]	
+5-5	281-282	?	_	_	

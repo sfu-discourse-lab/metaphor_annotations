@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=in the UBER \"free\" market taxi drivers pay thousands for a licence, certification, insurance, training etc.
+1-1	0-2	in	_	_	_	_	
+1-2	3-6	the	_	_	_	_	
+1-3	7-11	UBER	_	_	_	_	
+1-4	12-13	"	_	_	_	_	
+1-5	13-17	free	Appreciation	neg	_	_	
+1-6	17-18	"	_	_	_	_	
+1-7	19-25	market	_	_	_	_	
+1-8	26-30	taxi	_	_	_	_	
+1-9	31-38	drivers	_	_	_	_	
+1-10	39-42	pay	Appreciation[2]	neg[2]	_	_	
+1-11	43-52	thousands	Appreciation[2]	neg[2]	_	_	
+1-12	53-56	for	_	_	_	_	
+1-13	57-58	a	_	_	_	_	
+1-14	59-66	licence	_	_	_	_	
+1-15	66-67	,	_	_	_	_	
+1-16	68-81	certification	_	_	_	_	
+1-17	81-82	,	_	_	_	_	
+1-18	83-92	insurance	_	_	_	_	
+1-19	92-93	,	_	_	_	_	
+1-20	94-102	training	_	_	_	_	
+1-21	103-106	etc	_	_	_	_	
+1-22	106-107	.	_	_	_	_	
+
+#Text=UBER not so much and the UBER customers call this FAIR competition anything to save a few bucks for a cheaper ride
+2-1	108-112	UBER	_	_	_	_	
+2-2	113-116	not	Appreciation[3]	neg[3]	_	_	
+2-3	117-119	so	Appreciation[3]	neg[3]	_	_	
+2-4	120-124	much	Appreciation[3]	neg[3]	_	_	
+2-5	125-128	and	_	_	_	_	
+2-6	129-132	the	_	_	_	_	
+2-7	133-137	UBER	_	_	_	_	
+2-8	138-147	customers	_	_	_	_	
+2-9	148-152	call	Judgment[4]	neg[4]	_	_	
+2-10	153-157	this	Judgment[4]	neg[4]	_	_	
+2-11	158-162	FAIR	Judgment[4]|Judgment[5]	neg[4]|neg[5]	_	_	
+2-12	163-174	competition	Judgment[4]	neg[4]	_	_	
+2-13	175-183	anything	Judgment[6]	neg[6]	_	_	
+2-14	184-186	to	Judgment[6]	neg[6]	_	_	
+2-15	187-191	save	Judgment[6]	neg[6]	_	_	
+2-16	192-193	a	Judgment[6]	neg[6]	_	_	
+2-17	194-197	few	Judgment[6]	neg[6]	_	_	
+2-18	198-203	bucks	Judgment[6]	neg[6]	_	_	
+2-19	204-207	for	_	_	_	_	
+2-20	208-209	a	_	_	_	_	
+2-21	210-217	cheaper	Appreciation	pos	Force	up	
+2-22	218-222	ride	_	_	_	_	

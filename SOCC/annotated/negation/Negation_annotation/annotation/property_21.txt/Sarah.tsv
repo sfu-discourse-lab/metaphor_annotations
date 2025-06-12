@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Foreign speculators and money launderers have made Vancouver unaffordable for Canadians.
+1-1	0-7	Foreign	_	
+1-2	8-19	speculators	_	
+1-3	20-23	and	_	
+1-4	24-29	money	_	
+1-5	30-40	launderers	_	
+1-6	41-45	have	_	
+1-7	46-50	made	_	
+1-8	51-60	Vancouver	_	
+1-9	61-73	unaffordable	_	
+1-10	74-77	for	_	
+1-11	78-87	Canadians	_	
+1-12	87-88	.	_	
+
+#Text=If most of them are Chinese, and I don't know that they are, tough.The law should have gone further to address what is, in reality, a crisis.
+2-1	89-91	If	_	
+2-2	92-96	most	_	
+2-3	97-99	of	_	
+2-4	100-104	them	_	
+2-5	105-108	are	_	
+2-6	109-116	Chinese	_	
+2-7	116-117	,	_	
+2-8	118-121	and	_	
+2-9	122-123	I	_	
+2-10	124-129	don't	NEG	
+2-11	130-134	know	SCOPE[2]	
+2-12	135-139	that	SCOPE[2]|FOCUS[3]	
+2-13	140-144	they	SCOPE[2]|FOCUS[3]	
+2-14	145-148	are	SCOPE[2]|FOCUS[3]	
+2-15	148-149	,	_	
+2-16	150-159	tough.The	_	
+2-17	160-163	law	_	
+2-18	164-170	should	_	
+2-19	171-175	have	_	
+2-20	176-180	gone	_	
+2-21	181-188	further	_	
+2-22	189-191	to	_	
+2-23	192-199	address	_	
+2-24	200-204	what	_	
+2-25	205-207	is	_	
+2-26	207-208	,	_	
+2-27	209-211	in	_	
+2-28	212-219	reality	_	
+2-29	219-220	,	_	
+2-30	221-222	a	_	
+2-31	223-229	crisis	_	
+2-32	229-230	.	_	
+
+#Text=A moratorium on housing purchases by foreigners should have been passed to force a correction.All the tax did was kick the can a few feet down the road.
+3-1	231-232	A	_	
+3-2	233-243	moratorium	_	
+3-3	244-246	on	_	
+3-4	247-254	housing	_	
+3-5	255-264	purchases	_	
+3-6	265-267	by	_	
+3-7	268-278	foreigners	_	
+3-8	279-285	should	_	
+3-9	286-290	have	_	
+3-10	291-295	been	_	
+3-11	296-302	passed	_	
+3-12	303-305	to	_	
+3-13	306-311	force	_	
+3-14	312-313	a	_	
+3-15	314-328	correction.All	_	
+3-16	329-332	the	_	
+3-17	333-336	tax	_	
+3-18	337-340	did	_	
+3-19	341-344	was	_	
+3-20	345-349	kick	_	
+3-21	350-353	the	_	
+3-22	354-357	can	_	
+3-23	358-359	a	_	
+3-24	360-363	few	_	
+3-25	364-368	feet	_	
+3-26	369-373	down	_	
+3-27	374-377	the	_	
+3-28	378-382	road	_	
+3-29	382-383	.	_	
+
+#Text=Just the cost of doing business to the speculators and the crooks.Canada needs to protect the well-being of Canadians first, not as a feeble afterthought.
+4-1	384-388	Just	_	
+4-2	389-392	the	_	
+4-3	393-397	cost	_	
+4-4	398-400	of	_	
+4-5	401-406	doing	_	
+4-6	407-415	business	_	
+4-7	416-418	to	_	
+4-8	419-422	the	_	
+4-9	423-434	speculators	_	
+4-10	435-438	and	_	
+4-11	439-442	the	_	
+4-12	443-456	crooks.Canada	_	
+4-13	457-462	needs	_	
+4-14	463-465	to	_	
+4-15	466-473	protect	_	
+4-16	474-477	the	_	
+4-17	478-488	well-being	_	
+4-18	489-491	of	_	
+4-19	492-501	Canadians	_	
+4-20	502-507	first	_	
+4-21	507-508	,	_	
+4-22	509-512	not	NEG	
+4-23	513-515	as	SCOPE[5]	
+4-24	516-517	a	SCOPE[5]|FOCUS[6]	
+4-25	518-524	feeble	SCOPE[5]|FOCUS[6]	
+4-26	525-537	afterthought	SCOPE[5]|FOCUS[6]	
+4-27	537-538	.	_	

@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Moral relativism is rather useless at his juncture.
+1-1	0-5	Moral	Appreciation[1]	neg[1]	_	_	
+1-2	6-16	relativism	Appreciation[1]	neg[1]	_	_	
+1-3	17-19	is	_	_	_	_	
+1-4	20-26	rather	Appreciation[2]	neg[2]	Focus	up	
+1-5	27-34	useless	Appreciation[2]	neg[2]	_	_	
+1-6	35-37	at	_	_	_	_	
+1-7	38-41	his	_	_	_	_	
+1-8	42-50	juncture	_	_	_	_	
+1-9	50-51	.	_	_	_	_	
+
+#Text=It's not about what the US has done, it's about what China is doing.
+2-1	52-56	It's	_	_	_	_	
+2-2	57-60	not	_	_	_	_	
+2-3	61-66	about	_	_	_	_	
+2-4	67-71	what	_	_	_	_	
+2-5	72-75	the	_	_	_	_	
+2-6	76-78	US	_	_	_	_	
+2-7	79-82	has	_	_	_	_	
+2-8	83-87	done	_	_	_	_	
+2-9	87-88	,	_	_	_	_	
+2-10	89-93	it's	_	_	_	_	
+2-11	94-99	about	Appreciation[3]	neg[3]	_	_	
+2-12	100-104	what	Appreciation[3]	neg[3]	_	_	
+2-13	105-110	China	Appreciation[3]	neg[3]	_	_	
+2-14	111-113	is	Appreciation[3]	neg[3]	_	_	
+2-15	114-119	doing	Appreciation[3]	neg[3]	_	_	
+2-16	119-120	.	_	_	_	_	
+
+#Text=The US will not tolerate Chinese Communist expansionism in the South China Sea and it the likelihood of conflict is very real.
+3-1	121-124	The	_	_	_	_	
+3-2	125-127	US	_	_	_	_	
+3-3	128-132	will	Appreciation[4]	neg[4]	_	_	
+3-4	133-136	not	Appreciation[4]	neg[4]	_	_	
+3-5	137-145	tolerate	Appreciation[4]	neg[4]	_	_	
+3-6	146-153	Chinese	_	_	_	_	
+3-7	154-163	Communist	_	_	_	_	
+3-8	164-176	expansionism	Appreciation	neg	_	_	
+3-9	177-179	in	_	_	_	_	
+3-10	180-183	the	_	_	_	_	
+3-11	184-189	South	_	_	_	_	
+3-12	190-195	China	_	_	_	_	
+3-13	196-199	Sea	_	_	_	_	
+3-14	200-203	and	_	_	_	_	
+3-15	204-206	it	_	_	_	_	
+3-16	207-210	the	_	_	_	_	
+3-17	211-221	likelihood	_	_	_	_	
+3-18	222-224	of	_	_	_	_	
+3-19	225-233	conflict	Appreciation	neg	_	_	
+3-20	234-236	is	_	_	_	_	
+3-21	237-241	very	Appreciation[7]	neg[7]	Force	up	
+3-22	242-246	real	Appreciation[7]	neg[7]	_	_	
+3-23	246-247	.	_	_	_	_	
+
+#Text=The US will support the regional nations facing Chinese aggression and this may well lead to an escalating war.
+4-1	248-251	The	_	_	_	_	
+4-2	252-254	US	_	_	_	_	
+4-3	255-259	will	_	_	_	_	
+4-4	260-267	support	Appreciation	neg	_	_	
+4-5	268-271	the	_	_	_	_	
+4-6	272-280	regional	_	_	_	_	
+4-7	281-288	nations	_	_	_	_	
+4-8	289-295	facing	_	_	_	_	
+4-9	296-303	Chinese	_	_	_	_	
+4-10	304-314	aggression	Appreciation	neg	_	_	
+4-11	315-318	and	_	_	_	_	
+4-12	319-323	this	_	_	_	_	
+4-13	324-327	may	Appreciation[10]	neg[10]	_	_	
+4-14	328-332	well	Appreciation[10]	neg[10]	_	_	
+4-15	333-337	lead	Appreciation[10]	neg[10]	_	_	
+4-16	338-340	to	Appreciation[10]	neg[10]	_	_	
+4-17	341-343	an	Appreciation[10]	neg[10]	_	_	
+4-18	344-354	escalating	Appreciation[10]	neg[10]	_	_	
+4-19	355-358	war	Appreciation[10]	neg[10]	_	_	
+4-20	358-359	.	_	_	_	_	
+
+#Text=It is a dangerous situation and not one that is likely to be solved by diplomacy or international courts.
+5-1	360-362	It	_	_	_	_	
+5-2	363-365	is	_	_	_	_	
+5-3	366-367	a	_	_	_	_	
+5-4	368-377	dangerous	Appreciation	neg	_	_	
+5-5	378-387	situation	_	_	_	_	
+5-6	388-391	and	_	_	_	_	
+5-7	392-395	not	Appreciation[12]	neg[12]	_	_	
+5-8	396-399	one	Appreciation[12]	neg[12]	_	_	
+5-9	400-404	that	Appreciation[12]	neg[12]	_	_	
+5-10	405-407	is	Appreciation[12]	neg[12]	_	_	
+5-11	408-414	likely	Appreciation[12]	neg[12]	_	_	
+5-12	415-417	to	Appreciation[12]	neg[12]	_	_	
+5-13	418-420	be	Appreciation[12]	neg[12]	_	_	
+5-14	421-427	solved	Appreciation[12]	neg[12]	_	_	
+5-15	428-430	by	Appreciation[12]	neg[12]	_	_	
+5-16	431-440	diplomacy	Appreciation[12]	neg[12]	_	_	
+5-17	441-443	or	Appreciation[12]	neg[12]	_	_	
+5-18	444-457	international	Appreciation[12]	neg[12]	_	_	
+5-19	458-464	courts	Appreciation[12]	neg[12]	_	_	
+5-20	464-465	.	_	_	_	_	

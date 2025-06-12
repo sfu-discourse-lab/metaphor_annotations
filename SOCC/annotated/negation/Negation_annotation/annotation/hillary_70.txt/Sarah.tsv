@@ -1,0 +1,175 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+#T_RL=webanno.custom.XNEGATION|BT_webanno.custom.NEGATION
+
+
+#Text=Ms.
+1-1	0-2	Ms	_	_	
+1-2	2-3	.	_	_	
+
+#Text=Henein is a brilliant lawyer and well her opinion piece was well written she missed so many other subtleties.
+2-1	4-10	Henein	_	_	
+2-2	11-13	is	_	_	
+2-3	14-15	a	_	_	
+2-4	16-25	brilliant	_	_	
+2-5	26-32	lawyer	_	_	
+2-6	33-36	and	_	_	
+2-7	37-41	well	_	_	
+2-8	42-45	her	_	_	
+2-9	46-53	opinion	_	_	
+2-10	54-59	piece	_	_	
+2-11	60-63	was	_	_	
+2-12	64-68	well	_	_	
+2-13	69-76	written	_	_	
+2-14	77-80	she	_	_	
+2-15	81-87	missed	_	_	
+2-16	88-90	so	_	_	
+2-17	91-95	many	_	_	
+2-18	96-101	other	_	_	
+2-19	102-112	subtleties	_	_	
+2-20	112-113	.	_	_	
+
+#Text=Many minorities did not like Hillary.
+3-1	115-119	Many	_	_	
+3-2	120-130	minorities	_	_	
+3-3	131-134	did	_	_	
+3-4	135-138	not	NEG	_	
+3-5	139-143	like	SCOPE[2]	_	
+3-6	144-151	Hillary	SCOPE[2]|FOCUS[3]	_	
+3-7	151-152	.	_	_	
+
+#Text=They saw her as an entitled white woman.
+4-1	154-158	They	_	_	
+4-2	159-162	saw	_	_	
+4-3	163-166	her	_	_	
+4-4	167-169	as	_	_	
+4-5	170-172	an	_	_	
+4-6	173-181	entitled	_	_	
+4-7	182-187	white	_	_	
+4-8	188-193	woman	_	_	
+4-9	193-194	.	_	_	
+
+#Text=Read the Detroit papers if you don't think so.
+5-1	196-200	Read	_	_	
+5-2	201-204	the	_	_	
+5-3	205-212	Detroit	_	_	
+5-4	213-219	papers	_	_	
+5-5	220-222	if	_	_	
+5-6	223-226	you	_	_	
+5-7	227-232	don't	NEG	_	
+5-8	233-238	think	SCOPE[5]|FOCUS[6]	_	
+5-9	239-241	so	SCOPE[5]|FOCUS[6]	_	
+5-10	241-242	.	_	_	
+
+#Text=It's not something the defeated want to discuss or address, but they know it and will never admit it.
+6-1	244-248	It's	_	_	
+6-2	249-252	not	NEG	_	
+6-3	253-262	something	SCOPE[8]	_	
+6-4	263-266	the	SCOPE[8]	_	
+6-5	267-275	defeated	SCOPE[8]	_	
+6-6	276-280	want	SCOPE[8]	_	
+6-7	281-283	to	SCOPE[8]	_	
+6-8	284-291	discuss	SCOPE[8]|FOCUS[9]	_	
+6-9	292-294	or	SCOPE[8]	_	
+6-10	295-302	address	SCOPE[8]|FOCUS[10]	_	
+6-11	302-303	,	_	_	
+6-12	304-307	but	_	_	
+6-13	308-312	they	_	_	
+6-14	313-317	know	_	_	
+6-15	318-320	it	_	_	
+6-16	321-324	and	_	_	
+6-17	325-329	will	_	_	
+6-18	330-335	never	NEG	_	
+6-19	336-341	admit	SCOPE[12]|FOCUS[13]	_	
+6-20	342-344	it	SCOPE[12]	_	
+6-21	344-345	.	_	_	
+
+#Text=If they came out in force as to what they did for Barack Obama in 2008 or 2012, this opinion would not be in electronic print.
+7-1	347-349	If	_	_	
+7-2	350-354	they	_	_	
+7-3	355-359	came	_	_	
+7-4	360-363	out	_	_	
+7-5	364-366	in	_	_	
+7-6	367-372	force	_	_	
+7-7	373-375	as	_	_	
+7-8	376-378	to	_	_	
+7-9	379-383	what	_	_	
+7-10	384-388	they	_	_	
+7-11	389-392	did	_	_	
+7-12	393-396	for	_	_	
+7-13	397-403	Barack	_	_	
+7-14	404-409	Obama	_	_	
+7-15	410-412	in	_	_	
+7-16	413-417	2008	_	_	
+7-17	418-420	or	_	_	
+7-18	421-425	2012	_	_	
+7-19	425-426	,	_	_	
+7-20	427-431	this	_	_	
+7-21	432-439	opinion	_	_	
+7-22	440-445	would	_	_	
+7-23	446-449	not	NEG	_	
+7-24	450-452	be	SCOPE[15]	_	
+7-25	453-455	in	SCOPE[15]	_	
+7-26	456-466	electronic	SCOPE[15]|FOCUS[16]	_	
+7-27	467-472	print	SCOPE[15]|FOCUS[16]	_	
+7-28	472-473	.	_	_	
+
+#Text=No, I don't like Donald Trump but neither do I like Hillary Clinton.
+8-1	474-476	No	NEG	_	
+8-2	476-477	,	_	_	
+8-3	478-479	I	_	_	
+8-4	480-485	don't	NEG	_	
+8-5	486-490	like	SCOPE[19]|SCOPE[20]	8-1[0_20]	
+8-6	491-497	Donald	SCOPE[19]|SCOPE[20]|FOCUS[21]|FOCUS[22]	_	
+8-7	498-503	Trump	SCOPE[19]|SCOPE[20]|FOCUS[21]|FOCUS[22]	_	
+8-8	504-507	but	_	_	
+8-9	508-515	neither	NEG	_	
+8-10	516-518	do	SCOPE[24]	_	
+8-11	519-520	I	SCOPE[24]	_	
+8-12	521-525	like	SCOPE[24]	_	
+8-13	526-533	Hillary	SCOPE[24]|FOCUS[25]	_	
+8-14	534-541	Clinton	SCOPE[24]|FOCUS[25]	_	
+8-15	541-542	.	_	_	
+
+#Text=Gender had nothing to do with it and your path to shattering the glass ceiling certainly does not rest with Hillary Clinton.
+9-1	544-550	Gender	_	_	
+9-2	551-554	had	_	_	
+9-3	555-562	nothing	NEG	_	
+9-4	563-565	to	SCOPE[27]	_	
+9-5	566-568	do	SCOPE[27]	_	
+9-6	569-573	with	SCOPE[27]	_	
+9-7	574-576	it	SCOPE[27]|FOCUS[28]	_	
+9-8	577-580	and	_	_	
+9-9	581-585	your	_	_	
+9-10	586-590	path	_	_	
+9-11	591-593	to	_	_	
+9-12	594-604	shattering	_	_	
+9-13	605-608	the	_	_	
+9-14	609-614	glass	_	_	
+9-15	615-622	ceiling	_	_	
+9-16	623-632	certainly	_	_	
+9-17	633-637	does	_	_	
+9-18	638-641	not	NEG	_	
+9-19	642-646	rest	SCOPE[30]	_	
+9-20	647-651	with	SCOPE[30]	_	
+9-21	652-659	Hillary	SCOPE[30]|FOCUS[31]	_	
+9-22	660-667	Clinton	SCOPE[30]|FOCUS[31]	_	
+9-23	667-668	.	_	_	
+
+#Text=It may have been shattered decades ago.
+10-1	670-672	It	_	_	
+10-2	673-676	may	_	_	
+10-3	677-681	have	_	_	
+10-4	682-686	been	_	_	
+10-5	687-696	shattered	_	_	
+10-6	697-704	decades	_	_	
+10-7	705-708	ago	_	_	
+10-8	708-709	.	_	_	
+
+#Text=You only have to look.
+11-1	711-714	You	_	_	
+11-2	715-719	only	_	_	
+11-3	720-724	have	_	_	
+11-4	725-727	to	_	_	
+11-5	728-732	look	_	_	
+11-6	732-733	.	_	_	

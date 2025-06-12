@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=The Globe and Mail, along with the entire establishment, media, cultural, business and political elites, COMPLETELY missed the fact that Trump could win.
+1-1	0-3	The	
+1-2	4-9	Globe	
+1-3	10-13	and	
+1-4	14-18	Mail	
+1-5	18-19	,	
+1-6	20-25	along	
+1-7	26-30	with	
+1-8	31-34	the	
+1-9	35-41	entire	
+1-10	42-55	establishment	
+1-11	55-56	,	
+1-12	57-62	media	
+1-13	62-63	,	
+1-14	64-72	cultural	
+1-15	72-73	,	
+1-16	74-82	business	
+1-17	83-86	and	
+1-18	87-96	political	
+1-19	97-103	elites	
+1-20	103-104	,	
+1-21	105-115	COMPLETELY	
+1-22	116-122	missed	
+1-23	123-126	the	
+1-24	127-131	fact	
+1-25	132-136	that	
+1-26	137-142	Trump	
+1-27	143-148	could	
+1-28	149-152	win	
+1-29	152-153	.	
+
+#Text=Until that is seriously addressed, why should anyone seriously consider your future predictions about Trump?
+2-1	154-159	Until	
+2-2	160-164	that	
+2-3	165-167	is	
+2-4	168-177	seriously	
+2-5	178-187	addressed	
+2-6	187-188	,	
+2-7	189-192	why	
+2-8	193-199	should	
+2-9	200-206	anyone	
+2-10	207-216	seriously	
+2-11	217-225	consider	
+2-12	226-230	your	
+2-13	231-237	future	
+2-14	238-249	predictions	
+2-15	250-255	about	
+2-16	256-261	Trump	
+2-17	261-262	?	

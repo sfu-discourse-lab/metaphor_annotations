@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=.'
+1-1	0-1	.	_	_	
+1-2	1-2	'	_	_	
+
+#Text=Earlier this week, the Department of Finance announced that, lo and behold, the federal budget for the 2014-15 fiscal year that ended March 31 produced a surplus of $1.9-billion.'
+2-1	2-9	Earlier	_	_	
+2-2	10-14	this	_	_	
+2-3	15-19	week	_	_	
+2-4	19-20	,	_	_	
+2-5	21-24	the	_	_	
+2-6	25-35	Department	_	_	
+2-7	36-38	of	_	_	
+2-8	39-46	Finance	_	_	
+2-9	47-56	announced	_	_	
+2-10	57-61	that	_	_	
+2-11	61-62	,	_	_	
+2-12	63-65	lo	Appreciation[1]	neg[1]	
+2-13	66-69	and	Appreciation[1]	neg[1]	
+2-14	70-76	behold	Appreciation[1]	neg[1]	
+2-15	76-77	,	_	_	
+2-16	78-81	the	_	_	
+2-17	82-89	federal	_	_	
+2-18	90-96	budget	_	_	
+2-19	97-100	for	_	_	
+2-20	101-104	the	_	_	
+2-21	105-109	2014	_	_	
+2-22	109-110	-	_	_	
+2-23	110-112	15	_	_	
+2-24	113-119	fiscal	_	_	
+2-25	120-124	year	_	_	
+2-26	125-129	that	_	_	
+2-27	130-135	ended	_	_	
+2-28	136-141	March	_	_	
+2-29	142-144	31	_	_	
+2-30	145-153	produced	_	_	
+2-31	154-155	a	_	_	
+2-32	156-163	surplus	_	_	
+2-33	164-166	of	_	_	
+2-34	167-171	$1.9	_	_	
+2-35	171-172	-	_	_	
+2-36	172-179	billion	_	_	
+2-37	179-180	.	_	_	
+2-38	180-181	'	_	_	
+
+#Text=---------Harper voodoo bookkeeping.
+3-1	181-182	-	_	_	
+3-2	182-183	-	_	_	
+3-3	183-184	-	_	_	
+3-4	184-185	-	_	_	
+3-5	185-186	-	_	_	
+3-6	186-187	-	_	_	
+3-7	187-188	-	_	_	
+3-8	188-189	-	_	_	
+3-9	189-190	-	_	_	
+3-10	190-196	Harper	_	_	
+3-11	197-203	voodoo	Judgment	neg	
+3-12	204-215	bookkeeping	_	_	
+3-13	215-216	.	_	_	
+
+#Text=It's time someone called him out on it.Well done, Jeffrey..
+4-1	217-221	It's	_	_	
+4-2	222-226	time	Appreciation[3]	pos[3]	
+4-3	227-234	someone	Appreciation[3]	pos[3]	
+4-4	235-241	called	Appreciation[3]	pos[3]	
+4-5	242-245	him	Appreciation[3]	pos[3]	
+4-6	246-249	out	Appreciation[3]	pos[3]	
+4-7	250-252	on	Appreciation[3]	pos[3]	
+4-8	253-260	it.Well	Appreciation[3]|Judgment[4]	pos[3]|pos[4]	
+4-9	261-265	done	Judgment[4]	pos[4]	
+4-10	265-266	,	_	_	
+4-11	267-274	Jeffrey	_	_	
+4-12	274-275	.	_	_	
+4-13	275-276	.	_	_	

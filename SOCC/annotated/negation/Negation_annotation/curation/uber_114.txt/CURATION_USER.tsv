@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=another lost soul,, not to worry, lots of lawyers in Toronto, and perhaps as early as next spring, you too may understand what we have been trying to tell our government about Uber,
+1-1	0-7	another	_	
+1-2	8-12	lost	_	
+1-3	13-17	soul	_	
+1-4	17-18	,	_	
+1-5	18-19	,	_	
+1-6	20-23	not	NEG	
+1-7	24-26	to	SCOPE[2]	
+1-8	27-32	worry	SCOPE[2]|FOCUS[3]	
+1-9	32-33	,	_	
+1-10	34-38	lots	_	
+1-11	39-41	of	_	
+1-12	42-49	lawyers	_	
+1-13	50-52	in	_	
+1-14	53-60	Toronto	_	
+1-15	60-61	,	_	
+1-16	62-65	and	_	
+1-17	66-73	perhaps	_	
+1-18	74-76	as	_	
+1-19	77-82	early	_	
+1-20	83-85	as	_	
+1-21	86-90	next	_	
+1-22	91-97	spring	_	
+1-23	97-98	,	_	
+1-24	99-102	you	_	
+1-25	103-106	too	_	
+1-26	107-110	may	_	
+1-27	111-121	understand	_	
+1-28	122-126	what	_	
+1-29	127-129	we	_	
+1-30	130-134	have	_	
+1-31	135-139	been	_	
+1-32	140-146	trying	_	
+1-33	147-149	to	_	
+1-34	150-154	tell	_	
+1-35	155-158	our	_	
+1-36	159-169	government	_	
+1-37	170-175	about	_	
+1-38	176-180	Uber	_	
+1-39	180-181	,	_	

@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=That's actually a really good point!
+1-1	0-6	That's	
+1-2	7-15	actually	
+1-3	16-17	a	
+1-4	18-24	really	
+1-5	25-29	good	
+1-6	30-35	point	
+1-7	35-36	!	
+
+#Text=When people spend north of $10K on a watch, they expect it to last the rest of their lives or at least a good long time.
+2-1	37-41	When	
+2-2	42-48	people	
+2-3	49-54	spend	
+2-4	55-60	north	
+2-5	61-63	of	
+2-6	64-68	$10K	
+2-7	69-71	on	
+2-8	72-73	a	
+2-9	74-79	watch	
+2-10	79-80	,	
+2-11	81-85	they	
+2-12	86-92	expect	
+2-13	93-95	it	
+2-14	96-98	to	
+2-15	99-103	last	
+2-16	104-107	the	
+2-17	108-112	rest	
+2-18	113-115	of	
+2-19	116-121	their	
+2-20	122-127	lives	
+2-21	128-130	or	
+2-22	131-133	at	
+2-23	134-139	least	
+2-24	140-141	a	
+2-25	142-146	good	
+2-26	147-151	long	
+2-27	152-156	time	
+2-28	156-157	.	
+
+#Text=Apple is going to have to ensure the Watch is compatible with future iPhones too.
+3-1	158-163	Apple	
+3-2	164-166	is	
+3-3	167-172	going	
+3-4	173-175	to	
+3-5	176-180	have	
+3-6	181-183	to	
+3-7	184-190	ensure	
+3-8	191-194	the	
+3-9	195-200	Watch	
+3-10	201-203	is	
+3-11	204-214	compatible	
+3-12	215-219	with	
+3-13	220-226	future	
+3-14	227-234	iPhones	
+3-15	235-238	too	
+3-16	238-239	.	
+
+#Text=If they end up obsolescing the $13K watch in two years they will generate quite the backlash.
+4-1	240-242	If	
+4-2	243-247	they	
+4-3	248-251	end	
+4-4	252-254	up	
+4-5	255-266	obsolescing	
+4-6	267-270	the	
+4-7	271-275	$13K	
+4-8	276-281	watch	
+4-9	282-284	in	
+4-10	285-288	two	
+4-11	289-294	years	
+4-12	295-299	they	
+4-13	300-304	will	
+4-14	305-313	generate	
+4-15	314-319	quite	
+4-16	320-323	the	
+4-17	324-332	backlash	
+4-18	332-333	.	

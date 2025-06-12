@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Simpson is having his little joke by encouraging the NDP to play with this expensive hand grenade.
+1-1	0-7	Simpson	_	
+1-2	8-10	is	_	
+1-3	11-17	having	_	
+1-4	18-21	his	_	
+1-5	22-28	little	_	
+1-6	29-33	joke	_	
+1-7	34-36	by	_	
+1-8	37-48	encouraging	_	
+1-9	49-52	the	_	
+1-10	53-56	NDP	_	
+1-11	57-59	to	_	
+1-12	60-64	play	_	
+1-13	65-69	with	_	
+1-14	70-74	this	_	
+1-15	75-84	expensive	_	
+1-16	85-89	hand	_	
+1-17	90-97	grenade	_	
+1-18	97-98	.	_	
+
+#Text=If it weren't for the poisonous potential it introduces to the federal/provincial arena if would be an interesting experiment.
+2-1	100-102	If	_	
+2-2	103-105	it	_	
+2-3	106-113	weren't	NEG	
+2-4	114-117	for	SCOPE[2]	
+2-5	118-121	the	SCOPE[2]|FOCUS[3]	
+2-6	122-131	poisonous	SCOPE[2]|FOCUS[3]	
+2-7	132-141	potential	SCOPE[2]|FOCUS[3]	
+2-8	142-144	it	SCOPE[2]|FOCUS[3]	
+2-9	145-155	introduces	SCOPE[2]|FOCUS[3]	
+2-10	156-158	to	SCOPE[2]|FOCUS[3]	
+2-11	159-162	the	SCOPE[2]|FOCUS[3]	
+2-12	163-170	federal	SCOPE[2]|FOCUS[3]	
+2-13	170-171	/	SCOPE[2]|FOCUS[3]	
+2-14	171-181	provincial	SCOPE[2]|FOCUS[3]	
+2-15	182-187	arena	SCOPE[2]|FOCUS[3]	
+2-16	188-190	if	_	
+2-17	191-196	would	_	
+2-18	197-199	be	_	
+2-19	200-202	an	_	
+2-20	203-214	interesting	_	
+2-21	215-225	experiment	_	
+2-22	225-226	.	_	
+
+#Text=Unfortunately if you wave money in front of provinces in areas of their own jurisdiction you get what you deserve.
+3-1	228-241	Unfortunately	_	
+3-2	242-244	if	_	
+3-3	245-248	you	_	
+3-4	249-253	wave	_	
+3-5	254-259	money	_	
+3-6	260-262	in	_	
+3-7	263-268	front	_	
+3-8	269-271	of	_	
+3-9	272-281	provinces	_	
+3-10	282-284	in	_	
+3-11	285-290	areas	_	
+3-12	291-293	of	_	
+3-13	294-299	their	_	
+3-14	300-303	own	_	
+3-15	304-316	jurisdiction	_	
+3-16	317-320	you	_	
+3-17	321-324	get	_	
+3-18	325-329	what	_	
+3-19	330-333	you	_	
+3-20	334-341	deserve	_	
+3-21	341-342	.	_	

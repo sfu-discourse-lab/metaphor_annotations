@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=This story gives broader context to the earlier reports of the abuse of band finances by the native leadership.
+1-1	0-4	This	_	_	_	_	
+1-2	5-10	story	_	_	_	_	
+1-3	11-16	gives	Appreciation[1]	pos[1]	_	_	
+1-4	17-24	broader	Appreciation[1]	pos[1]	_	_	
+1-5	25-32	context	Appreciation[1]	pos[1]	_	_	
+1-6	33-35	to	_	_	_	_	
+1-7	36-39	the	_	_	_	_	
+1-8	40-47	earlier	_	_	_	_	
+1-9	48-55	reports	_	_	_	_	
+1-10	56-58	of	_	_	_	_	
+1-11	59-62	the	_	_	_	_	
+1-12	63-68	abuse	Appreciation	neg	_	_	
+1-13	69-71	of	_	_	_	_	
+1-14	72-76	band	_	_	_	_	
+1-15	77-85	finances	_	_	_	_	
+1-16	86-88	by	_	_	_	_	
+1-17	89-92	the	_	_	_	_	
+1-18	93-99	native	_	_	_	_	
+1-19	100-110	leadership	_	_	_	_	
+1-20	110-111	.	_	_	_	_	
+
+#Text=The hardship on the reserves does have to be addressed but the people who have to lead on this are the reserve leaders themselves.
+2-1	112-115	The	_	_	_	_	
+2-2	116-124	hardship	Appreciation	neg	_	_	
+2-3	125-127	on	_	_	_	_	
+2-4	128-131	the	_	_	_	_	
+2-5	132-140	reserves	_	_	_	_	
+2-6	141-145	does	Appreciation[4]	pos[4]	Focus	up	
+2-7	146-150	have	Appreciation[4]	pos[4]	_	_	
+2-8	151-153	to	Appreciation[4]	pos[4]	_	_	
+2-9	154-156	be	Appreciation[4]	pos[4]	_	_	
+2-10	157-166	addressed	Appreciation[4]	pos[4]	_	_	
+2-11	167-170	but	_	_	_	_	
+2-12	171-174	the	_	_	_	_	
+2-13	175-181	people	_	_	_	_	
+2-14	182-185	who	_	_	_	_	
+2-15	186-190	have	_	_	_	_	
+2-16	191-193	to	_	_	_	_	
+2-17	194-198	lead	_	_	_	_	
+2-18	199-201	on	_	_	_	_	
+2-19	202-206	this	_	_	_	_	
+2-20	207-210	are	_	_	_	_	
+2-21	211-214	the	_	_	_	_	
+2-22	215-222	reserve	_	_	_	_	
+2-23	223-230	leaders	_	_	_	_	
+2-24	231-241	themselves	_	_	_	_	
+2-25	241-242	.	_	_	_	_	
+
+#Text=Trying to do anything from the outside, as was the case recently with education, will be another waste of time and scarce money, resulting more bruised feelings.
+3-1	243-249	Trying	_	_	_	_	
+3-2	250-252	to	_	_	_	_	
+3-3	253-255	do	_	_	_	_	
+3-4	256-264	anything	_	_	_	_	
+3-5	265-269	from	_	_	_	_	
+3-6	270-273	the	_	_	_	_	
+3-7	274-281	outside	_	_	_	_	
+3-8	281-282	,	_	_	_	_	
+3-9	283-285	as	_	_	_	_	
+3-10	286-289	was	_	_	_	_	
+3-11	290-293	the	_	_	_	_	
+3-12	294-298	case	_	_	_	_	
+3-13	299-307	recently	_	_	_	_	
+3-14	308-312	with	_	_	_	_	
+3-15	313-322	education	_	_	_	_	
+3-16	322-323	,	_	_	_	_	
+3-17	324-328	will	_	_	_	_	
+3-18	329-331	be	_	_	_	_	
+3-19	332-339	another	_	_	_	_	
+3-20	340-345	waste	Appreciation	neg	_	_	
+3-21	346-348	of	_	_	_	_	
+3-22	349-353	time	_	_	_	_	
+3-23	354-357	and	_	_	_	_	
+3-24	358-364	scarce	Appreciation	neg	_	_	
+3-25	365-370	money	_	_	_	_	
+3-26	370-371	,	_	_	_	_	
+3-27	372-381	resulting	_	_	_	_	
+3-28	382-386	more	Appreciation[7]	neg[7]	Force	up	
+3-29	387-394	bruised	Appreciation[7]	neg[7]	_	_	
+3-30	395-403	feelings	_	_	_	_	
+3-31	403-404	.	_	_	_	_	
+
+#Text=We have to see the problem for what it is : reserve based and nurtured.
+4-1	405-407	We	_	_	_	_	
+4-2	408-412	have	_	_	_	_	
+4-3	413-415	to	_	_	_	_	
+4-4	416-419	see	_	_	_	_	
+4-5	420-423	the	_	_	_	_	
+4-6	424-431	problem	Appreciation	neg	_	_	
+4-7	432-435	for	_	_	_	_	
+4-8	436-440	what	_	_	_	_	
+4-9	441-443	it	_	_	_	_	
+4-10	444-446	is	_	_	_	_	
+4-11	447-448	:	_	_	_	_	
+4-12	449-456	reserve	Appreciation[9]	neg[9]	_	_	
+4-13	457-462	based	Appreciation[9]	neg[9]	_	_	
+4-14	463-466	and	Appreciation[9]	neg[9]	_	_	
+4-15	467-475	nurtured	Appreciation[9]	neg[9]	_	_	
+4-16	475-476	.	_	_	_	_	

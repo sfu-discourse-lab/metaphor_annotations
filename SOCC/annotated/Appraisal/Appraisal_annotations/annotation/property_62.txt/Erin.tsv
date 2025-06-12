@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=My partner is Chinese Canadian and i can tell you the 'old' Chinese community in Vancouver thinks this tax is long overdue and that the government (at all levels) has been completely taken in or are being paid off.
+1-1	0-2	My	_	_	_	_	
+1-2	3-10	partner	_	_	_	_	
+1-3	11-13	is	_	_	_	_	
+1-4	14-21	Chinese	_	_	_	_	
+1-5	22-30	Canadian	_	_	_	_	
+1-6	31-34	and	_	_	_	_	
+1-7	35-36	i	_	_	_	_	
+1-8	37-40	can	_	_	_	_	
+1-9	41-45	tell	_	_	_	_	
+1-10	46-49	you	_	_	_	_	
+1-11	50-53	the	_	_	_	_	
+1-12	54-55	'	_	_	_	_	
+1-13	55-58	old	_	_	_	_	
+1-14	58-59	'	_	_	_	_	
+1-15	60-67	Chinese	_	_	_	_	
+1-16	68-77	community	_	_	_	_	
+1-17	78-80	in	_	_	_	_	
+1-18	81-90	Vancouver	_	_	_	_	
+1-19	91-97	thinks	Judgment[1]	neg[1]	_	_	
+1-20	98-102	this	Judgment[1]	neg[1]	_	_	
+1-21	103-106	tax	Judgment[1]	neg[1]	_	_	
+1-22	107-109	is	Judgment[1]	neg[1]	_	_	
+1-23	110-114	long	Judgment[1]	neg[1]	_	_	
+1-24	115-122	overdue	Judgment[1]	neg[1]	_	_	
+1-25	123-126	and	Judgment[1]	neg[1]	_	_	
+1-26	127-131	that	Judgment[1]	neg[1]	_	_	
+1-27	132-135	the	Judgment[1]	neg[1]	_	_	
+1-28	136-146	government	Judgment[1]	neg[1]	_	_	
+1-29	147-148	(	Judgment[1]	neg[1]	_	_	
+1-30	148-150	at	Judgment[1]	neg[1]	_	_	
+1-31	151-154	all	Judgment[1]	neg[1]	_	_	
+1-32	155-161	levels	Judgment[1]	neg[1]	_	_	
+1-33	161-162	)	Judgment[1]	neg[1]	_	_	
+1-34	163-166	has	Judgment[1]	neg[1]	_	_	
+1-35	167-171	been	Judgment[1]	neg[1]	_	_	
+1-36	172-182	completely	Judgment[1]	neg[1]	_	_	
+1-37	183-188	taken	Judgment[1]	neg[1]	_	_	
+1-38	189-191	in	Judgment[1]	neg[1]	_	_	
+1-39	192-194	or	Judgment[1]	neg[1]	_	_	
+1-40	195-198	are	Judgment[1]	neg[1]	_	_	
+1-41	199-204	being	Judgment[1]	neg[1]	_	_	
+1-42	205-209	paid	Judgment[1]	neg[1]	_	_	
+1-43	210-213	off	Judgment[1]	neg[1]	_	_	
+1-44	213-214	.	_	_	_	_	
+
+#Text=There has been money laundering for years and people not paying taxes or claiming welfare while living in multi-million dollar homes.
+2-1	215-220	There	_	_	_	_	
+2-2	221-224	has	_	_	_	_	
+2-3	225-229	been	_	_	_	_	
+2-4	230-235	money	Appreciation[2]	neg[2]	_	_	
+2-5	236-246	laundering	Appreciation[2]	neg[2]	_	_	
+2-6	247-250	for	_	_	_	_	
+2-7	251-256	years	_	_	_	_	
+2-8	257-260	and	_	_	_	_	
+2-9	261-267	people	_	_	_	_	
+2-10	268-271	not	Judgment[3]	neg[3]	_	_	
+2-11	272-278	paying	Judgment[3]	neg[3]	_	_	
+2-12	279-284	taxes	Judgment[3]	neg[3]	_	_	
+2-13	285-287	or	Judgment[3]	neg[3]	_	_	
+2-14	288-296	claiming	Judgment[3]	neg[3]	_	_	
+2-15	297-304	welfare	Judgment[3]	neg[3]	_	_	
+2-16	305-310	while	Judgment[3]	neg[3]	_	_	
+2-17	311-317	living	Judgment[3]	neg[3]	_	_	
+2-18	318-320	in	Judgment[3]	neg[3]	_	_	
+2-19	321-334	multi-million	Judgment[3]	neg[3]	_	_	
+2-20	335-341	dollar	Judgment[3]	neg[3]	_	_	
+2-21	342-347	homes	Judgment[3]	neg[3]	_	_	
+2-22	347-348	.	_	_	_	_	
+
+#Text=It's an open truth in the Asian community and has been for years.
+3-1	349-353	It's	_	_	_	_	
+3-2	354-356	an	_	_	_	_	
+3-3	357-361	open	_	_	_	_	
+3-4	362-367	truth	_	_	_	_	
+3-5	368-370	in	_	_	_	_	
+3-6	371-374	the	_	_	_	_	
+3-7	375-380	Asian	_	_	_	_	
+3-8	381-390	community	_	_	_	_	
+3-9	391-394	and	_	_	_	_	
+3-10	395-398	has	_	_	_	_	
+3-11	399-403	been	_	_	_	_	
+3-12	404-407	for	_	_	_	_	
+3-13	408-413	years	_	_	_	_	
+3-14	413-414	.	_	_	_	_	
+
+#Text=Are you going to call my Chinese mother in law a racist or a resentful immigrant who doesn't like it when new immigrants come?
+4-1	415-418	Are	Judgment[4]	neg[4]	_	_	
+4-2	419-422	you	Judgment[4]	neg[4]	_	_	
+4-3	423-428	going	Judgment[4]	neg[4]	_	_	
+4-4	429-431	to	Judgment[4]	neg[4]	_	_	
+4-5	432-436	call	Judgment[4]	neg[4]	_	_	
+4-6	437-439	my	Judgment[4]	neg[4]	_	_	
+4-7	440-447	Chinese	Judgment[4]	neg[4]	_	_	
+4-8	448-454	mother	Judgment[4]	neg[4]	_	_	
+4-9	455-457	in	Judgment[4]	neg[4]	_	_	
+4-10	458-461	law	Judgment[4]	neg[4]	_	_	
+4-11	462-463	a	Judgment[4]	neg[4]	_	_	
+4-12	464-470	racist	Judgment[4]	neg[4]	_	_	
+4-13	471-473	or	Judgment[4]	neg[4]	_	_	
+4-14	474-475	a	Judgment[4]	neg[4]	_	_	
+4-15	476-485	resentful	Judgment[4]	neg[4]	_	_	
+4-16	486-495	immigrant	Judgment[4]	neg[4]	_	_	
+4-17	496-499	who	Judgment[4]	neg[4]	_	_	
+4-18	500-507	doesn't	Judgment[4]	neg[4]	_	_	
+4-19	508-512	like	Judgment[4]	neg[4]	_	_	
+4-20	513-515	it	Judgment[4]	neg[4]	_	_	
+4-21	516-520	when	Judgment[4]	neg[4]	_	_	
+4-22	521-524	new	Judgment[4]	neg[4]	_	_	
+4-23	525-535	immigrants	Judgment[4]	neg[4]	_	_	
+4-24	536-540	come	Judgment[4]	neg[4]	_	_	
+4-25	540-541	?	_	_	_	_	
+
+#Text=And CRA doesn't crack down on tax evasion for fear of being racist?
+5-1	542-545	And	_	_	_	_	
+5-2	546-549	CRA	_	_	_	_	
+5-3	550-557	doesn't	Judgment[5]	neg[5]	_	_	
+5-4	558-563	crack	Judgment[5]	neg[5]	_	_	
+5-5	564-568	down	Judgment[5]	neg[5]	_	_	
+5-6	569-571	on	Judgment[5]	neg[5]	_	_	
+5-7	572-575	tax	Judgment[5]	neg[5]	_	_	
+5-8	576-583	evasion	Judgment[5]	neg[5]	_	_	
+5-9	584-587	for	Judgment[5]	neg[5]	_	_	
+5-10	588-592	fear	Judgment[5]	neg[5]	_	_	
+5-11	593-595	of	Judgment[5]	neg[5]	_	_	
+5-12	596-601	being	Judgment[5]	neg[5]	_	_	
+5-13	602-608	racist	Judgment[5]	neg[5]	_	_	
+5-14	608-609	?	_	_	_	_	
+
+#Text=This is completely ridiculous and leads to people like Trump!!!
+6-1	610-614	This	_	_	_	_	
+6-2	615-617	is	_	_	_	_	
+6-3	618-628	completely	Appreciation[6]	neg[6]	Force	up	
+6-4	629-639	ridiculous	Appreciation[6]	neg[6]	_	_	
+6-5	640-643	and	Appreciation[6]	neg[6]	_	_	
+6-6	644-649	leads	Appreciation[6]	neg[6]	_	_	
+6-7	650-652	to	Appreciation[6]	neg[6]	_	_	
+6-8	653-659	people	Appreciation[6]	neg[6]	_	_	
+6-9	660-664	like	Appreciation[6]	neg[6]	_	_	
+6-10	665-670	Trump	Appreciation[6]	neg[6]	_	_	
+6-11	670-671	!	_	_	_	_	
+6-12	671-672	!	_	_	_	_	
+6-13	672-673	!	_	_	_	_	

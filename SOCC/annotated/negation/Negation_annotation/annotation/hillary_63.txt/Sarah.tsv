@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Just tell your daughters that Hillary won the popular vote and lost because of the peculiarities of the American system.Note too that some of our biggest provinces have female leaders so all is not lost.
+1-1	0-4	Just	_	
+1-2	5-9	tell	_	
+1-3	10-14	your	_	
+1-4	15-24	daughters	_	
+1-5	25-29	that	_	
+1-6	30-37	Hillary	_	
+1-7	38-41	won	_	
+1-8	42-45	the	_	
+1-9	46-53	popular	_	
+1-10	54-58	vote	_	
+1-11	59-62	and	_	
+1-12	63-67	lost	_	
+1-13	68-75	because	_	
+1-14	76-78	of	_	
+1-15	79-82	the	_	
+1-16	83-96	peculiarities	_	
+1-17	97-99	of	_	
+1-18	100-103	the	_	
+1-19	104-112	American	_	
+1-20	113-124	system.Note	_	
+1-21	125-128	too	_	
+1-22	129-133	that	_	
+1-23	134-138	some	_	
+1-24	139-141	of	_	
+1-25	142-145	our	_	
+1-26	146-153	biggest	_	
+1-27	154-163	provinces	_	
+1-28	164-168	have	_	
+1-29	169-175	female	_	
+1-30	176-183	leaders	_	
+1-31	184-186	so	_	
+1-32	187-190	all	_	
+1-33	191-193	is	_	
+1-34	194-197	not	NEG	
+1-35	198-202	lost	SCOPE[2]|FOCUS[3]	
+1-36	202-203	.	_	
+
+#Text=My daughters still have lots of hope.
+2-1	205-207	My	_	
+2-2	208-217	daughters	_	
+2-3	218-223	still	_	
+2-4	224-228	have	_	
+2-5	229-233	lots	_	
+2-6	234-236	of	_	
+2-7	237-241	hope	_	
+2-8	241-242	.	_	

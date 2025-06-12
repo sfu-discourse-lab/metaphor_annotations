@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I agree with her that the problems stem from colonialism - more specifically, residential schools.
+1-1	0-1	I	_	_	
+1-2	2-7	agree	Appreciation	pos	
+1-3	8-12	with	_	_	
+1-4	13-16	her	_	_	
+1-5	17-21	that	_	_	
+1-6	22-25	the	_	_	
+1-7	26-34	problems	Appreciation	neg	
+1-8	35-39	stem	_	_	
+1-9	40-44	from	_	_	
+1-10	45-56	colonialism	Appreciation	neg	
+1-11	57-58	-	_	_	
+1-12	59-63	more	_	_	
+1-13	64-76	specifically	_	_	
+1-14	76-77	,	_	_	
+1-15	78-89	residential	Appreciation[4]	neg[4]	
+1-16	90-97	schools	Appreciation[4]	neg[4]	
+1-17	97-98	.	_	_	
+
+#Text=The survivors can't parent because they never experienced good parenting.
+2-1	100-103	The	_	_	
+2-2	104-113	survivors	_	_	
+2-3	114-119	can't	Judgment[5]	neg[5]	
+2-4	120-126	parent	Judgment[5]	neg[5]	
+2-5	127-134	because	_	_	
+2-6	135-139	they	_	_	
+2-7	140-145	never	Appreciation[6]	neg[6]	
+2-8	146-157	experienced	Appreciation[6]	neg[6]	
+2-9	158-162	good	Appreciation[6]	neg[6]	
+2-10	163-172	parenting	Appreciation[6]	neg[6]	
+2-11	172-173	.	_	_	
+
+#Text=Plus they're traumatized and poor.
+3-1	175-179	Plus	_	_	
+3-2	180-187	they're	_	_	
+3-3	188-199	traumatized	Appreciation[7]	neg[7]	
+3-4	200-203	and	Appreciation[7]	neg[7]	
+3-5	204-208	poor	Appreciation[7]	neg[7]	
+3-6	208-209	.	_	_	
+
+#Text=Its complete dysfunction.The solution doesn't lie in decolonizing (not gonna happen) but its good and healing to point out that its not their fault.
+4-1	211-214	Its	_	_	
+4-2	215-223	complete	_	_	
+4-3	224-239	dysfunction.The	Appreciation	neg	
+4-4	240-248	solution	_	_	
+4-5	249-256	doesn't	Appreciation[9]	neg[9]	
+4-6	257-260	lie	Appreciation[9]	neg[9]	
+4-7	261-263	in	Appreciation[9]	neg[9]	
+4-8	264-276	decolonizing	Appreciation[9]	neg[9]	
+4-9	277-278	(	_	_	
+4-10	278-281	not	Appreciation[10]	neg[10]	
+4-11	282-287	gonna	Appreciation[10]	neg[10]	
+4-12	288-294	happen	Appreciation[10]	neg[10]	
+4-13	294-295	)	_	_	
+4-14	296-299	but	_	_	
+4-15	300-303	its	_	_	
+4-16	304-308	good	Appreciation[11]	pos[11]	
+4-17	309-312	and	Appreciation[11]	pos[11]	
+4-18	313-320	healing	Appreciation[11]	pos[11]	
+4-19	321-323	to	_	_	
+4-20	324-329	point	_	_	
+4-21	330-333	out	_	_	
+4-22	334-338	that	_	_	
+4-23	339-342	its	_	_	
+4-24	343-346	not	Judgment[12]	neg[12]	
+4-25	347-352	their	Judgment[12]	neg[12]	
+4-26	353-358	fault	Judgment[12]	neg[12]	
+4-27	358-359	.	_	_	

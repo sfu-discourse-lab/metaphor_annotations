@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Where do you get 'simple' from?
+1-1	0-5	Where	Judgment[1]	neg[1]	
+1-2	6-8	do	Judgment[1]	neg[1]	
+1-3	9-12	you	Judgment[1]	neg[1]	
+1-4	13-16	get	Judgment[1]	neg[1]	
+1-5	17-18	'	Judgment[1]	neg[1]	
+1-6	18-24	simple	Judgment[1]	neg[1]	
+1-7	24-25	'	Judgment[1]	neg[1]	
+1-8	26-30	from	Judgment[1]	neg[1]	
+1-9	30-31	?	_	_	

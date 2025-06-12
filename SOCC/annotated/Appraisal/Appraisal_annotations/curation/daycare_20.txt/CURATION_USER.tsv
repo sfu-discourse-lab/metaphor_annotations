@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=While I support the notion of subsidized daycare, a national daycare program is an expensive boondoggle waiting to happen.
+1-1	0-5	While	_	_	
+1-2	6-7	I	_	_	
+1-3	8-15	support	Appreciation	pos	
+1-4	16-19	the	_	_	
+1-5	20-26	notion	_	_	
+1-6	27-29	of	_	_	
+1-7	30-40	subsidized	_	_	
+1-8	41-48	daycare	_	_	
+1-9	48-49	,	_	_	
+1-10	50-51	a	_	_	
+1-11	52-60	national	_	_	
+1-12	61-68	daycare	_	_	
+1-13	69-76	program	_	_	
+1-14	77-79	is	_	_	
+1-15	80-82	an	_	_	
+1-16	83-92	expensive	Appreciation[2]	neg[2]	
+1-17	93-103	boondoggle	Appreciation[2]	neg[2]	
+1-18	104-111	waiting	Appreciation[2]	neg[2]	
+1-19	112-114	to	Appreciation[2]	neg[2]	
+1-20	115-121	happen	Appreciation[2]	neg[2]	
+1-21	121-122	.	_	_	
+
+#Text=A means tested subsidy paid directly to parents who use qualified facilities would create opportunities to increase available spaces.
+2-1	123-124	A	_	_	
+2-2	125-130	means	_	_	
+2-3	131-137	tested	_	_	
+2-4	138-145	subsidy	_	_	
+2-5	146-150	paid	_	_	
+2-6	151-159	directly	_	_	
+2-7	160-162	to	_	_	
+2-8	163-170	parents	_	_	
+2-9	171-174	who	_	_	
+2-10	175-178	use	_	_	
+2-11	179-188	qualified	_	_	
+2-12	189-199	facilities	_	_	
+2-13	200-205	would	Appreciation[3]	pos[3]	
+2-14	206-212	create	Appreciation[3]	pos[3]	
+2-15	213-226	opportunities	Appreciation[3]	pos[3]	
+2-16	227-229	to	Appreciation[3]	pos[3]	
+2-17	230-238	increase	Appreciation[3]	pos[3]	
+2-18	239-248	available	Appreciation[3]	pos[3]	
+2-19	249-255	spaces	Appreciation[3]	pos[3]	
+2-20	255-256	.	_	_	
+
+#Text=I would support a subsidy using the following guidelines:First, no family with income over $100,000 per year should require a subsidy.
+3-1	257-258	I	_	_	
+3-2	259-264	would	Appreciation[4]	pos[4]	
+3-3	265-272	support	Appreciation[4]	pos[4]	
+3-4	273-274	a	Appreciation[4]	pos[4]	
+3-5	275-282	subsidy	Appreciation[4]	pos[4]	
+3-6	283-288	using	Appreciation[4]	pos[4]	
+3-7	289-292	the	Appreciation[4]	pos[4]	
+3-8	293-302	following	Appreciation[4]	pos[4]	
+3-9	303-313	guidelines	Appreciation[4]	pos[4]	
+3-10	313-314	:	_	_	
+3-11	314-319	First	_	_	
+3-12	319-320	,	_	_	
+3-13	321-323	no	Appreciation[5]	neg[5]	
+3-14	324-330	family	Appreciation[5]	neg[5]	
+3-15	331-335	with	Appreciation[5]	neg[5]	
+3-16	336-342	income	Appreciation[5]	neg[5]	
+3-17	343-347	over	Appreciation[5]	neg[5]	
+3-18	348-356	$100,000	Appreciation[5]	neg[5]	
+3-19	357-360	per	Appreciation[5]	neg[5]	
+3-20	361-365	year	Appreciation[5]	neg[5]	
+3-21	366-372	should	Appreciation[5]	neg[5]	
+3-22	373-380	require	_	_	
+3-23	381-382	a	_	_	
+3-24	383-390	subsidy	_	_	
+3-25	390-391	.	_	_	
+
+#Text=Subsidies could be scaled according to income levels from 25% to 75%Second, people should expect to pay at least $10/day ($200/month) at any income level.
+4-1	392-401	Subsidies	_	_	
+4-2	402-407	could	_	_	
+4-3	408-410	be	_	_	
+4-4	411-417	scaled	_	_	
+4-5	418-427	according	_	_	
+4-6	428-430	to	_	_	
+4-7	431-437	income	_	_	
+4-8	438-444	levels	_	_	
+4-9	445-449	from	_	_	
+4-10	450-453	25%	_	_	
+4-11	454-456	to	_	_	
+4-12	457-460	75%	_	_	
+4-13	460-466	Second	_	_	
+4-14	466-467	,	_	_	
+4-15	468-474	people	_	_	
+4-16	475-481	should	Appreciation	pos	
+4-17	482-488	expect	_	_	
+4-18	489-491	to	_	_	
+4-19	492-495	pay	_	_	
+4-20	496-498	at	_	_	
+4-21	499-504	least	_	_	
+4-22	505-508	$10	_	_	
+4-23	508-509	/	_	_	
+4-24	509-512	day	_	_	
+4-25	513-514	(	_	_	
+4-26	514-518	$200	_	_	
+4-27	518-519	/	_	_	
+4-28	519-524	month	_	_	
+4-29	524-525	)	_	_	
+4-30	526-528	at	_	_	
+4-31	529-532	any	_	_	
+4-32	533-539	income	_	_	
+4-33	540-545	level	_	_	
+4-34	545-546	.	_	_	
+
+#Text=Third, facilities that qualify for subsidies should be required to offer a minimum standard of service.
+5-1	547-552	Third	_	_	
+5-2	552-553	,	_	_	
+5-3	554-564	facilities	_	_	
+5-4	565-569	that	_	_	
+5-5	570-577	qualify	_	_	
+5-6	578-581	for	_	_	
+5-7	582-591	subsidies	_	_	
+5-8	592-598	should	Appreciation[7]	pos[7]	
+5-9	599-601	be	Appreciation[7]	pos[7]	
+5-10	602-610	required	Appreciation[7]	pos[7]	
+5-11	611-613	to	Appreciation[7]	pos[7]	
+5-12	614-619	offer	Appreciation[7]	pos[7]	
+5-13	620-621	a	Appreciation[7]	pos[7]	
+5-14	622-629	minimum	Appreciation[7]	pos[7]	
+5-15	630-638	standard	Appreciation[7]	pos[7]	
+5-16	639-641	of	Appreciation[7]	pos[7]	
+5-17	642-649	service	Appreciation[7]	pos[7]	
+5-18	649-650	.	_	_	

@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Most provinces can just jack up their sales tax by 2% to make up for the federal reduction, but they prefer the feds to increase taxes and pass them the money.
+1-1	0-4	Most	_	_	
+1-2	5-14	provinces	_	_	
+1-3	15-18	can	_	_	
+1-4	19-23	just	_	_	
+1-5	24-28	jack	Appreciation[1]	pos[1]	
+1-6	29-31	up	Appreciation[1]	pos[1]	
+1-7	32-37	their	_	_	
+1-8	38-43	sales	_	_	
+1-9	44-47	tax	_	_	
+1-10	48-50	by	_	_	
+1-11	51-53	2%	_	_	
+1-12	54-56	to	_	_	
+1-13	57-61	make	_	_	
+1-14	62-64	up	_	_	
+1-15	65-68	for	_	_	
+1-16	69-72	the	_	_	
+1-17	73-80	federal	_	_	
+1-18	81-90	reduction	_	_	
+1-19	90-91	,	_	_	
+1-20	92-95	but	_	_	
+1-21	96-100	they	_	_	
+1-22	101-107	prefer	Judgment[2]	neg[2]	
+1-23	108-111	the	Judgment[2]	neg[2]	
+1-24	112-116	feds	Judgment[2]	neg[2]	
+1-25	117-119	to	Judgment[2]	neg[2]	
+1-26	120-128	increase	Judgment[2]	neg[2]	
+1-27	129-134	taxes	Judgment[2]	neg[2]	
+1-28	135-138	and	Judgment[2]	neg[2]	
+1-29	139-143	pass	Judgment[2]	neg[2]	
+1-30	144-148	them	Judgment[2]	neg[2]	
+1-31	149-152	the	Judgment[2]	neg[2]	
+1-32	153-158	money	Judgment[2]	neg[2]	
+1-33	158-159	.	_	_	

@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Known and understood.
+1-1	0-5	Known	_	
+1-2	6-9	and	_	
+1-3	10-20	understood	_	
+1-4	20-21	.	_	
+
+#Text=However, my question related specifically to those Congolese Christians in Belgium who, to my knowledge, are not donning suicide vests or other technologies of martyrdom.
+2-1	22-29	However	_	
+2-2	29-30	,	_	
+2-3	31-33	my	_	
+2-4	34-42	question	_	
+2-5	43-50	related	_	
+2-6	51-63	specifically	_	
+2-7	64-66	to	_	
+2-8	67-72	those	_	
+2-9	73-82	Congolese	_	
+2-10	83-93	Christians	_	
+2-11	94-96	in	_	
+2-12	97-104	Belgium	_	
+2-13	105-108	who	_	
+2-14	108-109	,	_	
+2-15	110-112	to	_	
+2-16	113-115	my	_	
+2-17	116-125	knowledge	_	
+2-18	125-126	,	_	
+2-19	127-130	are	_	
+2-20	131-134	not	NEG	
+2-21	135-142	donning	SCOPE[2]	
+2-22	143-150	suicide	SCOPE[2]|FOCUS[3]	
+2-23	151-156	vests	SCOPE[2]|FOCUS[3]	
+2-24	157-159	or	SCOPE[2]	
+2-25	160-165	other	SCOPE[2]|FOCUS[4]	
+2-26	166-178	technologies	SCOPE[2]|FOCUS[4]	
+2-27	179-181	of	SCOPE[2]|FOCUS[4]	
+2-28	182-191	martyrdom	SCOPE[2]|FOCUS[4]	
+2-29	191-192	.	_	

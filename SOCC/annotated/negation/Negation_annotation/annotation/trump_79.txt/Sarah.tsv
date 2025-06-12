@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The Globe and Mail doesn't how to respond.
+1-1	0-3	The	_	
+1-2	4-9	Globe	_	
+1-3	10-13	and	_	
+1-4	14-18	Mail	_	
+1-5	19-26	doesn't	NEG	
+1-6	27-30	how	SCOPE[2]	
+1-7	31-33	to	SCOPE[2]	
+1-8	34-41	respond	SCOPE[2]|FOCUS[3]	
+1-9	41-42	.	_	
+
+#Text=They're so out of touch they have no clue what's going on in their own country, let the alone the world.Trump will be a three term President.
+2-1	43-50	They're	_	
+2-2	51-53	so	_	
+2-3	54-57	out	_	
+2-4	58-60	of	_	
+2-5	61-66	touch	_	
+2-6	67-71	they	_	
+2-7	72-76	have	_	
+2-8	77-79	no	NEG	
+2-9	80-84	clue	SCOPE[5]	
+2-10	85-91	what's	SCOPE[5]	
+2-11	92-97	going	SCOPE[5]	
+2-12	98-100	on	SCOPE[5]	
+2-13	101-103	in	SCOPE[5]	
+2-14	104-109	their	SCOPE[5]|FOCUS[6]	
+2-15	110-113	own	SCOPE[5]|FOCUS[6]	
+2-16	114-121	country	SCOPE[5]|FOCUS[6]	
+2-17	121-122	,	_	
+2-18	123-126	let	_	
+2-19	127-130	the	_	
+2-20	131-136	alone	_	
+2-21	137-140	the	_	
+2-22	141-152	world.Trump	_	
+2-23	153-157	will	_	
+2-24	158-160	be	_	
+2-25	161-162	a	_	
+2-26	163-168	three	_	
+2-27	169-173	term	_	
+2-28	174-183	President	_	
+2-29	183-184	.	_	

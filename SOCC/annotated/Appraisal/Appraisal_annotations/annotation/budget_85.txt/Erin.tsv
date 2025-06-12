@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=So this article is saying that Harper should had a deficit this year with election in one month instead of last year with no election!
+1-1	0-2	So	_	_	
+1-2	3-7	this	_	_	
+1-3	8-15	article	_	_	
+1-4	16-18	is	_	_	
+1-5	19-25	saying	_	_	
+1-6	26-30	that	_	_	
+1-7	31-37	Harper	_	_	
+1-8	38-44	should	Appreciation[1]	neg[1]	
+1-9	45-48	had	Appreciation[1]	neg[1]	
+1-10	49-50	a	Appreciation[1]	neg[1]	
+1-11	51-58	deficit	Appreciation[1]	neg[1]	
+1-12	59-63	this	Appreciation[1]	neg[1]	
+1-13	64-68	year	Appreciation[1]	neg[1]	
+1-14	69-73	with	Appreciation[1]	neg[1]	
+1-15	74-82	election	Appreciation[1]	neg[1]	
+1-16	83-85	in	Appreciation[1]	neg[1]	
+1-17	86-89	one	Appreciation[1]	neg[1]	
+1-18	90-95	month	Appreciation[1]	neg[1]	
+1-19	96-103	instead	Appreciation[1]	neg[1]	
+1-20	104-106	of	Appreciation[1]	neg[1]	
+1-21	107-111	last	Appreciation[1]	neg[1]	
+1-22	112-116	year	Appreciation[1]	neg[1]	
+1-23	117-121	with	Appreciation[1]	neg[1]	
+1-24	122-124	no	Appreciation[1]	neg[1]	
+1-25	125-133	election	Appreciation[1]	neg[1]	
+1-26	133-134	!	_	_	
+
+#Text=This is the problem with liberal thinking it is not realistic, it is idealistic
+2-1	135-139	This	_	_	
+2-2	140-142	is	_	_	
+2-3	143-146	the	_	_	
+2-4	147-154	problem	_	_	
+2-5	155-159	with	_	_	
+2-6	160-167	liberal	_	_	
+2-7	168-176	thinking	_	_	
+2-8	177-179	it	_	_	
+2-9	180-182	is	_	_	
+2-10	183-186	not	_	_	
+2-11	187-196	realistic	Appreciation	pos	
+2-12	196-197	,	_	_	
+2-13	198-200	it	_	_	
+2-14	201-203	is	_	_	
+2-15	204-214	idealistic	Appreciation	neg	

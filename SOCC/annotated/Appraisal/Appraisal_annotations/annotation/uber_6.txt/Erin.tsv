@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Alexander Slim nich +1 , and I will add, because the secondary market is demanding 100's of thousands, and this was a steady increase over the years, given it is a \"market\", it can also fall and demand much less.
+1-1	0-9	Alexander	_	_	
+1-2	10-14	Slim	_	_	
+1-3	15-19	nich	_	_	
+1-4	20-21	+	_	_	
+1-5	21-22	1	_	_	
+1-6	23-24	,	_	_	
+1-7	25-28	and	_	_	
+1-8	29-30	I	_	_	
+1-9	31-35	will	_	_	
+1-10	36-39	add	_	_	
+1-11	39-40	,	_	_	
+1-12	41-48	because	_	_	
+1-13	49-52	the	_	_	
+1-14	53-62	secondary	_	_	
+1-15	63-69	market	_	_	
+1-16	70-72	is	_	_	
+1-17	73-82	demanding	_	_	
+1-18	83-86	100	_	_	
+1-19	86-87	'	_	_	
+1-20	87-88	s	_	_	
+1-21	89-91	of	_	_	
+1-22	92-101	thousands	_	_	
+1-23	101-102	,	_	_	
+1-24	103-106	and	_	_	
+1-25	107-111	this	_	_	
+1-26	112-115	was	_	_	
+1-27	116-117	a	_	_	
+1-28	118-124	steady	Appreciation[1]	pos[1]	
+1-29	125-133	increase	Appreciation[1]	pos[1]	
+1-30	134-138	over	_	_	
+1-31	139-142	the	_	_	
+1-32	143-148	years	_	_	
+1-33	148-149	,	_	_	
+1-34	150-155	given	_	_	
+1-35	156-158	it	_	_	
+1-36	159-161	is	_	_	
+1-37	162-163	a	_	_	
+1-38	164-165	"	_	_	
+1-39	165-171	market	Appreciation	neg	
+1-40	171-172	"	_	_	
+1-41	172-173	,	_	_	
+1-42	174-176	it	_	_	
+1-43	177-180	can	_	_	
+1-44	181-185	also	_	_	
+1-45	186-190	fall	Appreciation[3]	neg[3]	
+1-46	191-194	and	Appreciation[3]	neg[3]	
+1-47	195-201	demand	Appreciation[3]	neg[3]	
+1-48	202-206	much	Appreciation[3]	neg[3]	
+1-49	207-211	less	Appreciation[3]	neg[3]	
+1-50	211-212	.	_	_	
+
+#Text=This has always been a risk, particularly since Uber has been known and around for years.
+2-1	213-217	This	_	_	
+2-2	218-221	has	_	_	
+2-3	222-228	always	_	_	
+2-4	229-233	been	_	_	
+2-5	234-235	a	_	_	
+2-6	236-240	risk	Appreciation	neg	
+2-7	240-241	,	_	_	
+2-8	242-254	particularly	_	_	
+2-9	255-260	since	_	_	
+2-10	261-265	Uber	_	_	
+2-11	266-269	has	_	_	
+2-12	270-274	been	_	_	
+2-13	275-280	known	_	_	
+2-14	281-284	and	_	_	
+2-15	285-291	around	_	_	
+2-16	292-295	for	_	_	
+2-17	296-301	years	_	_	
+2-18	301-302	.	_	_	

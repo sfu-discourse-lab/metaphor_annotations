@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I will re-read this in the months or years to come.
+1-1	0-1	I	_	
+1-2	2-6	will	_	
+1-3	7-14	re-read	_	
+1-4	15-19	this	_	
+1-5	20-22	in	_	
+1-6	23-26	the	_	
+1-7	27-33	months	_	
+1-8	34-36	or	_	
+1-9	37-42	years	_	
+1-10	43-45	to	_	
+1-11	46-50	come	_	
+1-12	50-51	.	_	
+
+#Text=I cannot read this now.
+2-1	53-54	I	_	
+2-2	55-61	cannot	NEG	
+2-3	62-66	read	SCOPE[2]	
+2-4	67-71	this	SCOPE[2]	
+2-5	72-75	now	SCOPE[2]|FOCUS[3]	
+2-6	75-76	.	_	

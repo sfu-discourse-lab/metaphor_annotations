@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Remember that Islamic terrorism is also equally adept at taking route among the educated and long established layers of Muslim society in Western Society, not merely the unemployed and /or dispossessed.
+1-1	0-8	Remember	_	
+1-2	9-13	that	_	
+1-3	14-21	Islamic	_	
+1-4	22-31	terrorism	_	
+1-5	32-34	is	_	
+1-6	35-39	also	_	
+1-7	40-47	equally	_	
+1-8	48-53	adept	_	
+1-9	54-56	at	_	
+1-10	57-63	taking	_	
+1-11	64-69	route	_	
+1-12	70-75	among	_	
+1-13	76-79	the	_	
+1-14	80-88	educated	_	
+1-15	89-92	and	_	
+1-16	93-97	long	_	
+1-17	98-109	established	_	
+1-18	110-116	layers	_	
+1-19	117-119	of	_	
+1-20	120-126	Muslim	_	
+1-21	127-134	society	_	
+1-22	135-137	in	_	
+1-23	138-145	Western	_	
+1-24	146-153	Society	_	
+1-25	153-154	,	_	
+1-26	155-158	not	NEG	
+1-27	159-165	merely	SCOPE[2]	
+1-28	166-169	the	SCOPE[2]|FOCUS[3]	
+1-29	170-180	unemployed	SCOPE[2]|FOCUS[3]	
+1-30	181-184	and	SCOPE[2]	
+1-31	185-186	/	SCOPE[2]	
+1-32	186-188	or	SCOPE[2]	
+1-33	189-201	dispossessed	SCOPE[2]|FOCUS[4]	
+1-34	201-202	.	_	
+
+#Text=Religious fundamentalism is an equal opportunity infector.As an aside, the Flemish, Walloon experience certainly is at odds with the typical happy cultural diversity festival narrative that is de rigueur  in Canada.
+2-1	203-212	Religious	_	
+2-2	213-227	fundamentalism	_	
+2-3	228-230	is	_	
+2-4	231-233	an	_	
+2-5	234-239	equal	_	
+2-6	240-251	opportunity	_	
+2-7	252-263	infector.As	_	
+2-8	264-266	an	_	
+2-9	267-272	aside	_	
+2-10	272-273	,	_	
+2-11	274-277	the	_	
+2-12	278-285	Flemish	_	
+2-13	285-286	,	_	
+2-14	287-294	Walloon	_	
+2-15	295-305	experience	_	
+2-16	306-315	certainly	_	
+2-17	316-318	is	_	
+2-18	319-321	at	_	
+2-19	322-326	odds	_	
+2-20	327-331	with	_	
+2-21	332-335	the	_	
+2-22	336-343	typical	_	
+2-23	344-349	happy	_	
+2-24	350-358	cultural	_	
+2-25	359-368	diversity	_	
+2-26	369-377	festival	_	
+2-27	378-387	narrative	_	
+2-28	388-392	that	_	
+2-29	393-395	is	_	
+2-30	396-398	de	_	
+2-31	399-406	rigueur	_	
+2-32	408-410	in	_	
+2-33	411-417	Canada	_	
+2-34	417-418	.	_	

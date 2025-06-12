@@ -1,0 +1,110 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I am a conservative but have to say Harper is doing a last ditch effort to stop the slide in the polls for his party.
+1-1	0-1	I	_	_	_	_	
+1-2	2-4	am	_	_	_	_	
+1-3	5-6	a	_	_	_	_	
+1-4	7-19	conservative	_	_	_	_	
+1-5	20-23	but	_	_	_	_	
+1-6	24-28	have	_	_	_	_	
+1-7	29-31	to	_	_	_	_	
+1-8	32-35	say	_	_	_	_	
+1-9	36-42	Harper	_	_	_	_	
+1-10	43-45	is	_	_	_	_	
+1-11	46-51	doing	_	_	_	_	
+1-12	52-53	a	_	_	_	_	
+1-13	54-58	last	Judgment[1]	neg[1]	_	_	
+1-14	59-64	ditch	Judgment[1]	neg[1]	_	_	
+1-15	65-71	effort	Judgment[1]	neg[1]	_	_	
+1-16	72-74	to	_	_	_	_	
+1-17	75-79	stop	_	_	_	_	
+1-18	80-83	the	_	_	_	_	
+1-19	84-89	slide	Appreciation	neg	_	_	
+1-20	90-92	in	_	_	_	_	
+1-21	93-96	the	_	_	_	_	
+1-22	97-102	polls	_	_	_	_	
+1-23	103-106	for	_	_	_	_	
+1-24	107-110	his	_	_	_	_	
+1-25	111-116	party	_	_	_	_	
+1-26	116-117	.	_	_	_	_	
+
+#Text=Coming out with a BS surplus by clawing back funds from gov departments and calling it a surplus to gain image is deception at its best.
+2-1	118-124	Coming	_	_	_	_	
+2-2	125-128	out	_	_	_	_	
+2-3	129-133	with	_	_	_	_	
+2-4	134-135	a	_	_	_	_	
+2-5	136-138	BS	Appreciation	neg	_	_	
+2-6	139-146	surplus	Appreciation	pos	_	_	
+2-7	147-149	by	_	_	_	_	
+2-8	150-157	clawing	Judgment[5]	neg[5]	_	_	
+2-9	158-162	back	Judgment[5]	neg[5]	_	_	
+2-10	163-168	funds	_	_	_	_	
+2-11	169-173	from	_	_	_	_	
+2-12	174-177	gov	_	_	_	_	
+2-13	178-189	departments	_	_	_	_	
+2-14	190-193	and	_	_	_	_	
+2-15	194-201	calling	_	_	_	_	
+2-16	202-204	it	_	_	_	_	
+2-17	205-206	a	_	_	_	_	
+2-18	207-214	surplus	Appreciation	pos	_	_	
+2-19	215-217	to	_	_	_	_	
+2-20	218-222	gain	Judgment[7]	neg[7]	_	_	
+2-21	223-228	image	Judgment[7]	neg[7]	_	_	
+2-22	229-231	is	_	_	_	_	
+2-23	232-241	deception	Judgment[8]	neg[8]	_	_	
+2-24	242-244	at	Judgment[8]	neg[8]	Force[1]	up[1]	
+2-25	245-248	its	Judgment[8]	neg[8]	Force[1]	up[1]	
+2-26	249-253	best	Judgment[8]	neg[8]	Force[1]	up[1]	
+2-27	253-254	.	_	_	_	_	
+
+#Text=A trick used by the insurance industry using satellite offices to send money back and forth in order to justify raising rates.
+3-1	255-256	A	_	_	_	_	
+3-2	257-262	trick	Judgment	neg	_	_	
+3-3	263-267	used	_	_	_	_	
+3-4	268-270	by	_	_	_	_	
+3-5	271-274	the	_	_	_	_	
+3-6	275-284	insurance	_	_	_	_	
+3-7	285-293	industry	_	_	_	_	
+3-8	294-299	using	_	_	_	_	
+3-9	300-309	satellite	_	_	_	_	
+3-10	310-317	offices	_	_	_	_	
+3-11	318-320	to	_	_	_	_	
+3-12	321-325	send	_	_	_	_	
+3-13	326-331	money	_	_	_	_	
+3-14	332-336	back	_	_	_	_	
+3-15	337-340	and	_	_	_	_	
+3-16	341-346	forth	_	_	_	_	
+3-17	347-349	in	_	_	_	_	
+3-18	350-355	order	_	_	_	_	
+3-19	356-358	to	_	_	_	_	
+3-20	359-366	justify	Appreciation	neg	_	_	
+3-21	367-374	raising	Appreciation[11]	neg[11]	_	_	
+3-22	375-380	rates	Appreciation[11]	neg[11]	_	_	
+3-23	380-381	.	_	_	_	_	
+
+#Text=Now for the first time we have the Feds in Canada doing it.
+4-1	382-385	Now	_	_	_	_	
+4-2	386-389	for	_	_	_	_	
+4-3	390-393	the	_	_	_	_	
+4-4	394-399	first	_	_	_	_	
+4-5	400-404	time	_	_	_	_	
+4-6	405-407	we	_	_	_	_	
+4-7	408-412	have	_	_	_	_	
+4-8	413-416	the	_	_	_	_	
+4-9	417-421	Feds	_	_	_	_	
+4-10	422-424	in	_	_	_	_	
+4-11	425-431	Canada	_	_	_	_	
+4-12	432-437	doing	_	_	_	_	
+4-13	438-440	it	_	_	_	_	
+4-14	440-441	.	_	_	_	_	
+
+#Text=SAD and dirty that is.
+5-1	442-445	SAD	Judgment[12]	neg[12]	_	_	
+5-2	446-449	and	Judgment[12]	neg[12]	_	_	
+5-3	450-455	dirty	Judgment[12]	neg[12]	_	_	
+5-4	456-460	that	_	_	_	_	
+5-5	461-463	is	_	_	_	_	
+5-6	463-464	.	_	_	_	_	

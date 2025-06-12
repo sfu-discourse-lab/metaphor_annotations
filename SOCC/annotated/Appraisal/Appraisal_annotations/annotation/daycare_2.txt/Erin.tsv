@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=And the idea put forward that daycare is almost better than parent who stays home and cares for their children is an insult.
+1-1	0-3	And	_	_	
+1-2	4-7	the	_	_	
+1-3	8-12	idea	_	_	
+1-4	13-16	put	_	_	
+1-5	17-24	forward	_	_	
+1-6	25-29	that	_	_	
+1-7	30-37	daycare	_	_	
+1-8	38-40	is	_	_	
+1-9	41-47	almost	Appreciation[1]	neg[1]	
+1-10	48-54	better	Appreciation[1]	neg[1]	
+1-11	55-59	than	Appreciation[1]	neg[1]	
+1-12	60-66	parent	Appreciation[1]	neg[1]	
+1-13	67-70	who	Appreciation[1]	neg[1]	
+1-14	71-76	stays	Appreciation[1]	neg[1]	
+1-15	77-81	home	Appreciation[1]	neg[1]	
+1-16	82-85	and	Appreciation[1]	neg[1]	
+1-17	86-91	cares	Appreciation[1]	neg[1]	
+1-18	92-95	for	Appreciation[1]	neg[1]	
+1-19	96-101	their	Appreciation[1]	neg[1]	
+1-20	102-110	children	Appreciation[1]	neg[1]	
+1-21	111-113	is	_	_	
+1-22	114-116	an	_	_	
+1-23	117-123	insult	Affect	neg	
+1-24	123-124	.	_	_	
+
+#Text=Why should those who do not need daycare, or those who do not even work but still put their children in daycare, so they can have day to themselves be allowed to do this..
+2-1	125-128	Why	Judgment[3]	neg[3]	
+2-2	129-135	should	Judgment[3]	neg[3]	
+2-3	136-141	those	Judgment[3]	neg[3]	
+2-4	142-145	who	Judgment[3]	neg[3]	
+2-5	146-148	do	Judgment[3]	neg[3]	
+2-6	149-152	not	Judgment[3]	neg[3]	
+2-7	153-157	need	Judgment[3]	neg[3]	
+2-8	158-165	daycare	Judgment[3]	neg[3]	
+2-9	165-166	,	Judgment[3]	neg[3]	
+2-10	167-169	or	Judgment[3]	neg[3]	
+2-11	170-175	those	Judgment[3]	neg[3]	
+2-12	176-179	who	Judgment[3]	neg[3]	
+2-13	180-182	do	Judgment[3]	neg[3]	
+2-14	183-186	not	Judgment[3]	neg[3]	
+2-15	187-191	even	Judgment[3]	neg[3]	
+2-16	192-196	work	Judgment[3]	neg[3]	
+2-17	197-200	but	Judgment[3]	neg[3]	
+2-18	201-206	still	Judgment[3]	neg[3]	
+2-19	207-210	put	Judgment[3]	neg[3]	
+2-20	211-216	their	Judgment[3]	neg[3]	
+2-21	217-225	children	Judgment[3]	neg[3]	
+2-22	226-228	in	Judgment[3]	neg[3]	
+2-23	229-236	daycare	Judgment[3]	neg[3]	
+2-24	236-237	,	Judgment[3]	neg[3]	
+2-25	238-240	so	Judgment[3]	neg[3]	
+2-26	241-245	they	Judgment[3]	neg[3]	
+2-27	246-249	can	Judgment[3]	neg[3]	
+2-28	250-254	have	Judgment[3]	neg[3]	
+2-29	255-258	day	Judgment[3]	neg[3]	
+2-30	259-261	to	Judgment[3]	neg[3]	
+2-31	262-272	themselves	Judgment[3]	neg[3]	
+2-32	273-275	be	Judgment[3]	neg[3]	
+2-33	276-283	allowed	Judgment[3]	neg[3]	
+2-34	284-286	to	Judgment[3]	neg[3]	
+2-35	287-289	do	Judgment[3]	neg[3]	
+2-36	290-294	this	Judgment[3]	neg[3]	
+2-37	294-295	.	_	_	
+2-38	295-296	.	_	_	
+
+#Text=Not fair system right now.
+3-1	297-300	Not	Appreciation[4]	neg[4]	
+3-2	301-305	fair	Appreciation[4]	neg[4]	
+3-3	306-312	system	_	_	
+3-4	313-318	right	_	_	
+3-5	319-322	now	_	_	
+3-6	322-323	.	_	_	

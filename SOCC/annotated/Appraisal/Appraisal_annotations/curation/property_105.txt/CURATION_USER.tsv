@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Yes!
+1-1	0-3	Yes	Appreciation	pos	
+1-2	3-4	!	_	_	
+
+#Text=And a well deserved one...next question?
+2-1	5-8	And	_	_	
+2-2	9-10	a	_	_	
+2-3	11-15	well	Judgment[2]	pos[2]	
+2-4	16-24	deserved	Judgment[2]	pos[2]	
+2-5	25-28	one	_	_	
+2-6	28-29	.	_	_	
+2-7	29-30	.	_	_	
+2-8	30-31	.	_	_	
+2-9	31-35	next	Judgment[3]	neg[3]	
+2-10	36-44	question	Judgment[3]	neg[3]	
+2-11	44-45	?	_	_	

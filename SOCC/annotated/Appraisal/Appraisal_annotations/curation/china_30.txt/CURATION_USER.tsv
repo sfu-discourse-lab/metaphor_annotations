@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Here's a good story about Russian disinformation and the West for all you trolls out there check out Ostrovskyaug's 'For Putin, Disinformation Is Power' in the New York Times, 5 Aug 2016.
+1-1	0-6	Here's	_	_	
+1-2	7-8	a	_	_	
+1-3	9-13	good	Appreciation	pos	
+1-4	14-19	story	_	_	
+1-5	20-25	about	_	_	
+1-6	26-33	Russian	_	_	
+1-7	34-48	disinformation	Appreciation	neg	
+1-8	49-52	and	_	_	
+1-9	53-56	the	_	_	
+1-10	57-61	West	_	_	
+1-11	62-65	for	_	_	
+1-12	66-69	all	_	_	
+1-13	70-73	you	_	_	
+1-14	74-80	trolls	Judgment	neg	
+1-15	81-84	out	_	_	
+1-16	85-90	there	_	_	
+1-17	91-96	check	_	_	
+1-18	97-100	out	_	_	
+1-19	101-115	Ostrovskyaug's	_	_	
+1-20	116-117	'	_	_	
+1-21	117-120	For	_	_	
+1-22	121-126	Putin	_	_	
+1-23	126-127	,	_	_	
+1-24	128-142	Disinformation	Appreciation	neg	
+1-25	143-145	Is	_	_	
+1-26	146-151	Power	_	_	
+1-27	151-152	'	_	_	
+1-28	153-155	in	_	_	
+1-29	156-159	the	_	_	
+1-30	160-163	New	_	_	
+1-31	164-168	York	_	_	
+1-32	169-174	Times	_	_	
+1-33	174-175	,	_	_	
+1-34	176-177	5	_	_	
+1-35	178-181	Aug	_	_	
+1-36	182-186	2016	_	_	
+1-37	186-187	.	_	_	

@@ -1,0 +1,12 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=You have evidence to present then?
+1-1	0-3	You	Judgment[1]	neg[1]	
+1-2	4-8	have	Judgment[1]	neg[1]	
+1-3	9-17	evidence	Judgment[1]	neg[1]	
+1-4	18-20	to	Judgment[1]	neg[1]	
+1-5	21-28	present	Judgment[1]	neg[1]	
+1-6	29-33	then	Judgment[1]	neg[1]	
+1-7	33-34	?	_	_	

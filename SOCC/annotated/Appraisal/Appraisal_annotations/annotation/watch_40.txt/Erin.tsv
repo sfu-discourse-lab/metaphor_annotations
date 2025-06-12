@@ -1,0 +1,12 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Great piece!
+1-1	0-5	Great	Appreciation	pos	
+1-2	6-11	piece	_	_	
+1-3	11-12	!	_	_	
+
+#Text=Thanks.
+2-1	13-19	Thanks	Appreciation	pos	
+2-2	19-20	.	_	_	

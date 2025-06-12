@@ -1,0 +1,7 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Exactly!
+1-1	0-7	Exactly	Appreciation	pos	
+1-2	7-8	!	_	_	

@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=No, it's not a head tax.
+1-1	0-2	No	NEG	
+1-2	2-3	,	_	
+1-3	4-8	it's	_	
+1-4	9-12	not	NEG	
+1-5	13-14	a	SCOPE[3]|FOCUS[4]	
+1-6	15-19	head	SCOPE[3]|FOCUS[4]	
+1-7	20-23	tax	SCOPE[3]|FOCUS[4]	
+1-8	23-24	.	_	
+
+#Text=It only feels that way because Chinese are more active in these sales.The tax can be avoided by not getting involved in shady real estate transactions.
+2-1	25-27	It	_	
+2-2	28-32	only	_	
+2-3	33-38	feels	_	
+2-4	39-43	that	_	
+2-5	44-47	way	_	
+2-6	48-55	because	_	
+2-7	56-63	Chinese	_	
+2-8	64-67	are	_	
+2-9	68-72	more	_	
+2-10	73-79	active	_	
+2-11	80-82	in	_	
+2-12	83-88	these	_	
+2-13	89-98	sales.The	_	
+2-14	99-102	tax	_	
+2-15	103-106	can	_	
+2-16	107-109	be	_	
+2-17	110-117	avoided	_	
+2-18	118-120	by	_	
+2-19	121-124	not	NEG	
+2-20	125-132	getting	SCOPE[6]	
+2-21	133-141	involved	SCOPE[6]	
+2-22	142-144	in	SCOPE[6]	
+2-23	145-150	shady	SCOPE[6]|FOCUS[7]	
+2-24	151-155	real	SCOPE[6]	
+2-25	156-162	estate	SCOPE[6]	
+2-26	163-175	transactions	SCOPE[6]	
+2-27	175-176	.	_	

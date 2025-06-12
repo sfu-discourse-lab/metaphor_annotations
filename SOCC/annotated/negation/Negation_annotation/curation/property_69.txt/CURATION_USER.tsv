@@ -1,0 +1,165 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Perhaps we need a rethink.
+1-1	0-7	Perhaps	_	
+1-2	8-10	we	_	
+1-3	11-15	need	_	
+1-4	16-17	a	_	
+1-5	18-25	rethink	_	
+1-6	25-26	.	_	
+
+#Text=Why not a Non Profit Corporation largely staffed by volunteers (retirees with expertise?
+2-1	27-30	Why	_	
+2-2	31-34	not	NEG	
+2-3	35-36	a	SCOPE[2]	
+2-4	37-40	Non	SCOPE[2]	
+2-5	41-47	Profit	SCOPE[2]	
+2-6	48-59	Corporation	SCOPE[2]	
+2-7	60-67	largely	SCOPE[2]	
+2-8	68-75	staffed	SCOPE[2]	
+2-9	76-78	by	SCOPE[2]	
+2-10	79-89	volunteers	SCOPE[2]|FOCUS[3]	
+2-11	90-91	(	_	
+2-12	91-99	retirees	_	
+2-13	100-104	with	_	
+2-14	105-114	expertise	_	
+2-15	114-115	?	_	
+
+#Text=others?)
+3-1	116-122	others	_	
+3-2	122-123	?	_	
+3-3	123-124	)	_	
+
+#Text=, using government owned land (park perimeters, reclaimed alleyways, higher density over schools, gov't buildings, community centres, etc.) producing high density rentals at cost recovery.
+4-1	124-125	,	_	
+4-2	126-131	using	_	
+4-3	132-142	government	_	
+4-4	143-148	owned	_	
+4-5	149-153	land	_	
+4-6	154-155	(	_	
+4-7	155-159	park	_	
+4-8	160-170	perimeters	_	
+4-9	170-171	,	_	
+4-10	172-181	reclaimed	_	
+4-11	182-191	alleyways	_	
+4-12	191-192	,	_	
+4-13	193-199	higher	_	
+4-14	200-207	density	_	
+4-15	208-212	over	_	
+4-16	213-220	schools	_	
+4-17	220-221	,	_	
+4-18	222-227	gov't	_	
+4-19	228-237	buildings	_	
+4-20	237-238	,	_	
+4-21	239-248	community	_	
+4-22	249-256	centres	_	
+4-23	256-257	,	_	
+4-24	258-261	etc	_	
+4-25	261-262	.	_	
+4-26	262-263	)	_	
+4-27	264-273	producing	_	
+4-28	274-278	high	_	
+4-29	279-286	density	_	
+4-30	287-294	rentals	_	
+4-31	295-297	at	_	
+4-32	298-302	cost	_	
+4-33	303-311	recovery	_	
+4-34	311-312	.	_	
+
+#Text=This is probably above subsidized rates, but below market rates, and it goes down over time.
+5-1	313-317	This	_	
+5-2	318-320	is	_	
+5-3	321-329	probably	_	
+5-4	330-335	above	_	
+5-5	336-346	subsidized	_	
+5-6	347-352	rates	_	
+5-7	352-353	,	_	
+5-8	354-357	but	_	
+5-9	358-363	below	_	
+5-10	364-370	market	_	
+5-11	371-376	rates	_	
+5-12	376-377	,	_	
+5-13	378-381	and	_	
+5-14	382-384	it	_	
+5-15	385-389	goes	_	
+5-16	390-394	down	_	
+5-17	395-399	over	_	
+5-18	400-404	time	_	
+5-19	404-405	.	_	
+
+#Text=It greatly increases availability of medium costt accommodation without adding debt.
+6-1	406-408	It	_	
+6-2	409-416	greatly	_	
+6-3	417-426	increases	_	
+6-4	427-439	availability	_	
+6-5	440-442	of	_	
+6-6	443-449	medium	_	
+6-7	450-455	costt	_	
+6-8	456-469	accommodation	_	
+6-9	470-477	without	NEG	
+6-10	478-484	adding	SCOPE[5]	
+6-11	485-489	debt	SCOPE[5]|FOCUS[6]	
+6-12	489-490	.	_	
+
+#Text=And try to streamline and speed up the project approval and delivery process as that is one of the big problems.
+7-1	491-494	And	_	
+7-2	495-498	try	_	
+7-3	499-501	to	_	
+7-4	502-512	streamline	_	
+7-5	513-516	and	_	
+7-6	517-522	speed	_	
+7-7	523-525	up	_	
+7-8	526-529	the	_	
+7-9	530-537	project	_	
+7-10	538-546	approval	_	
+7-11	547-550	and	_	
+7-12	551-559	delivery	_	
+7-13	560-567	process	_	
+7-14	568-570	as	_	
+7-15	571-575	that	_	
+7-16	576-578	is	_	
+7-17	579-582	one	_	
+7-18	583-585	of	_	
+7-19	586-589	the	_	
+7-20	590-593	big	_	
+7-21	594-602	problems	_	
+7-22	602-603	.	_	
+
+#Text=If there are available lower cost alternatives it will have a moderating effect on markets.There are other alternatives, but this was a reasonable example.
+8-1	604-606	If	_	
+8-2	607-612	there	_	
+8-3	613-616	are	_	
+8-4	617-626	available	_	
+8-5	627-632	lower	_	
+8-6	633-637	cost	_	
+8-7	638-650	alternatives	_	
+8-8	651-653	it	_	
+8-9	654-658	will	_	
+8-10	659-663	have	_	
+8-11	664-665	a	_	
+8-12	666-676	moderating	_	
+8-13	677-683	effect	_	
+8-14	684-686	on	_	
+8-15	687-700	markets.There	_	
+8-16	701-704	are	_	
+8-17	705-710	other	_	
+8-18	711-723	alternatives	_	
+8-19	723-724	,	_	
+8-20	725-728	but	_	
+8-21	729-733	this	_	
+8-22	734-737	was	_	
+8-23	738-739	a	_	
+8-24	740-750	reasonable	_	
+8-25	751-758	example	_	
+8-26	758-759	.	_	
+
+#Text=When in doubt, work smart.
+9-1	760-764	When	_	
+9-2	765-767	in	_	
+9-3	768-773	doubt	_	
+9-4	773-774	,	_	
+9-5	775-779	work	_	
+9-6	780-785	smart	_	
+9-7	785-786	.	_	

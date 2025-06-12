@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Perhaps Mr.Simpson prefers the Barack Obama approach, just inform your Treasury department to keep the National debt at 18.155 trillion for six months while still managing to borrow 500 billion.
+1-1	0-7	Perhaps	_	_	
+1-2	8-18	Mr.Simpson	_	_	
+1-3	19-26	prefers	_	_	
+1-4	27-30	the	_	_	
+1-5	31-37	Barack	Judgment[1]	neg[1]	
+1-6	38-43	Obama	Judgment[1]	neg[1]	
+1-7	44-52	approach	Judgment[1]	neg[1]	
+1-8	52-53	,	_	_	
+1-9	54-58	just	_	_	
+1-10	59-65	inform	_	_	
+1-11	66-70	your	_	_	
+1-12	71-79	Treasury	_	_	
+1-13	80-90	department	_	_	
+1-14	91-93	to	_	_	
+1-15	94-98	keep	_	_	
+1-16	99-102	the	_	_	
+1-17	103-111	National	_	_	
+1-18	112-116	debt	_	_	
+1-19	117-119	at	_	_	
+1-20	120-126	18.155	_	_	
+1-21	127-135	trillion	_	_	
+1-22	136-139	for	_	_	
+1-23	140-143	six	_	_	
+1-24	144-150	months	_	_	
+1-25	151-156	while	_	_	
+1-26	157-162	still	_	_	
+1-27	163-171	managing	_	_	
+1-28	172-174	to	_	_	
+1-29	175-181	borrow	_	_	
+1-30	182-185	500	_	_	
+1-31	186-193	billion	_	_	
+1-32	193-194	.	_	_	

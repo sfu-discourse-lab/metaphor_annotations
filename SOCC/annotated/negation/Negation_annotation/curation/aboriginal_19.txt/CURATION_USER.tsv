@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=First of all the FN popuation has nothing to do with India so I would switch up the vocab.
+1-1	0-5	First	_	
+1-2	6-8	of	_	
+1-3	9-12	all	_	
+1-4	13-16	the	_	
+1-5	17-19	FN	_	
+1-6	20-29	popuation	_	
+1-7	30-33	has	_	
+1-8	34-41	nothing	NEG	
+1-9	42-44	to	SCOPE[2]	
+1-10	45-47	do	SCOPE[2]	
+1-11	48-52	with	SCOPE[2]	
+1-12	53-58	India	SCOPE[2]|FOCUS[3]	
+1-13	59-61	so	_	
+1-14	62-63	I	_	
+1-15	64-69	would	_	
+1-16	70-76	switch	_	
+1-17	77-79	up	_	
+1-18	80-83	the	_	
+1-19	84-89	vocab	_	
+1-20	89-90	.	_	
+
+#Text=The only place they are called Indian is in legislation which is grossly outdated.
+2-1	91-94	The	_	
+2-2	95-99	only	_	
+2-3	100-105	place	_	
+2-4	106-110	they	_	
+2-5	111-114	are	_	
+2-6	115-121	called	_	
+2-7	122-128	Indian	_	
+2-8	129-131	is	_	
+2-9	132-134	in	_	
+2-10	135-146	legislation	_	
+2-11	147-152	which	_	
+2-12	153-155	is	_	
+2-13	156-163	grossly	_	
+2-14	164-172	outdated	_	
+2-15	172-173	.	_	
+
+#Text=Secondly since the last residential school closed in 1996 there are a lot of current parents who were impacted either directly or indirectly by the system.
+3-1	174-182	Secondly	_	
+3-2	183-188	since	_	
+3-3	189-192	the	_	
+3-4	193-197	last	_	
+3-5	198-209	residential	_	
+3-6	210-216	school	_	
+3-7	217-223	closed	_	
+3-8	224-226	in	_	
+3-9	227-231	1996	_	
+3-10	232-237	there	_	
+3-11	238-241	are	_	
+3-12	242-243	a	_	
+3-13	244-247	lot	_	
+3-14	248-250	of	_	
+3-15	251-258	current	_	
+3-16	259-266	parents	_	
+3-17	267-270	who	_	
+3-18	271-275	were	_	
+3-19	276-284	impacted	_	
+3-20	285-291	either	_	
+3-21	292-300	directly	_	
+3-22	301-303	or	_	
+3-23	304-314	indirectly	_	
+3-24	315-317	by	_	
+3-25	318-321	the	_	
+3-26	322-328	system	_	
+3-27	328-329	.	_	
+
+#Text=Would you say the slavery exceuse is running thin?
+4-1	331-336	Would	_	
+4-2	337-340	you	_	
+4-3	341-344	say	_	
+4-4	345-348	the	_	
+4-5	349-356	slavery	_	
+4-6	357-364	exceuse	_	
+4-7	365-367	is	_	
+4-8	368-375	running	_	
+4-9	376-380	thin	_	
+4-10	380-381	?	_	
+
+#Text=Because it shows a lack of awareness of the impact of intergenerational trauma and the challenges it causes on the community.
+5-1	383-390	Because	_	
+5-2	391-393	it	_	
+5-3	394-399	shows	_	
+5-4	400-401	a	_	
+5-5	402-406	lack	NEG	
+5-6	407-409	of	SCOPE[5]	
+5-7	410-419	awareness	SCOPE[5]|FOCUS[6]	
+5-8	420-422	of	SCOPE[5]	
+5-9	423-426	the	SCOPE[5]	
+5-10	427-433	impact	SCOPE[5]	
+5-11	434-436	of	SCOPE[5]	
+5-12	437-454	intergenerational	SCOPE[5]	
+5-13	455-461	trauma	SCOPE[5]	
+5-14	462-465	and	SCOPE[5]	
+5-15	466-469	the	SCOPE[5]	
+5-16	470-480	challenges	SCOPE[5]	
+5-17	481-483	it	SCOPE[5]	
+5-18	484-490	causes	SCOPE[5]	
+5-19	491-493	on	SCOPE[5]	
+5-20	494-497	the	SCOPE[5]	
+5-21	498-507	community	SCOPE[5]	
+5-22	507-508	.	_	

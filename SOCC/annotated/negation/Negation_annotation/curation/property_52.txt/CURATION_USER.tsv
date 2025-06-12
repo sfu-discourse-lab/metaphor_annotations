@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=It's racist to think the 15% tax is aimed at the Chinese.
+1-1	0-4	It's	
+1-2	5-11	racist	
+1-3	12-14	to	
+1-4	15-20	think	
+1-5	21-24	the	
+1-6	25-28	15%	
+1-7	29-32	tax	
+1-8	33-35	is	
+1-9	36-41	aimed	
+1-10	42-44	at	
+1-11	45-48	the	
+1-12	49-56	Chinese	
+1-13	56-57	.	
+
+#Text=It's aimed at all those non-Canadian residents but its interesting that one particular group keeps trying to compare it to the head tax, why is that?
+2-1	58-62	It's	
+2-2	63-68	aimed	
+2-3	69-71	at	
+2-4	72-75	all	
+2-5	76-81	those	
+2-6	82-94	non-Canadian	
+2-7	95-104	residents	
+2-8	105-108	but	
+2-9	109-112	its	
+2-10	113-124	interesting	
+2-11	125-129	that	
+2-12	130-133	one	
+2-13	134-144	particular	
+2-14	145-150	group	
+2-15	151-156	keeps	
+2-16	157-163	trying	
+2-17	164-166	to	
+2-18	167-174	compare	
+2-19	175-177	it	
+2-20	178-180	to	
+2-21	181-184	the	
+2-22	185-189	head	
+2-23	190-193	tax	
+2-24	193-194	,	
+2-25	195-198	why	
+2-26	199-201	is	
+2-27	202-206	that	
+2-28	206-207	?	
+
+#Text=Are the being racist?
+3-1	208-211	Are	
+3-2	212-215	the	
+3-3	216-221	being	
+3-4	222-228	racist	
+3-5	228-229	?	
+
+#Text=Maybe a Canadian of Chinese heritage wrote the legislation....who knows....so quit the whining.I got an idea, let's track RE data better and we can use better facts in our arguments...until then, quit being racist.
+4-1	230-235	Maybe	
+4-2	236-237	a	
+4-3	238-246	Canadian	
+4-4	247-249	of	
+4-5	250-257	Chinese	
+4-6	258-266	heritage	
+4-7	267-272	wrote	
+4-8	273-276	the	
+4-9	277-288	legislation	
+4-10	288-289	.	
+4-11	289-290	.	
+4-12	290-291	.	
+4-13	291-292	.	
+4-14	292-295	who	
+4-15	296-301	knows	
+4-16	301-302	.	
+4-17	302-303	.	
+4-18	303-304	.	
+4-19	304-305	.	
+4-20	305-307	so	
+4-21	308-312	quit	
+4-22	313-316	the	
+4-23	317-326	whining.I	
+4-24	327-330	got	
+4-25	331-333	an	
+4-26	334-338	idea	
+4-27	338-339	,	
+4-28	340-345	let's	
+4-29	346-351	track	
+4-30	352-354	RE	
+4-31	355-359	data	
+4-32	360-366	better	
+4-33	367-370	and	
+4-34	371-373	we	
+4-35	374-377	can	
+4-36	378-381	use	
+4-37	382-388	better	
+4-38	389-394	facts	
+4-39	395-397	in	
+4-40	398-401	our	
+4-41	402-411	arguments	
+4-42	411-412	.	
+4-43	412-413	.	
+4-44	413-414	.	
+4-45	414-419	until	
+4-46	420-424	then	
+4-47	424-425	,	
+4-48	426-430	quit	
+4-49	431-436	being	
+4-50	437-443	racist	
+4-51	443-444	.	

@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=While the situation is tragic, I object to the use of statistics with no context as a way of over-dramatizing the situation.
+1-1	0-5	While	_	
+1-2	6-9	the	_	
+1-3	10-19	situation	_	
+1-4	20-22	is	_	
+1-5	23-29	tragic	_	
+1-6	29-30	,	_	
+1-7	31-32	I	_	
+1-8	33-39	object	_	
+1-9	40-42	to	_	
+1-10	43-46	the	_	
+1-11	47-50	use	_	
+1-12	51-53	of	_	
+1-13	54-64	statistics	_	
+1-14	65-69	with	_	
+1-15	70-72	no	NEG	
+1-16	73-80	context	SCOPE[2]	
+1-17	81-83	as	SCOPE[2]	
+1-18	84-85	a	SCOPE[2]	
+1-19	86-89	way	SCOPE[2]	
+1-20	90-92	of	SCOPE[2]	
+1-21	93-109	over-dramatizing	SCOPE[2]	
+1-22	110-113	the	SCOPE[2]|FOCUS[3]	
+1-23	114-123	situation	SCOPE[2]|FOCUS[3]	
+1-24	123-124	.	_	
+
+#Text='Over 1,000 aboriginal women have been murdered' writes the author.
+2-1	126-127	'	_	
+2-2	127-131	Over	_	
+2-3	132-137	1,000	_	
+2-4	138-148	aboriginal	_	
+2-5	149-154	women	_	
+2-6	155-159	have	_	
+2-7	160-164	been	_	
+2-8	165-173	murdered	_	
+2-9	173-174	'	_	
+2-10	175-181	writes	_	
+2-11	182-185	the	_	
+2-12	186-192	author	_	
+2-13	192-193	.	_	
+
+#Text=Over what time period?
+3-1	195-199	Over	_	
+3-2	200-204	what	_	
+3-3	205-209	time	_	
+3-4	210-216	period	_	
+3-5	216-217	?	_	
+
+#Text=If one goes back far enough, I imagine one could get that number to exceed 1,000,000.
+4-1	219-221	If	_	
+4-2	222-225	one	_	
+4-3	226-230	goes	_	
+4-4	231-235	back	_	
+4-5	236-239	far	_	
+4-6	240-246	enough	_	
+4-7	246-247	,	_	
+4-8	248-249	I	_	
+4-9	250-257	imagine	_	
+4-10	258-261	one	_	
+4-11	262-267	could	_	
+4-12	268-271	get	_	
+4-13	272-276	that	_	
+4-14	277-283	number	_	
+4-15	284-286	to	_	
+4-16	287-293	exceed	_	
+4-17	294-303	1,000,000	_	
+4-18	303-304	.	_	
+
+#Text=Of course, one might have to go back several centuries.
+5-1	306-308	Of	_	
+5-2	309-315	course	_	
+5-3	315-316	,	_	
+5-4	317-320	one	_	
+5-5	321-326	might	_	
+5-6	327-331	have	_	
+5-7	332-334	to	_	
+5-8	335-337	go	_	
+5-9	338-342	back	_	
+5-10	343-350	several	_	
+5-11	351-360	centuries	_	
+5-12	360-361	.	_	
+
+#Text=The number is meaningless without the time period.As for the root cause, is it too simplistic to suggest that the cultures of the Aboriginal people in Canada are dysfunctional and that some of that responsibility has to lie with the Aboriginals themselves?
+6-1	363-366	The	_	
+6-2	367-373	number	_	
+6-3	374-376	is	_	
+6-4	377-388	meaningless	_	
+6-5	389-396	without	NEG	
+6-6	397-400	the	SCOPE[5]|FOCUS[6]	
+6-7	401-405	time	SCOPE[5]|FOCUS[6]	
+6-8	406-415	period.As	SCOPE[5]|FOCUS[6]	
+6-9	416-419	for	_	
+6-10	420-423	the	_	
+6-11	424-428	root	_	
+6-12	429-434	cause	_	
+6-13	434-435	,	_	
+6-14	436-438	is	_	
+6-15	439-441	it	_	
+6-16	442-445	too	_	
+6-17	446-456	simplistic	_	
+6-18	457-459	to	_	
+6-19	460-467	suggest	_	
+6-20	468-472	that	_	
+6-21	473-476	the	_	
+6-22	477-485	cultures	_	
+6-23	486-488	of	_	
+6-24	489-492	the	_	
+6-25	493-503	Aboriginal	_	
+6-26	504-510	people	_	
+6-27	511-513	in	_	
+6-28	514-520	Canada	_	
+6-29	521-524	are	_	
+6-30	525-538	dysfunctional	_	
+6-31	539-542	and	_	
+6-32	543-547	that	_	
+6-33	548-552	some	_	
+6-34	553-555	of	_	
+6-35	556-560	that	_	
+6-36	561-575	responsibility	_	
+6-37	576-579	has	_	
+6-38	580-582	to	_	
+6-39	583-586	lie	_	
+6-40	587-591	with	_	
+6-41	592-595	the	_	
+6-42	596-607	Aboriginals	_	
+6-43	608-618	themselves	_	
+6-44	618-619	?	_	

@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The writer is big on dogma and makeup, but weak on logic.
+1-1	0-3	The	_	_	
+1-2	4-10	writer	_	_	
+1-3	11-13	is	_	_	
+1-4	14-17	big	Judgment[1]	neg[1]	
+1-5	18-20	on	Judgment[1]	neg[1]	
+1-6	21-26	dogma	Judgment[1]	neg[1]	
+1-7	27-30	and	Judgment[1]	neg[1]	
+1-8	31-37	makeup	Judgment[1]	neg[1]	
+1-9	37-38	,	_	_	
+1-10	39-42	but	_	_	
+1-11	43-47	weak	Judgment[2]	neg[2]	
+1-12	48-50	on	Judgment[2]	neg[2]	
+1-13	51-56	logic	Judgment[2]	neg[2]	
+1-14	56-57	.	_	_	
+
+#Text=I quit reading half-way though.
+2-1	58-59	I	_	_	
+2-2	60-64	quit	Appreciation[3]	neg[3]	
+2-3	65-72	reading	Appreciation[3]	neg[3]	
+2-4	73-81	half-way	Appreciation[3]	neg[3]	
+2-5	82-88	though	Appreciation[3]	neg[3]	
+2-6	88-89	.	_	_	

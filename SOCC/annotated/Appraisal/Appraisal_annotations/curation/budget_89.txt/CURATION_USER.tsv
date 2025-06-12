@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=The Canadian economy is in a tailspin.
+1-1	0-3	The	_	_	_	_	
+1-2	4-12	Canadian	_	_	_	_	
+1-3	13-20	economy	_	_	_	_	
+1-4	21-23	is	_	_	_	_	
+1-5	24-26	in	_	_	_	_	
+1-6	27-28	a	_	_	_	_	
+1-7	29-37	tailspin	Appreciation	neg	_	_	
+1-8	37-38	.	_	_	_	_	
+
+#Text=We have negative GDP growth, a plunging dollar, a negative trade balance, worsening unemployment and gains in productivity are trailing every other G7 economy.
+2-1	39-41	We	_	_	_	_	
+2-2	42-46	have	_	_	_	_	
+2-3	47-55	negative	Appreciation[2]	neg[2]	_	_	
+2-4	56-59	GDP	Appreciation[2]	neg[2]	_	_	
+2-5	60-66	growth	Appreciation[2]	neg[2]	_	_	
+2-6	66-67	,	_	_	_	_	
+2-7	68-69	a	_	_	_	_	
+2-8	70-78	plunging	Appreciation	neg	_	_	
+2-9	79-85	dollar	_	_	_	_	
+2-10	85-86	,	_	_	_	_	
+2-11	87-88	a	_	_	_	_	
+2-12	89-97	negative	Appreciation[4]	neg[4]	_	_	
+2-13	98-103	trade	Appreciation[4]	neg[4]	_	_	
+2-14	104-111	balance	Appreciation[4]	neg[4]	_	_	
+2-15	111-112	,	_	_	_	_	
+2-16	113-122	worsening	Appreciation[5]	neg[5]	_	_	
+2-17	123-135	unemployment	Appreciation[5]	neg[5]	_	_	
+2-18	136-139	and	_	_	_	_	
+2-19	140-145	gains	_	_	_	_	
+2-20	146-148	in	_	_	_	_	
+2-21	149-161	productivity	_	_	_	_	
+2-22	162-165	are	_	_	_	_	
+2-23	166-174	trailing	Appreciation	neg	_	_	
+2-24	175-180	every	_	_	_	_	
+2-25	181-186	other	_	_	_	_	
+2-26	187-189	G7	_	_	_	_	
+2-27	190-197	economy	_	_	_	_	
+2-28	197-198	.	_	_	_	_	
+
+#Text=Harper hasn't the skill, intelligence or aptitude to manage the Canadian economy and he never did.
+3-1	199-205	Harper	_	_	_	_	
+3-2	206-212	hasn't	Judgment[7]	neg[7]	_	_	
+3-3	213-216	the	Judgment[7]	neg[7]	_	_	
+3-4	217-222	skill	Judgment[7]	neg[7]	_	_	
+3-5	222-223	,	Judgment[7]	neg[7]	_	_	
+3-6	224-236	intelligence	Judgment[7]	neg[7]	_	_	
+3-7	237-239	or	Judgment[7]	neg[7]	_	_	
+3-8	240-248	aptitude	Judgment[7]	neg[7]	_	_	
+3-9	249-251	to	Judgment[7]	neg[7]	_	_	
+3-10	252-258	manage	Judgment[7]	neg[7]	_	_	
+3-11	259-262	the	Judgment[7]	neg[7]	_	_	
+3-12	263-271	Canadian	Judgment[7]	neg[7]	_	_	
+3-13	272-279	economy	Judgment[7]	neg[7]	_	_	
+3-14	280-283	and	Judgment[7]	neg[7]	_	_	
+3-15	284-286	he	Judgment[7]	neg[7]	_	_	
+3-16	287-292	never	Judgment[7]	neg[7]	_	_	
+3-17	293-296	did	Judgment[7]	neg[7]	_	_	
+3-18	296-297	.	_	_	_	_	
+
+#Text=He has always been way over his head.
+4-1	298-300	He	_	_	_	_	
+4-2	301-304	has	_	_	_	_	
+4-3	305-311	always	_	_	_	_	
+4-4	312-316	been	_	_	_	_	
+4-5	317-320	way	Judgment[8]	neg[8]	Force	up	
+4-6	321-325	over	Judgment[8]	neg[8]	_	_	
+4-7	326-329	his	Judgment[8]	neg[8]	_	_	
+4-8	330-334	head	Judgment[8]	neg[8]	_	_	
+4-9	334-335	.	_	_	_	_	
+
+#Text=Canadians have suffered enough and on Oct 19th we will have the chance to stop the bleeding.
+5-1	336-345	Canadians	_	_	_	_	
+5-2	346-350	have	_	_	_	_	
+5-3	351-359	suffered	Appreciation	neg	_	_	
+5-4	360-366	enough	_	_	_	_	
+5-5	367-370	and	_	_	_	_	
+5-6	371-373	on	_	_	_	_	
+5-7	374-377	Oct	_	_	_	_	
+5-8	378-382	19th	_	_	_	_	
+5-9	383-385	we	_	_	_	_	
+5-10	386-390	will	_	_	_	_	
+5-11	391-395	have	_	_	_	_	
+5-12	396-399	the	_	_	_	_	
+5-13	400-406	chance	_	_	_	_	
+5-14	407-409	to	_	_	_	_	
+5-15	410-414	stop	Appreciation[10]	pos[10]	_	_	
+5-16	415-418	the	Appreciation[10]	pos[10]	_	_	
+5-17	419-427	bleeding	Appreciation[10]|Appreciation[11]	pos[10]|neg[11]	_	_	
+5-18	427-428	.	_	_	_	_	

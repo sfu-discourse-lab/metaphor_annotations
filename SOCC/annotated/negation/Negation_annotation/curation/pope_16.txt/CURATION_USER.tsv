@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=It truly is baffling.
+1-1	0-2	It	_	
+1-2	3-8	truly	_	
+1-3	9-11	is	_	
+1-4	12-20	baffling	_	
+1-5	20-21	.	_	
+
+#Text=Here's a guy leading a church that still hasn't entered the 20th century much less the 21st century.
+2-1	22-28	Here's	_	
+2-2	29-30	a	_	
+2-3	31-34	guy	_	
+2-4	35-42	leading	_	
+2-5	43-44	a	_	
+2-6	45-51	church	_	
+2-7	52-56	that	_	
+2-8	57-62	still	_	
+2-9	63-69	hasn't	NEG	
+2-10	70-77	entered	SCOPE[2]	
+2-11	78-81	the	SCOPE[2]	
+2-12	82-86	20th	SCOPE[2]|FOCUS[3]	
+2-13	87-94	century	SCOPE[2]	
+2-14	95-99	much	_	
+2-15	100-104	less	_	
+2-16	105-108	the	_	
+2-17	109-113	21st	_	
+2-18	114-121	century	_	
+2-19	121-122	.	_	
+
+#Text=Go figure.
+3-1	123-125	Go	_	
+3-2	126-132	figure	_	
+3-3	132-133	.	_	

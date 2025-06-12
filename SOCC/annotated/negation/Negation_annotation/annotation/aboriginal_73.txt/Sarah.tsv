@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=You make some good points, but the 'apartheid' is not self-imposed.
+1-1	0-3	You	_	
+1-2	4-8	make	_	
+1-3	9-13	some	_	
+1-4	14-18	good	_	
+1-5	19-25	points	_	
+1-6	25-26	,	_	
+1-7	27-30	but	_	
+1-8	31-34	the	_	
+1-9	35-36	'	_	
+1-10	36-45	apartheid	_	
+1-11	45-46	'	_	
+1-12	47-49	is	_	
+1-13	50-53	not	NEG	
+1-14	54-66	self-imposed	SCOPE[2]|FOCUS[3]	
+1-15	66-67	.	_	

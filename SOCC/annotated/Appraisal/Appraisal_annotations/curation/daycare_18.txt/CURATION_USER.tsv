@@ -1,0 +1,172 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=This whole concept of 'national daycare' sounds far too idealistic.
+1-1	0-4	This	_	_	_	_	
+1-2	5-10	whole	_	_	_	_	
+1-3	11-18	concept	_	_	_	_	
+1-4	19-21	of	_	_	_	_	
+1-5	22-23	'	_	_	_	_	
+1-6	23-31	national	_	_	_	_	
+1-7	32-39	daycare	_	_	_	_	
+1-8	39-40	'	_	_	_	_	
+1-9	41-47	sounds	_	_	_	_	
+1-10	48-51	far	Appreciation[1]	neg[1]	Force[1]|Force[2]	up[1]|up[2]	
+1-11	52-55	too	Appreciation[1]	neg[1]	Force[1]	up[1]	
+1-12	56-66	idealistic	Appreciation[1]	neg[1]	_	_	
+1-13	66-67	.	_	_	_	_	
+
+#Text=The he## is in the details as they say.
+2-1	68-71	The	_	_	_	_	
+2-2	72-74	he	Appreciation[2]	neg[2]	_	_	
+2-3	74-75	#	Appreciation[2]	neg[2]	_	_	
+2-4	75-76	#	Appreciation[2]	neg[2]	_	_	
+2-5	77-79	is	Appreciation[2]	neg[2]	_	_	
+2-6	80-82	in	Appreciation[2]	neg[2]	_	_	
+2-7	83-86	the	Appreciation[2]	neg[2]	_	_	
+2-8	87-94	details	Appreciation[2]	neg[2]	_	_	
+2-9	95-97	as	_	_	_	_	
+2-10	98-102	they	_	_	_	_	
+2-11	103-106	say	_	_	_	_	
+2-12	106-107	.	_	_	_	_	
+
+#Text=Those on lower incomes who struggle to pay there rent and pay basic bills need help.
+3-1	108-113	Those	_	_	_	_	
+3-2	114-116	on	_	_	_	_	
+3-3	117-122	lower	_	_	_	_	
+3-4	123-130	incomes	_	_	_	_	
+3-5	131-134	who	_	_	_	_	
+3-6	135-143	struggle	Appreciation[3]	neg[3]	_	_	
+3-7	144-146	to	Appreciation[3]	neg[3]	_	_	
+3-8	147-150	pay	Appreciation[3]	neg[3]	_	_	
+3-9	151-156	there	Appreciation[3]	neg[3]	_	_	
+3-10	157-161	rent	Appreciation[3]	neg[3]	_	_	
+3-11	162-165	and	Appreciation[3]	neg[3]	_	_	
+3-12	166-169	pay	Appreciation[3]	neg[3]	_	_	
+3-13	170-175	basic	Appreciation[3]	neg[3]	_	_	
+3-14	176-181	bills	Appreciation[3]	neg[3]	_	_	
+3-15	182-186	need	Appreciation[4]	pos[4]	_	_	
+3-16	187-191	help	Appreciation[4]	pos[4]	_	_	
+3-17	191-192	.	_	_	_	_	
+
+#Text=In those cases, subsidised daycare could help both spouses to work outside the house without daycare draining all their efforts.
+4-1	193-195	In	_	_	_	_	
+4-2	196-201	those	_	_	_	_	
+4-3	202-207	cases	_	_	_	_	
+4-4	207-208	,	_	_	_	_	
+4-5	209-219	subsidised	_	_	_	_	
+4-6	220-227	daycare	_	_	_	_	
+4-7	228-233	could	Appreciation[5]	pos[5]	_	_	
+4-8	234-238	help	Appreciation[5]	pos[5]	_	_	
+4-9	239-243	both	Appreciation[5]	pos[5]	_	_	
+4-10	244-251	spouses	Appreciation[5]	pos[5]	_	_	
+4-11	252-254	to	Appreciation[5]	pos[5]	_	_	
+4-12	255-259	work	Appreciation[5]	pos[5]	_	_	
+4-13	260-267	outside	Appreciation[5]	pos[5]	_	_	
+4-14	268-271	the	Appreciation[5]	pos[5]	_	_	
+4-15	272-277	house	Appreciation[5]	pos[5]	_	_	
+4-16	278-285	without	Appreciation[5]	pos[5]	_	_	
+4-17	286-293	daycare	Appreciation[5]	pos[5]	_	_	
+4-18	294-302	draining	Appreciation[5]	pos[5]	_	_	
+4-19	303-306	all	Appreciation[5]	pos[5]	_	_	
+4-20	307-312	their	Appreciation[5]	pos[5]	_	_	
+4-21	313-320	efforts	Appreciation[5]	pos[5]	_	_	
+4-22	320-321	.	_	_	_	_	
+
+#Text=But what about the majority of income earners.
+5-1	322-325	But	_	_	_	_	
+5-2	326-330	what	_	_	_	_	
+5-3	331-336	about	_	_	_	_	
+5-4	337-340	the	_	_	_	_	
+5-5	341-349	majority	_	_	_	_	
+5-6	350-352	of	_	_	_	_	
+5-7	353-359	income	_	_	_	_	
+5-8	360-367	earners	_	_	_	_	
+5-9	367-368	.	_	_	_	_	
+
+#Text=Do they really need government assistance?
+6-1	369-371	Do	Judgment[6]	neg[6]	_	_	
+6-2	372-376	they	Judgment[6]	neg[6]	_	_	
+6-3	377-383	really	Judgment[6]	neg[6]	_	_	
+6-4	384-388	need	Judgment[6]	neg[6]	_	_	
+6-5	389-399	government	Judgment[6]	neg[6]	_	_	
+6-6	400-410	assistance	Judgment[6]	neg[6]	_	_	
+6-7	410-411	?	_	_	_	_	
+
+#Text=Many comfortably off people will shift their discretionary income (from saved daycare costs) to buy a larger house or more expensive doodads.
+7-1	412-416	Many	_	_	_	_	
+7-2	417-428	comfortably	_	_	_	_	
+7-3	429-432	off	_	_	_	_	
+7-4	433-439	people	_	_	_	_	
+7-5	440-444	will	_	_	_	_	
+7-6	445-450	shift	Judgment[7]	neg[7]	_	_	
+7-7	451-456	their	Judgment[7]	neg[7]	_	_	
+7-8	457-470	discretionary	Judgment[7]	neg[7]	_	_	
+7-9	471-477	income	Judgment[7]	neg[7]	_	_	
+7-10	478-479	(	Judgment[7]	neg[7]	_	_	
+7-11	479-483	from	Judgment[7]	neg[7]	_	_	
+7-12	484-489	saved	Judgment[7]	neg[7]	_	_	
+7-13	490-497	daycare	Judgment[7]	neg[7]	_	_	
+7-14	498-503	costs	Judgment[7]	neg[7]	_	_	
+7-15	503-504	)	Judgment[7]	neg[7]	_	_	
+7-16	505-507	to	Judgment[7]	neg[7]	_	_	
+7-17	508-511	buy	Judgment[7]	neg[7]	_	_	
+7-18	512-513	a	Judgment[7]	neg[7]	_	_	
+7-19	514-520	larger	Judgment[7]	neg[7]	_	_	
+7-20	521-526	house	Judgment[7]	neg[7]	_	_	
+7-21	527-529	or	Judgment[7]	neg[7]	_	_	
+7-22	530-534	more	Judgment[7]	neg[7]	_	_	
+7-23	535-544	expensive	Judgment[7]	neg[7]	_	_	
+7-24	545-552	doodads	Judgment[7]	neg[7]	_	_	
+7-25	552-553	.	_	_	_	_	
+
+#Text=That is hardly helping families truly in need.
+8-1	554-558	That	_	_	_	_	
+8-2	559-561	is	_	_	_	_	
+8-3	562-568	hardly	Appreciation[8]	neg[8]	_	_	
+8-4	569-576	helping	Appreciation[8]	neg[8]	_	_	
+8-5	577-585	families	Appreciation[8]	neg[8]	_	_	
+8-6	586-591	truly	Appreciation[8]	neg[8]	_	_	
+8-7	592-594	in	Appreciation[8]	neg[8]	_	_	
+8-8	595-599	need	Appreciation[8]	neg[8]	_	_	
+8-9	599-600	.	_	_	_	_	
+
+#Text=We need more targeted programs to help those with low incomes.
+9-1	601-603	We	_	_	_	_	
+9-2	604-608	need	Appreciation[9]	pos[9]	_	_	
+9-3	609-613	more	Appreciation[9]	pos[9]	_	_	
+9-4	614-622	targeted	Appreciation[9]	pos[9]	_	_	
+9-5	623-631	programs	Appreciation[9]	pos[9]	_	_	
+9-6	632-634	to	Appreciation[9]	pos[9]	_	_	
+9-7	635-639	help	Appreciation[9]	pos[9]	_	_	
+9-8	640-645	those	Appreciation[9]	pos[9]	_	_	
+9-9	646-650	with	Appreciation[9]	pos[9]	_	_	
+9-10	651-654	low	Appreciation[9]	pos[9]	_	_	
+9-11	655-662	incomes	Appreciation[9]	pos[9]	_	_	
+9-12	662-663	.	_	_	_	_	
+
+#Text=Not a limousine style daycare system.
+10-1	664-667	Not	_	_	_	_	
+10-2	668-669	a	_	_	_	_	
+10-3	670-679	limousine	Appreciation[10]	neg[10]	_	_	
+10-4	680-685	style	Appreciation[10]	neg[10]	_	_	
+10-5	686-693	daycare	_	_	_	_	
+10-6	694-700	system	_	_	_	_	
+10-7	700-701	.	_	_	_	_	
+
+#Text=I self define as liberal, but a very fiscally tight one.
+11-1	702-703	I	_	_	_	_	
+11-2	704-708	self	_	_	_	_	
+11-3	709-715	define	_	_	_	_	
+11-4	716-718	as	_	_	_	_	
+11-5	719-726	liberal	_	_	_	_	
+11-6	726-727	,	_	_	_	_	
+11-7	728-731	but	_	_	_	_	
+11-8	732-733	a	_	_	_	_	
+11-9	734-738	very	Judgment[11]	pos[11]	_	_	
+11-10	739-747	fiscally	Judgment[11]	pos[11]	_	_	
+11-11	748-753	tight	Judgment[11]	pos[11]	_	_	
+11-12	754-757	one	_	_	_	_	
+11-13	757-758	.	_	_	_	_	

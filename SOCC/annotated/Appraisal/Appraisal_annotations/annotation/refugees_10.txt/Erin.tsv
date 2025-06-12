@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=A thoughtful and well written piece by Ms Al-Fattal.
+1-1	0-1	A	_	_	
+1-2	2-12	thoughtful	Appreciation[1]	pos[1]	
+1-3	13-16	and	Appreciation[1]	pos[1]	
+1-4	17-21	well	Appreciation[1]	pos[1]	
+1-5	22-29	written	Appreciation[1]	pos[1]	
+1-6	30-35	piece	_	_	
+1-7	36-38	by	_	_	
+1-8	39-41	Ms	_	_	
+1-9	42-51	Al-Fattal	_	_	
+1-10	51-52	.	_	_	
+
+#Text=However, there is one important aspect missing: The lack of shown interest, desire, national pride in Syrians wanting to stay and fight for their country.
+2-1	53-60	However	_	_	
+2-2	60-61	,	_	_	
+2-3	62-67	there	_	_	
+2-4	68-70	is	_	_	
+2-5	71-74	one	_	_	
+2-6	75-84	important	_	_	
+2-7	85-91	aspect	_	_	
+2-8	92-99	missing	Judgment	neg	
+2-9	99-100	:	_	_	
+2-10	101-104	The	_	_	
+2-11	105-109	lack	Judgment[3]	neg[3]	
+2-12	110-112	of	Judgment[3]	neg[3]	
+2-13	113-118	shown	Judgment[3]	neg[3]	
+2-14	119-127	interest	Judgment[3]	neg[3]	
+2-15	127-128	,	Judgment[3]	neg[3]	
+2-16	129-135	desire	Judgment[3]	neg[3]	
+2-17	135-136	,	Judgment[3]	neg[3]	
+2-18	137-145	national	Judgment[3]	neg[3]	
+2-19	146-151	pride	Judgment[3]	neg[3]	
+2-20	152-154	in	_	_	
+2-21	155-162	Syrians	_	_	
+2-22	163-170	wanting	_	_	
+2-23	171-173	to	_	_	
+2-24	174-178	stay	_	_	
+2-25	179-182	and	_	_	
+2-26	183-188	fight	_	_	
+2-27	189-192	for	_	_	
+2-28	193-198	their	_	_	
+2-29	199-206	country	_	_	
+2-30	206-207	.	_	_	
+
+#Text=Throughout history, we've seen examples of mass migrations of refugees always with the intent of return to their homeland.
+3-1	208-218	Throughout	_	_	
+3-2	219-226	history	_	_	
+3-3	226-227	,	_	_	
+3-4	228-233	we've	_	_	
+3-5	234-238	seen	_	_	
+3-6	239-247	examples	_	_	
+3-7	248-250	of	_	_	
+3-8	251-255	mass	_	_	
+3-9	256-266	migrations	_	_	
+3-10	267-269	of	_	_	
+3-11	270-278	refugees	_	_	
+3-12	279-285	always	_	_	
+3-13	286-290	with	_	_	
+3-14	291-294	the	_	_	
+3-15	295-301	intent	_	_	
+3-16	302-304	of	_	_	
+3-17	305-311	return	_	_	
+3-18	312-314	to	_	_	
+3-19	315-320	their	_	_	
+3-20	321-329	homeland	_	_	
+3-21	329-330	.	_	_	
+
+#Text=The Syrian case does not seem to follow this pattern and the one way ticket to Europe/Canada for economic benefit is having adverse effects in creating resentment to their plight.
+4-1	331-334	The	_	_	
+4-2	335-341	Syrian	_	_	
+4-3	342-346	case	_	_	
+4-4	347-351	does	_	_	
+4-5	352-355	not	_	_	
+4-6	356-360	seem	_	_	
+4-7	361-363	to	_	_	
+4-8	364-370	follow	_	_	
+4-9	371-375	this	_	_	
+4-10	376-383	pattern	_	_	
+4-11	384-387	and	_	_	
+4-12	388-391	the	_	_	
+4-13	392-395	one	Appreciation[4]	neg[4]	
+4-14	396-399	way	Appreciation[4]	neg[4]	
+4-15	400-406	ticket	_	_	
+4-16	407-409	to	_	_	
+4-17	410-416	Europe	_	_	
+4-18	416-417	/	_	_	
+4-19	417-423	Canada	_	_	
+4-20	424-427	for	_	_	
+4-21	428-436	economic	_	_	
+4-22	437-444	benefit	_	_	
+4-23	445-447	is	_	_	
+4-24	448-454	having	_	_	
+4-25	455-462	adverse	Appreciation	neg	
+4-26	463-470	effects	_	_	
+4-27	471-473	in	_	_	
+4-28	474-482	creating	Appreciation[6]	neg[6]	
+4-29	483-493	resentment	Appreciation[6]	neg[6]	
+4-30	494-496	to	_	_	
+4-31	497-502	their	_	_	
+4-32	503-509	plight	_	_	
+4-33	509-510	.	_	_	

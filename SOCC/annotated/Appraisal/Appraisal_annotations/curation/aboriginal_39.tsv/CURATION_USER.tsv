@@ -1,0 +1,9 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Integration into what?
+1-1	0-11	Integration	Appreciation[1]	neg[1]	
+1-2	12-16	into	Appreciation[1]	neg[1]	
+1-3	17-21	what	Appreciation[1]	neg[1]	
+1-4	21-22	?	_	_	

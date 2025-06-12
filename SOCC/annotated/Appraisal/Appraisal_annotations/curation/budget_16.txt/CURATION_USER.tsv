@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=And we wont be fooled by Justin and Thomas.
+1-1	0-3	And	_	_	
+1-2	4-6	we	_	_	
+1-3	7-11	wont	Judgment[1]	neg[1]	
+1-4	12-14	be	Judgment[1]	neg[1]	
+1-5	15-21	fooled	Judgment[1]	neg[1]	
+1-6	22-24	by	_	_	
+1-7	25-31	Justin	_	_	
+1-8	32-35	and	_	_	
+1-9	36-42	Thomas	_	_	
+1-10	42-43	.	_	_	

@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Hillary has been a setback for women in politics.
+1-1	0-7	Hillary	_	_	_	_	
+1-2	8-11	has	_	_	_	_	
+1-3	12-16	been	_	_	_	_	
+1-4	17-18	a	_	_	_	_	
+1-5	19-26	setback	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	_	_	
+1-6	27-30	for	Judgment[1]	neg[1]	_	_	
+1-7	31-36	women	Judgment[1]	neg[1]	_	_	
+1-8	37-39	in	Judgment[1]	neg[1]	_	_	
+1-9	40-48	politics	Judgment[1]	neg[1]	_	_	
+1-10	48-49	.	_	_	_	_	
+
+#Text=Had she come to her position without the unethical cloud she fostered she may have succeeded.
+2-1	50-53	Had	Judgment[3]	pos[3]	_	_	
+2-2	54-57	she	Judgment[3]	pos[3]	_	_	
+2-3	58-62	come	Judgment[3]	pos[3]	_	_	
+2-4	63-65	to	Judgment[3]	pos[3]	_	_	
+2-5	66-69	her	Judgment[3]	pos[3]	_	_	
+2-6	70-78	position	Judgment[3]	pos[3]	_	_	
+2-7	79-86	without	Judgment[3]	pos[3]	_	_	
+2-8	87-90	the	Judgment[3]	pos[3]	_	_	
+2-9	91-100	unethical	Judgment[3]|Judgment[4]	pos[3]|neg[4]	_	_	
+2-10	101-106	cloud	Judgment[3]	pos[3]	_	_	
+2-11	107-110	she	Judgment[3]	pos[3]	_	_	
+2-12	111-119	fostered	Judgment[3]	pos[3]	_	_	
+2-13	120-123	she	Judgment[3]	pos[3]	_	_	
+2-14	124-127	may	Judgment[3]	pos[3]	Focus	down	
+2-15	128-132	have	Judgment[3]	pos[3]	_	_	
+2-16	133-142	succeeded	Judgment[3]	pos[3]	_	_	
+2-17	142-143	.	_	_	_	_	

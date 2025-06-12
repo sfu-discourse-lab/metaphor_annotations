@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Foreigners have no right to purchase whatever they want in Canada.
+1-1	0-10	Foreigners	_	_	
+1-2	11-15	have	_	_	
+1-3	16-18	no	Judgment[1]	neg[1]	
+1-4	19-24	right	Judgment[1]	neg[1]	
+1-5	25-27	to	Judgment[1]	neg[1]	
+1-6	28-36	purchase	Judgment[1]	neg[1]	
+1-7	37-45	whatever	Judgment[1]	neg[1]	
+1-8	46-50	they	Judgment[1]	neg[1]	
+1-9	51-55	want	Judgment[1]	neg[1]	
+1-10	56-58	in	Judgment[1]	neg[1]	
+1-11	59-65	Canada	Judgment[1]	neg[1]	
+1-12	65-66	.	_	_	
+
+#Text=Anyone who is not a permanent resident by definition should not need to purchase a home.
+2-1	67-73	Anyone	_	_	
+2-2	74-77	who	_	_	
+2-3	78-80	is	_	_	
+2-4	81-84	not	_	_	
+2-5	85-86	a	_	_	
+2-6	87-96	permanent	_	_	
+2-7	97-105	resident	_	_	
+2-8	106-108	by	_	_	
+2-9	109-119	definition	_	_	
+2-10	120-126	should	Judgment[2]	neg[2]	
+2-11	127-130	not	Judgment[2]	neg[2]	
+2-12	131-135	need	Judgment[2]	neg[2]	
+2-13	136-138	to	Judgment[2]	neg[2]	
+2-14	139-147	purchase	Judgment[2]	neg[2]	
+2-15	148-149	a	Judgment[2]	neg[2]	
+2-16	150-154	home	Judgment[2]	neg[2]	
+2-17	154-155	.	_	_	
+
+#Text=They can rent.
+3-1	156-160	They	_	_	
+3-2	161-164	can	_	_	
+3-3	165-169	rent	_	_	
+3-4	169-170	.	_	_	
+
+#Text=This is all about storing wealth and making money flipping homes.
+4-1	171-175	This	_	_	
+4-2	176-178	is	_	_	
+4-3	179-182	all	Judgment[3]	neg[3]	
+4-4	183-188	about	Judgment[3]	neg[3]	
+4-5	189-196	storing	Judgment[3]	neg[3]	
+4-6	197-203	wealth	Judgment[3]	neg[3]	
+4-7	204-207	and	Judgment[3]	neg[3]	
+4-8	208-214	making	Judgment[3]	neg[3]	
+4-9	215-220	money	Judgment[3]	neg[3]	
+4-10	221-229	flipping	_	_	
+4-11	230-235	homes	_	_	
+4-12	235-236	.	_	_	
+
+#Text=The BC Government has now stopped a big business that foreigners were making in BC and the foreigners do not like losing this business.
+5-1	237-240	The	_	_	
+5-2	241-243	BC	_	_	
+5-3	244-254	Government	_	_	
+5-4	255-258	has	_	_	
+5-5	259-262	now	_	_	
+5-6	263-270	stopped	_	_	
+5-7	271-272	a	_	_	
+5-8	273-276	big	_	_	
+5-9	277-285	business	_	_	
+5-10	286-290	that	_	_	
+5-11	291-301	foreigners	_	_	
+5-12	302-306	were	_	_	
+5-13	307-313	making	_	_	
+5-14	314-316	in	_	_	
+5-15	317-319	BC	_	_	
+5-16	320-323	and	_	_	
+5-17	324-327	the	_	_	
+5-18	328-338	foreigners	_	_	
+5-19	339-341	do	_	_	
+5-20	342-345	not	Appreciation[4]	neg[4]	
+5-21	346-350	like	Appreciation[4]	neg[4]	
+5-22	351-357	losing	_	_	
+5-23	358-362	this	_	_	
+5-24	363-371	business	_	_	
+5-25	371-372	.	_	_	
+
+#Text=Homes are not to be treated like blocks of gold to be stuffed in the deposit boxes of foreigners.
+6-1	373-378	Homes	_	_	
+6-2	379-382	are	_	_	
+6-3	383-386	not	Appreciation[5]	neg[5]	
+6-4	387-389	to	Appreciation[5]	neg[5]	
+6-5	390-392	be	Appreciation[5]	neg[5]	
+6-6	393-400	treated	Appreciation[5]	neg[5]	
+6-7	401-405	like	Appreciation[5]	neg[5]	
+6-8	406-412	blocks	Appreciation[5]	neg[5]	
+6-9	413-415	of	Appreciation[5]	neg[5]	
+6-10	416-420	gold	Appreciation[5]	neg[5]	
+6-11	421-423	to	Appreciation[5]	neg[5]	
+6-12	424-426	be	Appreciation[5]	neg[5]	
+6-13	427-434	stuffed	Appreciation[5]	neg[5]	
+6-14	435-437	in	Appreciation[5]	neg[5]	
+6-15	438-441	the	Appreciation[5]	neg[5]	
+6-16	442-449	deposit	Appreciation[5]	neg[5]	
+6-17	450-455	boxes	Appreciation[5]	neg[5]	
+6-18	456-458	of	Appreciation[5]	neg[5]	
+6-19	459-469	foreigners	Appreciation[5]	neg[5]	
+6-20	469-470	.	_	_	
+
+#Text=They are needed for people to live in.
+7-1	471-475	They	_	_	
+7-2	476-479	are	_	_	
+7-3	480-486	needed	Appreciation[6]	pos[6]	
+7-4	487-490	for	Appreciation[6]	pos[6]	
+7-5	491-497	people	Appreciation[6]	pos[6]	
+7-6	498-500	to	Appreciation[6]	pos[6]	
+7-7	501-505	live	Appreciation[6]	pos[6]	
+7-8	506-508	in	Appreciation[6]	pos[6]	
+7-9	508-509	.	_	_	

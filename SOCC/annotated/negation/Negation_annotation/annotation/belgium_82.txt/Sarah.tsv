@@ -1,0 +1,12 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Sure your name isn't BC Bud ?
+1-1	0-4	Sure	_	
+1-2	5-9	your	_	
+1-3	10-14	name	_	
+1-4	15-20	isn't	NEG	
+1-5	21-23	BC	SCOPE[2]|FOCUS[3]	
+1-6	24-27	Bud	SCOPE[2]|FOCUS[3]	
+1-7	28-29	?	_	

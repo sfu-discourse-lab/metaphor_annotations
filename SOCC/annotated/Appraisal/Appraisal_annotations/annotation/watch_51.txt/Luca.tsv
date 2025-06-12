@@ -1,0 +1,205 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I just love to read comments for readers that are not Apple fans.
+1-1	0-1	I	_	_	_	_	
+1-2	2-6	just	Appreciation[1]	pos[1]	_	_	
+1-3	7-11	love	Appreciation[1]	pos[1]	_	_	
+1-4	12-14	to	_	_	_	_	
+1-5	15-19	read	_	_	_	_	
+1-6	20-28	comments	_	_	_	_	
+1-7	29-32	for	_	_	_	_	
+1-8	33-40	readers	_	_	_	_	
+1-9	41-45	that	_	_	_	_	
+1-10	46-49	are	_	_	_	_	
+1-11	50-53	not	_	_	_	_	
+1-12	54-59	Apple	_	_	_	_	
+1-13	60-64	fans	_	_	_	_	
+1-14	64-65	.	_	_	_	_	
+
+#Text=Making a statement about Apple product that you will never buy is kind of funny in a way.
+2-1	66-72	Making	_	_	_	_	
+2-2	73-74	a	_	_	_	_	
+2-3	75-84	statement	_	_	_	_	
+2-4	85-90	about	_	_	_	_	
+2-5	91-96	Apple	_	_	_	_	
+2-6	97-104	product	_	_	_	_	
+2-7	105-109	that	_	_	_	_	
+2-8	110-113	you	_	_	_	_	
+2-9	114-118	will	_	_	_	_	
+2-10	119-124	never	_	_	_	_	
+2-11	125-128	buy	_	_	_	_	
+2-12	129-131	is	_	_	_	_	
+2-13	132-136	kind	Appreciation[2]	neg[2]	Focus[1]	down[1]	
+2-14	137-139	of	Appreciation[2]	neg[2]	Focus[1]	down[1]	
+2-15	140-145	funny	Appreciation[2]	neg[2]	_	_	
+2-16	146-148	in	Appreciation[2]	neg[2]	Focus[2]	down[2]	
+2-17	149-150	a	Appreciation[2]	neg[2]	Focus[2]	down[2]	
+2-18	151-154	way	Appreciation[2]	neg[2]	Focus[2]	down[2]	
+2-19	154-155	.	_	_	_	_	
+
+#Text=I drive a Honda and a GMC Truck but I never put down a Tesla motors for there electric cars.
+3-1	156-157	I	_	_	_	_	
+3-2	158-163	drive	_	_	_	_	
+3-3	164-165	a	_	_	_	_	
+3-4	166-171	Honda	_	_	_	_	
+3-5	172-175	and	_	_	_	_	
+3-6	176-177	a	_	_	_	_	
+3-7	178-181	GMC	_	_	_	_	
+3-8	182-187	Truck	_	_	_	_	
+3-9	188-191	but	_	_	_	_	
+3-10	192-193	I	_	_	_	_	
+3-11	194-199	never	Judgment[3]	pos[3]	Force	down	
+3-12	200-203	put	Judgment[3]	pos[3]	_	_	
+3-13	204-208	down	Judgment[3]	pos[3]	_	_	
+3-14	209-210	a	_	_	_	_	
+3-15	211-216	Tesla	_	_	_	_	
+3-16	217-223	motors	_	_	_	_	
+3-17	224-227	for	_	_	_	_	
+3-18	228-233	there	_	_	_	_	
+3-19	234-242	electric	_	_	_	_	
+3-20	243-247	cars	_	_	_	_	
+3-21	247-248	.	_	_	_	_	
+
+#Text=For Apple users the Apple Watch will save me lots of time over the day.
+4-1	249-252	For	_	_	_	_	
+4-2	253-258	Apple	_	_	_	_	
+4-3	259-264	users	_	_	_	_	
+4-4	265-268	the	_	_	_	_	
+4-5	269-274	Apple	_	_	_	_	
+4-6	275-280	Watch	_	_	_	_	
+4-7	281-285	will	_	_	_	_	
+4-8	286-290	save	Appreciation[4]	pos[4]	_	_	
+4-9	291-293	me	Appreciation[4]	pos[4]	_	_	
+4-10	294-298	lots	Appreciation[4]	pos[4]	Force[4]	up[4]	
+4-11	299-301	of	Appreciation[4]	pos[4]	Force[4]	up[4]	
+4-12	302-306	time	Appreciation[4]	pos[4]	_	_	
+4-13	307-311	over	Appreciation[4]	pos[4]	_	_	
+4-14	312-315	the	Appreciation[4]	pos[4]	_	_	
+4-15	316-319	day	Appreciation[4]	pos[4]	_	_	
+4-16	319-320	.	_	_	_	_	
+
+#Text=For example I just got a notification alert from my iPhone.
+5-1	321-324	For	_	_	_	_	
+5-2	325-332	example	_	_	_	_	
+5-3	333-334	I	_	_	_	_	
+5-4	335-339	just	_	_	_	_	
+5-5	340-343	got	_	_	_	_	
+5-6	344-345	a	_	_	_	_	
+5-7	346-358	notification	_	_	_	_	
+5-8	359-364	alert	_	_	_	_	
+5-9	365-369	from	_	_	_	_	
+5-10	370-372	my	_	_	_	_	
+5-11	373-379	iPhone	_	_	_	_	
+5-12	379-380	.	_	_	_	_	
+
+#Text=If I had the Apple Watch on, I could read the notification and decide if I need to respond to it now or later.
+6-1	381-383	If	Appreciation[5]	pos[5]	_	_	
+6-2	384-385	I	Appreciation[5]	pos[5]	_	_	
+6-3	386-389	had	Appreciation[5]	pos[5]	_	_	
+6-4	390-393	the	Appreciation[5]	pos[5]	_	_	
+6-5	394-399	Apple	Appreciation[5]	pos[5]	_	_	
+6-6	400-405	Watch	Appreciation[5]	pos[5]	_	_	
+6-7	406-408	on	Appreciation[5]	pos[5]	_	_	
+6-8	408-409	,	Appreciation[5]	pos[5]	_	_	
+6-9	410-411	I	Appreciation[5]	pos[5]	_	_	
+6-10	412-417	could	Appreciation[5]	pos[5]	_	_	
+6-11	418-422	read	Appreciation[5]	pos[5]	_	_	
+6-12	423-426	the	Appreciation[5]	pos[5]	_	_	
+6-13	427-439	notification	Appreciation[5]	pos[5]	_	_	
+6-14	440-443	and	Appreciation[5]	pos[5]	_	_	
+6-15	444-450	decide	Appreciation[5]	pos[5]	_	_	
+6-16	451-453	if	Appreciation[5]	pos[5]	_	_	
+6-17	454-455	I	Appreciation[5]	pos[5]	_	_	
+6-18	456-460	need	Appreciation[5]	pos[5]	_	_	
+6-19	461-463	to	Appreciation[5]	pos[5]	_	_	
+6-20	464-471	respond	Appreciation[5]	pos[5]	_	_	
+6-21	472-474	to	Appreciation[5]	pos[5]	_	_	
+6-22	475-477	it	Appreciation[5]	pos[5]	_	_	
+6-23	478-481	now	Appreciation[5]	pos[5]	_	_	
+6-24	482-484	or	Appreciation[5]	pos[5]	_	_	
+6-25	485-490	later	Appreciation[5]	pos[5]	_	_	
+6-26	490-491	.	_	_	_	_	
+
+#Text=If it was a phone call I could take the call or message back that I was tied up.
+7-1	492-494	If	Appreciation[6]	pos[6]	_	_	
+7-2	495-497	it	Appreciation[6]	pos[6]	_	_	
+7-3	498-501	was	Appreciation[6]	pos[6]	_	_	
+7-4	502-503	a	Appreciation[6]	pos[6]	_	_	
+7-5	504-509	phone	Appreciation[6]	pos[6]	_	_	
+7-6	510-514	call	Appreciation[6]	pos[6]	_	_	
+7-7	515-516	I	Appreciation[6]	pos[6]	_	_	
+7-8	517-522	could	Appreciation[6]	pos[6]	_	_	
+7-9	523-527	take	Appreciation[6]	pos[6]	_	_	
+7-10	528-531	the	Appreciation[6]	pos[6]	_	_	
+7-11	532-536	call	Appreciation[6]	pos[6]	_	_	
+7-12	537-539	or	Appreciation[6]	pos[6]	_	_	
+7-13	540-547	message	Appreciation[6]	pos[6]	_	_	
+7-14	548-552	back	Appreciation[6]	pos[6]	_	_	
+7-15	553-557	that	Appreciation[6]	pos[6]	_	_	
+7-16	558-559	I	Appreciation[6]	pos[6]	_	_	
+7-17	560-563	was	Appreciation[6]	pos[6]	_	_	
+7-18	564-568	tied	Appreciation[6]	pos[6]	_	_	
+7-19	569-571	up	Appreciation[6]	pos[6]	_	_	
+7-20	571-572	.	_	_	_	_	
+
+#Text=With all the new Apps coming out the things that you will be able to do will be endless.
+8-1	573-577	With	_	_	_	_	
+8-2	578-581	all	_	_	_	_	
+8-3	582-585	the	_	_	_	_	
+8-4	586-589	new	_	_	_	_	
+8-5	590-594	Apps	_	_	_	_	
+8-6	595-601	coming	_	_	_	_	
+8-7	602-605	out	_	_	_	_	
+8-8	606-609	the	_	_	_	_	
+8-9	610-616	things	_	_	_	_	
+8-10	617-621	that	_	_	_	_	
+8-11	622-625	you	_	_	_	_	
+8-12	626-630	will	_	_	_	_	
+8-13	631-633	be	_	_	_	_	
+8-14	634-638	able	_	_	_	_	
+8-15	639-641	to	_	_	_	_	
+8-16	642-644	do	_	_	_	_	
+8-17	645-649	will	_	_	_	_	
+8-18	650-652	be	_	_	_	_	
+8-19	653-660	endless	Appreciation	pos	_	_	
+8-20	660-661	.	_	_	_	_	
+
+#Text=From personal Health to Stock Notices real Apple users will have it all.
+9-1	662-666	From	_	_	_	_	
+9-2	667-675	personal	_	_	_	_	
+9-3	676-682	Health	_	_	_	_	
+9-4	683-685	to	_	_	_	_	
+9-5	686-691	Stock	_	_	_	_	
+9-6	692-699	Notices	_	_	_	_	
+9-7	700-704	real	_	_	_	_	
+9-8	705-710	Apple	_	_	_	_	
+9-9	711-716	users	_	_	_	_	
+9-10	717-721	will	_	_	_	_	
+9-11	722-726	have	Appreciation[8]	pos[8]	_	_	
+9-12	727-729	it	Appreciation[8]	pos[8]	_	_	
+9-13	730-733	all	Appreciation[8]	pos[8]	_	_	
+9-14	733-734	.	_	_	_	_	
+
+#Text=But go ahead and tell the world what you think, it makes for good entertainment. ;)
+10-1	735-738	But	_	_	_	_	
+10-2	739-741	go	_	_	_	_	
+10-3	742-747	ahead	_	_	_	_	
+10-4	748-751	and	_	_	_	_	
+10-5	752-756	tell	_	_	_	_	
+10-6	757-760	the	_	_	_	_	
+10-7	761-766	world	_	_	_	_	
+10-8	767-771	what	_	_	_	_	
+10-9	772-775	you	_	_	_	_	
+10-10	776-781	think	_	_	_	_	
+10-11	781-782	,	_	_	_	_	
+10-12	783-785	it	_	_	_	_	
+10-13	786-791	makes	Judgment[9]	neg[9]	_	_	
+10-14	792-795	for	Judgment[9]	neg[9]	_	_	
+10-15	796-800	good	Judgment[9]	neg[9]	_	_	
+10-16	801-814	entertainment	Judgment[9]	neg[9]	_	_	
+10-17	814-815	.	Judgment[9]	neg[9]	_	_	
+10-18	816-817	;	Judgment[9]	neg[9]	_	_	
+10-19	817-818	)	Judgment[9]	neg[9]	_	_	

@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=How is it racist?
+1-1	0-3	How	
+1-2	4-6	is	
+1-3	7-9	it	
+1-4	10-16	racist	
+1-5	16-17	?	
+
+#Text=it also applies to Americans, British, Australians, the french.
+2-1	18-20	it	
+2-2	21-25	also	
+2-3	26-33	applies	
+2-4	34-36	to	
+2-5	37-46	Americans	
+2-6	46-47	,	
+2-7	48-55	British	
+2-8	55-56	,	
+2-9	57-68	Australians	
+2-10	68-69	,	
+2-11	70-73	the	
+2-12	74-80	french	
+2-13	80-81	.	
+
+#Text=I would like to see something similar in most countries.
+3-1	82-83	I	
+3-2	84-89	would	
+3-3	90-94	like	
+3-4	95-97	to	
+3-5	98-101	see	
+3-6	102-111	something	
+3-7	112-119	similar	
+3-8	120-122	in	
+3-9	123-127	most	
+3-10	128-137	countries	
+3-11	137-138	.	

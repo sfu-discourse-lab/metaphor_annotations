@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=For once I agree with most of Ms Wente has to say.
+1-1	0-3	For	_	_	_	_	
+1-2	4-8	once	_	_	_	_	
+1-3	9-10	I	_	_	_	_	
+1-4	11-16	agree	Appreciation	pos	_	_	
+1-5	17-21	with	_	_	_	_	
+1-6	22-26	most	_	_	_	_	
+1-7	27-29	of	_	_	_	_	
+1-8	30-32	Ms	_	_	_	_	
+1-9	33-38	Wente	_	_	_	_	
+1-10	39-42	has	_	_	_	_	
+1-11	43-45	to	_	_	_	_	
+1-12	46-49	say	_	_	_	_	
+1-13	49-50	.	_	_	_	_	
+
+#Text=Not only is Bergoglio just the best PR man the Church ever had to spin stories like a politician at election time, he's even managed to hide his dirty linen from the time when he was Archbishop of Buenos Aires collaborating with the military dictatorship and not even helping a couple of his own progressive Jesuit priests escape persecution.
+2-1	51-54	Not	_	_	_	_	
+2-2	55-59	only	_	_	_	_	
+2-3	60-62	is	_	_	_	_	
+2-4	63-72	Bergoglio	_	_	_	_	
+2-5	73-77	just	Judgment[2]	pos[2]	_	_	
+2-6	78-81	the	Judgment[2]	pos[2]	_	_	
+2-7	82-86	best	Judgment[2]	pos[2]	Force	up	
+2-8	87-89	PR	_	_	_	_	
+2-9	90-93	man	_	_	_	_	
+2-10	94-97	the	_	_	_	_	
+2-11	98-104	Church	_	_	_	_	
+2-12	105-109	ever	_	_	_	_	
+2-13	110-113	had	_	_	_	_	
+2-14	114-116	to	_	_	_	_	
+2-15	117-121	spin	Judgment[3]	neg[3]	_	_	
+2-16	122-129	stories	Judgment[3]	neg[3]	_	_	
+2-17	130-134	like	Judgment[3]	neg[3]	_	_	
+2-18	135-136	a	Judgment[3]	neg[3]	_	_	
+2-19	137-147	politician	Judgment[3]	neg[3]	_	_	
+2-20	148-150	at	_	_	_	_	
+2-21	151-159	election	_	_	_	_	
+2-22	160-164	time	_	_	_	_	
+2-23	164-165	,	_	_	_	_	
+2-24	166-170	he's	_	_	_	_	
+2-25	171-175	even	_	_	_	_	
+2-26	176-183	managed	_	_	_	_	
+2-27	184-186	to	_	_	_	_	
+2-28	187-191	hide	Judgment[4]	neg[4]	_	_	
+2-29	192-195	his	Judgment[4]	neg[4]	_	_	
+2-30	196-201	dirty	Judgment[4]	neg[4]	_	_	
+2-31	202-207	linen	Judgment[4]	neg[4]	_	_	
+2-32	208-212	from	_	_	_	_	
+2-33	213-216	the	_	_	_	_	
+2-34	217-221	time	_	_	_	_	
+2-35	222-226	when	_	_	_	_	
+2-36	227-229	he	_	_	_	_	
+2-37	230-233	was	_	_	_	_	
+2-38	234-244	Archbishop	_	_	_	_	
+2-39	245-247	of	_	_	_	_	
+2-40	248-254	Buenos	_	_	_	_	
+2-41	255-260	Aires	_	_	_	_	
+2-42	261-274	collaborating	Judgment[5]	neg[5]	_	_	
+2-43	275-279	with	Judgment[5]	neg[5]	_	_	
+2-44	280-283	the	Judgment[5]	neg[5]	_	_	
+2-45	284-292	military	Judgment[5]	neg[5]	_	_	
+2-46	293-305	dictatorship	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	_	_	
+2-47	306-309	and	Judgment[5]	neg[5]	_	_	
+2-48	310-313	not	Judgment[5]	neg[5]	_	_	
+2-49	314-318	even	Judgment[5]	neg[5]	_	_	
+2-50	319-326	helping	Judgment[5]	neg[5]	_	_	
+2-51	327-328	a	Judgment[5]	neg[5]	_	_	
+2-52	329-335	couple	Judgment[5]	neg[5]	_	_	
+2-53	336-338	of	Judgment[5]	neg[5]	_	_	
+2-54	339-342	his	Judgment[5]	neg[5]	_	_	
+2-55	343-346	own	Judgment[5]	neg[5]	_	_	
+2-56	347-358	progressive	Judgment[5]|Judgment[7]	neg[5]|pos[7]	_	_	
+2-57	359-365	Jesuit	Judgment[5]	neg[5]	_	_	
+2-58	366-373	priests	Judgment[5]	neg[5]	_	_	
+2-59	374-380	escape	Judgment[5]	neg[5]	_	_	
+2-60	381-392	persecution	Judgment[5]|Appreciation[8]	neg[5]|neg[8]	_	_	
+2-61	392-393	.	_	_	_	_	

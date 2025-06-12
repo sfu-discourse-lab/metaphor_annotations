@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The Globe must be absolutely delighted with Trump's victory.
+1-1	0-3	The	_	
+1-2	4-9	Globe	_	
+1-3	10-14	must	_	
+1-4	15-17	be	_	
+1-5	18-28	absolutely	_	
+1-6	29-38	delighted	_	
+1-7	39-43	with	_	
+1-8	44-51	Trump's	_	
+1-9	52-59	victory	_	
+1-10	59-60	.	_	
+
+#Text=Now you have your Rob Ford on Steroids.
+2-1	62-65	Now	_	
+2-2	66-69	you	_	
+2-3	70-74	have	_	
+2-4	75-79	your	_	
+2-5	80-83	Rob	_	
+2-6	84-88	Ford	_	
+2-7	89-91	on	_	
+2-8	92-100	Steroids	_	
+2-9	100-101	.	_	
+
+#Text=Nothing a paper like this enjoys more than having their favored candidate lose and conversely despise the winner; you've got so many things to look forward to in the next four years.
+3-1	103-110	Nothing	NEG	
+3-2	111-112	a	SCOPE[2]	
+3-3	113-118	paper	SCOPE[2]	
+3-4	119-123	like	SCOPE[2]	
+3-5	124-128	this	SCOPE[2]	
+3-6	129-135	enjoys	SCOPE[2]	
+3-7	136-140	more	SCOPE[2]	
+3-8	141-145	than	SCOPE[2]	
+3-9	146-152	having	SCOPE[2]|FOCUS[3]	
+3-10	153-158	their	SCOPE[2]|FOCUS[3]	
+3-11	159-166	favored	SCOPE[2]|FOCUS[3]	
+3-12	167-176	candidate	SCOPE[2]|FOCUS[3]	
+3-13	177-181	lose	SCOPE[2]|FOCUS[3]	
+3-14	182-185	and	SCOPE[2]	
+3-15	186-196	conversely	SCOPE[2]|FOCUS[4]	
+3-16	197-204	despise	SCOPE[2]|FOCUS[4]	
+3-17	205-208	the	SCOPE[2]|FOCUS[4]	
+3-18	209-215	winner	SCOPE[2]|FOCUS[4]	
+3-19	215-216	;	_	
+3-20	217-223	you've	_	
+3-21	224-227	got	_	
+3-22	228-230	so	_	
+3-23	231-235	many	_	
+3-24	236-242	things	_	
+3-25	243-245	to	_	
+3-26	246-250	look	_	
+3-27	251-258	forward	_	
+3-28	259-261	to	_	
+3-29	262-264	in	_	
+3-30	265-268	the	_	
+3-31	269-273	next	_	
+3-32	274-278	four	_	
+3-33	279-284	years	_	
+3-34	284-285	.	_	
+
+#Text=Only the jig is up.
+4-1	287-291	Only	_	
+4-2	292-295	the	_	
+4-3	296-299	jig	_	
+4-4	300-302	is	_	
+4-5	303-305	up	_	
+4-6	305-306	.	_	
+
+#Text=With a Trump victory its proof the media is out of touch and the people can come up with their own thoughts and opinions.
+5-1	308-312	With	_	
+5-2	313-314	a	_	
+5-3	315-320	Trump	_	
+5-4	321-328	victory	_	
+5-5	329-332	its	_	
+5-6	333-338	proof	_	
+5-7	339-342	the	_	
+5-8	343-348	media	_	
+5-9	349-351	is	_	
+5-10	352-355	out	_	
+5-11	356-358	of	_	
+5-12	359-364	touch	_	
+5-13	365-368	and	_	
+5-14	369-372	the	_	
+5-15	373-379	people	_	
+5-16	380-383	can	_	
+5-17	384-388	come	_	
+5-18	389-391	up	_	
+5-19	392-396	with	_	
+5-20	397-402	their	_	
+5-21	403-406	own	_	
+5-22	407-415	thoughts	_	
+5-23	416-419	and	_	
+5-24	420-428	opinions	_	
+5-25	428-429	.	_	
+
+#Text=You tried with Ignatieff way back and its well known he was a creation of the Globe backroom.
+6-1	431-434	You	_	
+6-2	435-440	tried	_	
+6-3	441-445	with	_	
+6-4	446-455	Ignatieff	_	
+6-5	456-459	way	_	
+6-6	460-464	back	_	
+6-7	465-468	and	_	
+6-8	469-472	its	_	
+6-9	473-477	well	_	
+6-10	478-483	known	_	
+6-11	484-486	he	_	
+6-12	487-490	was	_	
+6-13	491-492	a	_	
+6-14	493-501	creation	_	
+6-15	502-504	of	_	
+6-16	505-508	the	_	
+6-17	509-514	Globe	_	
+6-18	515-523	backroom	_	
+6-19	523-524	.	_	
+
+#Text=Keep it up.
+7-1	526-530	Keep	_	
+7-2	531-533	it	_	
+7-3	534-536	up	_	
+7-4	536-537	.	_	
+
+#Text=Gives us peons something to talk about too.
+8-1	539-544	Gives	_	
+8-2	545-547	us	_	
+8-3	548-553	peons	_	
+8-4	554-563	something	_	
+8-5	564-566	to	_	
+8-6	567-571	talk	_	
+8-7	572-577	about	_	
+8-8	578-581	too	_	
+8-9	581-582	.	_	

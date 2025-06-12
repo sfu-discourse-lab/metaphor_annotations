@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Wow.
+1-1	0-3	Wow	Affect	pos	
+1-2	3-4	.	_	_	
+
+#Text=Trudeau said the budget will take care of itself, but it took the Conservatives to prove it.
+2-1	5-12	Trudeau	_	_	
+2-2	13-17	said	Judgment[2]	neg[2]	
+2-3	18-21	the	Judgment[2]	neg[2]	
+2-4	22-28	budget	Judgment[2]	neg[2]	
+2-5	29-33	will	Judgment[2]	neg[2]	
+2-6	34-38	take	Judgment[2]	neg[2]	
+2-7	39-43	care	Judgment[2]	neg[2]	
+2-8	44-46	of	Judgment[2]	neg[2]	
+2-9	47-53	itself	Judgment[2]	neg[2]	
+2-10	53-54	,	_	_	
+2-11	55-58	but	_	_	
+2-12	59-61	it	_	_	
+2-13	62-66	took	Judgment[3]	pos[3]	
+2-14	67-70	the	Judgment[3]	pos[3]	
+2-15	71-84	Conservatives	Judgment[3]	pos[3]	
+2-16	85-87	to	Judgment[3]	pos[3]	
+2-17	88-93	prove	Judgment[3]	pos[3]	
+2-18	94-96	it	Judgment[3]	pos[3]	
+2-19	96-97	.	_	_	

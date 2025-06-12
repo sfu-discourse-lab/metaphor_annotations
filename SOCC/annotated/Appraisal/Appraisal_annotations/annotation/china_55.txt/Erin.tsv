@@ -1,0 +1,409 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=The U.S. refused to recognize Canada's internal waterway the Northwest Passage sovereignty.
+1-1	0-3	The	_	_	_	_	
+1-2	4-7	U.S	_	_	_	_	
+1-3	7-8	.	_	_	_	_	
+1-4	9-16	refused	Judgment[1]	neg[1]	_	_	
+1-5	17-19	to	Judgment[1]	neg[1]	_	_	
+1-6	20-29	recognize	Judgment[1]	neg[1]	_	_	
+1-7	30-38	Canada's	_	_	_	_	
+1-8	39-47	internal	_	_	_	_	
+1-9	48-56	waterway	_	_	_	_	
+1-10	57-60	the	_	_	_	_	
+1-11	61-70	Northwest	_	_	_	_	
+1-12	71-78	Passage	_	_	_	_	
+1-13	79-90	sovereignty	_	_	_	_	
+1-14	90-91	.	_	_	_	_	
+
+#Text=It challenged Canada claim by sailing war ships and subs through the Passage without notifying Canada.
+2-1	92-94	It	_	_	_	_	
+2-2	95-105	challenged	Judgment	neg	_	_	
+2-3	106-112	Canada	_	_	_	_	
+2-4	113-118	claim	_	_	_	_	
+2-5	119-121	by	_	_	_	_	
+2-6	122-129	sailing	Judgment[3]	neg[3]	_	_	
+2-7	130-133	war	Judgment[3]	neg[3]	_	_	
+2-8	134-139	ships	Judgment[3]	neg[3]	_	_	
+2-9	140-143	and	Judgment[3]	neg[3]	_	_	
+2-10	144-148	subs	Judgment[3]	neg[3]	_	_	
+2-11	149-156	through	Judgment[3]	neg[3]	_	_	
+2-12	157-160	the	Judgment[3]	neg[3]	_	_	
+2-13	161-168	Passage	Judgment[3]	neg[3]	_	_	
+2-14	169-176	without	Judgment[3]	neg[3]	_	_	
+2-15	177-186	notifying	Judgment[3]	neg[3]	_	_	
+2-16	187-193	Canada	Judgment[3]	neg[3]	_	_	
+2-17	193-194	.	_	_	_	_	
+
+#Text=Just like any waters in the world it claims dominance.
+3-1	195-199	Just	_	_	_	_	
+3-2	200-204	like	_	_	_	_	
+3-3	205-208	any	_	_	_	_	
+3-4	209-215	waters	_	_	_	_	
+3-5	216-218	in	_	_	_	_	
+3-6	219-222	the	_	_	_	_	
+3-7	223-228	world	_	_	_	_	
+3-8	229-231	it	_	_	_	_	
+3-9	232-238	claims	Judgment[4]	neg[4]	_	_	
+3-10	239-248	dominance	Judgment[4]	neg[4]	_	_	
+3-11	248-249	.	_	_	_	_	
+
+#Text=So be very careful about the Yanks.
+4-1	250-252	So	_	_	_	_	
+4-2	253-255	be	Judgment[5]	neg[5]	_	_	
+4-3	256-260	very	Judgment[5]	neg[5]	Force	up	
+4-4	261-268	careful	Judgment[5]	neg[5]	_	_	
+4-5	269-274	about	_	_	_	_	
+4-6	275-278	the	_	_	_	_	
+4-7	279-284	Yanks	_	_	_	_	
+4-8	284-285	.	_	_	_	_	
+
+#Text=And not be stupid supporting its hegemony as the writer of this article clearly do.Canada and U.S. are allies in mutual defense.
+5-1	286-289	And	_	_	_	_	
+5-2	290-293	not	Judgment[6]	neg[6]	_	_	
+5-3	294-296	be	Judgment[6]	neg[6]	_	_	
+5-4	297-303	stupid	Judgment[6]	neg[6]	_	_	
+5-5	304-314	supporting	_	_	_	_	
+5-6	315-318	its	_	_	_	_	
+5-7	319-327	hegemony	Appreciation	neg	_	_	
+5-8	328-330	as	_	_	_	_	
+5-9	331-334	the	_	_	_	_	
+5-10	335-341	writer	_	_	_	_	
+5-11	342-344	of	_	_	_	_	
+5-12	345-349	this	_	_	_	_	
+5-13	350-357	article	_	_	_	_	
+5-14	358-365	clearly	_	_	_	_	
+5-15	366-375	do.Canada	_	_	_	_	
+5-16	376-379	and	_	_	_	_	
+5-17	380-383	U.S	_	_	_	_	
+5-18	383-384	.	_	_	_	_	
+5-19	385-388	are	_	_	_	_	
+5-20	389-395	allies	Appreciation[8]	pos[8]	_	_	
+5-21	396-398	in	Appreciation[8]	pos[8]	_	_	
+5-22	399-405	mutual	Appreciation[8]	pos[8]	_	_	
+5-23	406-413	defense	Appreciation[8]	pos[8]	_	_	
+5-24	413-414	.	_	_	_	_	
+
+#Text=That's quite OK.
+6-1	415-421	That's	_	_	_	_	
+6-2	422-427	quite	Appreciation[9]	pos[9]	Force	up	
+6-3	428-430	OK	Appreciation[9]	pos[9]	_	_	
+6-4	430-431	.	_	_	_	_	
+
+#Text=But mutual defense DOES NOT mean we get dragged into it global wars of power and dominance.
+7-1	432-435	But	_	_	_	_	
+7-2	436-442	mutual	_	_	_	_	
+7-3	443-450	defense	_	_	_	_	
+7-4	451-455	DOES	_	_	_	_	
+7-5	456-459	NOT	_	_	_	_	
+7-6	460-464	mean	_	_	_	_	
+7-7	465-467	we	_	_	_	_	
+7-8	468-471	get	_	_	_	_	
+7-9	472-479	dragged	Judgment[10]	neg[10]	_	_	
+7-10	480-484	into	Judgment[10]	neg[10]	_	_	
+7-11	485-487	it	Judgment[10]	neg[10]	_	_	
+7-12	488-494	global	Judgment[10]	neg[10]	_	_	
+7-13	495-499	wars	Judgment[10]	neg[10]	_	_	
+7-14	500-502	of	Judgment[10]	neg[10]	_	_	
+7-15	503-508	power	Judgment[10]	neg[10]	_	_	
+7-16	509-512	and	Judgment[10]	neg[10]	_	_	
+7-17	513-522	dominance	Judgment[10]	neg[10]	_	_	
+7-18	522-523	.	_	_	_	_	
+
+#Text=This is called the Pierre Trudeau Doctrine.
+8-1	524-528	This	_	_	_	_	
+8-2	529-531	is	_	_	_	_	
+8-3	532-538	called	_	_	_	_	
+8-4	539-542	the	_	_	_	_	
+8-5	543-549	Pierre	_	_	_	_	
+8-6	550-557	Trudeau	_	_	_	_	
+8-7	558-566	Doctrine	_	_	_	_	
+8-8	566-567	.	_	_	_	_	
+
+#Text=The basis for Canada refusal to join in America war of ideology and hegemony in Vietnam, war of profit, power and religion in Iraq.
+9-1	568-571	The	_	_	_	_	
+9-2	572-577	basis	_	_	_	_	
+9-3	578-581	for	_	_	_	_	
+9-4	582-588	Canada	_	_	_	_	
+9-5	589-596	refusal	Judgment[11]	pos[11]	_	_	
+9-6	597-599	to	Judgment[11]	pos[11]	_	_	
+9-7	600-604	join	Judgment[11]	pos[11]	_	_	
+9-8	605-607	in	Judgment[11]	pos[11]	_	_	
+9-9	608-615	America	Judgment[11]	pos[11]	_	_	
+9-10	616-619	war	Judgment[11]	pos[11]	_	_	
+9-11	620-622	of	Judgment[11]	pos[11]	_	_	
+9-12	623-631	ideology	Judgment[11]	pos[11]	_	_	
+9-13	632-635	and	Judgment[11]	pos[11]	_	_	
+9-14	636-644	hegemony	Judgment[11]	pos[11]	_	_	
+9-15	645-647	in	Judgment[11]	pos[11]	_	_	
+9-16	648-655	Vietnam	Judgment[11]	pos[11]	_	_	
+9-17	655-656	,	Judgment[11]	pos[11]	_	_	
+9-18	657-660	war	Judgment[11]	pos[11]	_	_	
+9-19	661-663	of	Judgment[11]	pos[11]	_	_	
+9-20	664-670	profit	Judgment[11]	pos[11]	_	_	
+9-21	670-671	,	Judgment[11]	pos[11]	_	_	
+9-22	672-677	power	Judgment[11]	pos[11]	_	_	
+9-23	678-681	and	Judgment[11]	pos[11]	_	_	
+9-24	682-690	religion	Judgment[11]	pos[11]	_	_	
+9-25	691-693	in	Judgment[11]	pos[11]	_	_	
+9-26	694-698	Iraq	Judgment[11]	pos[11]	_	_	
+9-27	698-699	.	_	_	_	_	
+
+#Text=Obama, a Nobel Peace Prize holder (but not winner), is responsible for initiating two potential global wars of the 21st century - new Cold War with Russia, War with China.
+10-1	700-705	Obama	_	_	_	_	
+10-2	705-706	,	_	_	_	_	
+10-3	707-708	a	_	_	_	_	
+10-4	709-714	Nobel	Judgment[12]	neg[12]	_	_	
+10-5	715-720	Peace	Judgment[12]	neg[12]	_	_	
+10-6	721-726	Prize	Judgment[12]	neg[12]	_	_	
+10-7	727-733	holder	Judgment[12]	neg[12]	_	_	
+10-8	734-735	(	_	_	_	_	
+10-9	735-738	but	_	_	_	_	
+10-10	739-742	not	Judgment[13]	neg[13]	_	_	
+10-11	743-749	winner	Judgment[13]	neg[13]	_	_	
+10-12	749-750	)	_	_	_	_	
+10-13	750-751	,	_	_	_	_	
+10-14	752-754	is	_	_	_	_	
+10-15	755-766	responsible	Judgment[14]	neg[14]	_	_	
+10-16	767-770	for	Judgment[14]	neg[14]	_	_	
+10-17	771-781	initiating	Judgment[14]	neg[14]	_	_	
+10-18	782-785	two	Judgment[14]	neg[14]	_	_	
+10-19	786-795	potential	Judgment[14]	neg[14]	_	_	
+10-20	796-802	global	Judgment[14]	neg[14]	_	_	
+10-21	803-807	wars	Judgment[14]	neg[14]	_	_	
+10-22	808-810	of	_	_	_	_	
+10-23	811-814	the	_	_	_	_	
+10-24	815-819	21st	_	_	_	_	
+10-25	820-827	century	_	_	_	_	
+10-26	828-829	-	_	_	_	_	
+10-27	830-833	new	Appreciation[15]	neg[15]	_	_	
+10-28	834-838	Cold	Appreciation[15]	neg[15]	_	_	
+10-29	839-842	War	Appreciation[15]	neg[15]	_	_	
+10-30	843-847	with	_	_	_	_	
+10-31	848-854	Russia	_	_	_	_	
+10-32	854-855	,	_	_	_	_	
+10-33	856-859	War	Appreciation	neg	_	_	
+10-34	860-864	with	_	_	_	_	
+10-35	865-870	China	_	_	_	_	
+10-36	870-871	.	_	_	_	_	
+
+#Text=It's all about power and profit.
+11-1	872-876	It's	_	_	_	_	
+11-2	877-880	all	_	_	_	_	
+11-3	881-886	about	_	_	_	_	
+11-4	887-892	power	Judgment[17]	neg[17]	_	_	
+11-5	893-896	and	Judgment[17]	neg[17]	_	_	
+11-6	897-903	profit	Judgment[17]	neg[17]	_	_	
+11-7	903-904	.	_	_	_	_	
+
+#Text=The Pentagon even commissioned a study by the Rand Corporation on how to fight a war with China, report just released.
+12-1	905-908	The	_	_	_	_	
+12-2	909-917	Pentagon	_	_	_	_	
+12-3	918-922	even	_	_	_	_	
+12-4	923-935	commissioned	Judgment[18]	neg[18]	_	_	
+12-5	936-937	a	Judgment[18]	neg[18]	_	_	
+12-6	938-943	study	Judgment[18]	neg[18]	_	_	
+12-7	944-946	by	Judgment[18]	neg[18]	_	_	
+12-8	947-950	the	Judgment[18]	neg[18]	_	_	
+12-9	951-955	Rand	Judgment[18]	neg[18]	_	_	
+12-10	956-967	Corporation	Judgment[18]	neg[18]	_	_	
+12-11	968-970	on	Judgment[18]	neg[18]	_	_	
+12-12	971-974	how	Judgment[18]	neg[18]	_	_	
+12-13	975-977	to	Judgment[18]	neg[18]	_	_	
+12-14	978-983	fight	Judgment[18]	neg[18]	_	_	
+12-15	984-985	a	Judgment[18]	neg[18]	_	_	
+12-16	986-989	war	Judgment[18]	neg[18]	_	_	
+12-17	990-994	with	Judgment[18]	neg[18]	_	_	
+12-18	995-1000	China	Judgment[18]	neg[18]	_	_	
+12-19	1000-1001	,	_	_	_	_	
+12-20	1002-1008	report	_	_	_	_	
+12-21	1009-1013	just	_	_	_	_	
+12-22	1014-1022	released	_	_	_	_	
+12-23	1022-1023	.	_	_	_	_	
+
+#Text=U.S. government sees China rise and activities in the S.
+13-1	1024-1027	U.S	_	_	_	_	
+13-2	1027-1028	.	_	_	_	_	
+13-3	1029-1039	government	_	_	_	_	
+13-4	1040-1044	sees	Judgment[19]	neg[19]	_	_	
+13-5	1045-1050	China	Judgment[19]	neg[19]	_	_	
+13-6	1051-1055	rise	Judgment[19]	neg[19]	_	_	
+13-7	1056-1059	and	Judgment[19]	neg[19]	_	_	
+13-8	1060-1070	activities	Judgment[19]	neg[19]	_	_	
+13-9	1071-1073	in	Judgment[19]	neg[19]	_	_	
+13-10	1074-1077	the	Judgment[19]	neg[19]	_	_	
+13-11	1078-1079	S	Judgment[19]	neg[19]	_	_	
+13-12	1079-1080	.	Judgment[19]	neg[19]	_	_	
+
+#Text=China Sea as a direct challenge to its claimed global hegemony.
+14-1	1081-1086	China	Judgment[19]	neg[19]	_	_	
+14-2	1087-1090	Sea	Judgment[19]	neg[19]	_	_	
+14-3	1091-1093	as	Judgment[19]	neg[19]	_	_	
+14-4	1094-1095	a	Judgment[19]	neg[19]	_	_	
+14-5	1096-1102	direct	Judgment[19]	neg[19]	_	_	
+14-6	1103-1112	challenge	Judgment[19]|Appreciation[20]	neg[19]|neg[20]	_	_	
+14-7	1113-1115	to	Judgment[19]	neg[19]	_	_	
+14-8	1116-1119	its	Judgment[19]	neg[19]	_	_	
+14-9	1120-1127	claimed	Judgment[19]	neg[19]	_	_	
+14-10	1128-1134	global	Judgment[19]	neg[19]	_	_	
+14-11	1135-1143	hegemony	Judgment[19]|Appreciation[21]	neg[19]|neg[21]	_	_	
+14-12	1143-1144	.	_	_	_	_	
+
+#Text=There is some truth to it.
+15-1	1145-1150	There	_	_	_	_	
+15-2	1151-1153	is	_	_	_	_	
+15-3	1154-1158	some	Appreciation[22]	pos[22]	Force	down	
+15-4	1159-1164	truth	Appreciation[22]	pos[22]	_	_	
+15-5	1165-1167	to	_	_	_	_	
+15-6	1168-1170	it	_	_	_	_	
+15-7	1170-1171	.	_	_	_	_	
+
+#Text=American Navy currently can block all sea traffic on the Malacca Strait to chock off China.
+16-1	1172-1180	American	_	_	_	_	
+16-2	1181-1185	Navy	_	_	_	_	
+16-3	1186-1195	currently	_	_	_	_	
+16-4	1196-1199	can	Appreciation[23]	neg[23]	_	_	
+16-5	1200-1205	block	Appreciation[23]	neg[23]	_	_	
+16-6	1206-1209	all	Appreciation[23]	neg[23]	_	_	
+16-7	1210-1213	sea	Appreciation[23]	neg[23]	_	_	
+16-8	1214-1221	traffic	Appreciation[23]	neg[23]	_	_	
+16-9	1222-1224	on	_	_	_	_	
+16-10	1225-1228	the	_	_	_	_	
+16-11	1229-1236	Malacca	_	_	_	_	
+16-12	1237-1243	Strait	_	_	_	_	
+16-13	1244-1246	to	_	_	_	_	
+16-14	1247-1252	chock	Appreciation[24]	neg[24]	_	_	
+16-15	1253-1256	off	Appreciation[24]	neg[24]	_	_	
+16-16	1257-1262	China	_	_	_	_	
+16-17	1262-1263	.	_	_	_	_	
+
+#Text=It has stationed forces in Singapore.
+17-1	1264-1266	It	_	_	_	_	
+17-2	1267-1270	has	_	_	_	_	
+17-3	1271-1280	stationed	Judgment[25]	neg[25]	_	_	
+17-4	1281-1287	forces	Judgment[25]	neg[25]	_	_	
+17-5	1288-1290	in	_	_	_	_	
+17-6	1291-1300	Singapore	_	_	_	_	
+17-7	1300-1301	.	_	_	_	_	
+
+#Text=China response to this threat is part of settling the borders on the South China Sea.
+18-1	1302-1307	China	_	_	_	_	
+18-2	1308-1316	response	_	_	_	_	
+18-3	1317-1319	to	_	_	_	_	
+18-4	1320-1324	this	_	_	_	_	
+18-5	1325-1331	threat	Appreciation	neg	_	_	
+18-6	1332-1334	is	_	_	_	_	
+18-7	1335-1339	part	Judgment[27]	pos[27]	_	_	
+18-8	1340-1342	of	Judgment[27]	pos[27]	_	_	
+18-9	1343-1351	settling	Judgment[27]	pos[27]	_	_	
+18-10	1352-1355	the	Judgment[27]	pos[27]	_	_	
+18-11	1356-1363	borders	Judgment[27]	pos[27]	_	_	
+18-12	1364-1366	on	_	_	_	_	
+18-13	1367-1370	the	_	_	_	_	
+18-14	1371-1376	South	_	_	_	_	
+18-15	1377-1382	China	_	_	_	_	
+18-16	1383-1386	Sea	_	_	_	_	
+18-17	1386-1387	.	_	_	_	_	
+
+#Text=A settlement to its favor is to enable China to defend the Malacca Strait blockage.
+19-1	1388-1389	A	_	_	_	_	
+19-2	1390-1400	settlement	_	_	_	_	
+19-3	1401-1403	to	_	_	_	_	
+19-4	1404-1407	its	_	_	_	_	
+19-5	1408-1413	favor	_	_	_	_	
+19-6	1414-1416	is	_	_	_	_	
+19-7	1417-1419	to	_	_	_	_	
+19-8	1420-1426	enable	Appreciation	pos	_	_	
+19-9	1427-1432	China	_	_	_	_	
+19-10	1433-1435	to	_	_	_	_	
+19-11	1436-1442	defend	Appreciation	pos	_	_	
+19-12	1443-1446	the	_	_	_	_	
+19-13	1447-1454	Malacca	_	_	_	_	
+19-14	1455-1461	Strait	_	_	_	_	
+19-15	1462-1470	blockage	_	_	_	_	
+19-16	1470-1471	.	_	_	_	_	
+
+#Text=If it works, America claim of global dominance will have a big limp cut off.
+20-1	1472-1474	If	Appreciation[30]	pos[30]	_	_	
+20-2	1475-1477	it	Appreciation[30]	pos[30]	_	_	
+20-3	1478-1483	works	Appreciation[30]	pos[30]	_	_	
+20-4	1483-1484	,	Appreciation[30]	pos[30]	_	_	
+20-5	1485-1492	America	Appreciation[30]	pos[30]	_	_	
+20-6	1493-1498	claim	Appreciation[30]	pos[30]	_	_	
+20-7	1499-1501	of	Appreciation[30]	pos[30]	_	_	
+20-8	1502-1508	global	Appreciation[30]	pos[30]	_	_	
+20-9	1509-1518	dominance	Appreciation[30]	pos[30]	_	_	
+20-10	1519-1523	will	Appreciation[30]	pos[30]	_	_	
+20-11	1524-1528	have	Appreciation[30]	pos[30]	_	_	
+20-12	1529-1530	a	Appreciation[30]	pos[30]	_	_	
+20-13	1531-1534	big	Appreciation[30]	pos[30]	_	_	
+20-14	1535-1539	limp	Appreciation[30]	pos[30]	_	_	
+20-15	1540-1543	cut	Appreciation[30]	pos[30]	_	_	
+20-16	1544-1547	off	Appreciation[30]	pos[30]	_	_	
+20-17	1547-1548	.	_	_	_	_	
+
+#Text=Now what is Canada going to do with America challenge to our NWP sovereignty.
+21-1	1549-1552	Now	_	_	_	_	
+21-2	1553-1557	what	_	_	_	_	
+21-3	1558-1560	is	_	_	_	_	
+21-4	1561-1567	Canada	_	_	_	_	
+21-5	1568-1573	going	_	_	_	_	
+21-6	1574-1576	to	_	_	_	_	
+21-7	1577-1579	do	_	_	_	_	
+21-8	1580-1584	with	_	_	_	_	
+21-9	1585-1592	America	_	_	_	_	
+21-10	1593-1602	challenge	_	_	_	_	
+21-11	1603-1605	to	_	_	_	_	
+21-12	1606-1609	our	_	_	_	_	
+21-13	1610-1613	NWP	_	_	_	_	
+21-14	1614-1625	sovereignty	_	_	_	_	
+21-15	1625-1626	.	_	_	_	_	
+
+#Text=Cry and beg?
+22-1	1627-1630	Cry	Judgment[31]|Affect[32]	neg[31]|neg[32]	_	_	
+22-2	1631-1634	and	Judgment[31]	neg[31]	_	_	
+22-3	1635-1638	beg	Judgment[31]	neg[31]	_	_	
+22-4	1638-1639	?	_	_	_	_	
+
+#Text=No, build a fleet of Arctic Offshore Patrol Boats, lightly armed, to act as surveillance and intruder trigger.
+23-1	1640-1642	No	_	_	_	_	
+23-2	1642-1643	,	_	_	_	_	
+23-3	1644-1649	build	Appreciation[33]	pos[33]	_	_	
+23-4	1650-1651	a	Appreciation[33]	pos[33]	_	_	
+23-5	1652-1657	fleet	Appreciation[33]	pos[33]	_	_	
+23-6	1658-1660	of	_	_	_	_	
+23-7	1661-1667	Arctic	_	_	_	_	
+23-8	1668-1676	Offshore	_	_	_	_	
+23-9	1677-1683	Patrol	_	_	_	_	
+23-10	1684-1689	Boats	_	_	_	_	
+23-11	1689-1690	,	_	_	_	_	
+23-12	1691-1698	lightly	_	_	_	_	
+23-13	1699-1704	armed	_	_	_	_	
+23-14	1704-1705	,	_	_	_	_	
+23-15	1706-1708	to	_	_	_	_	
+23-16	1709-1712	act	_	_	_	_	
+23-17	1713-1715	as	_	_	_	_	
+23-18	1716-1728	surveillance	_	_	_	_	
+23-19	1729-1732	and	_	_	_	_	
+23-20	1733-1741	intruder	_	_	_	_	
+23-21	1742-1749	trigger	_	_	_	_	
+23-22	1749-1750	.	_	_	_	_	
+
+#Text=There is only one force the U.S. empire mongers understand - Force.
+24-1	1751-1756	There	_	_	_	_	
+24-2	1757-1759	is	_	_	_	_	
+24-3	1760-1764	only	Judgment[34]	neg[34]	_	_	
+24-4	1765-1768	one	Judgment[34]	neg[34]	_	_	
+24-5	1769-1774	force	Judgment[34]	neg[34]	_	_	
+24-6	1775-1778	the	Judgment[34]	neg[34]	_	_	
+24-7	1779-1782	U.S	Judgment[34]	neg[34]	_	_	
+24-8	1782-1783	.	Judgment[34]	neg[34]	_	_	
+24-9	1784-1790	empire	Judgment[34]	neg[34]	_	_	
+24-10	1791-1798	mongers	Judgment[34]	neg[34]	_	_	
+24-11	1799-1809	understand	Judgment[34]	neg[34]	_	_	
+24-12	1810-1811	-	_	_	_	_	
+24-13	1812-1817	Force	_	_	_	_	
+24-14	1817-1818	.	_	_	_	_	

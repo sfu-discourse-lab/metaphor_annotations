@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Quite frankly, if someone is in the country illegally, they should be deported.
+1-1	0-5	Quite	_	
+1-2	6-13	frankly	_	
+1-3	13-14	,	_	
+1-4	15-17	if	_	
+1-5	18-25	someone	_	
+1-6	26-28	is	_	
+1-7	29-31	in	_	
+1-8	32-35	the	_	
+1-9	36-43	country	_	
+1-10	44-53	illegally	_	
+1-11	53-54	,	_	
+1-12	55-59	they	_	
+1-13	60-66	should	_	
+1-14	67-69	be	_	
+1-15	70-78	deported	_	
+1-16	78-79	.	_	
+
+#Text=They should follow proper channels for entry.
+2-1	80-84	They	_	
+2-2	85-91	should	_	
+2-3	92-98	follow	_	
+2-4	99-105	proper	_	
+2-5	106-114	channels	_	
+2-6	115-118	for	_	
+2-7	119-124	entry	_	
+2-8	124-125	.	_	
+
+#Text=If you want that to change, change the laws, but you shouldn't support the willful breaking of the law.Aside from that, the US has the technology to determine when companies are hiring illegal immigrants and fine those companies.
+3-1	126-128	If	_	
+3-2	129-132	you	_	
+3-3	133-137	want	_	
+3-4	138-142	that	_	
+3-5	143-145	to	_	
+3-6	146-152	change	_	
+3-7	152-153	,	_	
+3-8	154-160	change	_	
+3-9	161-164	the	_	
+3-10	165-169	laws	_	
+3-11	169-170	,	_	
+3-12	171-174	but	_	
+3-13	175-178	you	_	
+3-14	179-188	shouldn't	NEG	
+3-15	189-196	support	SCOPE[2]	
+3-16	197-200	the	SCOPE[2]|FOCUS[3]	
+3-17	201-208	willful	SCOPE[2]|FOCUS[3]	
+3-18	209-217	breaking	SCOPE[2]|FOCUS[3]	
+3-19	218-220	of	SCOPE[2]	
+3-20	221-224	the	SCOPE[2]	
+3-21	225-234	law.Aside	SCOPE[2]	
+3-22	235-239	from	_	
+3-23	240-244	that	_	
+3-24	244-245	,	_	
+3-25	246-249	the	_	
+3-26	250-252	US	_	
+3-27	253-256	has	_	
+3-28	257-260	the	_	
+3-29	261-271	technology	_	
+3-30	272-274	to	_	
+3-31	275-284	determine	_	
+3-32	285-289	when	_	
+3-33	290-299	companies	_	
+3-34	300-303	are	_	
+3-35	304-310	hiring	_	
+3-36	311-318	illegal	_	
+3-37	319-329	immigrants	_	
+3-38	330-333	and	_	
+3-39	334-338	fine	_	
+3-40	339-344	those	_	
+3-41	345-354	companies	_	
+3-42	354-355	.	_	
+
+#Text=Those companies should be fined.
+4-1	356-361	Those	_	
+4-2	362-371	companies	_	
+4-3	372-378	should	_	
+4-4	379-381	be	_	
+4-5	382-387	fined	_	
+4-6	387-388	.	_	
+
+#Text=They are not helping the illegal immigrants out, they are exploiting them, and in doing that they are exploiting the lower income population by increasing the workforce base and stopping wage pressures from building.
+5-1	389-393	They	_	
+5-2	394-397	are	_	
+5-3	398-401	not	NEG	
+5-4	402-409	helping	SCOPE[5]|FOCUS[6]	
+5-5	410-413	the	SCOPE[5]	
+5-6	414-421	illegal	SCOPE[5]	
+5-7	422-432	immigrants	SCOPE[5]	
+5-8	433-436	out	SCOPE[5]	
+5-9	436-437	,	_	
+5-10	438-442	they	_	
+5-11	443-446	are	_	
+5-12	447-457	exploiting	_	
+5-13	458-462	them	_	
+5-14	462-463	,	_	
+5-15	464-467	and	_	
+5-16	468-470	in	_	
+5-17	471-476	doing	_	
+5-18	477-481	that	_	
+5-19	482-486	they	_	
+5-20	487-490	are	_	
+5-21	491-501	exploiting	_	
+5-22	502-505	the	_	
+5-23	506-511	lower	_	
+5-24	512-518	income	_	
+5-25	519-529	population	_	
+5-26	530-532	by	_	
+5-27	533-543	increasing	_	
+5-28	544-547	the	_	
+5-29	548-557	workforce	_	
+5-30	558-562	base	_	
+5-31	563-566	and	_	
+5-32	567-575	stopping	_	
+5-33	576-580	wage	_	
+5-34	581-590	pressures	_	
+5-35	591-595	from	_	
+5-36	596-604	building	_	
+5-37	604-605	.	_	

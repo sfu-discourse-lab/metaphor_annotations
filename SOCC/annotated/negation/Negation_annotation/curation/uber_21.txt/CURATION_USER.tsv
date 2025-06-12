@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Except the city never charged anyone $200k for a taxi license.
+1-1	0-6	Except	_	
+1-2	7-10	the	_	
+1-3	11-15	city	_	
+1-4	16-21	never	NEG	
+1-5	22-29	charged	SCOPE[2]	
+1-6	30-36	anyone	SCOPE[2]	
+1-7	37-42	$200k	SCOPE[2]|FOCUS[3]	
+1-8	43-46	for	SCOPE[2]	
+1-9	47-48	a	SCOPE[2]	
+1-10	49-53	taxi	SCOPE[2]	
+1-11	54-61	license	SCOPE[2]	
+1-12	61-62	.	_	
+
+#Text=The fact that these have such a value on the secondary market should be irrelevant to the city.
+2-1	63-66	The	_	
+2-2	67-71	fact	_	
+2-3	72-76	that	_	
+2-4	77-82	these	_	
+2-5	83-87	have	_	
+2-6	88-92	such	_	
+2-7	93-94	a	_	
+2-8	95-100	value	_	
+2-9	101-103	on	_	
+2-10	104-107	the	_	
+2-11	108-117	secondary	_	
+2-12	118-124	market	_	
+2-13	125-131	should	_	
+2-14	132-134	be	_	
+2-15	135-145	irrelevant	_	
+2-16	146-148	to	_	
+2-17	149-152	the	_	
+2-18	153-157	city	_	
+2-19	157-158	.	_	
+
+#Text=What that secondary market value really suggests is the system is completely broken.
+3-1	159-163	What	_	
+3-2	164-168	that	_	
+3-3	169-178	secondary	_	
+3-4	179-185	market	_	
+3-5	186-191	value	_	
+3-6	192-198	really	_	
+3-7	199-207	suggests	_	
+3-8	208-210	is	_	
+3-9	211-214	the	_	
+3-10	215-221	system	_	
+3-11	222-224	is	_	
+3-12	225-235	completely	_	
+3-13	236-242	broken	_	
+3-14	242-243	.	_	
+
+#Text=The barrier to entry is unreasonable and unjustifiable.
+4-1	244-247	The	_	
+4-2	248-255	barrier	_	
+4-3	256-258	to	_	
+4-4	259-264	entry	_	
+4-5	265-267	is	_	
+4-6	268-280	unreasonable	_	
+4-7	281-284	and	_	
+4-8	285-298	unjustifiable	_	
+4-9	298-299	.	_	

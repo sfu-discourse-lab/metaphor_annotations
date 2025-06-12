@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=That scenario rather depends on who's in the White House.
+1-1	0-4	That	_	_	
+1-2	5-13	scenario	_	_	
+1-3	14-20	rather	_	_	
+1-4	21-28	depends	_	_	
+1-5	29-31	on	_	_	
+1-6	32-37	who's	_	_	
+1-7	38-40	in	_	_	
+1-8	41-44	the	_	_	
+1-9	45-50	White	_	_	
+1-10	51-56	House	_	_	
+1-11	56-57	.	_	_	
+
+#Text=Trump might decide the Phillipines are on their own if they haven't paid the US enough protection money.
+2-1	58-63	Trump	_	_	
+2-2	64-69	might	Judgment[1]	neg[1]	
+2-3	70-76	decide	Judgment[1]	neg[1]	
+2-4	77-80	the	Judgment[1]	neg[1]	
+2-5	81-92	Phillipines	Judgment[1]	neg[1]	
+2-6	93-96	are	Judgment[1]	neg[1]	
+2-7	97-99	on	Judgment[1]	neg[1]	
+2-8	100-105	their	Judgment[1]	neg[1]	
+2-9	106-109	own	Judgment[1]	neg[1]	
+2-10	110-112	if	Judgment[1]	neg[1]	
+2-11	113-117	they	Judgment[1]	neg[1]	
+2-12	118-125	haven't	Judgment[1]	neg[1]	
+2-13	126-130	paid	Judgment[1]	neg[1]	
+2-14	131-134	the	Judgment[1]	neg[1]	
+2-15	135-137	US	Judgment[1]	neg[1]	
+2-16	138-144	enough	Judgment[1]	neg[1]	
+2-17	145-155	protection	Judgment[1]	neg[1]	
+2-18	156-161	money	Judgment[1]	neg[1]	
+2-19	161-162	.	_	_	

@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Simpson is having his little joke by encouraging the NDP to play with this expensive hand grenade.
+1-1	0-7	Simpson	_	_	
+1-2	8-10	is	_	_	
+1-3	11-17	having	Judgment[1]	neg[1]	
+1-4	18-21	his	Judgment[1]	neg[1]	
+1-5	22-28	little	Judgment[1]	neg[1]	
+1-6	29-33	joke	Judgment[1]	neg[1]	
+1-7	34-36	by	_	_	
+1-8	37-48	encouraging	Judgment[2]	neg[2]	
+1-9	49-52	the	Judgment[2]	neg[2]	
+1-10	53-56	NDP	Judgment[2]	neg[2]	
+1-11	57-59	to	Judgment[2]	neg[2]	
+1-12	60-64	play	Judgment[2]	neg[2]	
+1-13	65-69	with	Judgment[2]	neg[2]	
+1-14	70-74	this	Judgment[2]	neg[2]	
+1-15	75-84	expensive	Judgment[2]|Appreciation[3]	neg[2]|neg[3]	
+1-16	85-89	hand	Judgment[2]	neg[2]	
+1-17	90-97	grenade	Judgment[2]	neg[2]	
+1-18	97-98	.	_	_	
+
+#Text=If it weren't for the poisonous potential it introduces to the federal/provincial arena if would be an interesting experiment.
+2-1	99-101	If	Appreciation[4]	neg[4]	
+2-2	102-104	it	Appreciation[4]	neg[4]	
+2-3	105-112	weren't	Appreciation[4]	neg[4]	
+2-4	113-116	for	Appreciation[4]	neg[4]	
+2-5	117-120	the	Appreciation[4]	neg[4]	
+2-6	121-130	poisonous	Appreciation[4]|Appreciation[5]	neg[4]|neg[5]	
+2-7	131-140	potential	Appreciation[4]	neg[4]	
+2-8	141-143	it	Appreciation[4]	neg[4]	
+2-9	144-154	introduces	Appreciation[4]	neg[4]	
+2-10	155-157	to	Appreciation[4]	neg[4]	
+2-11	158-161	the	Appreciation[4]	neg[4]	
+2-12	162-169	federal	Appreciation[4]	neg[4]	
+2-13	169-170	/	Appreciation[4]	neg[4]	
+2-14	170-180	provincial	Appreciation[4]	neg[4]	
+2-15	181-186	arena	Appreciation[4]	neg[4]	
+2-16	187-189	if	Appreciation[4]	neg[4]	
+2-17	190-195	would	Appreciation[4]	neg[4]	
+2-18	196-198	be	Appreciation[4]	neg[4]	
+2-19	199-201	an	Appreciation[4]	neg[4]	
+2-20	202-213	interesting	Appreciation[4]|Appreciation[6]	neg[4]|pos[6]	
+2-21	214-224	experiment	Appreciation[4]	neg[4]	
+2-22	224-225	.	_	_	
+
+#Text=Unfortunately if you wave money in front of provinces in areas of their own jurisdiction you get what you deserve.
+3-1	226-239	Unfortunately	Appreciation	neg	
+3-2	240-242	if	Judgment[8]	neg[8]	
+3-3	243-246	you	Judgment[8]	neg[8]	
+3-4	247-251	wave	Judgment[8]	neg[8]	
+3-5	252-257	money	Judgment[8]	neg[8]	
+3-6	258-260	in	Judgment[8]	neg[8]	
+3-7	261-266	front	Judgment[8]	neg[8]	
+3-8	267-269	of	Judgment[8]	neg[8]	
+3-9	270-279	provinces	Judgment[8]	neg[8]	
+3-10	280-282	in	Judgment[8]	neg[8]	
+3-11	283-288	areas	Judgment[8]	neg[8]	
+3-12	289-291	of	Judgment[8]	neg[8]	
+3-13	292-297	their	Judgment[8]	neg[8]	
+3-14	298-301	own	Judgment[8]	neg[8]	
+3-15	302-314	jurisdiction	Judgment[8]	neg[8]	
+3-16	315-318	you	Judgment[8]	neg[8]	
+3-17	319-322	get	Judgment[8]	neg[8]	
+3-18	323-327	what	Judgment[8]	neg[8]	
+3-19	328-331	you	Judgment[8]	neg[8]	
+3-20	332-339	deserve	Judgment[8]	neg[8]	
+3-21	339-340	.	_	_	

@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=1.
+1-1	0-1	1	_	_	_	_	
+1-2	1-2	.	_	_	_	_	
+
+#Text=Taxis have two inspections a year, they take the car apart, 2.
+2-1	3-8	Taxis	_	_	_	_	
+2-2	9-13	have	Appreciation[1]	pos[1]	_	_	
+2-3	14-17	two	Appreciation[1]	pos[1]	_	_	
+2-4	18-29	inspections	Appreciation[1]	pos[1]	_	_	
+2-5	30-31	a	Appreciation[1]	pos[1]	_	_	
+2-6	32-36	year	Appreciation[1]	pos[1]	_	_	
+2-7	36-37	,	_	_	_	_	
+2-8	38-42	they	_	_	_	_	
+2-9	43-47	take	_	_	_	_	
+2-10	48-51	the	_	_	_	_	
+2-11	52-55	car	_	_	_	_	
+2-12	56-61	apart	_	_	_	_	
+2-13	61-62	,	_	_	_	_	
+2-14	63-64	2	_	_	_	_	
+2-15	64-65	.	_	_	_	_	
+
+#Text=They have wide view camera's 3, The riders have a bill of rights, 4. you are insured for 2 million dollars when you ride in a cab,,, Uber no insurance at all,,, none,,, 5.
+3-1	66-70	They	_	_	_	_	
+3-2	71-75	have	Appreciation[2]	pos[2]	_	_	
+3-3	76-80	wide	Appreciation[2]	pos[2]	_	_	
+3-4	81-85	view	Appreciation[2]	pos[2]	_	_	
+3-5	86-94	camera's	Appreciation[2]	pos[2]	_	_	
+3-6	95-96	3	_	_	_	_	
+3-7	96-97	,	_	_	_	_	
+3-8	98-101	The	_	_	_	_	
+3-9	102-108	riders	_	_	_	_	
+3-10	109-113	have	_	_	_	_	
+3-11	114-115	a	_	_	_	_	
+3-12	116-120	bill	Appreciation[3]	pos[3]	_	_	
+3-13	121-123	of	Appreciation[3]	pos[3]	_	_	
+3-14	124-130	rights	Appreciation[3]	pos[3]	_	_	
+3-15	130-131	,	_	_	_	_	
+3-16	132-133	4	_	_	_	_	
+3-17	133-134	.	_	_	_	_	
+3-18	135-138	you	_	_	_	_	
+3-19	139-142	are	_	_	_	_	
+3-20	143-150	insured	Appreciation	pos	_	_	
+3-21	151-154	for	_	_	_	_	
+3-22	155-156	2	_	_	_	_	
+3-23	157-164	million	_	_	_	_	
+3-24	165-172	dollars	_	_	_	_	
+3-25	173-177	when	_	_	_	_	
+3-26	178-181	you	_	_	_	_	
+3-27	182-186	ride	_	_	_	_	
+3-28	187-189	in	_	_	_	_	
+3-29	190-191	a	_	_	_	_	
+3-30	192-195	cab	_	_	_	_	
+3-31	195-196	,	_	_	_	_	
+3-32	196-197	,	_	_	_	_	
+3-33	197-198	,	_	_	_	_	
+3-34	199-203	Uber	_	_	_	_	
+3-35	204-206	no	Appreciation[5]	neg[5]	_	_	
+3-36	207-216	insurance	Appreciation[5]	neg[5]	_	_	
+3-37	217-219	at	Appreciation[5]	neg[5]	Focus[1]	up[1]	
+3-38	220-223	all	Appreciation[5]	neg[5]	Focus[1]	up[1]	
+3-39	223-224	,	_	_	_	_	
+3-40	224-225	,	_	_	_	_	
+3-41	225-226	,	_	_	_	_	
+3-42	227-231	none	Appreciation	neg	_	_	
+3-43	231-232	,	_	_	_	_	
+3-44	232-233	,	_	_	_	_	
+3-45	233-234	,	_	_	_	_	
+3-46	235-236	5	_	_	_	_	
+3-47	236-237	.	_	_	_	_	
+
+#Text=Cabbies are regulated by the licensing commission, they cannot even smoke in the car at all, if you smell smoke call the commission and complain , Ohh Im sorry how many saftey features were you looking for as I have 83 more,,, the by-laws,,, that Uber ignores,
+4-1	238-245	Cabbies	_	_	_	_	
+4-2	246-249	are	_	_	_	_	
+4-3	250-259	regulated	Appreciation	pos	_	_	
+4-4	260-262	by	_	_	_	_	
+4-5	263-266	the	_	_	_	_	
+4-6	267-276	licensing	_	_	_	_	
+4-7	277-287	commission	_	_	_	_	
+4-8	287-288	,	_	_	_	_	
+4-9	289-293	they	_	_	_	_	
+4-10	294-300	cannot	Appreciation[8]	pos[8]	_	_	
+4-11	301-305	even	Appreciation[8]	pos[8]	_	_	
+4-12	306-311	smoke	Appreciation[8]	pos[8]	_	_	
+4-13	312-314	in	_	_	_	_	
+4-14	315-318	the	_	_	_	_	
+4-15	319-322	car	_	_	_	_	
+4-16	323-325	at	_	_	_	_	
+4-17	326-329	all	_	_	_	_	
+4-18	329-330	,	_	_	_	_	
+4-19	331-333	if	Appreciation[9]	neg[9]	_	_	
+4-20	334-337	you	Appreciation[9]	neg[9]	_	_	
+4-21	338-343	smell	Appreciation[9]	neg[9]	_	_	
+4-22	344-349	smoke	Appreciation[9]	neg[9]	_	_	
+4-23	350-354	call	Appreciation[9]	neg[9]	_	_	
+4-24	355-358	the	Appreciation[9]	neg[9]	_	_	
+4-25	359-369	commission	Appreciation[9]	neg[9]	_	_	
+4-26	370-373	and	Appreciation[9]	neg[9]	_	_	
+4-27	374-382	complain	Appreciation[9]	neg[9]	_	_	
+4-28	383-384	,	_	_	_	_	
+4-29	385-388	Ohh	_	_	_	_	
+4-30	389-391	Im	_	_	_	_	
+4-31	392-397	sorry	_	_	_	_	
+4-32	398-401	how	Judgment[10]	neg[10]	_	_	
+4-33	402-406	many	Judgment[10]	neg[10]	_	_	
+4-34	407-413	saftey	Judgment[10]	neg[10]	_	_	
+4-35	414-422	features	Judgment[10]	neg[10]	_	_	
+4-36	423-427	were	Judgment[10]	neg[10]	_	_	
+4-37	428-431	you	Judgment[10]	neg[10]	_	_	
+4-38	432-439	looking	Judgment[10]	neg[10]	_	_	
+4-39	440-443	for	Judgment[10]	neg[10]	_	_	
+4-40	444-446	as	_	_	_	_	
+4-41	447-448	I	_	_	_	_	
+4-42	449-453	have	_	_	_	_	
+4-43	454-456	83	_	_	_	_	
+4-44	457-461	more	_	_	_	_	
+4-45	461-462	,	_	_	_	_	
+4-46	462-463	,	_	_	_	_	
+4-47	463-464	,	_	_	_	_	
+4-48	465-468	the	_	_	_	_	
+4-49	469-476	by-laws	_	_	_	_	
+4-50	476-477	,	_	_	_	_	
+4-51	477-478	,	_	_	_	_	
+4-52	478-479	,	_	_	_	_	
+4-53	480-484	that	_	_	_	_	
+4-54	485-489	Uber	_	_	_	_	
+4-55	490-497	ignores	Judgment	neg	_	_	
+4-56	497-498	,	_	_	_	_	

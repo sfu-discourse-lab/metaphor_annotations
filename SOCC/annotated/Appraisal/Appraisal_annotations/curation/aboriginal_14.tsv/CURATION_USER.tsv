@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Also it seems that many of the reserves are full of crime and corruption.
+1-1	0-4	Also	_	_	
+1-2	5-7	it	_	_	
+1-3	8-13	seems	_	_	
+1-4	14-18	that	_	_	
+1-5	19-23	many	_	_	
+1-6	24-26	of	_	_	
+1-7	27-30	the	_	_	
+1-8	31-39	reserves	_	_	
+1-9	40-43	are	_	_	
+1-10	44-48	full	Appreciation[1]	neg[1]	
+1-11	49-51	of	Appreciation[1]	neg[1]	
+1-12	52-57	crime	Appreciation[1]	neg[1]	
+1-13	58-61	and	Appreciation[1]	neg[1]	
+1-14	62-72	corruption	Appreciation[1]	neg[1]	
+1-15	72-73	.	_	_	
+
+#Text=They are doing it to themselves !
+2-1	74-78	They	_	_	
+2-2	79-82	are	_	_	
+2-3	83-88	doing	Appreciation[2]	neg[2]	
+2-4	89-91	it	Appreciation[2]	neg[2]	
+2-5	92-94	to	Appreciation[2]	neg[2]	
+2-6	95-105	themselves	Appreciation[2]	neg[2]	
+2-7	106-107	!	_	_	

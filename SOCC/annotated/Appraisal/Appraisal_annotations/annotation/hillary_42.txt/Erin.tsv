@@ -1,0 +1,150 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I have 3 daughters, and I told them that Mrs.
+1-1	0-1	I	_	_	_	_	
+1-2	2-6	have	_	_	_	_	
+1-3	7-8	3	_	_	_	_	
+1-4	9-18	daughters	_	_	_	_	
+1-5	18-19	,	_	_	_	_	
+1-6	20-23	and	_	_	_	_	
+1-7	24-25	I	_	_	_	_	
+1-8	26-30	told	_	_	_	_	
+1-9	31-35	them	_	_	_	_	
+1-10	36-40	that	_	_	_	_	
+1-11	41-44	Mrs	_	_	_	_	
+1-12	44-45	.	_	_	_	_	
+
+#Text=Clinton lost because she did not have a platform.
+2-1	46-53	Clinton	_	_	_	_	
+2-2	54-58	lost	_	_	_	_	
+2-3	59-66	because	_	_	_	_	
+2-4	67-70	she	_	_	_	_	
+2-5	71-74	did	Judgment[1]	neg[1]	_	_	
+2-6	75-78	not	Judgment[1]	neg[1]	_	_	
+2-7	79-83	have	Judgment[1]	neg[1]	_	_	
+2-8	84-85	a	Judgment[1]	neg[1]	_	_	
+2-9	86-94	platform	Judgment[1]	neg[1]	_	_	
+2-10	94-95	.	_	_	_	_	
+
+#Text=If she did, she, and her party, did a poor job explaining it to the masses.
+3-1	96-98	If	_	_	_	_	
+3-2	99-102	she	_	_	_	_	
+3-3	103-106	did	_	_	_	_	
+3-4	106-107	,	_	_	_	_	
+3-5	108-111	she	_	_	_	_	
+3-6	111-112	,	_	_	_	_	
+3-7	113-116	and	_	_	_	_	
+3-8	117-120	her	_	_	_	_	
+3-9	121-126	party	_	_	_	_	
+3-10	126-127	,	_	_	_	_	
+3-11	128-131	did	_	_	_	_	
+3-12	132-133	a	_	_	_	_	
+3-13	134-138	poor	Judgment	neg	_	_	
+3-14	139-142	job	_	_	_	_	
+3-15	143-153	explaining	_	_	_	_	
+3-16	154-156	it	_	_	_	_	
+3-17	157-159	to	_	_	_	_	
+3-18	160-163	the	_	_	_	_	
+3-19	164-170	masses	_	_	_	_	
+3-20	170-171	.	_	_	_	_	
+
+#Text=The only message that I got from her was that Mr.
+4-1	172-175	The	_	_	_	_	
+4-2	176-180	only	_	_	_	_	
+4-3	181-188	message	_	_	_	_	
+4-4	189-193	that	_	_	_	_	
+4-5	194-195	I	_	_	_	_	
+4-6	196-199	got	_	_	_	_	
+4-7	200-204	from	_	_	_	_	
+4-8	205-208	her	_	_	_	_	
+4-9	209-212	was	_	_	_	_	
+4-10	213-217	that	_	_	_	_	
+4-11	218-220	Mr	_	_	_	_	
+4-12	220-221	.	_	_	_	_	
+
+#Text=Trump is not fit to be in office and that she wanted to be the first female President.
+5-1	222-227	Trump	_	_	_	_	
+5-2	228-230	is	_	_	_	_	
+5-3	231-234	not	Judgment[3]	neg[3]	_	_	
+5-4	235-238	fit	Judgment[3]	neg[3]	_	_	
+5-5	239-241	to	_	_	_	_	
+5-6	242-244	be	_	_	_	_	
+5-7	245-247	in	_	_	_	_	
+5-8	248-254	office	_	_	_	_	
+5-9	255-258	and	_	_	_	_	
+5-10	259-263	that	_	_	_	_	
+5-11	264-267	she	_	_	_	_	
+5-12	268-274	wanted	Judgment[4]	neg[4]	_	_	
+5-13	275-277	to	Judgment[4]	neg[4]	_	_	
+5-14	278-280	be	Judgment[4]	neg[4]	_	_	
+5-15	281-284	the	Judgment[4]	neg[4]	_	_	
+5-16	285-290	first	Judgment[4]	neg[4]	_	_	
+5-17	291-297	female	Judgment[4]	neg[4]	_	_	
+5-18	298-307	President	Judgment[4]	neg[4]	_	_	
+5-19	307-308	.	_	_	_	_	
+
+#Text=I honestly believe that she lost because she offered no hope, or direction, to the average American.
+6-1	309-310	I	_	_	_	_	
+6-2	311-319	honestly	_	_	_	_	
+6-3	320-327	believe	_	_	_	_	
+6-4	328-332	that	_	_	_	_	
+6-5	333-336	she	_	_	_	_	
+6-6	337-341	lost	_	_	_	_	
+6-7	342-349	because	_	_	_	_	
+6-8	350-353	she	_	_	_	_	
+6-9	354-361	offered	Judgment[5]	neg[5]	_	_	
+6-10	362-364	no	Judgment[5]	neg[5]	_	_	
+6-11	365-369	hope	Judgment[5]	neg[5]	_	_	
+6-12	369-370	,	Judgment[5]	neg[5]	_	_	
+6-13	371-373	or	Judgment[5]	neg[5]	_	_	
+6-14	374-383	direction	Judgment[5]	neg[5]	_	_	
+6-15	383-384	,	_	_	_	_	
+6-16	385-387	to	_	_	_	_	
+6-17	388-391	the	_	_	_	_	
+6-18	392-399	average	_	_	_	_	
+6-19	400-408	American	_	_	_	_	
+6-20	408-409	.	_	_	_	_	
+
+#Text=Mr.
+7-1	410-412	Mr	_	_	_	_	
+7-2	412-413	.	_	_	_	_	
+
+#Text=Trump, with all his shortcomings, at least offered change and some hope.
+8-1	414-419	Trump	_	_	_	_	
+8-2	419-420	,	_	_	_	_	
+8-3	421-425	with	_	_	_	_	
+8-4	426-429	all	_	_	_	_	
+8-5	430-433	his	_	_	_	_	
+8-6	434-446	shortcomings	Judgment	neg	_	_	
+8-7	446-447	,	_	_	_	_	
+8-8	448-450	at	_	_	_	_	
+8-9	451-456	least	_	_	_	_	
+8-10	457-464	offered	Judgment[7]	pos[7]	_	_	
+8-11	465-471	change	Judgment[7]	pos[7]	_	_	
+8-12	472-475	and	Judgment[7]	pos[7]	_	_	
+8-13	476-480	some	Judgment[7]	pos[7]	Force	down	
+8-14	481-485	hope	Judgment[7]	pos[7]	_	_	
+8-15	485-486	.	_	_	_	_	
+
+#Text=He now has to make it happen or he will be out of power in 4 years.
+9-1	487-489	He	_	_	_	_	
+9-2	490-493	now	_	_	_	_	
+9-3	494-497	has	_	_	_	_	
+9-4	498-500	to	_	_	_	_	
+9-5	501-505	make	_	_	_	_	
+9-6	506-508	it	_	_	_	_	
+9-7	509-515	happen	_	_	_	_	
+9-8	516-518	or	_	_	_	_	
+9-9	519-521	he	_	_	_	_	
+9-10	522-526	will	_	_	_	_	
+9-11	527-529	be	_	_	_	_	
+9-12	530-533	out	_	_	_	_	
+9-13	534-536	of	_	_	_	_	
+9-14	537-542	power	_	_	_	_	
+9-15	543-545	in	_	_	_	_	
+9-16	546-547	4	_	_	_	_	
+9-17	548-553	years	_	_	_	_	
+9-18	553-554	.	_	_	_	_	

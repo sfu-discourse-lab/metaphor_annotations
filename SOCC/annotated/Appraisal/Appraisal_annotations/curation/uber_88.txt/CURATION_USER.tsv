@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=There may be a few good suggestions but like most (all anonymous BTW) G&M opinionations, it is ideology-based and therefore defective.
+1-1	0-5	There	_	_	
+1-2	6-9	may	_	_	
+1-3	10-12	be	_	_	
+1-4	13-14	a	_	_	
+1-5	15-18	few	_	_	
+1-6	19-23	good	Appreciation	pos	
+1-7	24-35	suggestions	_	_	
+1-8	36-39	but	_	_	
+1-9	40-44	like	_	_	
+1-10	45-49	most	_	_	
+1-11	50-51	(	_	_	
+1-12	51-54	all	_	_	
+1-13	55-64	anonymous	Judgment	neg	
+1-14	65-68	BTW	_	_	
+1-15	68-69	)	_	_	
+1-16	70-71	G	_	_	
+1-17	71-72	&	_	_	
+1-18	72-73	M	_	_	
+1-19	74-87	opinionations	Appreciation	neg	
+1-20	87-88	,	_	_	
+1-21	89-91	it	_	_	
+1-22	92-94	is	_	_	
+1-23	95-109	ideology-based	Appreciation[4]	neg[4]	
+1-24	110-113	and	Appreciation[4]	neg[4]	
+1-25	114-123	therefore	Appreciation[4]	neg[4]	
+1-26	124-133	defective	Appreciation[4]	neg[4]	
+1-27	133-134	.	_	_	

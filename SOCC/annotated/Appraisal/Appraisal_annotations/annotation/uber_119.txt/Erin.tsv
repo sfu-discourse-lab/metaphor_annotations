@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=owning a monopoly happens when you have enough politicians bought by your unions and other interest groups.
+1-1	0-6	owning	_	_	
+1-2	7-8	a	_	_	
+1-3	9-17	monopoly	Appreciation	neg	
+1-4	18-25	happens	_	_	
+1-5	26-30	when	_	_	
+1-6	31-34	you	_	_	
+1-7	35-39	have	_	_	
+1-8	40-46	enough	_	_	
+1-9	47-58	politicians	_	_	
+1-10	59-65	bought	Judgment	neg	
+1-11	66-68	by	_	_	
+1-12	69-73	your	_	_	
+1-13	74-80	unions	_	_	
+1-14	81-84	and	_	_	
+1-15	85-90	other	_	_	
+1-16	91-99	interest	Appreciation	neg	
+1-17	100-106	groups	_	_	
+1-18	106-107	.	_	_	
+
+#Text=So while the real estate monopoly over sold property information is owned by the MLS, and the liqueur retail monopoly is owned by the LCBO and the cashier's union behind it, the taxi owners didn't have enough politicians bought to reaffirm their monopoly.
+2-1	108-110	So	_	_	
+2-2	111-116	while	_	_	
+2-3	117-120	the	_	_	
+2-4	121-125	real	_	_	
+2-5	126-132	estate	_	_	
+2-6	133-141	monopoly	Appreciation	neg	
+2-7	142-146	over	_	_	
+2-8	147-151	sold	_	_	
+2-9	152-160	property	_	_	
+2-10	161-172	information	_	_	
+2-11	173-175	is	_	_	
+2-12	176-181	owned	_	_	
+2-13	182-184	by	_	_	
+2-14	185-188	the	_	_	
+2-15	189-192	MLS	_	_	
+2-16	192-193	,	_	_	
+2-17	194-197	and	_	_	
+2-18	198-201	the	_	_	
+2-19	202-209	liqueur	_	_	
+2-20	210-216	retail	_	_	
+2-21	217-225	monopoly	Appreciation	neg	
+2-22	226-228	is	_	_	
+2-23	229-234	owned	_	_	
+2-24	235-237	by	_	_	
+2-25	238-241	the	_	_	
+2-26	242-246	LCBO	_	_	
+2-27	247-250	and	_	_	
+2-28	251-254	the	_	_	
+2-29	255-264	cashier's	_	_	
+2-30	265-270	union	_	_	
+2-31	271-277	behind	_	_	
+2-32	278-280	it	_	_	
+2-33	280-281	,	_	_	
+2-34	282-285	the	_	_	
+2-35	286-290	taxi	_	_	
+2-36	291-297	owners	_	_	
+2-37	298-304	didn't	Judgment[6]	neg[6]	
+2-38	305-309	have	Judgment[6]	neg[6]	
+2-39	310-316	enough	Judgment[6]	neg[6]	
+2-40	317-328	politicians	Judgment[6]	neg[6]	
+2-41	329-335	bought	Judgment[6]	neg[6]	
+2-42	336-338	to	Judgment[6]	neg[6]	
+2-43	339-347	reaffirm	Judgment[6]	neg[6]	
+2-44	348-353	their	Judgment[6]	neg[6]	
+2-45	354-362	monopoly	Judgment[6]|Appreciation[7]	neg[6]|neg[7]	
+2-46	362-363	.	_	_	
+
+#Text=It's all a matter of degree of corruption.
+3-1	364-368	It's	_	_	
+3-2	369-372	all	_	_	
+3-3	373-374	a	_	_	
+3-4	375-381	matter	_	_	
+3-5	382-384	of	_	_	
+3-6	385-391	degree	Appreciation[8]	neg[8]	
+3-7	392-394	of	Appreciation[8]	neg[8]	
+3-8	395-405	corruption	Appreciation[8]	neg[8]	
+3-9	405-406	.	_	_	
+
+#Text=There is no absolutes.
+4-1	407-412	There	_	_	
+4-2	413-415	is	_	_	
+4-3	416-418	no	Judgment[9]	neg[9]	
+4-4	419-428	absolutes	Judgment[9]	neg[9]	
+4-5	428-429	.	_	_	

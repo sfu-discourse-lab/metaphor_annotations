@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Other countries are able to integrate them - why in Europe is there so much less integration?
+1-1	0-5	Other	
+1-2	6-15	countries	
+1-3	16-19	are	
+1-4	20-24	able	
+1-5	25-27	to	
+1-6	28-37	integrate	
+1-7	38-42	them	
+1-8	43-44	-	
+1-9	45-48	why	
+1-10	49-51	in	
+1-11	52-58	Europe	
+1-12	59-61	is	
+1-13	62-67	there	
+1-14	68-70	so	
+1-15	71-75	much	
+1-16	76-80	less	
+1-17	81-92	integration	
+1-18	92-93	?	

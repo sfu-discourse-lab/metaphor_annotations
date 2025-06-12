@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Everything Harper has done from DAY 1 has, and continues to be a shell-game!
+1-1	0-10	Everything	Judgment[1]	neg[1]	_	_	
+1-2	11-17	Harper	Judgment[1]	neg[1]	_	_	
+1-3	18-21	has	Judgment[1]	neg[1]	_	_	
+1-4	22-26	done	Judgment[1]	neg[1]	_	_	
+1-5	27-31	from	Judgment[1]	neg[1]	_	_	
+1-6	32-35	DAY	Judgment[1]	neg[1]	_	_	
+1-7	36-37	1	Judgment[1]	neg[1]	_	_	
+1-8	38-41	has	Judgment[1]	neg[1]	_	_	
+1-9	41-42	,	Judgment[1]	neg[1]	_	_	
+1-10	43-46	and	Judgment[1]	neg[1]	_	_	
+1-11	47-56	continues	Judgment[1]	neg[1]	_	_	
+1-12	57-59	to	Judgment[1]	neg[1]	_	_	
+1-13	60-62	be	Judgment[1]	neg[1]	_	_	
+1-14	63-64	a	Judgment[1]	neg[1]	_	_	
+1-15	65-75	shell-game	Judgment[1]|Appreciation[2]	neg[1]|neg[2]	_	_	
+1-16	75-76	!	_	_	_	_	
+
+#Text=You'd think that even die hard CON supporters would have tired of the endless lies and deceit by now.
+2-1	77-82	You'd	_	_	_	_	
+2-2	83-88	think	_	_	_	_	
+2-3	89-93	that	_	_	_	_	
+2-4	94-98	even	_	_	_	_	
+2-5	99-102	die	Judgment[3]	neg[3]	_	_	
+2-6	103-107	hard	Judgment[3]	neg[3]	_	_	
+2-7	108-111	CON	_	_	_	_	
+2-8	112-122	supporters	_	_	_	_	
+2-9	123-128	would	_	_	_	_	
+2-10	129-133	have	_	_	_	_	
+2-11	134-139	tired	Affect	neg	_	_	
+2-12	140-142	of	_	_	_	_	
+2-13	143-146	the	_	_	_	_	
+2-14	147-154	endless	Appreciation[5]	neg[5]	Force	up	
+2-15	155-159	lies	Appreciation[5]	neg[5]	_	_	
+2-16	160-163	and	Appreciation[5]	neg[5]	_	_	
+2-17	164-170	deceit	Appreciation[5]	neg[5]	_	_	
+2-18	171-173	by	_	_	_	_	
+2-19	174-177	now	_	_	_	_	
+2-20	177-178	.	_	_	_	_	
+
+#Text=Obviously those who still support Harper revel in and profit from the dictatorial like mis-government of a once great Canada under the leadership for a select few!
+3-1	179-188	Obviously	Appreciation	pos	_	_	
+3-2	189-194	those	_	_	_	_	
+3-3	195-198	who	_	_	_	_	
+3-4	199-204	still	_	_	_	_	
+3-5	205-212	support	_	_	_	_	
+3-6	213-219	Harper	_	_	_	_	
+3-7	220-225	revel	Judgment[7]	neg[7]	_	_	
+3-8	226-228	in	Judgment[7]	neg[7]	_	_	
+3-9	229-232	and	Judgment[7]	neg[7]	_	_	
+3-10	233-239	profit	Judgment[7]	neg[7]	_	_	
+3-11	240-244	from	_	_	_	_	
+3-12	245-248	the	_	_	_	_	
+3-13	249-260	dictatorial	Appreciation[8]	neg[8]	_	_	
+3-14	261-265	like	Appreciation[8]	neg[8]	_	_	
+3-15	266-280	mis-government	Appreciation	neg	_	_	
+3-16	281-283	of	_	_	_	_	
+3-17	284-285	a	_	_	_	_	
+3-18	286-290	once	Appreciation[10]	neg[10]	_	_	
+3-19	291-296	great	Appreciation[10]	neg[10]	_	_	
+3-20	297-303	Canada	_	_	_	_	
+3-21	304-309	under	_	_	_	_	
+3-22	310-313	the	_	_	_	_	
+3-23	314-324	leadership	_	_	_	_	
+3-24	325-328	for	_	_	_	_	
+3-25	329-330	a	_	_	_	_	
+3-26	331-337	select	_	_	_	_	
+3-27	338-341	few	_	_	_	_	
+3-28	341-342	!	_	_	_	_	
+
+#Text=That is not what the Fathers of Confederation envisioned when it was founded.
+4-1	343-347	That	_	_	_	_	
+4-2	348-350	is	_	_	_	_	
+4-3	351-354	not	Appreciation[11]	neg[11]	_	_	
+4-4	355-359	what	Appreciation[11]	neg[11]	_	_	
+4-5	360-363	the	Appreciation[11]	neg[11]	_	_	
+4-6	364-371	Fathers	Appreciation[11]	neg[11]	_	_	
+4-7	372-374	of	Appreciation[11]	neg[11]	_	_	
+4-8	375-388	Confederation	Appreciation[11]	neg[11]	_	_	
+4-9	389-399	envisioned	Appreciation[11]	neg[11]	_	_	
+4-10	400-404	when	Appreciation[11]	neg[11]	_	_	
+4-11	405-407	it	Appreciation[11]	neg[11]	_	_	
+4-12	408-411	was	Appreciation[11]	neg[11]	_	_	
+4-13	412-419	founded	Appreciation[11]	neg[11]	_	_	
+4-14	419-420	.	_	_	_	_	
+
+#Text=Without Truth, Honour, Integrity and Security being espoused by any PM (regardless of Party) for ALL Canadians, we are merely a fake democracy!
+5-1	421-428	Without	Appreciation[12]	neg[12]	_	_	
+5-2	429-434	Truth	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-3	434-435	,	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-4	436-442	Honour	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-5	442-443	,	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-6	444-453	Integrity	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-7	454-457	and	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-8	458-466	Security	Appreciation[12]|Appreciation[13]	neg[12]|neg[13]	_	_	
+5-9	467-472	being	Appreciation[12]	neg[12]	_	_	
+5-10	473-481	espoused	Appreciation[12]	neg[12]	_	_	
+5-11	482-484	by	Appreciation[12]	neg[12]	_	_	
+5-12	485-488	any	Appreciation[12]	neg[12]	_	_	
+5-13	489-491	PM	Appreciation[12]	neg[12]	_	_	
+5-14	492-493	(	Appreciation[12]	neg[12]	_	_	
+5-15	493-503	regardless	Appreciation[12]	neg[12]	_	_	
+5-16	504-506	of	Appreciation[12]	neg[12]	_	_	
+5-17	507-512	Party	Appreciation[12]	neg[12]	_	_	
+5-18	512-513	)	Appreciation[12]	neg[12]	_	_	
+5-19	514-517	for	Appreciation[12]	neg[12]	_	_	
+5-20	518-521	ALL	Appreciation[12]	neg[12]	_	_	
+5-21	522-531	Canadians	Appreciation[12]	neg[12]	_	_	
+5-22	531-532	,	Appreciation[12]	neg[12]	_	_	
+5-23	533-535	we	Appreciation[12]	neg[12]	_	_	
+5-24	536-539	are	Appreciation[12]	neg[12]	_	_	
+5-25	540-546	merely	Appreciation[12]	neg[12]	_	_	
+5-26	547-548	a	Appreciation[12]	neg[12]	_	_	
+5-27	549-553	fake	Appreciation[12]|Appreciation[14]	neg[12]|neg[14]	_	_	
+5-28	554-563	democracy	Appreciation[12]	neg[12]	_	_	
+5-29	563-564	!	_	_	_	_	

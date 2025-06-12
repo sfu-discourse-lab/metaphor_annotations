@@ -1,0 +1,235 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Mr.
+1-1	0-2	Mr	_	_	_	_	
+1-2	2-3	.	_	_	_	_	
+
+#Text=Flaherty remonstrated that he could easily show a balanced budget for 2014-15, even a surplus.
+2-1	4-12	Flaherty	_	_	_	_	
+2-2	13-25	remonstrated	_	_	_	_	
+2-3	26-30	that	_	_	_	_	
+2-4	31-33	he	_	_	_	_	
+2-5	34-39	could	Judgment[1]	pos[1]	_	_	
+2-6	40-46	easily	Judgment[1]	pos[1]	_	_	
+2-7	47-51	show	Judgment[1]	pos[1]	_	_	
+2-8	52-53	a	Judgment[1]	pos[1]	_	_	
+2-9	54-62	balanced	Judgment[1]	pos[1]	_	_	
+2-10	63-69	budget	Judgment[1]	pos[1]	_	_	
+2-11	70-73	for	_	_	_	_	
+2-12	74-78	2014	_	_	_	_	
+2-13	78-79	-	_	_	_	_	
+2-14	79-81	15	_	_	_	_	
+2-15	81-82	,	_	_	_	_	
+2-16	83-87	even	_	_	_	_	
+2-17	88-89	a	_	_	_	_	
+2-18	90-97	surplus	_	_	_	_	
+2-19	97-98	.	_	_	_	_	
+
+#Text=No, instructed his boss, always thinking politically.
+3-1	99-101	No	_	_	_	_	
+3-2	101-102	,	_	_	_	_	
+3-3	103-113	instructed	_	_	_	_	
+3-4	114-117	his	_	_	_	_	
+3-5	118-122	boss	_	_	_	_	
+3-6	122-123	,	_	_	_	_	
+3-7	124-130	always	Judgment[2]	neg[2]	_	_	
+3-8	131-139	thinking	Judgment[2]	neg[2]	_	_	
+3-9	140-151	politically	Judgment[2]	neg[2]	_	_	
+3-10	151-152	.	_	_	_	_	
+
+#Text=It would be better to save the news - the surprise!
+4-1	153-155	It	_	_	_	_	
+4-2	156-161	would	_	_	_	_	
+4-3	162-164	be	_	_	_	_	
+4-4	165-171	better	_	_	_	_	
+4-5	172-174	to	_	_	_	_	
+4-6	175-179	save	_	_	_	_	
+4-7	180-183	the	_	_	_	_	
+4-8	184-188	news	_	_	_	_	
+4-9	189-190	-	_	_	_	_	
+4-10	191-194	the	_	_	_	_	
+4-11	195-203	surprise	Affect	neg	_	_	
+4-12	203-204	!	_	_	_	_	
+
+#Text=- until the fall of 2015, that is during an election.
+5-1	205-206	-	_	_	_	_	
+5-2	207-212	until	_	_	_	_	
+5-3	213-216	the	_	_	_	_	
+5-4	217-221	fall	_	_	_	_	
+5-5	222-224	of	_	_	_	_	
+5-6	225-229	2015	_	_	_	_	
+5-7	229-230	,	_	_	_	_	
+5-8	231-235	that	_	_	_	_	
+5-9	236-238	is	_	_	_	_	
+5-10	239-245	during	_	_	_	_	
+5-11	246-248	an	_	_	_	_	
+5-12	249-257	election	_	_	_	_	
+5-13	257-258	.	_	_	_	_	
+
+#Text=Well, I knew it, half of Ottawa knew it, lets see if the Canadian voters know it.Harper and his motley crew of Reformers are once again caught in on of their numerous lies.
+6-1	259-263	Well	_	_	_	_	
+6-2	263-264	,	_	_	_	_	
+6-3	265-266	I	_	_	_	_	
+6-4	267-271	knew	_	_	_	_	
+6-5	272-274	it	_	_	_	_	
+6-6	274-275	,	_	_	_	_	
+6-7	276-280	half	_	_	_	_	
+6-8	281-283	of	_	_	_	_	
+6-9	284-290	Ottawa	_	_	_	_	
+6-10	291-295	knew	_	_	_	_	
+6-11	296-298	it	_	_	_	_	
+6-12	298-299	,	_	_	_	_	
+6-13	300-304	lets	Judgment[4]	neg[4]	_	_	
+6-14	305-308	see	Judgment[4]	neg[4]	_	_	
+6-15	309-311	if	Judgment[4]	neg[4]	_	_	
+6-16	312-315	the	Judgment[4]	neg[4]	_	_	
+6-17	316-324	Canadian	Judgment[4]	neg[4]	_	_	
+6-18	325-331	voters	Judgment[4]	neg[4]	_	_	
+6-19	332-336	know	Judgment[4]	neg[4]	_	_	
+6-20	337-346	it.Harper	Judgment[4]	neg[4]	_	_	
+6-21	347-350	and	_	_	_	_	
+6-22	351-354	his	_	_	_	_	
+6-23	355-361	motley	Judgment[5]	neg[5]	_	_	
+6-24	362-366	crew	Judgment[5]	neg[5]	_	_	
+6-25	367-369	of	_	_	_	_	
+6-26	370-379	Reformers	_	_	_	_	
+6-27	380-383	are	_	_	_	_	
+6-28	384-388	once	_	_	_	_	
+6-29	389-394	again	_	_	_	_	
+6-30	395-401	caught	_	_	_	_	
+6-31	402-404	in	_	_	_	_	
+6-32	405-407	on	_	_	_	_	
+6-33	408-410	of	_	_	_	_	
+6-34	411-416	their	_	_	_	_	
+6-35	417-425	numerous	Judgment[6]	neg[6]	Force	up	
+6-36	426-430	lies	Judgment[6]	neg[6]	_	_	
+6-37	430-431	.	_	_	_	_	
+
+#Text=After drastic cuts to Veterans Affairs, Immigration (350 million dollars), Aboriginal Affairs, healthcare, the CBC and many other government departments, the fact the budget was balanced in 2014/15 was an afterthought.
+7-1	432-437	After	_	_	_	_	
+7-2	438-445	drastic	Appreciation[7]	neg[7]	Focus	up	
+7-3	446-450	cuts	Appreciation[7]	neg[7]	_	_	
+7-4	451-453	to	_	_	_	_	
+7-5	454-462	Veterans	_	_	_	_	
+7-6	463-470	Affairs	_	_	_	_	
+7-7	470-471	,	_	_	_	_	
+7-8	472-483	Immigration	_	_	_	_	
+7-9	484-485	(	_	_	_	_	
+7-10	485-488	350	_	_	_	_	
+7-11	489-496	million	_	_	_	_	
+7-12	497-504	dollars	_	_	_	_	
+7-13	504-505	)	_	_	_	_	
+7-14	505-506	,	_	_	_	_	
+7-15	507-517	Aboriginal	_	_	_	_	
+7-16	518-525	Affairs	_	_	_	_	
+7-17	525-526	,	_	_	_	_	
+7-18	527-537	healthcare	_	_	_	_	
+7-19	537-538	,	_	_	_	_	
+7-20	539-542	the	_	_	_	_	
+7-21	543-546	CBC	_	_	_	_	
+7-22	547-550	and	_	_	_	_	
+7-23	551-555	many	_	_	_	_	
+7-24	556-561	other	_	_	_	_	
+7-25	562-572	government	_	_	_	_	
+7-26	573-584	departments	_	_	_	_	
+7-27	584-585	,	_	_	_	_	
+7-28	586-589	the	_	_	_	_	
+7-29	590-594	fact	_	_	_	_	
+7-30	595-598	the	_	_	_	_	
+7-31	599-605	budget	_	_	_	_	
+7-32	606-609	was	_	_	_	_	
+7-33	610-618	balanced	_	_	_	_	
+7-34	619-621	in	_	_	_	_	
+7-35	622-626	2014	_	_	_	_	
+7-36	626-627	/	_	_	_	_	
+7-37	627-629	15	_	_	_	_	
+7-38	630-633	was	_	_	_	_	
+7-39	634-636	an	_	_	_	_	
+7-40	637-649	afterthought	_	_	_	_	
+7-41	649-650	.	_	_	_	_	
+
+#Text=Thus the question we'll be facing in October; do we want a government that will actually govern and make the hard decisions that are called for in these challenging times, or do we want a Harper government that spends 90% of its time campaigning instead of governing.
+8-1	651-655	Thus	_	_	_	_	
+8-2	656-659	the	_	_	_	_	
+8-3	660-668	question	_	_	_	_	
+8-4	669-674	we'll	_	_	_	_	
+8-5	675-677	be	_	_	_	_	
+8-6	678-684	facing	_	_	_	_	
+8-7	685-687	in	_	_	_	_	
+8-8	688-695	October	_	_	_	_	
+8-9	695-696	;	_	_	_	_	
+8-10	697-699	do	Judgment[8]	pos[8]	_	_	
+8-11	700-702	we	Judgment[8]	pos[8]	_	_	
+8-12	703-707	want	Judgment[8]	pos[8]	_	_	
+8-13	708-709	a	Judgment[8]	pos[8]	_	_	
+8-14	710-720	government	Judgment[8]	pos[8]	_	_	
+8-15	721-725	that	Judgment[8]	pos[8]	_	_	
+8-16	726-730	will	Judgment[8]	pos[8]	_	_	
+8-17	731-739	actually	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-18	740-746	govern	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-19	747-750	and	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-20	751-755	make	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-21	756-759	the	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-22	760-764	hard	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-23	765-774	decisions	Judgment[8]|Judgment[9]	pos[8]|pos[9]	_	_	
+8-24	775-779	that	Judgment[8]	pos[8]	_	_	
+8-25	780-783	are	Judgment[8]	pos[8]	_	_	
+8-26	784-790	called	Judgment[8]	pos[8]	_	_	
+8-27	791-794	for	Judgment[8]	pos[8]	_	_	
+8-28	795-797	in	Judgment[8]	pos[8]	_	_	
+8-29	798-803	these	Judgment[8]	pos[8]	_	_	
+8-30	804-815	challenging	Judgment[8]	pos[8]	_	_	
+8-31	816-821	times	Judgment[8]	pos[8]	_	_	
+8-32	821-822	,	_	_	_	_	
+8-33	823-825	or	_	_	_	_	
+8-34	826-828	do	Judgment[10]	neg[10]	_	_	
+8-35	829-831	we	Judgment[10]	neg[10]	_	_	
+8-36	832-836	want	Judgment[10]	neg[10]	_	_	
+8-37	837-838	a	Judgment[10]	neg[10]	_	_	
+8-38	839-845	Harper	Judgment[10]	neg[10]	_	_	
+8-39	846-856	government	Judgment[10]	neg[10]	_	_	
+8-40	857-861	that	Judgment[10]	neg[10]	_	_	
+8-41	862-868	spends	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-42	869-872	90%	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-43	873-875	of	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-44	876-879	its	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-45	880-884	time	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-46	885-896	campaigning	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-47	897-904	instead	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-48	905-907	of	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-49	908-917	governing	Judgment[10]|Judgment[11]	neg[10]|neg[11]	_	_	
+8-50	917-918	.	_	_	_	_	
+
+#Text=I for one have seen enough off these far-right Harper Reformers.
+9-1	919-920	I	_	_	_	_	
+9-2	921-924	for	_	_	_	_	
+9-3	925-928	one	_	_	_	_	
+9-4	929-933	have	_	_	_	_	
+9-5	934-938	seen	_	_	_	_	
+9-6	939-945	enough	_	_	_	_	
+9-7	946-949	off	_	_	_	_	
+9-8	950-955	these	_	_	_	_	
+9-9	956-965	far-right	Judgment[12]	neg[12]	_	_	
+9-10	966-972	Harper	Judgment[12]	neg[12]	_	_	
+9-11	973-982	Reformers	Judgment[12]	neg[12]	_	_	
+9-12	982-983	.	_	_	_	_	
+
+#Text=Lets hope the vast majority of Canadians agree with my 'sentiments'..
+10-1	984-988	Lets	Appreciation[13]	pos[13]	_	_	
+10-2	989-993	hope	Appreciation[13]	pos[13]	_	_	
+10-3	994-997	the	Appreciation[13]	pos[13]	_	_	
+10-4	998-1002	vast	Appreciation[13]	pos[13]	_	_	
+10-5	1003-1011	majority	Appreciation[13]	pos[13]	_	_	
+10-6	1012-1014	of	Appreciation[13]	pos[13]	_	_	
+10-7	1015-1024	Canadians	Appreciation[13]	pos[13]	_	_	
+10-8	1025-1030	agree	Appreciation[13]	pos[13]	_	_	
+10-9	1031-1035	with	Appreciation[13]	pos[13]	_	_	
+10-10	1036-1038	my	Appreciation[13]	pos[13]	_	_	
+10-11	1039-1040	'	Appreciation[13]	pos[13]	_	_	
+10-12	1040-1050	sentiments	Appreciation[13]	pos[13]	_	_	
+10-13	1050-1051	'	_	_	_	_	
+10-14	1051-1052	.	_	_	_	_	
+10-15	1052-1053	.	_	_	_	_	

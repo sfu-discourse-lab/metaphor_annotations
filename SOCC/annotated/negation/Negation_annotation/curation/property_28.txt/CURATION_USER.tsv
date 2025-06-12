@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Head tax?
+1-1	0-4	Head	_	
+1-2	5-8	tax	_	
+1-3	8-9	?	_	
+
+#Text=The writer might want to come to PEI.
+2-1	10-13	The	_	
+2-2	14-20	writer	_	
+2-3	21-26	might	_	
+2-4	27-31	want	_	
+2-5	32-34	to	_	
+2-6	35-39	come	_	
+2-7	40-42	to	_	
+2-8	43-46	PEI	_	
+2-9	46-47	.	_	
+
+#Text=Here anyone who has bought or owns property on the Island and is not an Island resident pays an almost double property tax.
+3-1	48-52	Here	_	
+3-2	53-59	anyone	_	
+3-3	60-63	who	_	
+3-4	64-67	has	_	
+3-5	68-74	bought	_	
+3-6	75-77	or	_	
+3-7	78-82	owns	_	
+3-8	83-91	property	_	
+3-9	92-94	on	_	
+3-10	95-98	the	_	
+3-11	99-105	Island	_	
+3-12	106-109	and	_	
+3-13	110-112	is	_	
+3-14	113-116	not	NEG	
+3-15	117-119	an	SCOPE[2]	
+3-16	120-126	Island	SCOPE[2]|FOCUS[3]	
+3-17	127-135	resident	SCOPE[2]	
+3-18	136-140	pays	_	
+3-19	141-143	an	_	
+3-20	144-150	almost	_	
+3-21	151-157	double	_	
+3-22	158-166	property	_	
+3-23	167-170	tax	_	
+3-24	170-171	.	_	
+
+#Text=That includes people from any other Canadian province or territory not just any other country.
+4-1	172-176	That	_	
+4-2	177-185	includes	_	
+4-3	186-192	people	_	
+4-4	193-197	from	_	
+4-5	198-201	any	_	
+4-6	202-207	other	_	
+4-7	208-216	Canadian	_	
+4-8	217-225	province	_	
+4-9	226-228	or	_	
+4-10	229-238	territory	_	
+4-11	239-242	not	NEG	
+4-12	243-247	just	SCOPE[5]	
+4-13	248-251	any	SCOPE[5]	
+4-14	252-257	other	SCOPE[5]	
+4-15	258-265	country	SCOPE[5]|FOCUS[6]	
+4-16	265-266	.	_	
+
+#Text=You have to live in the province for 183 days / year to be considered a resident.
+5-1	267-270	You	_	
+5-2	271-275	have	_	
+5-3	276-278	to	_	
+5-4	279-283	live	_	
+5-5	284-286	in	_	
+5-6	287-290	the	_	
+5-7	291-299	province	_	
+5-8	300-303	for	_	
+5-9	304-307	183	_	
+5-10	308-312	days	_	
+5-11	313-314	/	_	
+5-12	315-319	year	_	
+5-13	320-322	to	_	
+5-14	323-325	be	_	
+5-15	326-336	considered	_	
+5-16	337-338	a	_	
+5-17	339-347	resident	_	
+5-18	347-348	.	_	

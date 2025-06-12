@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Great article.
+1-1	0-5	Great	_	
+1-2	6-13	article	_	
+1-3	13-14	.	_	
+
+#Text=The watch (v01) is pretty simple and not all that appealing.
+2-1	16-19	The	_	
+2-2	20-25	watch	_	
+2-3	26-27	(	_	
+2-4	27-30	v01	_	
+2-5	30-31	)	_	
+2-6	32-34	is	_	
+2-7	35-41	pretty	_	
+2-8	42-48	simple	_	
+2-9	49-52	and	_	
+2-10	53-56	not	NEG	
+2-11	57-60	all	SCOPE[2]	
+2-12	61-65	that	SCOPE[2]	
+2-13	66-75	appealing	SCOPE[2]|FOCUS[3]	
+2-14	75-76	.	_	
+
+#Text=BUT just you wait when 28m people have one, and the apps start flowing to all smart watches, and v02 comes out.
+3-1	78-81	BUT	_	
+3-2	82-86	just	_	
+3-3	87-90	you	_	
+3-4	91-95	wait	_	
+3-5	96-100	when	_	
+3-6	101-104	28m	_	
+3-7	105-111	people	_	
+3-8	112-116	have	_	
+3-9	117-120	one	_	
+3-10	120-121	,	_	
+3-11	122-125	and	_	
+3-12	126-129	the	_	
+3-13	130-134	apps	_	
+3-14	135-140	start	_	
+3-15	141-148	flowing	_	
+3-16	149-151	to	_	
+3-17	152-155	all	_	
+3-18	156-161	smart	_	
+3-19	162-169	watches	_	
+3-20	169-170	,	_	
+3-21	171-174	and	_	
+3-22	175-178	v02	_	
+3-23	179-184	comes	_	
+3-24	185-188	out	_	
+3-25	188-189	.	_	
+
+#Text=THEN it will might be something interesting.
+4-1	191-195	THEN	_	
+4-2	196-198	it	_	
+4-3	199-203	will	_	
+4-4	204-209	might	_	
+4-5	210-212	be	_	
+4-6	213-222	something	_	
+4-7	223-234	interesting	_	
+4-8	234-235	.	_	

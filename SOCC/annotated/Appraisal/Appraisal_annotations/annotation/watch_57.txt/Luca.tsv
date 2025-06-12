@@ -1,0 +1,555 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Information overload is real.
+1-1	0-11	Information	Appreciation[1]	neg[1]	_	_	
+1-2	12-20	overload	Appreciation[1]	neg[1]	_	_	
+1-3	21-23	is	_	_	_	_	
+1-4	24-28	real	Appreciation	neg	_	_	
+1-5	28-29	.	_	_	_	_	
+
+#Text=And very stressful.
+2-1	30-33	And	_	_	_	_	
+2-2	34-38	very	Affect[3]	neg[3]	Force	up	
+2-3	39-48	stressful	Affect[3]	neg[3]	_	_	
+2-4	48-49	.	_	_	_	_	
+
+#Text=The tech revolution is like all revolutions before it.
+3-1	50-53	The	_	_	_	_	
+3-2	54-58	tech	_	_	_	_	
+3-3	59-69	revolution	_	_	_	_	
+3-4	70-72	is	_	_	_	_	
+3-5	73-77	like	_	_	_	_	
+3-6	78-81	all	_	_	_	_	
+3-7	82-93	revolutions	_	_	_	_	
+3-8	94-100	before	_	_	_	_	
+3-9	101-103	it	_	_	_	_	
+3-10	103-104	.	_	_	_	_	
+
+#Text=It began with idealism, hope and awesome innovations.
+4-1	105-107	It	_	_	_	_	
+4-2	108-113	began	Appreciation[4]	pos[4]	_	_	
+4-3	114-118	with	Appreciation[4]	pos[4]	_	_	
+4-4	119-127	idealism	Appreciation[4]	pos[4]	_	_	
+4-5	127-128	,	Appreciation[4]	pos[4]	_	_	
+4-6	129-133	hope	Appreciation[4]	pos[4]	_	_	
+4-7	134-137	and	Appreciation[4]	pos[4]	_	_	
+4-8	138-145	awesome	Appreciation[4]	pos[4]	_	_	
+4-9	146-157	innovations	Appreciation[4]	pos[4]	_	_	
+4-10	157-158	.	_	_	_	_	
+
+#Text=Then came the disruptions to the status quo.
+5-1	159-163	Then	_	_	_	_	
+5-2	164-168	came	_	_	_	_	
+5-3	169-172	the	_	_	_	_	
+5-4	173-184	disruptions	Appreciation	neg	_	_	
+5-5	185-187	to	_	_	_	_	
+5-6	188-191	the	_	_	_	_	
+5-7	192-198	status	_	_	_	_	
+5-8	199-202	quo	_	_	_	_	
+5-9	202-203	.	_	_	_	_	
+
+#Text=The arts have suffered dreadfully.
+6-1	204-207	The	_	_	_	_	
+6-2	208-212	arts	_	_	_	_	
+6-3	213-217	have	_	_	_	_	
+6-4	218-226	suffered	Appreciation[6]	neg[6]	_	_	
+6-5	227-237	dreadfully	Appreciation[6]	neg[6]	_	_	
+6-6	237-238	.	_	_	_	_	
+
+#Text=Recent reports show incomes for musicians, writers, and artists are way down from a decade ago.
+7-1	239-245	Recent	_	_	_	_	
+7-2	246-253	reports	_	_	_	_	
+7-3	254-258	show	_	_	_	_	
+7-4	259-266	incomes	_	_	_	_	
+7-5	267-270	for	_	_	_	_	
+7-6	271-280	musicians	_	_	_	_	
+7-7	280-281	,	_	_	_	_	
+7-8	282-289	writers	_	_	_	_	
+7-9	289-290	,	_	_	_	_	
+7-10	291-294	and	_	_	_	_	
+7-11	295-302	artists	_	_	_	_	
+7-12	303-306	are	_	_	_	_	
+7-13	307-310	way	Appreciation[7]	neg[7]	Force	up	
+7-14	311-315	down	Appreciation[7]	neg[7]	_	_	
+7-15	316-320	from	_	_	_	_	
+7-16	321-322	a	_	_	_	_	
+7-17	323-329	decade	_	_	_	_	
+7-18	330-333	ago	_	_	_	_	
+7-19	333-334	.	_	_	_	_	
+
+#Text=But the Tech Rebels scoff at this and call us to look to the Brave New World of Free Information, Art, and Music.
+8-1	335-338	But	_	_	_	_	
+8-2	339-342	the	_	_	_	_	
+8-3	343-347	Tech	Judgment[8]	neg[8]	_	_	
+8-4	348-354	Rebels	Judgment[8]	neg[8]	_	_	
+8-5	355-360	scoff	Affect	neg	_	_	
+8-6	361-363	at	_	_	_	_	
+8-7	364-368	this	_	_	_	_	
+8-8	369-372	and	_	_	_	_	
+8-9	373-377	call	_	_	_	_	
+8-10	378-380	us	_	_	_	_	
+8-11	381-383	to	_	_	_	_	
+8-12	384-388	look	_	_	_	_	
+8-13	389-391	to	_	_	_	_	
+8-14	392-395	the	_	_	_	_	
+8-15	396-401	Brave	Appreciation[10]	neg[10]	_	_	
+8-16	402-405	New	Appreciation[10]	neg[10]	_	_	
+8-17	406-411	World	Appreciation[10]	neg[10]	_	_	
+8-18	412-414	of	_	_	_	_	
+8-19	415-419	Free	_	_	_	_	
+8-20	420-431	Information	_	_	_	_	
+8-21	431-432	,	_	_	_	_	
+8-22	433-436	Art	_	_	_	_	
+8-23	436-437	,	_	_	_	_	
+8-24	438-441	and	_	_	_	_	
+8-25	442-447	Music	_	_	_	_	
+8-26	447-448	.	_	_	_	_	
+
+#Text=One might ask where those who once were paid to write and sing will find money to eat, but that just makes you a reactionary and a counter-revolutionary.
+9-1	449-452	One	_	_	_	_	
+9-2	453-458	might	_	_	_	_	
+9-3	459-462	ask	_	_	_	_	
+9-4	463-468	where	Appreciation[11]	neg[11]	_	_	
+9-5	469-474	those	Appreciation[11]	neg[11]	_	_	
+9-6	475-478	who	Appreciation[11]	neg[11]	_	_	
+9-7	479-483	once	Appreciation[11]	neg[11]	_	_	
+9-8	484-488	were	Appreciation[11]	neg[11]	_	_	
+9-9	489-493	paid	Appreciation[11]	neg[11]	_	_	
+9-10	494-496	to	Appreciation[11]	neg[11]	_	_	
+9-11	497-502	write	Appreciation[11]	neg[11]	_	_	
+9-12	503-506	and	Appreciation[11]	neg[11]	_	_	
+9-13	507-511	sing	Appreciation[11]	neg[11]	_	_	
+9-14	512-516	will	Appreciation[11]	neg[11]	_	_	
+9-15	517-521	find	Appreciation[11]	neg[11]	_	_	
+9-16	522-527	money	Appreciation[11]	neg[11]	_	_	
+9-17	528-530	to	Appreciation[11]	neg[11]	_	_	
+9-18	531-534	eat	Appreciation[11]	neg[11]	_	_	
+9-19	534-535	,	_	_	_	_	
+9-20	536-539	but	_	_	_	_	
+9-21	540-544	that	Judgment[12]	neg[12]	_	_	
+9-22	545-549	just	Judgment[12]	neg[12]	_	_	
+9-23	550-555	makes	Judgment[12]	neg[12]	_	_	
+9-24	556-559	you	Judgment[12]	neg[12]	_	_	
+9-25	560-561	a	Judgment[12]	neg[12]	_	_	
+9-26	562-573	reactionary	Judgment[12]	neg[12]	_	_	
+9-27	574-577	and	Judgment[12]	neg[12]	_	_	
+9-28	578-579	a	Judgment[12]	neg[12]	_	_	
+9-29	580-601	counter-revolutionary	Judgment[12]	neg[12]	_	_	
+9-30	601-602	.	_	_	_	_	
+
+#Text=Food can now be printed on one's 3-D printer, says the Comrade of Tech.
+10-1	603-607	Food	_	_	_	_	
+10-2	608-611	can	_	_	_	_	
+10-3	612-615	now	_	_	_	_	
+10-4	616-618	be	_	_	_	_	
+10-5	619-626	printed	_	_	_	_	
+10-6	627-629	on	_	_	_	_	
+10-7	630-635	one's	_	_	_	_	
+10-8	636-637	3	_	_	_	_	
+10-9	637-638	-	_	_	_	_	
+10-10	638-639	D	_	_	_	_	
+10-11	640-647	printer	_	_	_	_	
+10-12	647-648	,	_	_	_	_	
+10-13	649-653	says	_	_	_	_	
+10-14	654-657	the	_	_	_	_	
+10-15	658-665	Comrade	Judgment[13]	neg[13]	_	_	
+10-16	666-668	of	Judgment[13]	neg[13]	_	_	
+10-17	669-673	Tech	Judgment[13]	neg[13]	_	_	
+10-18	673-674	.	_	_	_	_	
+
+#Text=I'm tempted to scoff, 'Let them eat Bits & Bytes', but that is a trademarked name.
+11-1	675-678	I'm	_	_	_	_	
+11-2	679-686	tempted	_	_	_	_	
+11-3	687-689	to	_	_	_	_	
+11-4	690-695	scoff	Affect	neg	_	_	
+11-5	695-696	,	_	_	_	_	
+11-6	697-698	'	_	_	_	_	
+11-7	698-701	Let	Judgment[15]	neg[15]	_	_	
+11-8	702-706	them	Judgment[15]	neg[15]	_	_	
+11-9	707-710	eat	Judgment[15]	neg[15]	_	_	
+11-10	711-715	Bits	Judgment[15]	neg[15]	_	_	
+11-11	716-717	&	Judgment[15]	neg[15]	_	_	
+11-12	718-723	Bytes	Judgment[15]	neg[15]	_	_	
+11-13	723-724	'	_	_	_	_	
+11-14	724-725	,	_	_	_	_	
+11-15	726-729	but	_	_	_	_	
+11-16	730-734	that	_	_	_	_	
+11-17	735-737	is	_	_	_	_	
+11-18	738-739	a	_	_	_	_	
+11-19	740-751	trademarked	_	_	_	_	
+11-20	752-756	name	_	_	_	_	
+11-21	756-757	.	_	_	_	_	
+
+#Text=I listened to Douglas Coupland, who is sounding like a tech party hack more and more, talk about not being able to remember what it was like to not have the Internet.
+12-1	758-759	I	_	_	_	_	
+12-2	760-768	listened	_	_	_	_	
+12-3	769-771	to	_	_	_	_	
+12-4	772-779	Douglas	_	_	_	_	
+12-5	780-788	Coupland	_	_	_	_	
+12-6	788-789	,	_	_	_	_	
+12-7	790-793	who	_	_	_	_	
+12-8	794-796	is	_	_	_	_	
+12-9	797-805	sounding	_	_	_	_	
+12-10	806-810	like	_	_	_	_	
+12-11	811-812	a	_	_	_	_	
+12-12	813-817	tech	_	_	_	_	
+12-13	818-823	party	_	_	_	_	
+12-14	824-828	hack	Judgment	neg	_	_	
+12-15	829-833	more	_	_	_	_	
+12-16	834-837	and	_	_	_	_	
+12-17	838-842	more	_	_	_	_	
+12-18	842-843	,	_	_	_	_	
+12-19	844-848	talk	_	_	_	_	
+12-20	849-854	about	_	_	_	_	
+12-21	855-858	not	_	_	_	_	
+12-22	859-864	being	_	_	_	_	
+12-23	865-869	able	_	_	_	_	
+12-24	870-872	to	_	_	_	_	
+12-25	873-881	remember	_	_	_	_	
+12-26	882-886	what	_	_	_	_	
+12-27	887-889	it	_	_	_	_	
+12-28	890-893	was	_	_	_	_	
+12-29	894-898	like	_	_	_	_	
+12-30	899-901	to	_	_	_	_	
+12-31	902-905	not	_	_	_	_	
+12-32	906-910	have	_	_	_	_	
+12-33	911-914	the	_	_	_	_	
+12-34	915-923	Internet	_	_	_	_	
+12-35	923-924	.	_	_	_	_	
+
+#Text=He has a Wired Brain now.
+13-1	925-927	He	_	_	_	_	
+13-2	928-931	has	_	_	_	_	
+13-3	932-933	a	_	_	_	_	
+13-4	934-939	Wired	Judgment[17]	neg[17]	_	_	
+13-5	940-945	Brain	Judgment[17]	neg[17]	_	_	
+13-6	946-949	now	_	_	_	_	
+13-7	949-950	.	_	_	_	_	
+
+#Text=And he offered an anecdote to prove it, only the anecdote proved to be vague and flat and unpersuasive (like everything Mr Coupland has written after Generation X).My library has ditched half its collection in the past two years in the naive belief we'll soon be fully digital and want to be fully digital.
+14-1	951-954	And	_	_	_	_	
+14-2	955-957	he	_	_	_	_	
+14-3	958-965	offered	_	_	_	_	
+14-4	966-968	an	_	_	_	_	
+14-5	969-977	anecdote	_	_	_	_	
+14-6	978-980	to	_	_	_	_	
+14-7	981-986	prove	_	_	_	_	
+14-8	987-989	it	_	_	_	_	
+14-9	989-990	,	_	_	_	_	
+14-10	991-995	only	_	_	_	_	
+14-11	996-999	the	_	_	_	_	
+14-12	1000-1008	anecdote	_	_	_	_	
+14-13	1009-1015	proved	_	_	_	_	
+14-14	1016-1018	to	_	_	_	_	
+14-15	1019-1021	be	_	_	_	_	
+14-16	1022-1027	vague	Appreciation[18]	neg[18]	_	_	
+14-17	1028-1031	and	Appreciation[18]	neg[18]	_	_	
+14-18	1032-1036	flat	Appreciation[18]	neg[18]	_	_	
+14-19	1037-1040	and	Appreciation[18]	neg[18]	_	_	
+14-20	1041-1053	unpersuasive	Appreciation[18]	neg[18]	_	_	
+14-21	1054-1055	(	_	_	_	_	
+14-22	1055-1059	like	_	_	_	_	
+14-23	1060-1070	everything	_	_	_	_	
+14-24	1071-1073	Mr	_	_	_	_	
+14-25	1074-1082	Coupland	_	_	_	_	
+14-26	1083-1086	has	_	_	_	_	
+14-27	1087-1094	written	_	_	_	_	
+14-28	1095-1100	after	_	_	_	_	
+14-29	1101-1111	Generation	_	_	_	_	
+14-30	1112-1113	X	_	_	_	_	
+14-31	1113-1114	)	_	_	_	_	
+14-32	1114-1115	.	_	_	_	_	
+14-33	1115-1117	My	_	_	_	_	
+14-34	1118-1125	library	_	_	_	_	
+14-35	1126-1129	has	_	_	_	_	
+14-36	1130-1137	ditched	Appreciation	neg	_	_	
+14-37	1138-1142	half	_	_	_	_	
+14-38	1143-1146	its	_	_	_	_	
+14-39	1147-1157	collection	_	_	_	_	
+14-40	1158-1160	in	_	_	_	_	
+14-41	1161-1164	the	_	_	_	_	
+14-42	1165-1169	past	_	_	_	_	
+14-43	1170-1173	two	_	_	_	_	
+14-44	1174-1179	years	_	_	_	_	
+14-45	1180-1182	in	_	_	_	_	
+14-46	1183-1186	the	_	_	_	_	
+14-47	1187-1192	naive	_	_	_	_	
+14-48	1193-1199	belief	_	_	_	_	
+14-49	1200-1205	we'll	_	_	_	_	
+14-50	1206-1210	soon	_	_	_	_	
+14-51	1211-1213	be	_	_	_	_	
+14-52	1214-1219	fully	_	_	_	_	
+14-53	1220-1227	digital	_	_	_	_	
+14-54	1228-1231	and	_	_	_	_	
+14-55	1232-1236	want	_	_	_	_	
+14-56	1237-1239	to	_	_	_	_	
+14-57	1240-1242	be	_	_	_	_	
+14-58	1243-1248	fully	_	_	_	_	
+14-59	1249-1256	digital	_	_	_	_	
+14-60	1256-1257	.	_	_	_	_	
+
+#Text=But the avid readers I know still prefer paper to screens, except when travelling.
+15-1	1258-1261	But	_	_	_	_	
+15-2	1262-1265	the	_	_	_	_	
+15-3	1266-1270	avid	Judgment[20]	pos[20]	_	_	
+15-4	1271-1278	readers	Judgment[20]	pos[20]	_	_	
+15-5	1279-1280	I	_	_	_	_	
+15-6	1281-1285	know	_	_	_	_	
+15-7	1286-1291	still	_	_	_	_	
+15-8	1292-1298	prefer	Appreciation[21]	pos[21]	_	_	
+15-9	1299-1304	paper	Appreciation[21]	pos[21]	_	_	
+15-10	1305-1307	to	Appreciation[21]	pos[21]	_	_	
+15-11	1308-1315	screens	Appreciation[21]	pos[21]	_	_	
+15-12	1315-1316	,	_	_	_	_	
+15-13	1317-1323	except	_	_	_	_	
+15-14	1324-1328	when	_	_	_	_	
+15-15	1329-1339	travelling	_	_	_	_	
+15-16	1339-1340	.	_	_	_	_	
+
+#Text=And though I love my Netflix, streaming is ephemeral with limited selection and brief windows of opportunity.
+16-1	1341-1344	And	_	_	_	_	
+16-2	1345-1351	though	_	_	_	_	
+16-3	1352-1353	I	_	_	_	_	
+16-4	1354-1358	love	Appreciation	pos	_	_	
+16-5	1359-1361	my	_	_	_	_	
+16-6	1362-1369	Netflix	_	_	_	_	
+16-7	1369-1370	,	_	_	_	_	
+16-8	1371-1380	streaming	_	_	_	_	
+16-9	1381-1383	is	_	_	_	_	
+16-10	1384-1393	ephemeral	Appreciation	neg	_	_	
+16-11	1394-1398	with	_	_	_	_	
+16-12	1399-1406	limited	Appreciation[24]	neg[24]	_	_	
+16-13	1407-1416	selection	Appreciation[24]	neg[24]	_	_	
+16-14	1417-1420	and	Appreciation[24]	neg[24]	_	_	
+16-15	1421-1426	brief	Appreciation[24]	neg[24]	_	_	
+16-16	1427-1434	windows	Appreciation[24]	neg[24]	_	_	
+16-17	1435-1437	of	Appreciation[24]	neg[24]	_	_	
+16-18	1438-1449	opportunity	Appreciation[24]	neg[24]	_	_	
+16-19	1449-1450	.	_	_	_	_	
+
+#Text=Revolutions, as we know, do not lead to utopian worlds where everyone is free and equal.
+17-1	1451-1462	Revolutions	_	_	_	_	
+17-2	1462-1463	,	_	_	_	_	
+17-3	1464-1466	as	_	_	_	_	
+17-4	1467-1469	we	_	_	_	_	
+17-5	1470-1474	know	_	_	_	_	
+17-6	1474-1475	,	_	_	_	_	
+17-7	1476-1478	do	Appreciation[25]	neg[25]	_	_	
+17-8	1479-1482	not	Appreciation[25]	neg[25]	_	_	
+17-9	1483-1487	lead	Appreciation[25]	neg[25]	_	_	
+17-10	1488-1490	to	Appreciation[25]	neg[25]	_	_	
+17-11	1491-1498	utopian	Appreciation[25]|Appreciation[26]	neg[25]|pos[26]	_	_	
+17-12	1499-1505	worlds	Appreciation[25]	neg[25]	_	_	
+17-13	1506-1511	where	Appreciation[25]	neg[25]	_	_	
+17-14	1512-1520	everyone	Appreciation[25]	neg[25]	_	_	
+17-15	1521-1523	is	Appreciation[25]	neg[25]	_	_	
+17-16	1524-1528	free	Appreciation[25]|Appreciation[27]	neg[25]|pos[27]	_	_	
+17-17	1529-1532	and	Appreciation[25]|Appreciation[27]	neg[25]|pos[27]	_	_	
+17-18	1533-1538	equal	Appreciation[25]|Appreciation[27]	neg[25]|pos[27]	_	_	
+17-19	1538-1539	.	_	_	_	_	
+
+#Text=There's an Orwellian perversity to Tech Rebel's claims that Net Neutrality will bring about an Earthly Paradise when what we really see is a move to One Bookstore, One Taxi Dispatcher, One Encyclopedia, and One Index to the Whole World.
+18-1	1540-1547	There's	_	_	_	_	
+18-2	1548-1550	an	_	_	_	_	
+18-3	1551-1560	Orwellian	Judgment[28]	neg[28]	_	_	
+18-4	1561-1571	perversity	Judgment[28]	neg[28]	_	_	
+18-5	1572-1574	to	_	_	_	_	
+18-6	1575-1579	Tech	Judgment[29]	neg[29]	_	_	
+18-7	1580-1587	Rebel's	Judgment[29]	neg[29]	_	_	
+18-8	1588-1594	claims	_	_	_	_	
+18-9	1595-1599	that	_	_	_	_	
+18-10	1600-1603	Net	_	_	_	_	
+18-11	1604-1614	Neutrality	_	_	_	_	
+18-12	1615-1619	will	_	_	_	_	
+18-13	1620-1625	bring	_	_	_	_	
+18-14	1626-1631	about	_	_	_	_	
+18-15	1632-1634	an	_	_	_	_	
+18-16	1635-1642	Earthly	Appreciation[30]	pos[30]	_	_	
+18-17	1643-1651	Paradise	Appreciation[30]	pos[30]	_	_	
+18-18	1652-1656	when	_	_	_	_	
+18-19	1657-1661	what	_	_	_	_	
+18-20	1662-1664	we	_	_	_	_	
+18-21	1665-1671	really	_	_	_	_	
+18-22	1672-1675	see	_	_	_	_	
+18-23	1676-1678	is	_	_	_	_	
+18-24	1679-1680	a	_	_	_	_	
+18-25	1681-1685	move	Appreciation[31]	neg[31]	_	_	
+18-26	1686-1688	to	Appreciation[31]	neg[31]	_	_	
+18-27	1689-1692	One	Appreciation[31]	neg[31]	_	_	
+18-28	1693-1702	Bookstore	Appreciation[31]	neg[31]	_	_	
+18-29	1702-1703	,	Appreciation[31]	neg[31]	_	_	
+18-30	1704-1707	One	Appreciation[31]	neg[31]	_	_	
+18-31	1708-1712	Taxi	Appreciation[31]	neg[31]	_	_	
+18-32	1713-1723	Dispatcher	Appreciation[31]	neg[31]	_	_	
+18-33	1723-1724	,	Appreciation[31]	neg[31]	_	_	
+18-34	1725-1728	One	Appreciation[31]	neg[31]	_	_	
+18-35	1729-1741	Encyclopedia	Appreciation[31]	neg[31]	_	_	
+18-36	1741-1742	,	Appreciation[31]	neg[31]	_	_	
+18-37	1743-1746	and	Appreciation[31]	neg[31]	_	_	
+18-38	1747-1750	One	Appreciation[31]	neg[31]	_	_	
+18-39	1751-1756	Index	Appreciation[31]	neg[31]	_	_	
+18-40	1757-1759	to	Appreciation[31]	neg[31]	_	_	
+18-41	1760-1763	the	Appreciation[31]	neg[31]	_	_	
+18-42	1764-1769	Whole	Appreciation[31]	neg[31]	_	_	
+18-43	1770-1775	World	Appreciation[31]	neg[31]	_	_	
+18-44	1775-1776	.	_	_	_	_	
+
+#Text=The Robber Barons of the Gilded Age have returned and joining them are the Silicon Sultans of the Information Age.
+19-1	1777-1780	The	_	_	_	_	
+19-2	1781-1787	Robber	Judgment[32]	neg[32]	_	_	
+19-3	1788-1794	Barons	Judgment[32]	neg[32]	_	_	
+19-4	1795-1797	of	_	_	_	_	
+19-5	1798-1801	the	_	_	_	_	
+19-6	1802-1808	Gilded	_	_	_	_	
+19-7	1809-1812	Age	_	_	_	_	
+19-8	1813-1817	have	_	_	_	_	
+19-9	1818-1826	returned	_	_	_	_	
+19-10	1827-1830	and	_	_	_	_	
+19-11	1831-1838	joining	_	_	_	_	
+19-12	1839-1843	them	_	_	_	_	
+19-13	1844-1847	are	_	_	_	_	
+19-14	1848-1851	the	_	_	_	_	
+19-15	1852-1859	Silicon	Judgment[33]	neg[33]	_	_	
+19-16	1860-1867	Sultans	Judgment[33]	neg[33]	_	_	
+19-17	1868-1870	of	_	_	_	_	
+19-18	1871-1874	the	_	_	_	_	
+19-19	1875-1886	Information	_	_	_	_	
+19-20	1887-1890	Age	_	_	_	_	
+19-21	1890-1891	.	_	_	_	_	
+
+#Text=And we're called Users, like a drug addict, and yet we are the ones being used.
+20-1	1892-1895	And	_	_	_	_	
+20-2	1896-1901	we're	_	_	_	_	
+20-3	1902-1908	called	_	_	_	_	
+20-4	1909-1914	Users	Judgment	neg	_	_	
+20-5	1914-1915	,	_	_	_	_	
+20-6	1916-1920	like	Judgment[35]	neg[35]	_	_	
+20-7	1921-1922	a	Judgment[35]	neg[35]	_	_	
+20-8	1923-1927	drug	Judgment[35]	neg[35]	_	_	
+20-9	1928-1934	addict	Judgment[35]	neg[35]	_	_	
+20-10	1934-1935	,	_	_	_	_	
+20-11	1936-1939	and	_	_	_	_	
+20-12	1940-1943	yet	_	_	_	_	
+20-13	1944-1946	we	Appreciation[36]	neg[36]	_	_	
+20-14	1947-1950	are	Appreciation[36]	neg[36]	_	_	
+20-15	1951-1954	the	Appreciation[36]	neg[36]	_	_	
+20-16	1955-1959	ones	Appreciation[36]	neg[36]	_	_	
+20-17	1960-1965	being	Appreciation[36]	neg[36]	_	_	
+20-18	1966-1970	used	Appreciation[36]	neg[36]	_	_	
+20-19	1970-1971	.	_	_	_	_	
+
+#Text=The Bread and Circuses of the Internet keep us entertained while wealth and power becomes concentrated into the hands of a very select few.
+21-1	1972-1975	The	Appreciation[37]	neg[37]	_	_	
+21-2	1976-1981	Bread	Appreciation[37]	neg[37]	_	_	
+21-3	1982-1985	and	Appreciation[37]	neg[37]	_	_	
+21-4	1986-1994	Circuses	Appreciation[37]	neg[37]	_	_	
+21-5	1995-1997	of	Appreciation[37]	neg[37]	_	_	
+21-6	1998-2001	the	Appreciation[37]	neg[37]	_	_	
+21-7	2002-2010	Internet	Appreciation[37]	neg[37]	_	_	
+21-8	2011-2015	keep	Appreciation[37]	neg[37]	_	_	
+21-9	2016-2018	us	Appreciation[37]	neg[37]	_	_	
+21-10	2019-2030	entertained	Appreciation[37]	neg[37]	_	_	
+21-11	2031-2036	while	Appreciation[37]	neg[37]	_	_	
+21-12	2037-2043	wealth	Appreciation[37]	neg[37]	_	_	
+21-13	2044-2047	and	Appreciation[37]	neg[37]	_	_	
+21-14	2048-2053	power	Appreciation[37]	neg[37]	_	_	
+21-15	2054-2061	becomes	Appreciation[37]	neg[37]	_	_	
+21-16	2062-2074	concentrated	Appreciation[37]	neg[37]	_	_	
+21-17	2075-2079	into	Appreciation[37]	neg[37]	_	_	
+21-18	2080-2083	the	Appreciation[37]	neg[37]	_	_	
+21-19	2084-2089	hands	Appreciation[37]	neg[37]	_	_	
+21-20	2090-2092	of	Appreciation[37]	neg[37]	_	_	
+21-21	2093-2094	a	Appreciation[37]	neg[37]	_	_	
+21-22	2095-2099	very	Appreciation[37]	neg[37]	Force	up	
+21-23	2100-2106	select	Appreciation[37]	neg[37]	_	_	
+21-24	2107-2110	few	Appreciation[37]	neg[37]	_	_	
+21-25	2110-2111	.	_	_	_	_	
+
+#Text=Aldous Huxley, Douglas Adams, and Neil Postman had it right.
+22-1	2112-2118	Aldous	_	_	_	_	
+22-2	2119-2125	Huxley	_	_	_	_	
+22-3	2125-2126	,	_	_	_	_	
+22-4	2127-2134	Douglas	_	_	_	_	
+22-5	2135-2140	Adams	_	_	_	_	
+22-6	2140-2141	,	_	_	_	_	
+22-7	2142-2145	and	_	_	_	_	
+22-8	2146-2150	Neil	_	_	_	_	
+22-9	2151-2158	Postman	_	_	_	_	
+22-10	2159-2162	had	Judgment[38]	pos[38]	_	_	
+22-11	2163-2165	it	Judgment[38]	pos[38]	_	_	
+22-12	2166-2171	right	Judgment[38]	pos[38]	_	_	
+22-13	2171-2172	.	_	_	_	_	
+
+#Text=We are amusing ourselves to death.
+23-1	2173-2175	We	_	_	_	_	
+23-2	2176-2179	are	_	_	_	_	
+23-3	2180-2187	amusing	Judgment[39]	neg[39]	_	_	
+23-4	2188-2197	ourselves	Judgment[39]	neg[39]	_	_	
+23-5	2198-2200	to	Judgment[39]	neg[39]	_	_	
+23-6	2201-2206	death	Judgment[39]	neg[39]	_	_	
+23-7	2206-2207	.	_	_	_	_	
+
+#Text=And I'm reminded of that scene in Ninotchka where Melvyn Douglas turns on the radio while romancing Greta Garbo and says his radio is 'a little box that you buy on the installment plan and before you tune it in, they tell you there's a new model out.'
+24-1	2208-2211	And	_	_	_	_	
+24-2	2212-2215	I'm	_	_	_	_	
+24-3	2216-2224	reminded	_	_	_	_	
+24-4	2225-2227	of	_	_	_	_	
+24-5	2228-2232	that	_	_	_	_	
+24-6	2233-2238	scene	_	_	_	_	
+24-7	2239-2241	in	_	_	_	_	
+24-8	2242-2251	Ninotchka	_	_	_	_	
+24-9	2252-2257	where	_	_	_	_	
+24-10	2258-2264	Melvyn	_	_	_	_	
+24-11	2265-2272	Douglas	_	_	_	_	
+24-12	2273-2278	turns	_	_	_	_	
+24-13	2279-2281	on	_	_	_	_	
+24-14	2282-2285	the	_	_	_	_	
+24-15	2286-2291	radio	_	_	_	_	
+24-16	2292-2297	while	_	_	_	_	
+24-17	2298-2307	romancing	_	_	_	_	
+24-18	2308-2313	Greta	_	_	_	_	
+24-19	2314-2319	Garbo	_	_	_	_	
+24-20	2320-2323	and	_	_	_	_	
+24-21	2324-2328	says	_	_	_	_	
+24-22	2329-2332	his	_	_	_	_	
+24-23	2333-2338	radio	_	_	_	_	
+24-24	2339-2341	is	_	_	_	_	
+24-25	2342-2343	'	_	_	_	_	
+24-26	2343-2344	a	_	_	_	_	
+24-27	2345-2351	little	_	_	_	_	
+24-28	2352-2355	box	_	_	_	_	
+24-29	2356-2360	that	_	_	_	_	
+24-30	2361-2364	you	Appreciation[40]	neg[40]	_	_	
+24-31	2365-2368	buy	Appreciation[40]	neg[40]	_	_	
+24-32	2369-2371	on	Appreciation[40]	neg[40]	_	_	
+24-33	2372-2375	the	Appreciation[40]	neg[40]	_	_	
+24-34	2376-2387	installment	Appreciation[40]	neg[40]	_	_	
+24-35	2388-2392	plan	Appreciation[40]	neg[40]	_	_	
+24-36	2393-2396	and	Appreciation[40]	neg[40]	_	_	
+24-37	2397-2403	before	Appreciation[40]	neg[40]	_	_	
+24-38	2404-2407	you	Appreciation[40]	neg[40]	_	_	
+24-39	2408-2412	tune	Appreciation[40]	neg[40]	_	_	
+24-40	2413-2415	it	Appreciation[40]	neg[40]	_	_	
+24-41	2416-2418	in	Appreciation[40]	neg[40]	_	_	
+24-42	2418-2419	,	Appreciation[40]	neg[40]	_	_	
+24-43	2420-2424	they	Appreciation[40]	neg[40]	_	_	
+24-44	2425-2429	tell	Appreciation[40]	neg[40]	_	_	
+24-45	2430-2433	you	Appreciation[40]	neg[40]	_	_	
+24-46	2434-2441	there's	Appreciation[40]	neg[40]	_	_	
+24-47	2442-2443	a	Appreciation[40]	neg[40]	_	_	
+24-48	2444-2447	new	Appreciation[40]	neg[40]	_	_	
+24-49	2448-2453	model	Appreciation[40]	neg[40]	_	_	
+24-50	2454-2457	out	Appreciation[40]	neg[40]	_	_	
+24-51	2457-2458	.	_	_	_	_	
+24-52	2458-2459	'	_	_	_	_	
+
+#Text=Who's watching the smart watchmen?
+25-1	2459-2464	Who's	Judgment[41]	neg[41]	_	_	
+25-2	2465-2473	watching	Judgment[41]	neg[41]	_	_	
+25-3	2474-2477	the	Judgment[41]	neg[41]	_	_	
+25-4	2478-2483	smart	Judgment[41]	neg[41]	_	_	
+25-5	2484-2492	watchmen	Judgment[41]	neg[41]	_	_	
+25-6	2492-2493	?	_	_	_	_	

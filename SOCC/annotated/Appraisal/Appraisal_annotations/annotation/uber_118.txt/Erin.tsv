@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=lost,,, like everyone else,,, Lawyers collect in Toronto, work load is on the way
+1-1	0-4	lost	Judgment	neg	
+1-2	4-5	,	_	_	
+1-3	5-6	,	_	_	
+1-4	6-7	,	_	_	
+1-5	8-12	like	_	_	
+1-6	13-21	everyone	_	_	
+1-7	22-26	else	_	_	
+1-8	26-27	,	_	_	
+1-9	27-28	,	_	_	
+1-10	28-29	,	_	_	
+1-11	30-37	Lawyers	_	_	
+1-12	38-45	collect	_	_	
+1-13	46-48	in	_	_	
+1-14	49-56	Toronto	_	_	
+1-15	56-57	,	_	_	
+1-16	58-62	work	_	_	
+1-17	63-67	load	_	_	
+1-18	68-70	is	_	_	
+1-19	71-73	on	Appreciation[2]	neg[2]	
+1-20	74-77	the	Appreciation[2]	neg[2]	
+1-21	78-81	way	Appreciation[2]	neg[2]	

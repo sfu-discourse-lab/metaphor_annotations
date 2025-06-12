@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=you cannot integrate people THAT DEEM OTHERS AS  infidels.
+1-1	0-3	you	_	
+1-2	4-10	cannot	NEG	
+1-3	11-20	integrate	SCOPE[2]	
+1-4	21-27	people	SCOPE[2]	
+1-5	28-32	THAT	SCOPE[2]|FOCUS[3]	
+1-6	33-37	DEEM	SCOPE[2]|FOCUS[3]	
+1-7	38-44	OTHERS	SCOPE[2]|FOCUS[3]	
+1-8	45-47	AS	SCOPE[2]|FOCUS[3]	
+1-9	49-57	infidels	SCOPE[2]|FOCUS[3]	
+1-10	57-58	.	_	

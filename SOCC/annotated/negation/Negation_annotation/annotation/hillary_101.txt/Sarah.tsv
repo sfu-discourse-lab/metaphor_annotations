@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=There were KKK members who voted for Trump.
+1-1	0-5	There	_	
+1-2	6-10	were	_	
+1-3	11-14	KKK	_	
+1-4	15-22	members	_	
+1-5	23-26	who	_	
+1-6	27-32	voted	_	
+1-7	33-36	for	_	
+1-8	37-42	Trump	_	
+1-9	42-43	.	_	
+
+#Text=There were Maoists and Stalinists who voted for Clinton.
+2-1	45-50	There	_	
+2-2	51-55	were	_	
+2-3	56-63	Maoists	_	
+2-4	64-67	and	_	
+2-5	68-78	Stalinists	_	
+2-6	79-82	who	_	
+2-7	83-88	voted	_	
+2-8	89-92	for	_	
+2-9	93-100	Clinton	_	
+2-10	100-101	.	_	
+
+#Text=Did sex play a role.
+3-1	103-106	Did	_	
+3-2	107-110	sex	_	
+3-3	111-115	play	_	
+3-4	116-117	a	_	
+3-5	118-122	role	_	
+3-6	122-123	.	_	
+
+#Text=Sure.
+4-1	125-129	Sure	_	
+4-2	129-130	.	_	
+
+#Text=Some people voted for Hillary just because she was a women.
+5-1	132-136	Some	_	
+5-2	137-143	people	_	
+5-3	144-149	voted	_	
+5-4	150-153	for	_	
+5-5	154-161	Hillary	_	
+5-6	162-166	just	_	
+5-7	167-174	because	_	
+5-8	175-178	she	_	
+5-9	179-182	was	_	
+5-10	183-184	a	_	
+5-11	185-190	women	_	
+5-12	190-191	.	_	
+
+#Text=Some people voted against her just because she was a woman.
+6-1	193-197	Some	_	
+6-2	198-204	people	_	
+6-3	205-210	voted	_	
+6-4	211-218	against	_	
+6-5	219-222	her	_	
+6-6	223-227	just	_	
+6-7	228-235	because	_	
+6-8	236-239	she	_	
+6-9	240-243	was	_	
+6-10	244-245	a	_	
+6-11	246-251	woman	_	
+6-12	251-252	.	_	
+
+#Text=In depth analysis has just begun but my guess is that Trump won because all the people outside the cities are disenfranchised and wanted their voice heard and Hillary did not speak to them.A woman will be president when she fits the voice of the electorate.
+7-1	254-256	In	_	
+7-2	257-262	depth	_	
+7-3	263-271	analysis	_	
+7-4	272-275	has	_	
+7-5	276-280	just	_	
+7-6	281-286	begun	_	
+7-7	287-290	but	_	
+7-8	291-293	my	_	
+7-9	294-299	guess	_	
+7-10	300-302	is	_	
+7-11	303-307	that	_	
+7-12	308-313	Trump	_	
+7-13	314-317	won	_	
+7-14	318-325	because	_	
+7-15	326-329	all	_	
+7-16	330-333	the	_	
+7-17	334-340	people	_	
+7-18	341-348	outside	_	
+7-19	349-352	the	_	
+7-20	353-359	cities	_	
+7-21	360-363	are	_	
+7-22	364-379	disenfranchised	_	
+7-23	380-383	and	_	
+7-24	384-390	wanted	_	
+7-25	391-396	their	_	
+7-26	397-402	voice	_	
+7-27	403-408	heard	_	
+7-28	409-412	and	_	
+7-29	413-420	Hillary	_	
+7-30	421-424	did	_	
+7-31	425-428	not	NEG	
+7-32	429-434	speak	SCOPE[2]	
+7-33	435-437	to	SCOPE[2]	
+7-34	438-444	them.A	SCOPE[2]|FOCUS[3]	
+7-35	445-450	woman	_	
+7-36	451-455	will	_	
+7-37	456-458	be	_	
+7-38	459-468	president	_	
+7-39	469-473	when	_	
+7-40	474-477	she	_	
+7-41	478-482	fits	_	
+7-42	483-486	the	_	
+7-43	487-492	voice	_	
+7-44	493-495	of	_	
+7-45	496-499	the	_	
+7-46	500-510	electorate	_	
+7-47	510-511	.	_	
+
+#Text=Hillary did not lose because she was a woman.
+8-1	513-520	Hillary	_	
+8-2	521-524	did	_	
+8-3	525-528	not	NEG	
+8-4	529-533	lose	SCOPE[5]	
+8-5	534-541	because	SCOPE[5]|FOCUS[6]	
+8-6	542-545	she	SCOPE[5]|FOCUS[6]	
+8-7	546-549	was	SCOPE[5]|FOCUS[6]	
+8-8	550-551	a	SCOPE[5]|FOCUS[6]	
+8-9	552-557	woman	SCOPE[5]|FOCUS[6]	
+8-10	557-558	.	_	
+
+#Text=Hillary lost because she was Hillary.
+9-1	560-567	Hillary	_	
+9-2	568-572	lost	_	
+9-3	573-580	because	_	
+9-4	581-584	she	_	
+9-5	585-588	was	_	
+9-6	589-596	Hillary	_	
+9-7	596-597	.	_	

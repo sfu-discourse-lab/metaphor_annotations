@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=What do you tell your sons when men are falsely accused on a daily basis.
+1-1	0-4	What	Judgment[1]	neg[1]	_	_	
+1-2	5-7	do	Judgment[1]	neg[1]	_	_	
+1-3	8-11	you	Judgment[1]	neg[1]	_	_	
+1-4	12-16	tell	Judgment[1]	neg[1]	_	_	
+1-5	17-21	your	Judgment[1]	neg[1]	_	_	
+1-6	22-26	sons	Judgment[1]	neg[1]	_	_	
+1-7	27-31	when	Judgment[1]	neg[1]	_	_	
+1-8	32-35	men	Judgment[1]	neg[1]	_	_	
+1-9	36-39	are	Judgment[1]	neg[1]	_	_	
+1-10	40-47	falsely	Judgment[1]|Judgment[2]	neg[1]|neg[2]	_	_	
+1-11	48-55	accused	Judgment[1]|Judgment[2]	neg[1]|neg[2]	_	_	
+1-12	56-58	on	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-13	59-60	a	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-14	61-66	daily	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-15	67-72	basis	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-16	72-73	.	_	_	_	_	
+
+#Text=What are you going to tell your son who just lost a placement in a university grad program, because he didn't fit the quota..?
+2-1	74-78	What	Judgment[3]	neg[3]	_	_	
+2-2	79-82	are	Judgment[3]	neg[3]	_	_	
+2-3	83-86	you	Judgment[3]	neg[3]	_	_	
+2-4	87-92	going	Judgment[3]	neg[3]	_	_	
+2-5	93-95	to	Judgment[3]	neg[3]	_	_	
+2-6	96-100	tell	Judgment[3]	neg[3]	_	_	
+2-7	101-105	your	Judgment[3]	neg[3]	_	_	
+2-8	106-109	son	Judgment[3]	neg[3]	_	_	
+2-9	110-113	who	Judgment[3]	neg[3]	_	_	
+2-10	114-118	just	Judgment[3]	neg[3]	_	_	
+2-11	119-123	lost	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-12	124-125	a	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-13	126-135	placement	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-14	136-138	in	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-15	139-140	a	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-16	141-151	university	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-17	152-156	grad	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-18	157-164	program	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	_	_	
+2-19	164-165	,	Judgment[3]	neg[3]	_	_	
+2-20	166-173	because	Judgment[3]	neg[3]	_	_	
+2-21	174-176	he	Judgment[3]	neg[3]	_	_	
+2-22	177-183	didn't	Judgment[3]	neg[3]	_	_	
+2-23	184-187	fit	Judgment[3]	neg[3]	_	_	
+2-24	188-191	the	Judgment[3]	neg[3]	_	_	
+2-25	192-197	quota	Judgment[3]|Appreciation[5]	neg[3]|neg[5]	_	_	
+2-26	197-198	.	_	_	_	_	
+2-27	198-199	.	_	_	_	_	
+2-28	199-200	?	_	_	_	_	
+
+#Text=Women are no more special than men and we need to stop this All.
+3-1	200-205	Women	_	_	_	_	
+3-2	206-209	are	_	_	_	_	
+3-3	210-212	no	Judgment[6]	neu[6]	_	_	
+3-4	213-217	more	Judgment[6]	neu[6]	_	_	
+3-5	218-225	special	Judgment[6]	neu[6]	_	_	
+3-6	226-230	than	Judgment[6]	neu[6]	_	_	
+3-7	231-234	men	Judgment[6]	neu[6]	_	_	
+3-8	235-238	and	_	_	_	_	
+3-9	239-241	we	_	_	_	_	
+3-10	242-246	need	Judgment[7]	neg[7]	_	_	
+3-11	247-249	to	Judgment[7]	neg[7]	_	_	
+3-12	250-254	stop	Judgment[7]	neg[7]	_	_	
+3-13	255-259	this	Judgment[7]	neg[7]	_	_	
+3-14	260-263	All	_	_	_	_	
+3-15	263-264	.	_	_	_	_	
+
+#Text=Women.
+4-1	265-270	Women	Judgment[8]	neg[8]	_	_	
+4-2	270-271	.	Judgment[8]	neg[8]	_	_	
+
+#Text=Good.
+5-1	272-276	Good	Judgment[8]	neg[8]	_	_	
+5-2	276-277	.	Judgment[8]	neg[8]	_	_	
+
+#Text=All.
+6-1	278-281	All	Judgment[8]	neg[8]	_	_	
+6-2	281-282	.	Judgment[8]	neg[8]	_	_	
+
+#Text=Men.
+7-1	283-286	Men	Judgment[8]	neg[8]	_	_	
+7-2	286-287	.	Judgment[8]	neg[8]	_	_	
+
+#Text=Bad.
+8-1	288-291	Bad	Judgment[8]	neg[8]	_	_	
+8-2	291-292	.	_	_	_	_	
+
+#Text=Goodness, imagine if a woman was actually feminine one day, oh the horrors...
+9-1	293-301	Goodness	Judgment[9]	neg[9]	_	_	
+9-2	301-302	,	Judgment[9]	neg[9]	_	_	
+9-3	303-310	imagine	Judgment[9]	neg[9]	_	_	
+9-4	311-313	if	Judgment[9]	neg[9]	_	_	
+9-5	314-315	a	Judgment[9]	neg[9]	_	_	
+9-6	316-321	woman	Judgment[9]	neg[9]	_	_	
+9-7	322-325	was	Judgment[9]	neg[9]	_	_	
+9-8	326-334	actually	Judgment[9]	neg[9]	_	_	
+9-9	335-343	feminine	Judgment[9]	neg[9]	_	_	
+9-10	344-347	one	Judgment[9]	neg[9]	_	_	
+9-11	348-351	day	Judgment[9]	neg[9]	_	_	
+9-12	351-352	,	Judgment[9]	neg[9]	_	_	
+9-13	353-355	oh	Judgment[9]	neg[9]	_	_	
+9-14	356-359	the	Judgment[9]	neg[9]	_	_	
+9-15	360-367	horrors	Judgment[9]|Appreciation[10]	neg[9]|neg[10]	_	_	
+9-16	367-368	.	_	_	_	_	
+9-17	368-369	.	_	_	_	_	
+9-18	369-370	.	_	_	_	_	

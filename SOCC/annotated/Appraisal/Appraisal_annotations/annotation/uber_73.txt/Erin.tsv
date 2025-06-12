@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=ROTFLMAO - hellloooo , no insurance, tax fraud,,, great starts, not to mention the Employment standards act,,, its hard to find anything write with them must be why so many make up this nonsense,,,
+1-1	0-8	ROTFLMAO	Judgment	neg	
+1-2	9-10	-	_	_	
+1-3	11-20	hellloooo	Judgment	neg	
+1-4	21-22	,	_	_	
+1-5	23-25	no	Judgment[3]	neg[3]	
+1-6	26-35	insurance	Judgment[3]	neg[3]	
+1-7	35-36	,	Judgment[3]	neg[3]	
+1-8	37-40	tax	Judgment[3]	neg[3]	
+1-9	41-46	fraud	Judgment[3]	neg[3]	
+1-10	46-47	,	_	_	
+1-11	47-48	,	_	_	
+1-12	48-49	,	_	_	
+1-13	50-55	great	Appreciation	neg	
+1-14	56-62	starts	_	_	
+1-15	62-63	,	_	_	
+1-16	64-67	not	Appreciation[5]	neg[5]	
+1-17	68-70	to	Appreciation[5]	neg[5]	
+1-18	71-78	mention	Appreciation[5]	neg[5]	
+1-19	79-82	the	_	_	
+1-20	83-93	Employment	_	_	
+1-21	94-103	standards	_	_	
+1-22	104-107	act	_	_	
+1-23	107-108	,	_	_	
+1-24	108-109	,	_	_	
+1-25	109-110	,	_	_	
+1-26	111-114	its	_	_	
+1-27	115-119	hard	Appreciation	neg	
+1-28	120-122	to	_	_	
+1-29	123-127	find	_	_	
+1-30	128-136	anything	_	_	
+1-31	137-142	write	_	_	
+1-32	143-147	with	_	_	
+1-33	148-152	them	_	_	
+1-34	153-157	must	_	_	
+1-35	158-160	be	_	_	
+1-36	161-164	why	_	_	
+1-37	165-167	so	_	_	
+1-38	168-172	many	_	_	
+1-39	173-177	make	Judgment[7]	neg[7]	
+1-40	178-180	up	Judgment[7]	neg[7]	
+1-41	181-185	this	Judgment[7]	neg[7]	
+1-42	186-194	nonsense	Judgment[7]|Appreciation[8]	neg[7]|neg[8]	
+1-43	194-195	,	_	_	
+1-44	195-196	,	_	_	
+1-45	196-197	,	_	_	

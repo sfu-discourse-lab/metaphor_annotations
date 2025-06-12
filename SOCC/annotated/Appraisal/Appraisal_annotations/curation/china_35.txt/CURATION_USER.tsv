@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=In WW 1 the 'Canadian' Army was predominantly citizens and attestation papers often show the next of kin as a parent/s or spouse living in UK.
+1-1	0-2	In	_	_	
+1-2	3-5	WW	_	_	
+1-3	6-7	1	_	_	
+1-4	8-11	the	_	_	
+1-5	12-13	'	_	_	
+1-6	13-21	Canadian	Appreciation	neg	
+1-7	21-22	'	_	_	
+1-8	23-27	Army	_	_	
+1-9	28-31	was	_	_	
+1-10	32-45	predominantly	_	_	
+1-11	46-54	citizens	_	_	
+1-12	55-58	and	_	_	
+1-13	59-70	attestation	_	_	
+1-14	71-77	papers	_	_	
+1-15	78-83	often	_	_	
+1-16	84-88	show	Appreciation[2]	neg[2]	
+1-17	89-92	the	Appreciation[2]	neg[2]	
+1-18	93-97	next	Appreciation[2]	neg[2]	
+1-19	98-100	of	Appreciation[2]	neg[2]	
+1-20	101-104	kin	Appreciation[2]	neg[2]	
+1-21	105-107	as	Appreciation[2]	neg[2]	
+1-22	108-109	a	Appreciation[2]	neg[2]	
+1-23	110-116	parent	Appreciation[2]	neg[2]	
+1-24	116-117	/	Appreciation[2]	neg[2]	
+1-25	117-118	s	Appreciation[2]	neg[2]	
+1-26	119-121	or	Appreciation[2]	neg[2]	
+1-27	122-128	spouse	Appreciation[2]	neg[2]	
+1-28	129-135	living	Appreciation[2]	neg[2]	
+1-29	136-138	in	Appreciation[2]	neg[2]	
+1-30	139-141	UK	Appreciation[2]	neg[2]	
+1-31	141-142	.	_	_	

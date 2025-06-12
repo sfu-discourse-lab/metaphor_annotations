@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Good thing too only the conservative base will be fooled.
+1-1	0-4	Good	Appreciation[1]	pos[1]	
+1-2	5-10	thing	Appreciation[1]	pos[1]	
+1-3	11-14	too	Appreciation[1]	pos[1]	
+1-4	15-19	only	Appreciation[1]	pos[1]	
+1-5	20-23	the	Appreciation[1]	pos[1]	
+1-6	24-36	conservative	Appreciation[1]	pos[1]	
+1-7	37-41	base	Appreciation[1]	pos[1]	
+1-8	42-46	will	Appreciation[1]	pos[1]	
+1-9	47-49	be	Appreciation[1]	pos[1]	
+1-10	50-56	fooled	Appreciation[1]|Judgment[2]	pos[1]|neg[2]	
+1-11	56-57	.	_	_	

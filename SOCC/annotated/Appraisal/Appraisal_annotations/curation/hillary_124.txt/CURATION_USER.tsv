@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=too much time in law library.
+1-1	0-3	too	Judgment[1]	neg[1]	Force[1]|Force[2]	up[1]|up[2]	
+1-2	4-8	much	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-3	9-13	time	Judgment[1]	neg[1]	_	_	
+1-4	14-16	in	Judgment[1]	neg[1]	_	_	
+1-5	17-20	law	Judgment[1]	neg[1]	_	_	
+1-6	21-28	library	Judgment[1]	neg[1]	_	_	
+1-7	28-29	.	_	_	_	_	
+
+#Text=Don't understand public policy.
+2-1	30-35	Don't	Judgment[2]	neg[2]	_	_	
+2-2	36-46	understand	Judgment[2]	neg[2]	_	_	
+2-3	47-53	public	Judgment[2]	neg[2]	_	_	
+2-4	54-60	policy	Judgment[2]	neg[2]	_	_	
+2-5	60-61	.	_	_	_	_	

@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=She lost because she barely campaigned and thought she was coasting to a foregone coronation.
+1-1	0-3	She	_	
+1-2	4-8	lost	_	
+1-3	9-16	because	_	
+1-4	17-20	she	_	
+1-5	21-27	barely	_	
+1-6	28-38	campaigned	_	
+1-7	39-42	and	_	
+1-8	43-50	thought	_	
+1-9	51-54	she	_	
+1-10	55-58	was	_	
+1-11	59-67	coasting	_	
+1-12	68-70	to	_	
+1-13	71-72	a	_	
+1-14	73-81	foregone	_	
+1-15	82-92	coronation	_	
+1-16	92-93	.	_	
+
+#Text=She wouldn't campaign for a week at a stretch.
+2-1	94-97	She	_	
+2-2	98-106	wouldn't	NEG	
+2-3	107-115	campaign	SCOPE[2]	
+2-4	116-119	for	SCOPE[2]	
+2-5	120-121	a	SCOPE[2]|FOCUS[3]	
+2-6	122-126	week	SCOPE[2]|FOCUS[3]	
+2-7	127-129	at	SCOPE[2]|FOCUS[3]	
+2-8	130-131	a	SCOPE[2]|FOCUS[3]	
+2-9	132-139	stretch	SCOPE[2]|FOCUS[3]	
+2-10	139-140	.	_	
+
+#Text=Meanwhile Trump was out there killing himself- at the end doing five rallies a day.
+3-1	141-150	Meanwhile	_	
+3-2	151-156	Trump	_	
+3-3	157-160	was	_	
+3-4	161-164	out	_	
+3-5	165-170	there	_	
+3-6	171-178	killing	_	
+3-7	179-186	himself	_	
+3-8	186-187	-	_	
+3-9	188-190	at	_	
+3-10	191-194	the	_	
+3-11	195-198	end	_	
+3-12	199-204	doing	_	
+3-13	205-209	five	_	
+3-14	210-217	rallies	_	
+3-15	218-219	a	_	
+3-16	220-223	day	_	
+3-17	223-224	.	_	

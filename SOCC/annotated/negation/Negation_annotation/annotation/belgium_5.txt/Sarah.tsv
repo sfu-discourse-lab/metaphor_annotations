@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text='Honey, do you remember where we put that million immigrants?'
+1-1	0-1	'	
+1-2	1-6	Honey	
+1-3	6-7	,	
+1-4	8-10	do	
+1-5	11-14	you	
+1-6	15-23	remember	
+1-7	24-29	where	
+1-8	30-32	we	
+1-9	33-36	put	
+1-10	37-41	that	
+1-11	42-49	million	
+1-12	50-60	immigrants	
+1-13	60-61	?	
+1-14	61-62	'	
+
+#Text=British public must be told truth about immigration figures ahead of EU referendum, says watchdog - The Telegraph
+2-1	62-69	British	
+2-2	70-76	public	
+2-3	77-81	must	
+2-4	82-84	be	
+2-5	85-89	told	
+2-6	90-95	truth	
+2-7	96-101	about	
+2-8	102-113	immigration	
+2-9	114-121	figures	
+2-10	122-127	ahead	
+2-11	128-130	of	
+2-12	131-133	EU	
+2-13	134-144	referendum	
+2-14	144-145	,	
+2-15	146-150	says	
+2-16	151-159	watchdog	
+2-17	160-161	-	
+2-18	162-165	The	
+2-19	166-175	Telegraph	

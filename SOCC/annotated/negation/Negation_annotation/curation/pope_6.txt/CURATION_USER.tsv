@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Does this woman EVER write ANYTHING worth reading???????
+1-1	0-4	Does	
+1-2	5-9	this	
+1-3	10-15	woman	
+1-4	16-20	EVER	
+1-5	21-26	write	
+1-6	27-35	ANYTHING	
+1-7	36-41	worth	
+1-8	42-49	reading	
+1-9	49-50	?	
+1-10	50-51	?	
+1-11	51-52	?	
+1-12	52-53	?	
+1-13	53-54	?	
+1-14	54-55	?	
+1-15	55-56	?	

@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text='Tuesday\u2019s results leave Congress firmly in the hands of Republicans \u2013 which means the Trump program, such as it is, can be enacted.'
+1-1	0-1	'	_	
+1-2	1-8	Tuesday	_	
+1-3	8-9	’	_	
+1-4	9-10	s	_	
+1-5	11-18	results	_	
+1-6	19-24	leave	_	
+1-7	25-33	Congress	_	
+1-8	34-40	firmly	_	
+1-9	41-43	in	_	
+1-10	44-47	the	_	
+1-11	48-53	hands	_	
+1-12	54-56	of	_	
+1-13	57-68	Republicans	_	
+1-14	69-70	–	_	
+1-15	71-76	which	_	
+1-16	77-82	means	_	
+1-17	83-86	the	_	
+1-18	87-92	Trump	_	
+1-19	93-100	program	_	
+1-20	100-101	,	_	
+1-21	102-106	such	_	
+1-22	107-109	as	_	
+1-23	110-112	it	_	
+1-24	113-115	is	_	
+1-25	115-116	,	_	
+1-26	117-120	can	_	
+1-27	121-123	be	_	
+1-28	124-131	enacted	_	
+1-29	131-132	.	_	
+1-30	132-133	'	_	
+
+#Text=That statement assumes the Republican house and senate will cooperate with Trump.
+2-1	133-137	That	_	
+2-2	138-147	statement	_	
+2-3	148-155	assumes	_	
+2-4	156-159	the	_	
+2-5	160-170	Republican	_	
+2-6	171-176	house	_	
+2-7	177-180	and	_	
+2-8	181-187	senate	_	
+2-9	188-192	will	_	
+2-10	193-202	cooperate	_	
+2-11	203-207	with	_	
+2-12	208-213	Trump	_	
+2-13	213-214	.	_	
+
+#Text=I don't think that's going to happen.
+3-1	215-216	I	_	
+3-2	217-222	don't	NEG	
+3-3	223-228	think	SCOPE[2]	
+3-4	229-235	that's	SCOPE[2]	
+3-5	236-241	going	SCOPE[2]|FOCUS[3]	
+3-6	242-244	to	SCOPE[2]|FOCUS[3]	
+3-7	245-251	happen	SCOPE[2]|FOCUS[3]	
+3-8	251-252	.	_	
+
+#Text=Let the circus begin.
+4-1	253-256	Let	_	
+4-2	257-260	the	_	
+4-3	261-267	circus	_	
+4-4	268-273	begin	_	
+4-5	273-274	.	_	

@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=this columnist thinks the loss was about women, another Globe columnist thought it was all about brown people, another thought it was about the white working poor, another thought the media steered the election.
+1-1	0-4	this	
+1-2	5-14	columnist	
+1-3	15-21	thinks	
+1-4	22-25	the	
+1-5	26-30	loss	
+1-6	31-34	was	
+1-7	35-40	about	
+1-8	41-46	women	
+1-9	46-47	,	
+1-10	48-55	another	
+1-11	56-61	Globe	
+1-12	62-71	columnist	
+1-13	72-79	thought	
+1-14	80-82	it	
+1-15	83-86	was	
+1-16	87-90	all	
+1-17	91-96	about	
+1-18	97-102	brown	
+1-19	103-109	people	
+1-20	109-110	,	
+1-21	111-118	another	
+1-22	119-126	thought	
+1-23	127-129	it	
+1-24	130-133	was	
+1-25	134-139	about	
+1-26	140-143	the	
+1-27	144-149	white	
+1-28	150-157	working	
+1-29	158-162	poor	
+1-30	162-163	,	
+1-31	164-171	another	
+1-32	172-179	thought	
+1-33	180-183	the	
+1-34	184-189	media	
+1-35	190-197	steered	
+1-36	198-201	the	
+1-37	202-210	election	
+1-38	210-211	.	
+
+#Text=The general population is tired of every special interest group thinking they are picked on.
+2-1	213-216	The	
+2-2	217-224	general	
+2-3	225-235	population	
+2-4	236-238	is	
+2-5	239-244	tired	
+2-6	245-247	of	
+2-7	248-253	every	
+2-8	254-261	special	
+2-9	262-270	interest	
+2-10	271-276	group	
+2-11	277-285	thinking	
+2-12	286-290	they	
+2-13	291-294	are	
+2-14	295-301	picked	
+2-15	302-304	on	
+2-16	304-305	.	
+
+#Text=The general population is tired of alot of the 'same old' stuff.
+3-1	307-310	The	
+3-2	311-318	general	
+3-3	319-329	population	
+3-4	330-332	is	
+3-5	333-338	tired	
+3-6	339-341	of	
+3-7	342-346	alot	
+3-8	347-349	of	
+3-9	350-353	the	
+3-10	354-355	'	
+3-11	355-359	same	
+3-12	360-363	old	
+3-13	363-364	'	
+3-14	365-370	stuff	
+3-15	370-371	.	
+
+#Text=This election was about change, and Trump new it 6 months ago.
+4-1	373-377	This	
+4-2	378-386	election	
+4-3	387-390	was	
+4-4	391-396	about	
+4-5	397-403	change	
+4-6	403-404	,	
+4-7	405-408	and	
+4-8	409-414	Trump	
+4-9	415-418	new	
+4-10	419-421	it	
+4-11	422-423	6	
+4-12	424-430	months	
+4-13	431-434	ago	
+4-14	434-435	.	

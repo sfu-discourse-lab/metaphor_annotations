@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text='''Rouba Al-Fattal is a part-time professor of Middle East and Arab politics at the University of Ottawa.'''
+1-1	0-1	'	
+1-2	1-2	'	
+1-3	2-3	'	
+1-4	3-8	Rouba	
+1-5	9-18	Al-Fattal	
+1-6	19-21	is	
+1-7	22-23	a	
+1-8	24-33	part-time	
+1-9	34-43	professor	
+1-10	44-46	of	
+1-11	47-53	Middle	
+1-12	54-58	East	
+1-13	59-62	and	
+1-14	63-67	Arab	
+1-15	68-76	politics	
+1-16	77-79	at	
+1-17	80-83	the	
+1-18	84-94	University	
+1-19	95-97	of	
+1-20	98-104	Ottawa	
+1-21	104-105	.	
+1-22	105-106	'	
+1-23	106-107	'	
+1-24	107-108	'	
+
+#Text=It seems that most of the people writing dogmatic and bizarre opinion pieces in the Globe and Mail are professors - and thus teachers!!!
+2-1	108-110	It	
+2-2	111-116	seems	
+2-3	117-121	that	
+2-4	122-126	most	
+2-5	127-129	of	
+2-6	130-133	the	
+2-7	134-140	people	
+2-8	141-148	writing	
+2-9	149-157	dogmatic	
+2-10	158-161	and	
+2-11	162-169	bizarre	
+2-12	170-177	opinion	
+2-13	178-184	pieces	
+2-14	185-187	in	
+2-15	188-191	the	
+2-16	192-197	Globe	
+2-17	198-201	and	
+2-18	202-206	Mail	
+2-19	207-210	are	
+2-20	211-221	professors	
+2-21	222-223	-	
+2-22	224-227	and	
+2-23	228-232	thus	
+2-24	233-241	teachers	
+2-25	241-242	!	
+2-26	242-243	!	
+2-27	243-244	!	
+
+#Text=Look for Canadian society to make less and less sense as students are taught the dogma.
+3-1	245-249	Look	
+3-2	250-253	for	
+3-3	254-262	Canadian	
+3-4	263-270	society	
+3-5	271-273	to	
+3-6	274-278	make	
+3-7	279-283	less	
+3-8	284-287	and	
+3-9	288-292	less	
+3-10	293-298	sense	
+3-11	299-301	as	
+3-12	302-310	students	
+3-13	311-314	are	
+3-14	315-321	taught	
+3-15	322-325	the	
+3-16	326-331	dogma	
+3-17	331-332	.	

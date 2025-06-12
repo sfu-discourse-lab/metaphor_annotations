@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=I honestly cannot for the life of me understand how a UBC professor can be this unintelligent?
+1-1	0-1	I	_	_	_	_	
+1-2	2-10	honestly	Affect[1]	neg[1]	_	_	
+1-3	11-17	cannot	Affect[1]	neg[1]	_	_	
+1-4	18-21	for	Affect[1]	neg[1]	Force[1]	up[1]	
+1-5	22-25	the	Affect[1]	neg[1]	Force[1]	up[1]	
+1-6	26-30	life	Affect[1]	neg[1]	Force[1]	up[1]	
+1-7	31-33	of	Affect[1]	neg[1]	Force[1]	up[1]	
+1-8	34-36	me	Affect[1]	neg[1]	Force[1]	up[1]	
+1-9	37-47	understand	Affect[1]	neg[1]	_	_	
+1-10	48-51	how	_	_	_	_	
+1-11	52-53	a	_	_	_	_	
+1-12	54-57	UBC	_	_	_	_	
+1-13	58-67	professor	_	_	_	_	
+1-14	68-71	can	_	_	_	_	
+1-15	72-74	be	_	_	_	_	
+1-16	75-79	this	Judgment[2]	neg[2]	Force	up	
+1-17	80-93	unintelligent	Judgment[2]	neg[2]	_	_	
+1-18	93-94	?	_	_	_	_	
+
+#Text=It was called a CHINESE head tax.
+2-1	95-97	It	_	_	_	_	
+2-2	98-101	was	_	_	_	_	
+2-3	102-108	called	_	_	_	_	
+2-4	109-110	a	_	_	_	_	
+2-5	111-118	CHINESE	_	_	_	_	
+2-6	119-123	head	_	_	_	_	
+2-7	124-127	tax	_	_	_	_	
+2-8	127-128	.	_	_	_	_	
+
+#Text=Is it called a Chinese Foreign Buyer tax?
+3-1	129-131	Is	Judgment[3]	neg[3]	_	_	
+3-2	132-134	it	Judgment[3]	neg[3]	_	_	
+3-3	135-141	called	Judgment[3]	neg[3]	_	_	
+3-4	142-143	a	Judgment[3]	neg[3]	_	_	
+3-5	144-151	Chinese	Judgment[3]	neg[3]	_	_	
+3-6	152-159	Foreign	Judgment[3]	neg[3]	_	_	
+3-7	160-165	Buyer	Judgment[3]	neg[3]	_	_	
+3-8	166-169	tax	Judgment[3]	neg[3]	_	_	
+3-9	169-170	?	_	_	_	_	
+
+#Text=This man should absolutely not be teaching at UBC let alone writing an opinion piece like this.
+4-1	171-175	This	_	_	_	_	
+4-2	176-179	man	_	_	_	_	
+4-3	180-186	should	Judgment[4]	neg[4]	_	_	
+4-4	187-197	absolutely	Judgment[4]	neg[4]	Focus	up	
+4-5	198-201	not	Judgment[4]	neg[4]	_	_	
+4-6	202-204	be	Judgment[4]	neg[4]	_	_	
+4-7	205-213	teaching	Judgment[4]	neg[4]	_	_	
+4-8	214-216	at	Judgment[4]	neg[4]	_	_	
+4-9	217-220	UBC	Judgment[4]	neg[4]	_	_	
+4-10	221-224	let	Judgment[4]	neg[4]	_	_	
+4-11	225-230	alone	Judgment[4]	neg[4]	_	_	
+4-12	231-238	writing	Judgment[4]	neg[4]	_	_	
+4-13	239-241	an	Judgment[4]	neg[4]	_	_	
+4-14	242-249	opinion	Judgment[4]	neg[4]	_	_	
+4-15	250-255	piece	Judgment[4]	neg[4]	_	_	
+4-16	256-260	like	Judgment[4]	neg[4]	_	_	
+4-17	261-265	this	Judgment[4]	neg[4]	_	_	
+4-18	265-266	.	_	_	_	_	
+
+#Text=It's time to quit your victim mentality Henry, and grow up.
+5-1	267-271	It's	_	_	_	_	
+5-2	272-276	time	Judgment[5]	neg[5]	_	_	
+5-3	277-279	to	Judgment[5]	neg[5]	_	_	
+5-4	280-284	quit	Judgment[5]	neg[5]	_	_	
+5-5	285-289	your	Judgment[5]	neg[5]	_	_	
+5-6	290-296	victim	Judgment[5]	neg[5]	_	_	
+5-7	297-306	mentality	Judgment[5]	neg[5]	_	_	
+5-8	307-312	Henry	Judgment[5]	neg[5]	_	_	
+5-9	312-313	,	Judgment[5]	neg[5]	_	_	
+5-10	314-317	and	Judgment[5]	neg[5]	_	_	
+5-11	318-322	grow	Judgment[5]	neg[5]	_	_	
+5-12	323-325	up	Judgment[5]	neg[5]	_	_	
+5-13	325-326	.	_	_	_	_	
+
+#Text=I feel bad for your students.
+6-1	327-328	I	_	_	_	_	
+6-2	329-333	feel	Judgment[6]	neg[6]	_	_	
+6-3	334-337	bad	Judgment[6]	neg[6]	_	_	
+6-4	338-341	for	Judgment[6]	neg[6]	_	_	
+6-5	342-346	your	Judgment[6]	neg[6]	_	_	
+6-6	347-355	students	Judgment[6]	neg[6]	_	_	
+6-7	355-356	.	_	_	_	_	

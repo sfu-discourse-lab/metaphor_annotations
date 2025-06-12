@@ -1,0 +1,10 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Nice shot, GV1.
+1-1	0-4	Nice	Appreciation	pos	
+1-2	5-9	shot	_	_	
+1-3	9-10	,	_	_	
+1-4	11-14	GV1	_	_	
+1-5	14-15	.	_	_	

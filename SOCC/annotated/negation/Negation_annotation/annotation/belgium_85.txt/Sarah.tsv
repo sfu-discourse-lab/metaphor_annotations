@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Thanks very much for your reassurance, Richard!
+1-1	0-6	Thanks	_	
+1-2	7-11	very	_	
+1-3	12-16	much	_	
+1-4	17-20	for	_	
+1-5	21-25	your	_	
+1-6	26-37	reassurance	_	
+1-7	37-38	,	_	
+1-8	39-46	Richard	_	
+1-9	46-47	!	_	
+
+#Text=I went back and revised my post somewhat because I thought I sounded angry, cold and possibly insulting (which I probably was)...but I didn't intend to include anything religious, Muslim or anything, at any time.
+2-1	50-51	I	_	
+2-2	52-56	went	_	
+2-3	57-61	back	_	
+2-4	62-65	and	_	
+2-5	66-73	revised	_	
+2-6	74-76	my	_	
+2-7	77-81	post	_	
+2-8	82-90	somewhat	_	
+2-9	91-98	because	_	
+2-10	99-100	I	_	
+2-11	101-108	thought	_	
+2-12	109-110	I	_	
+2-13	111-118	sounded	_	
+2-14	119-124	angry	_	
+2-15	124-125	,	_	
+2-16	126-130	cold	_	
+2-17	131-134	and	_	
+2-18	135-143	possibly	_	
+2-19	144-153	insulting	_	
+2-20	154-155	(	_	
+2-21	155-160	which	_	
+2-22	161-162	I	_	
+2-23	163-171	probably	_	
+2-24	172-175	was	_	
+2-25	175-176	)	_	
+2-26	176-177	.	_	
+2-27	177-178	.	_	
+2-28	178-179	.	_	
+2-29	179-182	but	_	
+2-30	183-184	I	_	
+2-31	185-191	didn't	NEG	
+2-32	192-198	intend	SCOPE[2]	
+2-33	199-201	to	SCOPE[2]	
+2-34	202-209	include	SCOPE[2]	
+2-35	210-218	anything	SCOPE[2]	
+2-36	219-228	religious	SCOPE[2]|FOCUS[3]	
+2-37	228-229	,	SCOPE[2]	
+2-38	230-236	Muslim	SCOPE[2]	
+2-39	237-239	or	SCOPE[2]	
+2-40	240-248	anything	SCOPE[2]	
+2-41	248-249	,	SCOPE[2]	
+2-42	250-252	at	SCOPE[2]	
+2-43	253-256	any	SCOPE[2]	
+2-44	257-261	time	SCOPE[2]	
+2-45	261-262	.	_	
+
+#Text=I do recognize, however, that it is entirely possibly the Belgian police officer demonstrated racial prejudice by believing I was north African and therefore should be followed, harassed, etc.
+3-1	265-266	I	_	
+3-2	267-269	do	_	
+3-3	270-279	recognize	_	
+3-4	279-280	,	_	
+3-5	281-288	however	_	
+3-6	288-289	,	_	
+3-7	290-294	that	_	
+3-8	295-297	it	_	
+3-9	298-300	is	_	
+3-10	301-309	entirely	_	
+3-11	310-318	possibly	_	
+3-12	319-322	the	_	
+3-13	323-330	Belgian	_	
+3-14	331-337	police	_	
+3-15	338-345	officer	_	
+3-16	346-358	demonstrated	_	
+3-17	359-365	racial	_	
+3-18	366-375	prejudice	_	
+3-19	376-378	by	_	
+3-20	379-388	believing	_	
+3-21	389-390	I	_	
+3-22	391-394	was	_	
+3-23	395-400	north	_	
+3-24	401-408	African	_	
+3-25	409-412	and	_	
+3-26	413-422	therefore	_	
+3-27	423-429	should	_	
+3-28	430-432	be	_	
+3-29	433-441	followed	_	
+3-30	441-442	,	_	
+3-31	443-451	harassed	_	
+3-32	451-452	,	_	
+3-33	453-456	etc	_	
+3-34	456-457	.	_	
+
+#Text=Racial prejudice is widespread, and not only in Belgium.
+4-1	458-464	Racial	_	
+4-2	465-474	prejudice	_	
+4-3	475-477	is	_	
+4-4	478-488	widespread	_	
+4-5	488-489	,	_	
+4-6	490-493	and	_	
+4-7	494-497	not	NEG	
+4-8	498-502	only	SCOPE[5]	
+4-9	503-505	in	SCOPE[5]	
+4-10	506-513	Belgium	SCOPE[5]|FOCUS[6]	
+4-11	513-514	.	_	
+
+#Text=I honestly meant absolutely nothing religious, though!
+5-1	517-518	I	_	
+5-2	519-527	honestly	_	
+5-3	528-533	meant	_	
+5-4	534-544	absolutely	_	
+5-5	545-552	nothing	NEG	
+5-6	553-562	religious	SCOPE[8]|FOCUS[9]	
+5-7	562-563	,	_	
+5-8	564-570	though	_	
+5-9	570-571	!	_	

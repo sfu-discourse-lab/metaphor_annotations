@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=The glass ceiling for women has been shattered around the world long time ago with Thatcher, Merkel and many many others.
+1-1	0-3	The	_	_	
+1-2	4-9	glass	_	_	
+1-3	10-17	ceiling	_	_	
+1-4	18-21	for	_	_	
+1-5	22-27	women	_	_	
+1-6	28-31	has	_	_	
+1-7	32-36	been	_	_	
+1-8	37-46	shattered	Appreciation	pos	
+1-9	47-53	around	_	_	
+1-10	54-57	the	_	_	
+1-11	58-63	world	_	_	
+1-12	64-68	long	_	_	
+1-13	69-73	time	_	_	
+1-14	74-77	ago	_	_	
+1-15	78-82	with	_	_	
+1-16	83-91	Thatcher	_	_	
+1-17	91-92	,	_	_	
+1-18	93-99	Merkel	_	_	
+1-19	100-103	and	_	_	
+1-20	104-108	many	_	_	
+1-21	109-113	many	_	_	
+1-22	114-120	others	_	_	
+1-23	120-121	.	_	_	
+
+#Text=The fact that the right female candidate has not come along in the US, has nothing to do with 'glass ceiling'.
+2-1	122-125	The	_	_	
+2-2	126-130	fact	_	_	
+2-3	131-135	that	_	_	
+2-4	136-139	the	_	_	
+2-5	140-145	right	Judgment	pos	
+2-6	146-152	female	_	_	
+2-7	153-162	candidate	_	_	
+2-8	163-166	has	_	_	
+2-9	167-170	not	_	_	
+2-10	171-175	come	_	_	
+2-11	176-181	along	_	_	
+2-12	182-184	in	_	_	
+2-13	185-188	the	_	_	
+2-14	189-191	US	_	_	
+2-15	191-192	,	_	_	
+2-16	193-196	has	_	_	
+2-17	197-204	nothing	Appreciation[3]	neg[3]	
+2-18	205-207	to	Appreciation[3]	neg[3]	
+2-19	208-210	do	Appreciation[3]	neg[3]	
+2-20	211-215	with	_	_	
+2-21	216-217	'	_	_	
+2-22	217-222	glass	_	_	
+2-23	223-230	ceiling	_	_	
+2-24	230-231	'	_	_	
+2-25	231-232	.	_	_	
+
+#Text=Did the writer cry out about glass ceiling when Sarah Palin was not supported?
+3-1	233-236	Did	Judgment[4]	neg[4]	
+3-2	237-240	the	Judgment[4]	neg[4]	
+3-3	241-247	writer	Judgment[4]	neg[4]	
+3-4	248-251	cry	Judgment[4]	neg[4]	
+3-5	252-255	out	Judgment[4]	neg[4]	
+3-6	256-261	about	Judgment[4]	neg[4]	
+3-7	262-267	glass	Judgment[4]	neg[4]	
+3-8	268-275	ceiling	Judgment[4]	neg[4]	
+3-9	276-280	when	Judgment[4]	neg[4]	
+3-10	281-286	Sarah	Judgment[4]	neg[4]	
+3-11	287-292	Palin	Judgment[4]	neg[4]	
+3-12	293-296	was	Judgment[4]	neg[4]	
+3-13	297-300	not	Judgment[4]	neg[4]	
+3-14	301-310	supported	Judgment[4]	neg[4]	
+3-15	310-311	?	_	_	
+
+#Text=Palin was not supported for the same reason Clinton was not supported - voters did not find either of them suitable for the job.
+4-1	312-317	Palin	_	_	
+4-2	318-321	was	_	_	
+4-3	322-325	not	Judgment[5]	neg[5]	
+4-4	326-335	supported	Judgment[5]	neg[5]	
+4-5	336-339	for	Judgment[5]	neg[5]	
+4-6	340-343	the	Judgment[5]	neg[5]	
+4-7	344-348	same	Judgment[5]	neg[5]	
+4-8	349-355	reason	Judgment[5]	neg[5]	
+4-9	356-363	Clinton	Judgment[5]	neg[5]	
+4-10	364-367	was	Judgment[5]	neg[5]	
+4-11	368-371	not	Judgment[5]	neg[5]	
+4-12	372-381	supported	Judgment[5]	neg[5]	
+4-13	382-383	-	_	_	
+4-14	384-390	voters	_	_	
+4-15	391-394	did	_	_	
+4-16	395-398	not	Judgment[6]	neg[6]	
+4-17	399-403	find	Judgment[6]	neg[6]	
+4-18	404-410	either	Judgment[6]	neg[6]	
+4-19	411-413	of	Judgment[6]	neg[6]	
+4-20	414-418	them	Judgment[6]	neg[6]	
+4-21	419-427	suitable	Judgment[6]	neg[6]	
+4-22	428-431	for	_	_	
+4-23	432-435	the	_	_	
+4-24	436-439	job	_	_	
+4-25	439-440	.	_	_	
+
+#Text=Accept the result of the election and move on.
+5-1	441-447	Accept	Judgment[7]	neg[7]	
+5-2	448-451	the	Judgment[7]	neg[7]	
+5-3	452-458	result	Judgment[7]	neg[7]	
+5-4	459-461	of	Judgment[7]	neg[7]	
+5-5	462-465	the	Judgment[7]	neg[7]	
+5-6	466-474	election	Judgment[7]	neg[7]	
+5-7	475-478	and	Judgment[7]	neg[7]	
+5-8	479-483	move	Judgment[7]	neg[7]	
+5-9	484-486	on	Judgment[7]	neg[7]	
+5-10	486-487	.	_	_	

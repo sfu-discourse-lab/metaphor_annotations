@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Time for the elders and chiefs to stand up to the plate and take a leadership role!
+1-1	0-4	Time	
+1-2	5-8	for	
+1-3	9-12	the	
+1-4	13-19	elders	
+1-5	20-23	and	
+1-6	24-30	chiefs	
+1-7	31-33	to	
+1-8	34-39	stand	
+1-9	40-42	up	
+1-10	43-45	to	
+1-11	46-49	the	
+1-12	50-55	plate	
+1-13	56-59	and	
+1-14	60-64	take	
+1-15	65-66	a	
+1-16	67-77	leadership	
+1-17	78-82	role	
+1-18	82-83	!	

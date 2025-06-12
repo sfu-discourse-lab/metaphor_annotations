@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=The document it is arbitrating on IS a UN document.
+1-1	0-3	The	
+1-2	4-12	document	
+1-3	13-15	it	
+1-4	16-18	is	
+1-5	19-30	arbitrating	
+1-6	31-33	on	
+1-7	34-36	IS	
+1-8	37-38	a	
+1-9	39-41	UN	
+1-10	42-50	document	
+1-11	50-51	.	
+
+#Text=Nice try though, wu mao
+2-1	52-56	Nice	
+2-2	57-60	try	
+2-3	61-67	though	
+2-4	67-68	,	
+2-5	69-71	wu	
+2-6	72-75	mao	

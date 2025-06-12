@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=This article is a helpful contribution to understanding the situation in Europe.
+1-1	0-4	This	_	
+1-2	5-12	article	_	
+1-3	13-15	is	_	
+1-4	16-17	a	_	
+1-5	18-25	helpful	_	
+1-6	26-38	contribution	_	
+1-7	39-41	to	_	
+1-8	42-55	understanding	_	
+1-9	56-59	the	_	
+1-10	60-69	situation	_	
+1-11	70-72	in	_	
+1-12	73-79	Europe	_	
+1-13	79-80	.	_	
+
+#Text=Fragmented nationalism by 'old stock' citizens leave little room for the integration of first and second generation immigrants.
+2-1	81-91	Fragmented	_	
+2-2	92-103	nationalism	_	
+2-3	104-106	by	_	
+2-4	107-108	'	_	
+2-5	108-111	old	_	
+2-6	112-117	stock	_	
+2-7	117-118	'	_	
+2-8	119-127	citizens	_	
+2-9	128-133	leave	_	
+2-10	134-140	little	_	
+2-11	141-145	room	_	
+2-12	146-149	for	_	
+2-13	150-153	the	_	
+2-14	154-165	integration	_	
+2-15	166-168	of	_	
+2-16	169-174	first	_	
+2-17	175-178	and	_	
+2-18	179-185	second	_	
+2-19	186-196	generation	_	
+2-20	197-207	immigrants	_	
+2-21	207-208	.	_	
+
+#Text=For most European countries the necessity of true multiculturalism escapes them.
+3-1	209-212	For	_	
+3-2	213-217	most	_	
+3-3	218-226	European	_	
+3-4	227-236	countries	_	
+3-5	237-240	the	_	
+3-6	241-250	necessity	_	
+3-7	251-253	of	_	
+3-8	254-258	true	_	
+3-9	259-275	multiculturalism	_	
+3-10	276-283	escapes	_	
+3-11	284-288	them	_	
+3-12	288-289	.	_	
+
+#Text=For Canadian-style multiculturalism to work there has to be an embracing of differences and not the rejection of the 'other' as it manifests itself in most European nations.
+4-1	290-293	For	_	
+4-2	294-308	Canadian-style	_	
+4-3	309-325	multiculturalism	_	
+4-4	326-328	to	_	
+4-5	329-333	work	_	
+4-6	334-339	there	_	
+4-7	340-343	has	_	
+4-8	344-346	to	_	
+4-9	347-349	be	_	
+4-10	350-352	an	_	
+4-11	353-362	embracing	_	
+4-12	363-365	of	_	
+4-13	366-377	differences	_	
+4-14	378-381	and	_	
+4-15	382-385	not	NEG	
+4-16	386-389	the	SCOPE[2]	
+4-17	390-399	rejection	SCOPE[2]	
+4-18	400-402	of	SCOPE[2]	
+4-19	403-406	the	SCOPE[2]	
+4-20	407-408	'	SCOPE[2]	
+4-21	408-413	other	SCOPE[2]	
+4-22	413-414	'	SCOPE[2]	
+4-23	415-417	as	SCOPE[2]	
+4-24	418-420	it	SCOPE[2]	
+4-25	421-430	manifests	SCOPE[2]	
+4-26	431-437	itself	SCOPE[2]	
+4-27	438-440	in	SCOPE[2]	
+4-28	441-445	most	SCOPE[2]|FOCUS[3]	
+4-29	446-454	European	SCOPE[2]|FOCUS[3]	
+4-30	455-462	nations	SCOPE[2]|FOCUS[3]	
+4-31	462-463	.	_	
+
+#Text=Britain is an exception and has made serious efforts to integrate people from all over the world.
+5-1	464-471	Britain	_	
+5-2	472-474	is	_	
+5-3	475-477	an	_	
+5-4	478-487	exception	_	
+5-5	488-491	and	_	
+5-6	492-495	has	_	
+5-7	496-500	made	_	
+5-8	501-508	serious	_	
+5-9	509-516	efforts	_	
+5-10	517-519	to	_	
+5-11	520-529	integrate	_	
+5-12	530-536	people	_	
+5-13	537-541	from	_	
+5-14	542-545	all	_	
+5-15	546-550	over	_	
+5-16	551-554	the	_	
+5-17	555-560	world	_	
+5-18	560-561	.	_	

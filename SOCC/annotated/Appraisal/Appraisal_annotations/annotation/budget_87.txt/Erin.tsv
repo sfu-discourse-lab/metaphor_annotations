@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Spending less than you bring in IS important.
+1-1	0-8	Spending	_	_	
+1-2	9-13	less	_	_	
+1-3	14-18	than	_	_	
+1-4	19-22	you	_	_	
+1-5	23-28	bring	_	_	
+1-6	29-31	in	_	_	
+1-7	32-34	IS	_	_	
+1-8	35-44	important	Appreciation	pos	
+1-9	44-45	.	_	_	
+
+#Text=And if the Conservatives can do that without raining taxes, they will continue to have my vote.
+2-1	46-49	And	_	_	
+2-2	50-52	if	Judgment[2]	pos[2]	
+2-3	53-56	the	Judgment[2]	pos[2]	
+2-4	57-70	Conservatives	Judgment[2]	pos[2]	
+2-5	71-74	can	Judgment[2]	pos[2]	
+2-6	75-77	do	Judgment[2]	pos[2]	
+2-7	78-82	that	Judgment[2]	pos[2]	
+2-8	83-90	without	Judgment[2]	pos[2]	
+2-9	91-98	raining	Judgment[2]|Appreciation[3]	pos[2]|neg[3]	
+2-10	99-104	taxes	Judgment[2]	pos[2]	
+2-11	104-105	,	Judgment[2]	pos[2]	
+2-12	106-110	they	Judgment[2]	pos[2]	
+2-13	111-115	will	Judgment[2]	pos[2]	
+2-14	116-124	continue	Judgment[2]	pos[2]	
+2-15	125-127	to	Judgment[2]	pos[2]	
+2-16	128-132	have	Judgment[2]	pos[2]	
+2-17	133-135	my	Judgment[2]	pos[2]	
+2-18	136-140	vote	Judgment[2]	pos[2]	
+2-19	140-141	.	_	_	

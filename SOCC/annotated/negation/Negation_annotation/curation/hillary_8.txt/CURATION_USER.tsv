@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=All these people keep talking about how they cried when she wasn't elected.
+1-1	0-3	All	_	
+1-2	4-9	these	_	
+1-3	10-16	people	_	
+1-4	17-21	keep	_	
+1-5	22-29	talking	_	
+1-6	30-35	about	_	
+1-7	36-39	how	_	
+1-8	40-44	they	_	
+1-9	45-50	cried	_	
+1-10	51-55	when	_	
+1-11	56-59	she	_	
+1-12	60-66	wasn't	NEG	
+1-13	67-74	elected	SCOPE[2]|FOCUS[3]	
+1-14	74-75	.	_	
+
+#Text=Maybe they should spend more time getting on with life and work and stop crying.
+2-1	77-82	Maybe	_	
+2-2	83-87	they	_	
+2-3	88-94	should	_	
+2-4	95-100	spend	_	
+2-5	101-105	more	_	
+2-6	106-110	time	_	
+2-7	111-118	getting	_	
+2-8	119-121	on	_	
+2-9	122-126	with	_	
+2-10	127-131	life	_	
+2-11	132-135	and	_	
+2-12	136-140	work	_	
+2-13	141-144	and	_	
+2-14	145-149	stop	_	
+2-15	150-156	crying	_	
+2-16	156-157	.	_	

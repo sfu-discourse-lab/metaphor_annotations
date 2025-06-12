@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=As a Chinese Canadian, I am sick and tired of other Chinese Canadians playing the race card.
+1-1	0-2	As	_	_	
+1-2	3-4	a	_	_	
+1-3	5-12	Chinese	_	_	
+1-4	13-21	Canadian	_	_	
+1-5	21-22	,	_	_	
+1-6	23-24	I	_	_	
+1-7	25-27	am	_	_	
+1-8	28-32	sick	Affect[1]	neg[1]	
+1-9	33-36	and	Affect[1]	neg[1]	
+1-10	37-42	tired	Affect[1]	neg[1]	
+1-11	43-45	of	_	_	
+1-12	46-51	other	_	_	
+1-13	52-59	Chinese	_	_	
+1-14	60-69	Canadians	_	_	
+1-15	70-77	playing	Judgment[2]	neg[2]	
+1-16	78-81	the	Judgment[2]	neg[2]	
+1-17	82-86	race	Judgment[2]	neg[2]	
+1-18	87-91	card	Judgment[2]	neg[2]	
+1-19	91-92	.	_	_	
+
+#Text=There is nothing racist about this piece of legislation, period.
+2-1	93-98	There	_	_	
+2-2	99-101	is	_	_	
+2-3	102-109	nothing	Judgment[3]|Appreciation[4]	neg[3]|neu[4]	
+2-4	110-116	racist	Judgment[3]|Appreciation[4]	neg[3]|neu[4]	
+2-5	117-122	about	Judgment[3]	neg[3]	
+2-6	123-127	this	Judgment[3]	neg[3]	
+2-7	128-133	piece	Judgment[3]	neg[3]	
+2-8	134-136	of	Judgment[3]	neg[3]	
+2-9	137-148	legislation	Judgment[3]	neg[3]	
+2-10	148-149	,	_	_	
+2-11	150-156	period	_	_	
+2-12	156-157	.	_	_	
+
+#Text=Get a grip and get a life.
+3-1	158-161	Get	Judgment[5]	neg[5]	
+3-2	162-163	a	Judgment[5]	neg[5]	
+3-3	164-168	grip	Judgment[5]	neg[5]	
+3-4	169-172	and	Judgment[5]	neg[5]	
+3-5	173-176	get	Judgment[5]	neg[5]	
+3-6	177-178	a	Judgment[5]	neg[5]	
+3-7	179-183	life	Judgment[5]	neg[5]	
+3-8	183-184	.	_	_	

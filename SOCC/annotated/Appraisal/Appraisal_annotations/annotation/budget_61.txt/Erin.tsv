@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=New from Statscan today - Canadian manufacturing sales increased 1.7% in July, after a revised increased June figure of 1.5% and May of 0.7%.
+1-1	0-3	New	_	_	_	_	
+1-2	4-8	from	_	_	_	_	
+1-3	9-17	Statscan	_	_	_	_	
+1-4	18-23	today	_	_	_	_	
+1-5	24-25	-	_	_	_	_	
+1-6	26-34	Canadian	_	_	_	_	
+1-7	35-48	manufacturing	_	_	_	_	
+1-8	49-54	sales	_	_	_	_	
+1-9	55-64	increased	_	_	_	_	
+1-10	65-69	1.7%	_	_	_	_	
+1-11	70-72	in	_	_	_	_	
+1-12	73-77	July	_	_	_	_	
+1-13	77-78	,	_	_	_	_	
+1-14	79-84	after	_	_	_	_	
+1-15	85-86	a	_	_	_	_	
+1-16	87-94	revised	_	_	_	_	
+1-17	95-104	increased	_	_	_	_	
+1-18	105-109	June	_	_	_	_	
+1-19	110-116	figure	_	_	_	_	
+1-20	117-119	of	_	_	_	_	
+1-21	120-124	1.5%	_	_	_	_	
+1-22	125-128	and	_	_	_	_	
+1-23	129-132	May	_	_	_	_	
+1-24	133-135	of	_	_	_	_	
+1-25	136-140	0.7%	_	_	_	_	
+1-26	140-141	.	_	_	_	_	
+
+#Text=Why didn't the Amazing Jeffy Kreskin Simpson predict that?
+2-1	142-145	Why	Judgment[1]	neg[1]	_	_	
+2-2	146-152	didn't	Judgment[1]	neg[1]	_	_	
+2-3	153-156	the	Judgment[1]	neg[1]	_	_	
+2-4	157-164	Amazing	Judgment[1]	neg[1]	_	_	
+2-5	165-170	Jeffy	Judgment[1]	neg[1]	_	_	
+2-6	171-178	Kreskin	Judgment[1]	neg[1]	_	_	
+2-7	179-186	Simpson	Judgment[1]	neg[1]	_	_	
+2-8	187-194	predict	Judgment[1]	neg[1]	_	_	
+2-9	195-199	that	Judgment[1]	neg[1]	_	_	
+2-10	199-200	?	_	_	_	_	
+
+#Text=He's been complaining about the supposed 'poor' state of the Canadian economy for months.
+3-1	201-205	He's	_	_	_	_	
+3-2	206-210	been	_	_	_	_	
+3-3	211-222	complaining	Judgment	neg	_	_	
+3-4	223-228	about	_	_	_	_	
+3-5	229-232	the	_	_	_	_	
+3-6	233-241	supposed	Judgment[3]	neg[3]	Focus	down	
+3-7	242-243	'	Judgment[3]	neg[3]	_	_	
+3-8	243-247	poor	Judgment[3]	neg[3]	_	_	
+3-9	247-248	'	Judgment[3]	neg[3]	_	_	
+3-10	249-254	state	Judgment[3]	neg[3]	_	_	
+3-11	255-257	of	_	_	_	_	
+3-12	258-261	the	_	_	_	_	
+3-13	262-270	Canadian	_	_	_	_	
+3-14	271-278	economy	_	_	_	_	
+3-15	279-282	for	_	_	_	_	
+3-16	283-289	months	_	_	_	_	
+3-17	289-290	.	_	_	_	_	
+
+#Text=Oh, it doesn't fit his three times per week false anti-Conservative partisan columns.
+4-1	291-293	Oh	_	_	_	_	
+4-2	293-294	,	_	_	_	_	
+4-3	295-297	it	_	_	_	_	
+4-4	298-305	doesn't	_	_	_	_	
+4-5	306-309	fit	_	_	_	_	
+4-6	310-313	his	_	_	_	_	
+4-7	314-319	three	_	_	_	_	
+4-8	320-325	times	_	_	_	_	
+4-9	326-329	per	_	_	_	_	
+4-10	330-334	week	_	_	_	_	
+4-11	335-340	false	Appreciation[4]	neg[4]	_	_	
+4-12	341-358	anti-Conservative	Appreciation[4]	neg[4]	_	_	
+4-13	359-367	partisan	Appreciation[4]	neg[4]	_	_	
+4-14	368-375	columns	_	_	_	_	
+4-15	375-376	.	_	_	_	_	

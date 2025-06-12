@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=This is quite simple.
+1-1	0-4	This	_	_	_	_	
+1-2	5-7	is	_	_	_	_	
+1-3	8-13	quite	Appreciation[1]	pos[1]	Focus	up	
+1-4	14-20	simple	Appreciation[1]	pos[1]	_	_	
+1-5	20-21	.	_	_	_	_	
+
+#Text=If Hillary had been a man, we never would have heard of her.
+2-1	22-24	If	Judgment[2]	neg[2]	_	_	
+2-2	25-32	Hillary	Judgment[2]	neg[2]	_	_	
+2-3	33-36	had	Judgment[2]	neg[2]	_	_	
+2-4	37-41	been	Judgment[2]	neg[2]	_	_	
+2-5	42-43	a	Judgment[2]	neg[2]	_	_	
+2-6	44-47	man	Judgment[2]	neg[2]	_	_	
+2-7	47-48	,	Judgment[2]	neg[2]	_	_	
+2-8	49-51	we	Judgment[2]	neg[2]	_	_	
+2-9	52-57	never	Judgment[2]	neg[2]	_	_	
+2-10	58-63	would	Judgment[2]	neg[2]	_	_	
+2-11	64-68	have	Judgment[2]	neg[2]	_	_	
+2-12	69-74	heard	Judgment[2]	neg[2]	_	_	
+2-13	75-77	of	Judgment[2]	neg[2]	_	_	
+2-14	78-81	her	Judgment[2]	neg[2]	_	_	
+2-15	81-82	.	_	_	_	_	
+
+#Text=The first and most critical step of her political career was marrying Bill Clinton.
+3-1	83-86	The	_	_	_	_	
+3-2	87-92	first	_	_	_	_	
+3-3	93-96	and	_	_	_	_	
+3-4	97-101	most	Judgment[3]	neg[3]	Force	up	
+3-5	102-110	critical	Judgment[3]	neg[3]	_	_	
+3-6	111-115	step	Judgment[3]	neg[3]	_	_	
+3-7	116-118	of	Judgment[3]	neg[3]	_	_	
+3-8	119-122	her	Judgment[3]	neg[3]	_	_	
+3-9	123-132	political	Judgment[3]	neg[3]	_	_	
+3-10	133-139	career	Judgment[3]	neg[3]	_	_	
+3-11	140-143	was	Judgment[3]	neg[3]	_	_	
+3-12	144-152	marrying	Judgment[3]	neg[3]	_	_	
+3-13	153-157	Bill	Judgment[3]	neg[3]	_	_	
+3-14	158-165	Clinton	Judgment[3]	neg[3]	_	_	
+3-15	165-166	.	_	_	_	_	
+
+#Text=Even assuming we get past this showstopper consider the treatment of a male who engaged in all of the dodgy activities like she has done.
+4-1	167-171	Even	_	_	_	_	
+4-2	172-180	assuming	_	_	_	_	
+4-3	181-183	we	_	_	_	_	
+4-4	184-187	get	_	_	_	_	
+4-5	188-192	past	_	_	_	_	
+4-6	193-197	this	_	_	_	_	
+4-7	198-209	showstopper	Appreciation	neg	_	_	
+4-8	210-218	consider	_	_	_	_	
+4-9	219-222	the	_	_	_	_	
+4-10	223-232	treatment	_	_	_	_	
+4-11	233-235	of	_	_	_	_	
+4-12	236-237	a	_	_	_	_	
+4-13	238-242	male	_	_	_	_	
+4-14	243-246	who	_	_	_	_	
+4-15	247-254	engaged	_	_	_	_	
+4-16	255-257	in	_	_	_	_	
+4-17	258-261	all	_	_	_	_	
+4-18	262-264	of	_	_	_	_	
+4-19	265-268	the	_	_	_	_	
+4-20	269-274	dodgy	Judgment	neg	_	_	
+4-21	275-285	activities	_	_	_	_	
+4-22	286-290	like	_	_	_	_	
+4-23	291-294	she	_	_	_	_	
+4-24	295-298	has	_	_	_	_	
+4-25	299-303	done	_	_	_	_	
+4-26	303-304	.	_	_	_	_	
+
+#Text=He'd probably still be in prison.
+5-1	305-309	He'd	Judgment[6]	neg[6]	_	_	
+5-2	310-318	probably	Judgment[6]	neg[6]	_	_	
+5-3	319-324	still	Judgment[6]	neg[6]	_	_	
+5-4	325-327	be	Judgment[6]	neg[6]	_	_	
+5-5	328-330	in	Judgment[6]	neg[6]	_	_	
+5-6	331-337	prison	Judgment[6]	neg[6]	_	_	
+5-7	337-338	.	_	_	_	_	
+
+#Text=As an exercise think of Hillary and her life but as Harry Rodham.
+6-1	339-341	As	_	_	_	_	
+6-2	342-344	an	_	_	_	_	
+6-3	345-353	exercise	_	_	_	_	
+6-4	354-359	think	_	_	_	_	
+6-5	360-362	of	_	_	_	_	
+6-6	363-370	Hillary	_	_	_	_	
+6-7	371-374	and	_	_	_	_	
+6-8	375-378	her	_	_	_	_	
+6-9	379-383	life	_	_	_	_	
+6-10	384-387	but	_	_	_	_	
+6-11	388-390	as	_	_	_	_	
+6-12	391-396	Harry	_	_	_	_	
+6-13	397-403	Rodham	_	_	_	_	
+6-14	403-404	.	_	_	_	_	

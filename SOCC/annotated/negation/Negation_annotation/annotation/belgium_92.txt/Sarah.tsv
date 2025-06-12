@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=The raison d'etre of the federal nation state though challenged, is vital.
+1-1	0-3	The	
+1-2	4-10	raison	
+1-3	11-17	d'etre	
+1-4	18-20	of	
+1-5	21-24	the	
+1-6	25-32	federal	
+1-7	33-39	nation	
+1-8	40-45	state	
+1-9	46-52	though	
+1-10	53-63	challenged	
+1-11	63-64	,	
+1-12	65-67	is	
+1-13	68-73	vital	
+1-14	73-74	.	
+
+#Text=Citizens around the world wish the people of Belgium well in their struggle with extremism.
+2-1	75-83	Citizens	
+2-2	84-90	around	
+2-3	91-94	the	
+2-4	95-100	world	
+2-5	101-105	wish	
+2-6	106-109	the	
+2-7	110-116	people	
+2-8	117-119	of	
+2-9	120-127	Belgium	
+2-10	128-132	well	
+2-11	133-135	in	
+2-12	136-141	their	
+2-13	142-150	struggle	
+2-14	151-155	with	
+2-15	156-165	extremism	
+2-16	165-166	.	

@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=But how do you know the brakes work?
+1-1	0-3	But	Judgment[1]	neg[1]	
+1-2	4-7	how	Judgment[1]	neg[1]	
+1-3	8-10	do	Judgment[1]	neg[1]	
+1-4	11-14	you	Judgment[1]	neg[1]	
+1-5	15-19	know	Judgment[1]	neg[1]	
+1-6	20-23	the	Judgment[1]	neg[1]	
+1-7	24-30	brakes	Judgment[1]	neg[1]	
+1-8	31-35	work	Judgment[1]	neg[1]	
+1-9	35-36	?	_	_	
+
+#Text=Is there a safety shield in place to protect the driver?
+2-1	37-39	Is	Judgment[2]	neg[2]	
+2-2	40-45	there	Judgment[2]	neg[2]	
+2-3	46-47	a	Judgment[2]	neg[2]	
+2-4	48-54	safety	Judgment[2]	neg[2]	
+2-5	55-61	shield	Judgment[2]	neg[2]	
+2-6	62-64	in	Judgment[2]	neg[2]	
+2-7	65-70	place	Judgment[2]	neg[2]	
+2-8	71-73	to	Judgment[2]	neg[2]	
+2-9	74-81	protect	Judgment[2]	neg[2]	
+2-10	82-85	the	Judgment[2]	neg[2]	
+2-11	86-92	driver	Judgment[2]	neg[2]	
+2-12	92-93	?	_	_	
+
+#Text=People can have multiple identities so the driver never really knows who they're picking up.
+3-1	94-100	People	_	_	
+3-2	101-104	can	_	_	
+3-3	105-109	have	_	_	
+3-4	110-118	multiple	Judgment[3]	neg[3]	
+3-5	119-129	identities	Judgment[3]	neg[3]	
+3-6	130-132	so	_	_	
+3-7	133-136	the	_	_	
+3-8	137-143	driver	_	_	
+3-9	144-149	never	Judgment[4]	neg[4]	
+3-10	150-156	really	Judgment[4]	neg[4]	
+3-11	157-162	knows	Judgment[4]	neg[4]	
+3-12	163-166	who	Judgment[4]	neg[4]	
+3-13	167-174	they're	Judgment[4]	neg[4]	
+3-14	175-182	picking	Judgment[4]	neg[4]	
+3-15	183-185	up	Judgment[4]	neg[4]	
+3-16	185-186	.	_	_	
+
+#Text=I find a lot of the support for Uber to be naive.
+4-1	187-188	I	_	_	
+4-2	189-193	find	_	_	
+4-3	194-195	a	_	_	
+4-4	196-199	lot	_	_	
+4-5	200-202	of	_	_	
+4-6	203-206	the	_	_	
+4-7	207-214	support	_	_	
+4-8	215-218	for	_	_	
+4-9	219-223	Uber	_	_	
+4-10	224-226	to	_	_	
+4-11	227-229	be	_	_	
+4-12	230-235	naive	Judgment	neg	
+4-13	235-236	.	_	_	
+
+#Text=The people who run Uber are not your friends.
+5-1	237-240	The	_	_	
+5-2	241-247	people	_	_	
+5-3	248-251	who	_	_	
+5-4	252-255	run	_	_	
+5-5	256-260	Uber	_	_	
+5-6	261-264	are	_	_	
+5-7	265-268	not	Judgment[6]	neg[6]	
+5-8	269-273	your	Judgment[6]	neg[6]	
+5-9	274-281	friends	Judgment[6]	neg[6]	
+5-10	281-282	.	_	_	
+
+#Text=They want their drivers to earn as little as they can get away with and they want to skim as much money as possible -- while doing basically nothing.
+6-1	283-287	They	_	_	
+6-2	288-292	want	Judgment[7]	neg[7]	
+6-3	293-298	their	Judgment[7]	neg[7]	
+6-4	299-306	drivers	Judgment[7]	neg[7]	
+6-5	307-309	to	Judgment[7]	neg[7]	
+6-6	310-314	earn	Judgment[7]	neg[7]	
+6-7	315-317	as	Judgment[7]	neg[7]	
+6-8	318-324	little	Judgment[7]	neg[7]	
+6-9	325-327	as	Judgment[7]	neg[7]	
+6-10	328-332	they	Judgment[7]	neg[7]	
+6-11	333-336	can	Judgment[7]	neg[7]	
+6-12	337-340	get	Judgment[7]	neg[7]	
+6-13	341-345	away	Judgment[7]	neg[7]	
+6-14	346-350	with	Judgment[7]	neg[7]	
+6-15	351-354	and	Judgment[7]	neg[7]	
+6-16	355-359	they	Judgment[7]	neg[7]	
+6-17	360-364	want	Judgment[7]	neg[7]	
+6-18	365-367	to	Judgment[7]	neg[7]	
+6-19	368-372	skim	Judgment[7]	neg[7]	
+6-20	373-375	as	Judgment[7]	neg[7]	
+6-21	376-380	much	Judgment[7]	neg[7]	
+6-22	381-386	money	Judgment[7]	neg[7]	
+6-23	387-389	as	Judgment[7]	neg[7]	
+6-24	390-398	possible	Judgment[7]	neg[7]	
+6-25	399-400	-	_	_	
+6-26	400-401	-	_	_	
+6-27	402-407	while	_	_	
+6-28	408-413	doing	Judgment[8]	neg[8]	
+6-29	414-423	basically	Judgment[8]	neg[8]	
+6-30	424-431	nothing	Judgment[8]	neg[8]	
+6-31	431-432	.	_	_	
+
+#Text=We need more rideshare services that are owned by the drivers, or someone needs to create an open source uber.
+7-1	433-435	We	_	_	
+7-2	436-440	need	Appreciation[9]	pos[9]	
+7-3	441-445	more	Appreciation[9]	pos[9]	
+7-4	446-455	rideshare	Appreciation[9]	pos[9]	
+7-5	456-464	services	Appreciation[9]	pos[9]	
+7-6	465-469	that	_	_	
+7-7	470-473	are	_	_	
+7-8	474-479	owned	_	_	
+7-9	480-482	by	_	_	
+7-10	483-486	the	_	_	
+7-11	487-494	drivers	_	_	
+7-12	494-495	,	_	_	
+7-13	496-498	or	_	_	
+7-14	499-506	someone	_	_	
+7-15	507-512	needs	Appreciation[10]	pos[10]	
+7-16	513-515	to	Appreciation[10]	pos[10]	
+7-17	516-522	create	Appreciation[10]	pos[10]	
+7-18	523-525	an	Appreciation[10]	pos[10]	
+7-19	526-530	open	Appreciation[10]	pos[10]	
+7-20	531-537	source	Appreciation[10]	pos[10]	
+7-21	538-542	uber	_	_	
+7-22	542-543	.	_	_	

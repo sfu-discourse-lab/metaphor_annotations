@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=too much time in law library.
+1-1	0-3	too	_	
+1-2	4-8	much	_	
+1-3	9-13	time	_	
+1-4	14-16	in	_	
+1-5	17-20	law	_	
+1-6	21-28	library	_	
+1-7	28-29	.	_	
+
+#Text=Don't understand public policy.
+2-1	30-35	Don't	NEG	
+2-2	36-46	understand	SCOPE[2]	
+2-3	47-53	public	SCOPE[2]|FOCUS[3]	
+2-4	54-60	policy	SCOPE[2]|FOCUS[3]	
+2-5	60-61	.	_	

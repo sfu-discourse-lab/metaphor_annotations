@@ -1,0 +1,243 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+#T_RL=webanno.custom.XNEGATION|BT_webanno.custom.NEGATION
+
+
+#Text=I live in Quebec, worked in the Social Services..
+1-1	0-1	I	_	_	
+1-2	2-6	live	_	_	
+1-3	7-9	in	_	_	
+1-4	10-16	Quebec	_	_	
+1-5	16-17	,	_	_	
+1-6	18-24	worked	_	_	
+1-7	25-27	in	_	_	
+1-8	28-31	the	_	_	
+1-9	32-38	Social	_	_	
+1-10	39-47	Services	_	_	
+1-11	47-48	.	_	_	
+1-12	48-49	.	_	_	
+
+#Text=I have seen how our Que daycare works.
+2-1	50-51	I	_	_	
+2-2	52-56	have	_	_	
+2-3	57-61	seen	_	_	
+2-4	62-65	how	_	_	
+2-5	66-69	our	_	_	
+2-6	70-73	Que	_	_	
+2-7	74-81	daycare	_	_	
+2-8	82-87	works	_	_	
+2-9	87-88	.	_	_	
+
+#Text=All to often it is the ones who could pay more that end up using the daycare system.
+3-1	89-92	All	_	_	
+3-2	93-95	to	_	_	
+3-3	96-101	often	_	_	
+3-4	102-104	it	_	_	
+3-5	105-107	is	_	_	
+3-6	108-111	the	_	_	
+3-7	112-116	ones	_	_	
+3-8	117-120	who	_	_	
+3-9	121-126	could	_	_	
+3-10	127-130	pay	_	_	
+3-11	131-135	more	_	_	
+3-12	136-140	that	_	_	
+3-13	141-144	end	_	_	
+3-14	145-147	up	_	_	
+3-15	148-153	using	_	_	
+3-16	154-157	the	_	_	
+3-17	158-165	daycare	_	_	
+3-18	166-172	system	_	_	
+3-19	172-173	.	_	_	
+
+#Text=They actually put their names onto a list for a spot in selected daycare, the minute the mother is expecting.
+4-1	174-178	They	_	_	
+4-2	179-187	actually	_	_	
+4-3	188-191	put	_	_	
+4-4	192-197	their	_	_	
+4-5	198-203	names	_	_	
+4-6	204-208	onto	_	_	
+4-7	209-210	a	_	_	
+4-8	211-215	list	_	_	
+4-9	216-219	for	_	_	
+4-10	220-221	a	_	_	
+4-11	222-226	spot	_	_	
+4-12	227-229	in	_	_	
+4-13	230-238	selected	_	_	
+4-14	239-246	daycare	_	_	
+4-15	246-247	,	_	_	
+4-16	248-251	the	_	_	
+4-17	252-258	minute	_	_	
+4-18	259-262	the	_	_	
+4-19	263-269	mother	_	_	
+4-20	270-272	is	_	_	
+4-21	273-282	expecting	_	_	
+4-22	282-283	.	_	_	
+
+#Text=I have even heard of cases of parents who are planning a baby in next two years to get a name on a list.
+5-1	284-285	I	_	_	
+5-2	286-290	have	_	_	
+5-3	291-295	even	_	_	
+5-4	296-301	heard	_	_	
+5-5	302-304	of	_	_	
+5-6	305-310	cases	_	_	
+5-7	311-313	of	_	_	
+5-8	314-321	parents	_	_	
+5-9	322-325	who	_	_	
+5-10	326-329	are	_	_	
+5-11	330-338	planning	_	_	
+5-12	339-340	a	_	_	
+5-13	341-345	baby	_	_	
+5-14	346-348	in	_	_	
+5-15	349-353	next	_	_	
+5-16	354-357	two	_	_	
+5-17	358-363	years	_	_	
+5-18	364-366	to	_	_	
+5-19	367-370	get	_	_	
+5-20	371-372	a	_	_	
+5-21	373-377	name	_	_	
+5-22	378-380	on	_	_	
+5-23	381-382	a	_	_	
+5-24	383-387	list	_	_	
+5-25	387-388	.	_	_	
+
+#Text=Meanwhile those low income working moms and families have to wait years to have a spot in a daycare.
+6-1	389-398	Meanwhile	_	_	
+6-2	399-404	those	_	_	
+6-3	405-408	low	_	_	
+6-4	409-415	income	_	_	
+6-5	416-423	working	_	_	
+6-6	424-428	moms	_	_	
+6-7	429-432	and	_	_	
+6-8	433-441	families	_	_	
+6-9	442-446	have	_	_	
+6-10	447-449	to	_	_	
+6-11	450-454	wait	_	_	
+6-12	455-460	years	_	_	
+6-13	461-463	to	_	_	
+6-14	464-468	have	_	_	
+6-15	469-470	a	_	_	
+6-16	471-475	spot	_	_	
+6-17	476-478	in	_	_	
+6-18	479-480	a	_	_	
+6-19	481-488	daycare	_	_	
+6-20	488-489	.	_	_	
+
+#Text=Why, because they are not as aware of 'how to work the system' as the others.
+7-1	490-493	Why	_	_	
+7-2	493-494	,	_	_	
+7-3	495-502	because	_	_	
+7-4	503-507	they	_	_	
+7-5	508-511	are	_	_	
+7-6	512-515	not	NEG	_	
+7-7	516-518	as	SCOPE[2]	_	
+7-8	519-524	aware	SCOPE[2]	_	
+7-9	525-527	of	SCOPE[2]	_	
+7-10	528-529	'	SCOPE[2]	_	
+7-11	529-532	how	SCOPE[2]	_	
+7-12	533-535	to	SCOPE[2]	_	
+7-13	536-540	work	SCOPE[2]	_	
+7-14	541-544	the	SCOPE[2]	_	
+7-15	545-551	system	SCOPE[2]	_	
+7-16	551-552	'	SCOPE[2]	_	
+7-17	553-555	as	SCOPE[2]|FOCUS[3]	_	
+7-18	556-559	the	SCOPE[2]|FOCUS[3]	_	
+7-19	560-566	others	SCOPE[2]|FOCUS[3]	_	
+7-20	566-567	.	_	_	
+
+#Text=People put their kids in daycare, higher income families, sometimes for no other reason to have time to do what they want, they do NOT work..
+8-1	568-574	People	_	_	
+8-2	575-578	put	_	_	
+8-3	579-584	their	_	_	
+8-4	585-589	kids	_	_	
+8-5	590-592	in	_	_	
+8-6	593-600	daycare	_	_	
+8-7	600-601	,	_	_	
+8-8	602-608	higher	_	_	
+8-9	609-615	income	_	_	
+8-10	616-624	families	_	_	
+8-11	624-625	,	_	_	
+8-12	626-635	sometimes	_	_	
+8-13	636-639	for	_	_	
+8-14	640-642	no	NEG	_	
+8-15	643-648	other	SCOPE[5]|FOCUS[6]	_	
+8-16	649-655	reason	SCOPE[5]	_	
+8-17	656-658	to	SCOPE[5]	_	
+8-18	659-663	have	SCOPE[5]	_	
+8-19	664-668	time	SCOPE[5]	_	
+8-20	669-671	to	SCOPE[5]	_	
+8-21	672-674	do	SCOPE[5]	_	
+8-22	675-679	what	SCOPE[5]	_	
+8-23	680-684	they	SCOPE[5]	_	
+8-24	685-689	want	SCOPE[5]	_	
+8-25	689-690	,	_	_	
+8-26	691-695	they	_	_	
+8-27	696-698	do	_	_	
+8-28	699-702	NOT	NEG	_	
+8-29	703-707	work	SCOPE[8]|FOCUS[9]	_	
+8-30	707-708	.	_	_	
+8-31	708-709	.	_	_	
+
+#Text=The concept of daycare is good, but must be better monitored with perhaps slanting pay scale so that the ones for which the idea came to be, can benefit.
+9-1	710-713	The	_	_	
+9-2	714-721	concept	_	_	
+9-3	722-724	of	_	_	
+9-4	725-732	daycare	_	_	
+9-5	733-735	is	_	_	
+9-6	736-740	good	_	_	
+9-7	740-741	,	_	_	
+9-8	742-745	but	_	_	
+9-9	746-750	must	_	_	
+9-10	751-753	be	_	_	
+9-11	754-760	better	_	_	
+9-12	761-770	monitored	_	_	
+9-13	771-775	with	_	_	
+9-14	776-783	perhaps	_	_	
+9-15	784-792	slanting	_	_	
+9-16	793-796	pay	_	_	
+9-17	797-802	scale	_	_	
+9-18	803-805	so	_	_	
+9-19	806-810	that	_	_	
+9-20	811-814	the	_	_	
+9-21	815-819	ones	_	_	
+9-22	820-823	for	_	_	
+9-23	824-829	which	_	_	
+9-24	830-833	the	_	_	
+9-25	834-838	idea	_	_	
+9-26	839-843	came	_	_	
+9-27	844-846	to	_	_	
+9-28	847-849	be	_	_	
+9-29	849-850	,	_	_	
+9-30	851-854	can	_	_	
+9-31	855-862	benefit	_	_	
+9-32	862-863	.	_	_	
+
+#Text=Not the middle classes who can pay more, but do not, and take up spaces that could be used by those who so need it..
+10-1	864-867	Not	NEG	_	
+10-2	868-871	the	SCOPE[11]	_	
+10-3	872-878	middle	SCOPE[11]	_	
+10-4	879-886	classes	SCOPE[11]	_	
+10-5	887-890	who	SCOPE[11]|FOCUS[12]	_	
+10-6	891-894	can	SCOPE[11]|FOCUS[12]	_	
+10-7	895-898	pay	SCOPE[11]|FOCUS[12]|XSCOPE[13]	10-12[0_13]	
+10-8	899-903	more	SCOPE[11]|FOCUS[12]|XSCOPE[13]|FOCUS[14]	_	
+10-9	903-904	,	_	_	
+10-10	905-908	but	_	_	
+10-11	909-911	do	_	_	
+10-12	912-915	not	NEG	_	
+10-13	915-916	,	_	_	
+10-14	917-920	and	_	_	
+10-15	921-925	take	_	_	
+10-16	926-928	up	_	_	
+10-17	929-935	spaces	_	_	
+10-18	936-940	that	_	_	
+10-19	941-946	could	_	_	
+10-20	947-949	be	_	_	
+10-21	950-954	used	_	_	
+10-22	955-957	by	_	_	
+10-23	958-963	those	_	_	
+10-24	964-967	who	_	_	
+10-25	968-970	so	_	_	
+10-26	971-975	need	_	_	
+10-27	976-978	it	_	_	
+10-28	978-979	.	_	_	
+10-29	979-980	.	_	_	

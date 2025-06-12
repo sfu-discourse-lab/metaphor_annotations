@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=lets start by looking at the disparity in income and opportunities between the chiefs families and the rest of the tribe Who is blocking that information?
+1-1	0-4	lets	_	_	
+1-2	5-10	start	_	_	
+1-3	11-13	by	_	_	
+1-4	14-21	looking	_	_	
+1-5	22-24	at	_	_	
+1-6	25-28	the	_	_	
+1-7	29-38	disparity	Appreciation[1]	neg[1]	
+1-8	39-41	in	Appreciation[1]	neg[1]	
+1-9	42-48	income	Appreciation[1]	neg[1]	
+1-10	49-52	and	Appreciation[1]	neg[1]	
+1-11	53-66	opportunities	Appreciation[1]	neg[1]	
+1-12	67-74	between	Appreciation[1]	neg[1]	
+1-13	75-78	the	Appreciation[1]	neg[1]	
+1-14	79-85	chiefs	Appreciation[1]	neg[1]	
+1-15	86-94	families	Appreciation[1]	neg[1]	
+1-16	95-98	and	Appreciation[1]	neg[1]	
+1-17	99-102	the	Appreciation[1]	neg[1]	
+1-18	103-107	rest	Appreciation[1]	neg[1]	
+1-19	108-110	of	Appreciation[1]	neg[1]	
+1-20	111-114	the	Appreciation[1]	neg[1]	
+1-21	115-120	tribe	Appreciation[1]	neg[1]	
+1-22	121-124	Who	Judgment[2]	neg[2]	
+1-23	125-127	is	Judgment[2]	neg[2]	
+1-24	128-136	blocking	Judgment[2]	neg[2]	
+1-25	137-141	that	Judgment[2]	neg[2]	
+1-26	142-153	information	Judgment[2]	neg[2]	
+1-27	153-154	?	_	_	
+
+#Text=Who doesn't want to address the problem?
+2-1	155-158	Who	Judgment[3]	neg[3]	
+2-2	159-166	doesn't	Judgment[3]	neg[3]	
+2-3	167-171	want	Judgment[3]	neg[3]	
+2-4	172-174	to	Judgment[3]	neg[3]	
+2-5	175-182	address	Judgment[3]	neg[3]	
+2-6	183-186	the	Judgment[3]	neg[3]	
+2-7	187-194	problem	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	
+2-8	194-195	?	_	_	

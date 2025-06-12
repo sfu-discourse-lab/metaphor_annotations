@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=A reasonably good article.
+1-1	0-1	A	_	_	_	_	
+1-2	2-12	reasonably	Appreciation[1]	pos[1]	Focus	down	
+1-3	13-17	good	Appreciation[1]	pos[1]	_	_	
+1-4	18-25	article	_	_	_	_	
+1-5	25-26	.	_	_	_	_	
+
+#Text=Barbra McDougal of all people should be in a position to kick start some meaningful solutions to this problem.
+2-1	27-33	Barbra	_	_	_	_	
+2-2	34-42	McDougal	_	_	_	_	
+2-3	43-45	of	_	_	_	_	
+2-4	46-49	all	_	_	_	_	
+2-5	50-56	people	_	_	_	_	
+2-6	57-63	should	Judgment[2]	pos[2]	_	_	
+2-7	64-66	be	Judgment[2]	pos[2]	_	_	
+2-8	67-69	in	Judgment[2]	pos[2]	_	_	
+2-9	70-71	a	Judgment[2]	pos[2]	_	_	
+2-10	72-80	position	Judgment[2]	pos[2]	_	_	
+2-11	81-83	to	_	_	_	_	
+2-12	84-88	kick	_	_	_	_	
+2-13	89-94	start	_	_	_	_	
+2-14	95-99	some	_	_	_	_	
+2-15	100-110	meaningful	Appreciation[3]	pos[3]	_	_	
+2-16	111-120	solutions	Appreciation[3]	pos[3]	_	_	
+2-17	121-123	to	_	_	_	_	
+2-18	124-128	this	_	_	_	_	
+2-19	129-136	problem	Appreciation	neg	_	_	
+2-20	136-137	.	_	_	_	_	
+
+#Text=Being cautious as to not allow the optics of the problem derail the real solutions.
+3-1	138-143	Being	_	_	_	_	
+3-2	144-152	cautious	Judgment	pos	_	_	
+3-3	153-155	as	_	_	_	_	
+3-4	156-158	to	_	_	_	_	
+3-5	159-162	not	_	_	_	_	
+3-6	163-168	allow	_	_	_	_	
+3-7	169-172	the	_	_	_	_	
+3-8	173-179	optics	_	_	_	_	
+3-9	180-182	of	_	_	_	_	
+3-10	183-186	the	_	_	_	_	
+3-11	187-194	problem	Appreciation	neg	_	_	
+3-12	195-201	derail	Appreciation[7]	neg[7]	_	_	
+3-13	202-205	the	Appreciation[7]	neg[7]	_	_	
+3-14	206-210	real	Appreciation[7]|Appreciation[8]	neg[7]|pos[8]	_	_	
+3-15	211-220	solutions	Appreciation[7]|Appreciation[8]	neg[7]|pos[8]	_	_	
+3-16	220-221	.	_	_	_	_	
+
+#Text=For example, It is with monotonous repetition that we hear of the deplorable condition of housing on the reserves.
+4-1	222-225	For	_	_	_	_	
+4-2	226-233	example	_	_	_	_	
+4-3	233-234	,	_	_	_	_	
+4-4	235-237	It	_	_	_	_	
+4-5	238-240	is	_	_	_	_	
+4-6	241-245	with	_	_	_	_	
+4-7	246-256	monotonous	Appreciation[9]	neg[9]	_	_	
+4-8	257-267	repetition	Appreciation[9]	neg[9]	_	_	
+4-9	268-272	that	_	_	_	_	
+4-10	273-275	we	_	_	_	_	
+4-11	276-280	hear	_	_	_	_	
+4-12	281-283	of	_	_	_	_	
+4-13	284-287	the	_	_	_	_	
+4-14	288-298	deplorable	Appreciation	neg	_	_	
+4-15	299-308	condition	_	_	_	_	
+4-16	309-311	of	_	_	_	_	
+4-17	312-319	housing	_	_	_	_	
+4-18	320-322	on	_	_	_	_	
+4-19	323-326	the	_	_	_	_	
+4-20	327-335	reserves	_	_	_	_	
+4-21	335-336	.	_	_	_	_	
+
+#Text=However, many of these houses are in deplorable condition, because they have never had any care and attention given to them by the homeowner.
+5-1	337-344	However	_	_	_	_	
+5-2	344-345	,	_	_	_	_	
+5-3	346-350	many	_	_	_	_	
+5-4	351-353	of	_	_	_	_	
+5-5	354-359	these	_	_	_	_	
+5-6	360-366	houses	_	_	_	_	
+5-7	367-370	are	_	_	_	_	
+5-8	371-373	in	_	_	_	_	
+5-9	374-384	deplorable	Appreciation	neg	_	_	
+5-10	385-394	condition	_	_	_	_	
+5-11	394-395	,	_	_	_	_	
+5-12	396-403	because	_	_	_	_	
+5-13	404-408	they	_	_	_	_	
+5-14	409-413	have	_	_	_	_	
+5-15	414-419	never	Judgment[12]	neg[12]	_	_	
+5-16	420-423	had	Judgment[12]	neg[12]	_	_	
+5-17	424-427	any	Judgment[12]	neg[12]	_	_	
+5-18	428-432	care	Judgment[12]	neg[12]	_	_	
+5-19	433-436	and	Judgment[12]	neg[12]	_	_	
+5-20	437-446	attention	Judgment[12]	neg[12]	_	_	
+5-21	447-452	given	_	_	_	_	
+5-22	453-455	to	_	_	_	_	
+5-23	456-460	them	_	_	_	_	
+5-24	461-463	by	_	_	_	_	
+5-25	464-467	the	_	_	_	_	
+5-26	468-477	homeowner	_	_	_	_	
+5-27	477-478	.	_	_	_	_	
+
+#Text=Some homes on the prairies, were converted Granaries, that were continually modified and expanded as necessary when families grew.
+6-1	479-483	Some	_	_	_	_	
+6-2	484-489	homes	_	_	_	_	
+6-3	490-492	on	_	_	_	_	
+6-4	493-496	the	_	_	_	_	
+6-5	497-505	prairies	_	_	_	_	
+6-6	505-506	,	_	_	_	_	
+6-7	507-511	were	_	_	_	_	
+6-8	512-521	converted	_	_	_	_	
+6-9	522-531	Granaries	_	_	_	_	
+6-10	531-532	,	_	_	_	_	
+6-11	533-537	that	_	_	_	_	
+6-12	538-542	were	_	_	_	_	
+6-13	543-554	continually	_	_	_	_	
+6-14	555-563	modified	_	_	_	_	
+6-15	564-567	and	_	_	_	_	
+6-16	568-576	expanded	_	_	_	_	
+6-17	577-579	as	_	_	_	_	
+6-18	580-589	necessary	_	_	_	_	
+6-19	590-594	when	_	_	_	_	
+6-20	595-603	families	_	_	_	_	
+6-21	604-608	grew	_	_	_	_	
+6-22	608-609	.	_	_	_	_	
+
+#Text=One in particular was made into a one room shack, 200 sq. ft. that was still in service, and upgraded to 1200 sq. ft. lasted until the year 2000 before it was destroyed by owners who failed to keep it in good repair.
+7-1	610-613	One	_	_	_	_	
+7-2	614-616	in	_	_	_	_	
+7-3	617-627	particular	_	_	_	_	
+7-4	628-631	was	_	_	_	_	
+7-5	632-636	made	_	_	_	_	
+7-6	637-641	into	_	_	_	_	
+7-7	642-643	a	_	_	_	_	
+7-8	644-647	one	_	_	_	_	
+7-9	648-652	room	_	_	_	_	
+7-10	653-658	shack	_	_	_	_	
+7-11	658-659	,	_	_	_	_	
+7-12	660-663	200	_	_	_	_	
+7-13	664-666	sq	_	_	_	_	
+7-14	666-667	.	_	_	_	_	
+7-15	668-670	ft	_	_	_	_	
+7-16	670-671	.	_	_	_	_	
+7-17	672-676	that	_	_	_	_	
+7-18	677-680	was	_	_	_	_	
+7-19	681-686	still	_	_	_	_	
+7-20	687-689	in	_	_	_	_	
+7-21	690-697	service	_	_	_	_	
+7-22	697-698	,	_	_	_	_	
+7-23	699-702	and	_	_	_	_	
+7-24	703-711	upgraded	Appreciation	pos	_	_	
+7-25	712-714	to	_	_	_	_	
+7-26	715-719	1200	_	_	_	_	
+7-27	720-722	sq	_	_	_	_	
+7-28	722-723	.	_	_	_	_	
+7-29	724-726	ft	_	_	_	_	
+7-30	726-727	.	_	_	_	_	
+7-31	728-734	lasted	_	_	_	_	
+7-32	735-740	until	_	_	_	_	
+7-33	741-744	the	_	_	_	_	
+7-34	745-749	year	_	_	_	_	
+7-35	750-754	2000	_	_	_	_	
+7-36	755-761	before	_	_	_	_	
+7-37	762-764	it	_	_	_	_	
+7-38	765-768	was	_	_	_	_	
+7-39	769-778	destroyed	Appreciation	neg	_	_	
+7-40	779-781	by	_	_	_	_	
+7-41	782-788	owners	_	_	_	_	
+7-42	789-792	who	_	_	_	_	
+7-43	793-799	failed	Judgment	neg	_	_	
+7-44	800-802	to	_	_	_	_	
+7-45	803-807	keep	_	_	_	_	
+7-46	808-810	it	_	_	_	_	
+7-47	811-813	in	_	_	_	_	
+7-48	814-818	good	Appreciation	pos	_	_	
+7-49	819-825	repair	_	_	_	_	
+7-50	825-826	.	_	_	_	_	
+
+#Text=Time is long past for Band leaders to get past self service at the expense of all of these young people
+8-1	827-831	Time	_	_	_	_	
+8-2	832-834	is	_	_	_	_	
+8-3	835-839	long	Appreciation[17]	neg[17]	_	_	
+8-4	840-844	past	Appreciation[17]	neg[17]	_	_	
+8-5	845-848	for	_	_	_	_	
+8-6	849-853	Band	_	_	_	_	
+8-7	854-861	leaders	_	_	_	_	
+8-8	862-864	to	_	_	_	_	
+8-9	865-868	get	_	_	_	_	
+8-10	869-873	past	_	_	_	_	
+8-11	874-878	self	Judgment[18]	neg[18]	_	_	
+8-12	879-886	service	Judgment[18]	neg[18]	_	_	
+8-13	887-889	at	_	_	_	_	
+8-14	890-893	the	_	_	_	_	
+8-15	894-901	expense	Appreciation	neg	_	_	
+8-16	902-904	of	_	_	_	_	
+8-17	905-908	all	_	_	_	_	
+8-18	909-911	of	_	_	_	_	
+8-19	912-917	these	_	_	_	_	
+8-20	918-923	young	_	_	_	_	
+8-21	924-930	people	_	_	_	_	

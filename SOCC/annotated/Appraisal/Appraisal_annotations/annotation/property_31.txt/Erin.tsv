@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=How about some stories on people who think the tax is a good idea, or profile people in the community who have been priced out of their own market.
+1-1	0-3	How	Judgment[1]	neg[1]	
+1-2	4-9	about	Judgment[1]	neg[1]	
+1-3	10-14	some	Judgment[1]	neg[1]	
+1-4	15-22	stories	Judgment[1]	neg[1]	
+1-5	23-25	on	Judgment[1]	neg[1]	
+1-6	26-32	people	Judgment[1]	neg[1]	
+1-7	33-36	who	Judgment[1]	neg[1]	
+1-8	37-42	think	Judgment[1]	neg[1]	
+1-9	43-46	the	Judgment[1]	neg[1]	
+1-10	47-50	tax	Judgment[1]	neg[1]	
+1-11	51-53	is	Judgment[1]	neg[1]	
+1-12	54-55	a	Judgment[1]	neg[1]	
+1-13	56-60	good	Judgment[1]|Appreciation[2]	neg[1]|pos[2]	
+1-14	61-65	idea	Judgment[1]	neg[1]	
+1-15	65-66	,	Judgment[1]	neg[1]	
+1-16	67-69	or	Judgment[1]	neg[1]	
+1-17	70-77	profile	Judgment[1]	neg[1]	
+1-18	78-84	people	Judgment[1]	neg[1]	
+1-19	85-87	in	Judgment[1]	neg[1]	
+1-20	88-91	the	Judgment[1]	neg[1]	
+1-21	92-101	community	Judgment[1]	neg[1]	
+1-22	102-105	who	Judgment[1]	neg[1]	
+1-23	106-110	have	Judgment[1]	neg[1]	
+1-24	111-115	been	Judgment[1]	neg[1]	
+1-25	116-122	priced	Judgment[1]	neg[1]	
+1-26	123-126	out	Judgment[1]	neg[1]	
+1-27	127-129	of	Judgment[1]	neg[1]	
+1-28	130-135	their	Judgment[1]	neg[1]	
+1-29	136-139	own	Judgment[1]	neg[1]	
+1-30	140-146	market	Judgment[1]	neg[1]	
+1-31	146-147	.	_	_	
+
+#Text=Not just apologists for the real estate market and foreign buyers.
+2-1	148-151	Not	_	_	
+2-2	152-156	just	_	_	
+2-3	157-167	apologists	Judgment	neg	
+2-4	168-171	for	_	_	
+2-5	172-175	the	_	_	
+2-6	176-180	real	_	_	
+2-7	181-187	estate	_	_	
+2-8	188-194	market	_	_	
+2-9	195-198	and	_	_	
+2-10	199-206	foreign	_	_	
+2-11	207-213	buyers	_	_	
+2-12	213-214	.	_	_	
+
+#Text=You know, some balanced journalism.
+3-1	215-218	You	_	_	
+3-2	219-223	know	_	_	
+3-3	223-224	,	_	_	
+3-4	225-229	some	_	_	
+3-5	230-238	balanced	Judgment	neg	
+3-6	239-249	journalism	_	_	
+3-7	249-250	.	_	_	

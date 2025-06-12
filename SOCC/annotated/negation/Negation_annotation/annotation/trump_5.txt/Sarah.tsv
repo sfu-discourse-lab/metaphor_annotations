@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text='A Trump administration might make it harder for Canada to bring in carbon taxes \u2013 but easier to build pipelines.'
+1-1	0-1	'	
+1-2	1-2	A	
+1-3	3-8	Trump	
+1-4	9-23	administration	
+1-5	24-29	might	
+1-6	30-34	make	
+1-7	35-37	it	
+1-8	38-44	harder	
+1-9	45-48	for	
+1-10	49-55	Canada	
+1-11	56-58	to	
+1-12	59-64	bring	
+1-13	65-67	in	
+1-14	68-74	carbon	
+1-15	75-80	taxes	
+1-16	81-82	–	
+1-17	83-86	but	
+1-18	87-93	easier	
+1-19	94-96	to	
+1-20	97-102	build	
+1-21	103-112	pipelines	
+1-22	112-113	.	
+1-23	113-114	'	
+
+#Text=That would be more than Trudeau, Notley, Wynne and Clark combined have done thus far for Canada's economy.
+2-1	115-119	That	
+2-2	120-125	would	
+2-3	126-128	be	
+2-4	129-133	more	
+2-5	134-138	than	
+2-6	139-146	Trudeau	
+2-7	146-147	,	
+2-8	148-154	Notley	
+2-9	154-155	,	
+2-10	156-161	Wynne	
+2-11	162-165	and	
+2-12	166-171	Clark	
+2-13	172-180	combined	
+2-14	181-185	have	
+2-15	186-190	done	
+2-16	191-195	thus	
+2-17	196-199	far	
+2-18	200-203	for	
+2-19	204-212	Canada's	
+2-20	213-220	economy	
+2-21	220-221	.	

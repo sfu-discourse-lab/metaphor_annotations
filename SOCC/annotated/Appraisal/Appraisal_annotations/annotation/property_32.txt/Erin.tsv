@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=How is it racist?
+1-1	0-3	How	Judgment[1]	neg[1]	
+1-2	4-6	is	Judgment[1]	neg[1]	
+1-3	7-9	it	Judgment[1]	neg[1]	
+1-4	10-16	racist	Judgment[1]	neg[1]	
+1-5	16-17	?	_	_	
+
+#Text=it also applies to Americans, British, Australians, the french.
+2-1	18-20	it	_	_	
+2-2	21-25	also	_	_	
+2-3	26-33	applies	_	_	
+2-4	34-36	to	_	_	
+2-5	37-46	Americans	_	_	
+2-6	46-47	,	_	_	
+2-7	48-55	British	_	_	
+2-8	55-56	,	_	_	
+2-9	57-68	Australians	_	_	
+2-10	68-69	,	_	_	
+2-11	70-73	the	_	_	
+2-12	74-80	french	_	_	
+2-13	80-81	.	_	_	
+
+#Text=I would like to see something similar in most countries.
+3-1	82-83	I	_	_	
+3-2	84-89	would	Appreciation[2]	pos[2]	
+3-3	90-94	like	Appreciation[2]	pos[2]	
+3-4	95-97	to	Appreciation[2]	pos[2]	
+3-5	98-101	see	Appreciation[2]	pos[2]	
+3-6	102-111	something	Appreciation[2]	pos[2]	
+3-7	112-119	similar	Appreciation[2]	pos[2]	
+3-8	120-122	in	Appreciation[2]	pos[2]	
+3-9	123-127	most	Appreciation[2]	pos[2]	
+3-10	128-137	countries	Appreciation[2]	pos[2]	
+3-11	137-138	.	_	_	

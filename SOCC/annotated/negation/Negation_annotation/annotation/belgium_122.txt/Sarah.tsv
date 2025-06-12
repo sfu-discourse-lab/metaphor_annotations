@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=send Junior over there to show everyone how to play nice.
+1-1	0-4	send	
+1-2	5-11	Junior	
+1-3	12-16	over	
+1-4	17-22	there	
+1-5	23-25	to	
+1-6	26-30	show	
+1-7	31-39	everyone	
+1-8	40-43	how	
+1-9	44-46	to	
+1-10	47-51	play	
+1-11	52-56	nice	
+1-12	56-57	.	

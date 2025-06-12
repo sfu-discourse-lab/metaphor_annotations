@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I KNEW they were going to trot this absurd charge out.
+1-1	0-1	I	_	_	
+1-2	2-6	KNEW	_	_	
+1-3	7-11	they	_	_	
+1-4	12-16	were	_	_	
+1-5	17-22	going	_	_	
+1-6	23-25	to	_	_	
+1-7	26-30	trot	_	_	
+1-8	31-35	this	_	_	
+1-9	36-42	absurd	Judgment	neg	
+1-10	43-49	charge	_	_	
+1-11	50-53	out	_	_	
+1-12	53-54	.	_	_	
+
+#Text=You racist Canadians are preventing wealthy Chinese from using your homes as vehicles for speculation!
+2-1	55-58	You	_	_	
+2-2	59-65	racist	Judgment	neg	
+2-3	66-75	Canadians	_	_	
+2-4	76-79	are	_	_	
+2-5	80-90	preventing	Judgment[3]	neg[3]	
+2-6	91-98	wealthy	Judgment[3]	neg[3]	
+2-7	99-106	Chinese	Judgment[3]	neg[3]	
+2-8	107-111	from	Judgment[3]	neg[3]	
+2-9	112-117	using	Judgment[3]	neg[3]	
+2-10	118-122	your	Judgment[3]	neg[3]	
+2-11	123-128	homes	Judgment[3]	neg[3]	
+2-12	129-131	as	Judgment[3]	neg[3]	
+2-13	132-140	vehicles	Judgment[3]	neg[3]	
+2-14	141-144	for	Judgment[3]	neg[3]	
+2-15	145-156	speculation	Judgment[3]	neg[3]	
+2-16	156-157	!	_	_	
+
+#Text=How dare you!
+3-1	158-161	How	Judgment[4]	neg[4]	
+3-2	162-166	dare	Judgment[4]	neg[4]	
+3-3	167-170	you	Judgment[4]	neg[4]	
+3-4	170-171	!	_	_	
+
+#Text=Sit back and have your children priced out of the market for HOMES like good little complacent Canadians!
+4-1	172-175	Sit	_	_	
+4-2	176-180	back	_	_	
+4-3	181-184	and	_	_	
+4-4	185-189	have	_	_	
+4-5	190-194	your	_	_	
+4-6	195-203	children	_	_	
+4-7	204-210	priced	Appreciation[5]	neg[5]	
+4-8	211-214	out	Appreciation[5]	neg[5]	
+4-9	215-217	of	Appreciation[5]	neg[5]	
+4-10	218-221	the	Appreciation[5]	neg[5]	
+4-11	222-228	market	Appreciation[5]	neg[5]	
+4-12	229-232	for	Appreciation[5]	neg[5]	
+4-13	233-238	HOMES	Appreciation[5]	neg[5]	
+4-14	239-243	like	_	_	
+4-15	244-248	good	Judgment[6]	neg[6]	
+4-16	249-255	little	Judgment[6]	neg[6]	
+4-17	256-266	complacent	Judgment[6]	neg[6]	
+4-18	267-276	Canadians	_	_	
+4-19	276-277	!	_	_	

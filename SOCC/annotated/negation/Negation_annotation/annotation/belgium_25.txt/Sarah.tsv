@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Belgium is also home to a large number of very poor Congolese Christians.
+1-1	0-7	Belgium	
+1-2	8-10	is	
+1-3	11-15	also	
+1-4	16-20	home	
+1-5	21-23	to	
+1-6	24-25	a	
+1-7	26-31	large	
+1-8	32-38	number	
+1-9	39-41	of	
+1-10	42-46	very	
+1-11	47-51	poor	
+1-12	52-61	Congolese	
+1-13	62-72	Christians	
+1-14	72-73	.	
+
+#Text=Are they blowing up themselves and others?
+2-1	74-77	Are	
+2-2	78-82	they	
+2-3	83-90	blowing	
+2-4	91-93	up	
+2-5	94-104	themselves	
+2-6	105-108	and	
+2-7	109-115	others	
+2-8	115-116	?	
+
+#Text=Or are they easily drawn to a life of petty crime?
+3-1	117-119	Or	
+3-2	120-123	are	
+3-3	124-128	they	
+3-4	129-135	easily	
+3-5	136-141	drawn	
+3-6	142-144	to	
+3-7	145-146	a	
+3-8	147-151	life	
+3-9	152-154	of	
+3-10	155-160	petty	
+3-11	161-166	crime	
+3-12	166-167	?	
+
+#Text=Just wondering....
+4-1	168-172	Just	
+4-2	173-182	wondering	
+4-3	182-183	.	
+4-4	183-184	.	
+4-5	184-185	.	
+4-6	185-186	.	

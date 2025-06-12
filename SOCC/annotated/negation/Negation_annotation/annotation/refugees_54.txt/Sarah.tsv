@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Sorry but charity begins at home and home for many of these people is the greater ME.
+1-1	0-5	Sorry	_	
+1-2	6-9	but	_	
+1-3	10-17	charity	_	
+1-4	18-24	begins	_	
+1-5	25-27	at	_	
+1-6	28-32	home	_	
+1-7	33-36	and	_	
+1-8	37-41	home	_	
+1-9	42-45	for	_	
+1-10	46-50	many	_	
+1-11	51-53	of	_	
+1-12	54-59	these	_	
+1-13	60-66	people	_	
+1-14	67-69	is	_	
+1-15	70-73	the	_	
+1-16	74-81	greater	_	
+1-17	82-84	ME	_	
+1-18	84-85	.	_	
+
+#Text=Time for the rich oil barons of the area to step up.
+2-1	86-90	Time	_	
+2-2	91-94	for	_	
+2-3	95-98	the	_	
+2-4	99-103	rich	_	
+2-5	104-107	oil	_	
+2-6	108-114	barons	_	
+2-7	115-117	of	_	
+2-8	118-121	the	_	
+2-9	122-126	area	_	
+2-10	127-129	to	_	
+2-11	130-134	step	_	
+2-12	135-137	up	_	
+2-13	137-138	.	_	
+
+#Text=Not our problem and we have done some good work already and I sure as heck do not want my lovely society to end up looking like what those people over there created for themselves.
+3-1	139-142	Not	NEG	
+3-2	143-146	our	SCOPE[2]|FOCUS[3]	
+3-3	147-154	problem	SCOPE[2]	
+3-4	155-158	and	_	
+3-5	159-161	we	_	
+3-6	162-166	have	_	
+3-7	167-171	done	_	
+3-8	172-176	some	_	
+3-9	177-181	good	_	
+3-10	182-186	work	_	
+3-11	187-194	already	_	
+3-12	195-198	and	_	
+3-13	199-200	I	_	
+3-14	201-205	sure	_	
+3-15	206-208	as	_	
+3-16	209-213	heck	_	
+3-17	214-216	do	_	
+3-18	217-220	not	NEG	
+3-19	221-225	want	SCOPE[5]	
+3-20	226-228	my	SCOPE[5]|FOCUS[6]	
+3-21	229-235	lovely	SCOPE[5]|FOCUS[6]	
+3-22	236-243	society	SCOPE[5]|FOCUS[6]	
+3-23	244-246	to	SCOPE[5]	
+3-24	247-250	end	SCOPE[5]	
+3-25	251-253	up	SCOPE[5]	
+3-26	254-261	looking	SCOPE[5]	
+3-27	262-266	like	SCOPE[5]	
+3-28	267-271	what	SCOPE[5]	
+3-29	272-277	those	SCOPE[5]	
+3-30	278-284	people	SCOPE[5]	
+3-31	285-289	over	SCOPE[5]	
+3-32	290-295	there	SCOPE[5]	
+3-33	296-303	created	SCOPE[5]	
+3-34	304-307	for	SCOPE[5]	
+3-35	308-318	themselves	SCOPE[5]	
+3-36	318-319	.	_	

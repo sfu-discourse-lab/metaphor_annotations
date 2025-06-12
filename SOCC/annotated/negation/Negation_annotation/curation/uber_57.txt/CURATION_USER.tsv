@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Like those 'safe' cabs I ride in regularly where the cabbie is talking on a cellphone while trying to pay attention to dispatch.
+1-1	0-4	Like	
+1-2	5-10	those	
+1-3	11-12	'	
+1-4	12-16	safe	
+1-5	16-17	'	
+1-6	18-22	cabs	
+1-7	23-24	I	
+1-8	25-29	ride	
+1-9	30-32	in	
+1-10	33-42	regularly	
+1-11	43-48	where	
+1-12	49-52	the	
+1-13	53-59	cabbie	
+1-14	60-62	is	
+1-15	63-70	talking	
+1-16	71-73	on	
+1-17	74-75	a	
+1-18	76-85	cellphone	
+1-19	86-91	while	
+1-20	92-98	trying	
+1-21	99-101	to	
+1-22	102-105	pay	
+1-23	106-115	attention	
+1-24	116-118	to	
+1-25	119-127	dispatch	
+1-26	127-128	.	
+
+#Text=Riiighhht.....
+2-1	129-138	Riiighhht	
+2-2	138-139	.	
+2-3	139-140	.	
+2-4	140-141	.	
+2-5	141-142	.	
+2-6	142-143	.	

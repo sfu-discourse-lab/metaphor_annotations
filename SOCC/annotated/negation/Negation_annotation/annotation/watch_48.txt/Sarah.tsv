@@ -1,0 +1,193 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I got a watch for graduation 35+ years ago.
+1-1	0-1	I	_	
+1-2	2-5	got	_	
+1-3	6-7	a	_	
+1-4	8-13	watch	_	
+1-5	14-17	for	_	
+1-6	18-28	graduation	_	
+1-7	29-31	35	_	
+1-8	31-32	+	_	
+1-9	33-38	years	_	
+1-10	39-42	ago	_	
+1-11	42-43	.	_	
+
+#Text=No sooner did I put it on than the strap broke.
+2-1	44-46	No	NEG	
+2-2	47-53	sooner	SCOPE[2]|FOCUS[3]	
+2-3	54-57	did	_	
+2-4	58-59	I	_	
+2-5	60-63	put	_	
+2-6	64-66	it	_	
+2-7	67-69	on	_	
+2-8	70-74	than	_	
+2-9	75-78	the	_	
+2-10	79-84	strap	_	
+2-11	85-90	broke	_	
+2-12	90-91	.	_	
+
+#Text=I put it away intending to get a new strap.
+3-1	92-93	I	_	
+3-2	94-97	put	_	
+3-3	98-100	it	_	
+3-4	101-105	away	_	
+3-5	106-115	intending	_	
+3-6	116-118	to	_	
+3-7	119-122	get	_	
+3-8	123-124	a	_	
+3-9	125-128	new	_	
+3-10	129-134	strap	_	
+3-11	134-135	.	_	
+
+#Text=Five years later I got around to getting a strap.
+4-1	136-140	Five	_	
+4-2	141-146	years	_	
+4-3	147-152	later	_	
+4-4	153-154	I	_	
+4-5	155-158	got	_	
+4-6	159-165	around	_	
+4-7	166-168	to	_	
+4-8	169-176	getting	_	
+4-9	177-178	a	_	
+4-10	179-184	strap	_	
+4-11	184-185	.	_	
+
+#Text=It was 15 minutes later the battery went dead.
+5-1	186-188	It	_	
+5-2	189-192	was	_	
+5-3	193-195	15	_	
+5-4	196-203	minutes	_	
+5-5	204-209	later	_	
+5-6	210-213	the	_	
+5-7	214-221	battery	_	
+5-8	222-226	went	_	
+5-9	227-231	dead	_	
+5-10	231-232	.	_	
+
+#Text=So I have worn a watch for about 15 minutes of my life.
+6-1	233-235	So	_	
+6-2	236-237	I	_	
+6-3	238-242	have	_	
+6-4	243-247	worn	_	
+6-5	248-249	a	_	
+6-6	250-255	watch	_	
+6-7	256-259	for	_	
+6-8	260-265	about	_	
+6-9	266-268	15	_	
+6-10	269-276	minutes	_	
+6-11	277-279	of	_	
+6-12	280-282	my	_	
+6-13	283-287	life	_	
+6-14	287-288	.	_	
+
+#Text=Oddly I seem to always know what time it is, give or take 10 minutes.
+7-1	289-294	Oddly	_	
+7-2	295-296	I	_	
+7-3	297-301	seem	_	
+7-4	302-304	to	_	
+7-5	305-311	always	_	
+7-6	312-316	know	_	
+7-7	317-321	what	_	
+7-8	322-326	time	_	
+7-9	327-329	it	_	
+7-10	330-332	is	_	
+7-11	332-333	,	_	
+7-12	334-338	give	_	
+7-13	339-341	or	_	
+7-14	342-346	take	_	
+7-15	347-349	10	_	
+7-16	350-357	minutes	_	
+7-17	357-358	.	_	
+
+#Text=It can be a pitch black overcast night and the wife will ask what time it is, I go 'its quarter after two' she goes to the kitchen and it is 10 after.I don't use an alarm clock, don't wear a watch, yet somehow I sense the time of day.Then as Nebuly said, there are clocks everywhere when it gets down to a matter of a few minutes.
+8-1	359-361	It	_	
+8-2	362-365	can	_	
+8-3	366-368	be	_	
+8-4	369-370	a	_	
+8-5	371-376	pitch	_	
+8-6	377-382	black	_	
+8-7	383-391	overcast	_	
+8-8	392-397	night	_	
+8-9	398-401	and	_	
+8-10	402-405	the	_	
+8-11	406-410	wife	_	
+8-12	411-415	will	_	
+8-13	416-419	ask	_	
+8-14	420-424	what	_	
+8-15	425-429	time	_	
+8-16	430-432	it	_	
+8-17	433-435	is	_	
+8-18	435-436	,	_	
+8-19	437-438	I	_	
+8-20	439-441	go	_	
+8-21	442-443	'	_	
+8-22	443-446	its	_	
+8-23	447-454	quarter	_	
+8-24	455-460	after	_	
+8-25	461-464	two	_	
+8-26	464-465	'	_	
+8-27	466-469	she	_	
+8-28	470-474	goes	_	
+8-29	475-477	to	_	
+8-30	478-481	the	_	
+8-31	482-489	kitchen	_	
+8-32	490-493	and	_	
+8-33	494-496	it	_	
+8-34	497-499	is	_	
+8-35	500-502	10	_	
+8-36	503-510	after.I	_	
+8-37	511-516	don't	NEG	
+8-38	517-520	use	SCOPE[5]	
+8-39	521-523	an	SCOPE[5]|FOCUS[6]	
+8-40	524-529	alarm	SCOPE[5]|FOCUS[6]	
+8-41	530-535	clock	SCOPE[5]|FOCUS[6]	
+8-42	535-536	,	_	
+8-43	537-542	don't	NEG	
+8-44	543-547	wear	SCOPE[8]	
+8-45	548-549	a	SCOPE[8]|FOCUS[9]	
+8-46	550-555	watch	SCOPE[8]|FOCUS[9]	
+8-47	555-556	,	_	
+8-48	557-560	yet	_	
+8-49	561-568	somehow	_	
+8-50	569-570	I	_	
+8-51	571-576	sense	_	
+8-52	577-580	the	_	
+8-53	581-585	time	_	
+8-54	586-588	of	_	
+8-55	589-597	day.Then	_	
+8-56	598-600	as	_	
+8-57	601-607	Nebuly	_	
+8-58	608-612	said	_	
+8-59	612-613	,	_	
+8-60	614-619	there	_	
+8-61	620-623	are	_	
+8-62	624-630	clocks	_	
+8-63	631-641	everywhere	_	
+8-64	642-646	when	_	
+8-65	647-649	it	_	
+8-66	650-654	gets	_	
+8-67	655-659	down	_	
+8-68	660-662	to	_	
+8-69	663-664	a	_	
+8-70	665-671	matter	_	
+8-71	672-674	of	_	
+8-72	675-676	a	_	
+8-73	677-680	few	_	
+8-74	681-688	minutes	_	
+8-75	688-689	.	_	
+
+#Text=Anywhere where things are time sensitive there are clocks around.
+9-1	690-698	Anywhere	_	
+9-2	699-704	where	_	
+9-3	705-711	things	_	
+9-4	712-715	are	_	
+9-5	716-720	time	_	
+9-6	721-730	sensitive	_	
+9-7	731-736	there	_	
+9-8	737-740	are	_	
+9-9	741-747	clocks	_	
+9-10	748-754	around	_	
+9-11	754-755	.	_	

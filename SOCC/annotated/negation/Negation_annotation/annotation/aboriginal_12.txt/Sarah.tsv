@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Agreed.
+1-1	0-6	Agreed	_	
+1-2	6-7	.	_	
+
+#Text=It is time to drop the whining the need to self-blame ourselves e.g.
+2-1	9-11	It	_	
+2-2	12-14	is	_	
+2-3	15-19	time	_	
+2-4	20-22	to	_	
+2-5	23-27	drop	_	
+2-6	28-31	the	_	
+2-7	32-39	whining	_	
+2-8	40-43	the	_	
+2-9	44-48	need	_	
+2-10	49-51	to	_	
+2-11	52-62	self-blame	_	
+2-12	63-72	ourselves	_	
+2-13	73-76	e.g	_	
+2-14	76-77	.	_	
+
+#Text='all of which are linked to the fallout of colonization'  - after all didn't stronger tribes colonize weaker tribes too?
+3-1	78-79	'	_	
+3-2	79-82	all	_	
+3-3	83-85	of	_	
+3-4	86-91	which	_	
+3-5	92-95	are	_	
+3-6	96-102	linked	_	
+3-7	103-105	to	_	
+3-8	106-109	the	_	
+3-9	110-117	fallout	_	
+3-10	118-120	of	_	
+3-11	121-133	colonization	_	
+3-12	133-134	'	_	
+3-13	136-137	-	_	
+3-14	138-143	after	_	
+3-15	144-147	all	_	
+3-16	148-154	didn't	NEG	
+3-17	155-163	stronger	SCOPE[2]	
+3-18	164-170	tribes	SCOPE[2]	
+3-19	171-179	colonize	SCOPE[2]	
+3-20	180-186	weaker	SCOPE[2]	
+3-21	187-193	tribes	SCOPE[2]	
+3-22	194-197	too	SCOPE[2]|FOCUS[3]	
+3-23	197-198	?	_	

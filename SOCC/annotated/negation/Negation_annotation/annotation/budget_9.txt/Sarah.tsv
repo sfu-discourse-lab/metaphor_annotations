@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=65% of the Canadian economy is doing fantastically well.
+1-1	0-3	65%	_	
+1-2	4-6	of	_	
+1-3	7-10	the	_	
+1-4	11-19	Canadian	_	
+1-5	20-27	economy	_	
+1-6	28-30	is	_	
+1-7	31-36	doing	_	
+1-8	37-50	fantastically	_	
+1-9	51-55	well	_	
+1-10	55-56	.	_	
+
+#Text=The commodities side ( other 35% ) is not due to externally imposed going out of business pricing imposed by US/EU to give a short term appearance that they are doing ok.
+2-1	57-60	The	_	
+2-2	61-72	commodities	_	
+2-3	73-77	side	_	
+2-4	78-79	(	_	
+2-5	80-85	other	_	
+2-6	86-89	35%	_	
+2-7	90-91	)	_	
+2-8	92-94	is	_	
+2-9	95-98	not	NEG	
+2-10	99-102	due	SCOPE[2]	
+2-11	103-105	to	SCOPE[2]	
+2-12	106-116	externally	SCOPE[2]	
+2-13	117-124	imposed	SCOPE[2]	
+2-14	125-130	going	SCOPE[2]	
+2-15	131-134	out	SCOPE[2]	
+2-16	135-137	of	SCOPE[2]	
+2-17	138-146	business	SCOPE[2]	
+2-18	147-154	pricing	SCOPE[2]	
+2-19	155-162	imposed	SCOPE[2]	
+2-20	163-165	by	SCOPE[2]	
+2-21	166-168	US	SCOPE[2]|FOCUS[3]	
+2-22	168-169	/	SCOPE[2]|FOCUS[3]	
+2-23	169-171	EU	SCOPE[2]|FOCUS[3]	
+2-24	172-174	to	SCOPE[2]	
+2-25	175-179	give	SCOPE[2]	
+2-26	180-181	a	SCOPE[2]	
+2-27	182-187	short	SCOPE[2]	
+2-28	188-192	term	SCOPE[2]	
+2-29	193-203	appearance	SCOPE[2]	
+2-30	204-208	that	SCOPE[2]	
+2-31	209-213	they	SCOPE[2]	
+2-32	214-217	are	SCOPE[2]	
+2-33	218-223	doing	SCOPE[2]	
+2-34	224-226	ok	SCOPE[2]	
+2-35	226-227	.	_	
+
+#Text=If there is a lack of brain cells in comprehending this it is not within the PC party and/or their supporters.
+3-1	228-230	If	_	
+3-2	231-236	there	_	
+3-3	237-239	is	_	
+3-4	240-241	a	_	
+3-5	242-246	lack	NEG	
+3-6	247-249	of	SCOPE[5]	
+3-7	250-255	brain	SCOPE[5]	
+3-8	256-261	cells	SCOPE[5]	
+3-9	262-264	in	SCOPE[5]	
+3-10	265-278	comprehending	SCOPE[5]	
+3-11	279-283	this	SCOPE[5]|FOCUS[6]	
+3-12	284-286	it	_	
+3-13	287-289	is	_	
+3-14	290-293	not	NEG	
+3-15	294-300	within	SCOPE[8]	
+3-16	301-304	the	SCOPE[8]|FOCUS[9]	
+3-17	305-307	PC	SCOPE[8]|FOCUS[9]	
+3-18	308-313	party	SCOPE[8]|FOCUS[9]	
+3-19	314-317	and	SCOPE[8]	
+3-20	317-318	/	SCOPE[8]	
+3-21	318-320	or	SCOPE[8]	
+3-22	321-326	their	SCOPE[8]|FOCUS[10]	
+3-23	327-337	supporters	SCOPE[8]|FOCUS[10]	
+3-24	337-338	.	_	
+
+#Text=Even Kevin O'Leary gets it.
+4-1	339-343	Even	_	
+4-2	344-349	Kevin	_	
+4-3	350-357	O'Leary	_	
+4-4	358-362	gets	_	
+4-5	363-365	it	_	
+4-6	365-366	.	_	

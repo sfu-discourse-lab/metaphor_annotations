@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Please redo your English as a second language training.
+1-1	0-6	Please	Judgment[1]	neg[1]	
+1-2	7-11	redo	Judgment[1]	neg[1]	
+1-3	12-16	your	Judgment[1]	neg[1]	
+1-4	17-24	English	Judgment[1]	neg[1]	
+1-5	25-27	as	Judgment[1]	neg[1]	
+1-6	28-29	a	Judgment[1]	neg[1]	
+1-7	30-36	second	Judgment[1]	neg[1]	
+1-8	37-45	language	Judgment[1]	neg[1]	
+1-9	46-54	training	Judgment[1]	neg[1]	
+1-10	54-55	.	_	_	

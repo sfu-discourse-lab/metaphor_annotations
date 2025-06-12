@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Maybe they are just waiting for someone to draw a cartoon?
+1-1	0-5	Maybe	
+1-2	6-10	they	
+1-3	11-14	are	
+1-4	15-19	just	
+1-5	20-27	waiting	
+1-6	28-31	for	
+1-7	32-39	someone	
+1-8	40-42	to	
+1-9	43-47	draw	
+1-10	48-49	a	
+1-11	50-57	cartoon	
+1-12	57-58	?	

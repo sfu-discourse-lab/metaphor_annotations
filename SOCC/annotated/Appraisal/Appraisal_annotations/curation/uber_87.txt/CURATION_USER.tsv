@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=There is no Cartel,,, please are we all going to follow the G&M nonsense,
+1-1	0-5	There	Appreciation[1]	neg[1]	
+1-2	6-8	is	Appreciation[1]	neg[1]	
+1-3	9-11	no	Appreciation[1]	neg[1]	
+1-4	12-18	Cartel	Appreciation[1]	neg[1]	
+1-5	18-19	,	_	_	
+1-6	19-20	,	_	_	
+1-7	20-21	,	_	_	
+1-8	22-28	please	Judgment	neg	
+1-9	29-32	are	Judgment[3]	neg[3]	
+1-10	33-35	we	Judgment[3]	neg[3]	
+1-11	36-39	all	Judgment[3]	neg[3]	
+1-12	40-45	going	Judgment[3]	neg[3]	
+1-13	46-48	to	Judgment[3]	neg[3]	
+1-14	49-55	follow	Judgment[3]	neg[3]	
+1-15	56-59	the	Judgment[3]	neg[3]	
+1-16	60-61	G	Judgment[3]	neg[3]	
+1-17	61-62	&	Judgment[3]	neg[3]	
+1-18	62-63	M	Judgment[3]	neg[3]	
+1-19	64-72	nonsense	Judgment[3]|Appreciation[4]	neg[3]|neg[4]	
+1-20	72-73	,	_	_	

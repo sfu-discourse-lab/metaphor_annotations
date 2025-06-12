@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Sorry Mz.
+1-1	0-5	Sorry	_	_	
+1-2	6-8	Mz	_	_	
+1-3	8-9	.	_	_	
+
+#Text=Henein, we did not see a leader in Mz.
+2-1	10-16	Henein	_	_	
+2-2	16-17	,	_	_	
+2-3	18-20	we	_	_	
+2-4	21-24	did	Judgment[1]	neg[1]	
+2-5	25-28	not	Judgment[1]	neg[1]	
+2-6	29-32	see	Judgment[1]	neg[1]	
+2-7	33-34	a	Judgment[1]	neg[1]	
+2-8	35-41	leader	Judgment[1]	neg[1]	
+2-9	42-44	in	_	_	
+2-10	45-47	Mz	_	_	
+2-11	47-48	.	_	_	
+
+#Text=Clinton, only a high office grabber.
+3-1	49-56	Clinton	_	_	
+3-2	56-57	,	_	_	
+3-3	58-62	only	Judgment[2]	neg[2]	
+3-4	63-64	a	Judgment[2]	neg[2]	
+3-5	65-69	high	Judgment[2]	neg[2]	
+3-6	70-76	office	Judgment[2]	neg[2]	
+3-7	77-84	grabber	Judgment[2]	neg[2]	
+3-8	84-85	.	_	_	
+
+#Text=We would have liked to see a real strong woman leader, but she was not there.
+4-1	86-88	We	_	_	
+4-2	89-94	would	Judgment[3]	neg[3]	
+4-3	95-99	have	Judgment[3]	neg[3]	
+4-4	100-105	liked	Judgment[3]	neg[3]	
+4-5	106-108	to	Judgment[3]	neg[3]	
+4-6	109-112	see	Judgment[3]	neg[3]	
+4-7	113-114	a	Judgment[3]	neg[3]	
+4-8	115-119	real	Judgment[3]|Judgment[4]	neg[3]|pos[4]	
+4-9	120-126	strong	Judgment[3]|Judgment[4]	neg[3]|pos[4]	
+4-10	127-132	woman	Judgment[3]	neg[3]	
+4-11	133-139	leader	Judgment[3]	neg[3]	
+4-12	139-140	,	_	_	
+4-13	141-144	but	_	_	
+4-14	145-148	she	_	_	
+4-15	149-152	was	_	_	
+4-16	153-156	not	Judgment[5]	neg[5]	
+4-17	157-162	there	Judgment[5]	neg[5]	
+4-18	162-163	.	_	_	

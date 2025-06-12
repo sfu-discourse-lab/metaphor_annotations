@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Whether it is called 'foreign buyer' or 'Chinese buyer' tax, the result won't make too much difference, since the Chinese buyers made up the majority of the purchase.
+1-1	0-7	Whether	_	_	
+1-2	8-10	it	_	_	
+1-3	11-13	is	_	_	
+1-4	14-20	called	_	_	
+1-5	21-22	'	_	_	
+1-6	22-29	foreign	_	_	
+1-7	30-35	buyer	_	_	
+1-8	35-36	'	_	_	
+1-9	37-39	or	_	_	
+1-10	40-41	'	_	_	
+1-11	41-48	Chinese	_	_	
+1-12	49-54	buyer	_	_	
+1-13	54-55	'	_	_	
+1-14	56-59	tax	_	_	
+1-15	59-60	,	_	_	
+1-16	61-64	the	_	_	
+1-17	65-71	result	_	_	
+1-18	72-77	won't	Appreciation[1]	neu[1]	
+1-19	78-82	make	Appreciation[1]	neu[1]	
+1-20	83-86	too	Appreciation[1]	neu[1]	
+1-21	87-91	much	Appreciation[1]	neu[1]	
+1-22	92-102	difference	Appreciation[1]	neu[1]	
+1-23	102-103	,	_	_	
+1-24	104-109	since	_	_	
+1-25	110-113	the	_	_	
+1-26	114-121	Chinese	_	_	
+1-27	122-128	buyers	_	_	
+1-28	129-133	made	_	_	
+1-29	134-136	up	_	_	
+1-30	137-140	the	_	_	
+1-31	141-149	majority	_	_	
+1-32	150-152	of	_	_	
+1-33	153-156	the	_	_	
+1-34	157-165	purchase	_	_	
+1-35	165-166	.	_	_	
+
+#Text=It seems to be a brilliant idea to let rich Chinese buyers to subsidize affordable housing in BC.
+2-1	167-169	It	_	_	
+2-2	170-175	seems	_	_	
+2-3	176-178	to	_	_	
+2-4	179-181	be	_	_	
+2-5	182-183	a	_	_	
+2-6	184-193	brilliant	Appreciation	pos	
+2-7	194-198	idea	_	_	
+2-8	199-201	to	_	_	
+2-9	202-205	let	_	_	
+2-10	206-210	rich	_	_	
+2-11	211-218	Chinese	_	_	
+2-12	219-225	buyers	_	_	
+2-13	226-228	to	_	_	
+2-14	229-238	subsidize	Appreciation[3]	pos[3]	
+2-15	239-249	affordable	Appreciation[3]	pos[3]	
+2-16	250-257	housing	Appreciation[3]	pos[3]	
+2-17	258-260	in	_	_	
+2-18	261-263	BC	_	_	
+2-19	263-264	.	_	_	
+
+#Text=I thought to provide affordable housing is after all government's responsibility.
+3-1	265-266	I	_	_	
+3-2	267-274	thought	_	_	
+3-3	275-277	to	_	_	
+3-4	278-285	provide	Appreciation[4]	pos[4]	
+3-5	286-296	affordable	Appreciation[4]|Appreciation[5]	pos[4]|pos[5]	
+3-6	297-304	housing	Appreciation[4]	pos[4]	
+3-7	305-307	is	Appreciation[4]	pos[4]	
+3-8	308-313	after	Appreciation[4]	pos[4]	
+3-9	314-317	all	Appreciation[4]	pos[4]	
+3-10	318-330	government's	Appreciation[4]	pos[4]	
+3-11	331-345	responsibility	Appreciation[4]	pos[4]	
+3-12	345-346	.	_	_	

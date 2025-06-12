@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=David, I would be surprised if the electronics cost $20- to manufacture but they will cost consumers $400 or so at the retail level.
+1-1	0-5	David	_	_	
+1-2	5-6	,	_	_	
+1-3	7-8	I	_	_	
+1-4	9-14	would	_	_	
+1-5	15-17	be	_	_	
+1-6	18-27	surprised	Affect	neg	
+1-7	28-30	if	_	_	
+1-8	31-34	the	_	_	
+1-9	35-46	electronics	_	_	
+1-10	47-51	cost	_	_	
+1-11	52-55	$20	_	_	
+1-12	55-56	-	_	_	
+1-13	57-59	to	_	_	
+1-14	60-71	manufacture	_	_	
+1-15	72-75	but	_	_	
+1-16	76-80	they	_	_	
+1-17	81-85	will	_	_	
+1-18	86-90	cost	_	_	
+1-19	91-100	consumers	_	_	
+1-20	101-105	$400	_	_	
+1-21	106-108	or	_	_	
+1-22	109-111	so	_	_	
+1-23	112-114	at	_	_	
+1-24	115-118	the	_	_	
+1-25	119-125	retail	_	_	
+1-26	126-131	level	_	_	
+1-27	131-132	.	_	_	
+
+#Text=And, yes, 3 months is an ironic exaggeration.
+2-1	133-136	And	_	_	
+2-2	136-137	,	_	_	
+2-3	138-141	yes	_	_	
+2-4	141-142	,	_	_	
+2-5	143-144	3	_	_	
+2-6	145-151	months	_	_	
+2-7	152-154	is	_	_	
+2-8	155-157	an	_	_	
+2-9	158-164	ironic	Judgment[2]	neg[2]	
+2-10	165-177	exaggeration	Judgment[2]	neg[2]	
+2-11	177-178	.	_	_	

@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Those in the know understood that Prime Minister Stephen Harper had instructed his finance minister, Jim Flaherty, to present a budget in February, 2014, that would make it look as if fiscal 2014-15 would end in a deficit of $2.9-billion.
+1-1	0-5	Those	_	_	
+1-2	6-8	in	_	_	
+1-3	9-12	the	_	_	
+1-4	13-17	know	_	_	
+1-5	18-28	understood	_	_	
+1-6	29-33	that	_	_	
+1-7	34-39	Prime	_	_	
+1-8	40-48	Minister	_	_	
+1-9	49-56	Stephen	_	_	
+1-10	57-63	Harper	_	_	
+1-11	64-67	had	_	_	
+1-12	68-78	instructed	_	_	
+1-13	79-82	his	_	_	
+1-14	83-90	finance	_	_	
+1-15	91-99	minister	_	_	
+1-16	99-100	,	_	_	
+1-17	101-104	Jim	_	_	
+1-18	105-113	Flaherty	_	_	
+1-19	113-114	,	_	_	
+1-20	115-117	to	_	_	
+1-21	118-125	present	_	_	
+1-22	126-127	a	_	_	
+1-23	128-134	budget	_	_	
+1-24	135-137	in	_	_	
+1-25	138-146	February	_	_	
+1-26	146-147	,	_	_	
+1-27	148-152	2014	_	_	
+1-28	152-153	,	_	_	
+1-29	154-158	that	_	_	
+1-30	159-164	would	_	_	
+1-31	165-169	make	_	_	
+1-32	170-172	it	_	_	
+1-33	173-177	look	_	_	
+1-34	178-180	as	_	_	
+1-35	181-183	if	_	_	
+1-36	184-190	fiscal	_	_	
+1-37	191-195	2014	_	_	
+1-38	195-196	-	_	_	
+1-39	196-198	15	_	_	
+1-40	199-204	would	_	_	
+1-41	205-208	end	_	_	
+1-42	209-211	in	_	_	
+1-43	212-213	a	_	_	
+1-44	214-221	deficit	_	_	
+1-45	222-224	of	_	_	
+1-46	225-229	$2.9	_	_	
+1-47	229-230	-	_	_	
+1-48	230-237	billion	_	_	
+1-49	237-238	.	_	_	
+
+#Text='Just who are those in the know?
+2-1	239-240	'	_	_	
+2-2	240-244	Just	Judgment[1]	neg[1]	
+2-3	245-248	who	Judgment[1]	neg[1]	
+2-4	249-252	are	Judgment[1]	neg[1]	
+2-5	253-258	those	Judgment[1]	neg[1]	
+2-6	259-261	in	Judgment[1]	neg[1]	
+2-7	262-265	the	Judgment[1]	neg[1]	
+2-8	266-270	know	Judgment[1]	neg[1]	
+2-9	270-271	?	_	_	
+
+#Text=What an outrageous unsupported statement.
+3-1	272-276	What	_	_	
+3-2	277-279	an	_	_	
+3-3	280-290	outrageous	Appreciation[2]	neg[2]	
+3-4	291-302	unsupported	Appreciation[2]	neg[2]	
+3-5	303-312	statement	_	_	
+3-6	312-313	.	_	_	
+
+#Text='Those in the know'??!!
+4-1	314-315	'	_	_	
+4-2	315-320	Those	Judgment[3]	neg[3]	
+4-3	321-323	in	Judgment[3]	neg[3]	
+4-4	324-327	the	Judgment[3]	neg[3]	
+4-5	328-332	know	Judgment[3]	neg[3]	
+4-6	332-333	'	_	_	
+4-7	333-334	?	_	_	
+4-8	334-335	?	_	_	
+4-9	335-336	!	_	_	
+4-10	336-337	!	_	_	
+
+#Text=What crap journalism.
+5-1	338-342	What	_	_	
+5-2	343-347	crap	Appreciation	neg	
+5-3	348-358	journalism	_	_	
+5-4	358-359	.	_	_	
+
+#Text=Only a fool would turn this economy over to socialists like Justin or Mulcair
+6-1	360-364	Only	_	_	
+6-2	365-366	a	_	_	
+6-3	367-371	fool	Judgment	neg	
+6-4	372-377	would	_	_	
+6-5	378-382	turn	_	_	
+6-6	383-387	this	_	_	
+6-7	388-395	economy	_	_	
+6-8	396-400	over	_	_	
+6-9	401-403	to	_	_	
+6-10	404-414	socialists	Judgment	neg	
+6-11	415-419	like	_	_	
+6-12	420-426	Justin	_	_	
+6-13	427-429	or	_	_	
+6-14	430-437	Mulcair	_	_	

@@ -1,0 +1,18 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Terrible concession speech globe and fail.
+1-1	0-8	Terrible	
+1-2	9-19	concession	
+1-3	20-26	speech	
+1-4	27-32	globe	
+1-5	33-36	and	
+1-6	37-41	fail	
+1-7	41-42	.	
+
+#Text=Hopefully Hillary's is better.
+2-1	43-52	Hopefully	
+2-2	53-62	Hillary's	
+2-3	63-65	is	
+2-4	66-72	better	
+2-5	72-73	.	

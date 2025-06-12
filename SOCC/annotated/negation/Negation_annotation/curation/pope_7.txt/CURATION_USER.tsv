@@ -1,0 +1,18 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Everyone has a popecrush?
+1-1	0-8	Everyone	_	
+1-2	9-12	has	_	
+1-3	13-14	a	_	
+1-4	15-24	popecrush	_	
+1-5	24-25	?	_	
+
+#Text=Not from what I see.
+2-1	25-28	Not	NEG	
+2-2	29-33	from	SCOPE[2]	
+2-3	34-38	what	SCOPE[2]	
+2-4	39-40	I	SCOPE[2]|FOCUS[3]	
+2-5	41-44	see	SCOPE[2]	
+2-6	44-45	.	_	

@@ -1,0 +1,18 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=To sum it up, once again Harper lied to Canadians!
+1-1	0-2	To	_	_	_	_	
+1-2	3-6	sum	_	_	_	_	
+1-3	7-9	it	_	_	_	_	
+1-4	10-12	up	_	_	_	_	
+1-5	12-13	,	_	_	_	_	
+1-6	14-18	once	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-7	19-24	again	Judgment[1]	neg[1]	Force[1]	up[1]	
+1-8	25-31	Harper	Judgment[1]	neg[1]	_	_	
+1-9	32-36	lied	Judgment[1]	neg[1]	_	_	
+1-10	37-39	to	_	_	_	_	
+1-11	40-49	Canadians	_	_	_	_	
+1-12	49-50	!	_	_	_	_	

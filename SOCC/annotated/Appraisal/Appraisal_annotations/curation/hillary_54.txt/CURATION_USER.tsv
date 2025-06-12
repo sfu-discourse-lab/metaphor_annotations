@@ -1,0 +1,146 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=In my view, the failure of Hillary to win was nothing to do with gender, but all to do with the failure of the Democratic Party to look after the working class of America.
+1-1	0-2	In	_	_	_	_	
+1-2	3-5	my	_	_	_	_	
+1-3	6-10	view	_	_	_	_	
+1-4	10-11	,	_	_	_	_	
+1-5	12-15	the	_	_	_	_	
+1-6	16-23	failure	Appreciation	neg	_	_	
+1-7	24-26	of	_	_	_	_	
+1-8	27-34	Hillary	_	_	_	_	
+1-9	35-37	to	_	_	_	_	
+1-10	38-41	win	_	_	_	_	
+1-11	42-45	was	_	_	_	_	
+1-12	46-53	nothing	Appreciation[2]	neg[2]	_	_	
+1-13	54-56	to	Appreciation[2]	neg[2]	_	_	
+1-14	57-59	do	Appreciation[2]	neg[2]	_	_	
+1-15	60-64	with	_	_	_	_	
+1-16	65-71	gender	_	_	_	_	
+1-17	71-72	,	_	_	_	_	
+1-18	73-76	but	_	_	_	_	
+1-19	77-80	all	Appreciation[3]	pos[3]	_	_	
+1-20	81-83	to	Appreciation[3]	pos[3]	_	_	
+1-21	84-86	do	Appreciation[3]	pos[3]	_	_	
+1-22	87-91	with	_	_	_	_	
+1-23	92-95	the	_	_	_	_	
+1-24	96-103	failure	Appreciation	neg	_	_	
+1-25	104-106	of	_	_	_	_	
+1-26	107-110	the	_	_	_	_	
+1-27	111-121	Democratic	_	_	_	_	
+1-28	122-127	Party	_	_	_	_	
+1-29	128-130	to	_	_	_	_	
+1-30	131-135	look	Appreciation[5]	pos[5]	_	_	
+1-31	136-141	after	Appreciation[5]	pos[5]	_	_	
+1-32	142-145	the	Appreciation[5]	pos[5]	_	_	
+1-33	146-153	working	Appreciation[5]	pos[5]	_	_	
+1-34	154-159	class	Appreciation[5]	pos[5]	_	_	
+1-35	160-162	of	Appreciation[5]	pos[5]	_	_	
+1-36	163-170	America	Appreciation[5]	pos[5]	_	_	
+1-37	170-171	.	_	_	_	_	
+
+#Text=Thomas Frank points out that Bill Clinton promised much to this group and then proceeded to sign NAFTA, which disadvantaged them.
+2-1	172-178	Thomas	_	_	_	_	
+2-2	179-184	Frank	_	_	_	_	
+2-3	185-191	points	_	_	_	_	
+2-4	192-195	out	_	_	_	_	
+2-5	196-200	that	_	_	_	_	
+2-6	201-205	Bill	_	_	_	_	
+2-7	206-213	Clinton	_	_	_	_	
+2-8	214-222	promised	Judgment[6]	pos[6]	_	_	
+2-9	223-227	much	Judgment[6]	pos[6]	_	_	
+2-10	228-230	to	Judgment[6]	pos[6]	_	_	
+2-11	231-235	this	Judgment[6]	pos[6]	_	_	
+2-12	236-241	group	Judgment[6]	pos[6]	_	_	
+2-13	242-245	and	_	_	_	_	
+2-14	246-250	then	_	_	_	_	
+2-15	251-260	proceeded	Judgment[7]	neg[7]	_	_	
+2-16	261-263	to	Judgment[7]	neg[7]	_	_	
+2-17	264-268	sign	Judgment[7]	neg[7]	_	_	
+2-18	269-274	NAFTA	Judgment[7]	neg[7]	_	_	
+2-19	274-275	,	_	_	_	_	
+2-20	276-281	which	_	_	_	_	
+2-21	282-295	disadvantaged	Judgment	neg	_	_	
+2-22	296-300	them	_	_	_	_	
+2-23	300-301	.	_	_	_	_	
+
+#Text=Similarly Bill and Hillary shifted welfare payments to the poor from the Fed Govt to the states, with disadvantage for those voters.
+3-1	302-311	Similarly	_	_	_	_	
+3-2	312-316	Bill	_	_	_	_	
+3-3	317-320	and	_	_	_	_	
+3-4	321-328	Hillary	_	_	_	_	
+3-5	329-336	shifted	Judgment[9]	neg[9]	_	_	
+3-6	337-344	welfare	Judgment[9]	neg[9]	_	_	
+3-7	345-353	payments	Judgment[9]	neg[9]	_	_	
+3-8	354-356	to	Judgment[9]	neg[9]	_	_	
+3-9	357-360	the	Judgment[9]	neg[9]	_	_	
+3-10	361-365	poor	Judgment[9]	neg[9]	_	_	
+3-11	366-370	from	Judgment[9]	neg[9]	_	_	
+3-12	371-374	the	Judgment[9]	neg[9]	_	_	
+3-13	375-378	Fed	Judgment[9]	neg[9]	_	_	
+3-14	379-383	Govt	Judgment[9]	neg[9]	_	_	
+3-15	384-386	to	Judgment[9]	neg[9]	_	_	
+3-16	387-390	the	Judgment[9]	neg[9]	_	_	
+3-17	391-397	states	Judgment[9]	neg[9]	_	_	
+3-18	397-398	,	_	_	_	_	
+3-19	399-403	with	_	_	_	_	
+3-20	404-416	disadvantage	Judgment	neg	_	_	
+3-21	417-420	for	_	_	_	_	
+3-22	421-426	those	_	_	_	_	
+3-23	427-433	voters	_	_	_	_	
+3-24	433-434	.	_	_	_	_	
+
+#Text=He also suggests that another woman, Elizabeth Warren, would have done much better for the working classes and the poor; and Bernie Sanders might have obtained similarly high levels of support, eating into Trump's group of supporters.
+4-1	435-437	He	_	_	_	_	
+4-2	438-442	also	_	_	_	_	
+4-3	443-451	suggests	_	_	_	_	
+4-4	452-456	that	_	_	_	_	
+4-5	457-464	another	_	_	_	_	
+4-6	465-470	woman	_	_	_	_	
+4-7	470-471	,	_	_	_	_	
+4-8	472-481	Elizabeth	_	_	_	_	
+4-9	482-488	Warren	_	_	_	_	
+4-10	488-489	,	_	_	_	_	
+4-11	490-495	would	Judgment[11]	pos[11]	_	_	
+4-12	496-500	have	Judgment[11]	pos[11]	_	_	
+4-13	501-505	done	Judgment[11]	pos[11]	_	_	
+4-14	506-510	much	Judgment[11]	pos[11]	_	_	
+4-15	511-517	better	Judgment[11]	pos[11]	_	_	
+4-16	518-521	for	Judgment[11]	pos[11]	_	_	
+4-17	522-525	the	Judgment[11]	pos[11]	_	_	
+4-18	526-533	working	Judgment[11]	pos[11]	_	_	
+4-19	534-541	classes	Judgment[11]	pos[11]	_	_	
+4-20	542-545	and	Judgment[11]	pos[11]	_	_	
+4-21	546-549	the	Judgment[11]	pos[11]	_	_	
+4-22	550-554	poor	Judgment[11]	pos[11]	_	_	
+4-23	554-555	;	_	_	_	_	
+4-24	556-559	and	_	_	_	_	
+4-25	560-566	Bernie	_	_	_	_	
+4-26	567-574	Sanders	_	_	_	_	
+4-27	575-580	might	Judgment[12]	pos[12]	Focus	down	
+4-28	581-585	have	Judgment[12]	pos[12]	_	_	
+4-29	586-594	obtained	Judgment[12]	pos[12]	_	_	
+4-30	595-604	similarly	Judgment[12]	pos[12]	_	_	
+4-31	605-609	high	Judgment[12]	pos[12]	_	_	
+4-32	610-616	levels	Judgment[12]	pos[12]	_	_	
+4-33	617-619	of	Judgment[12]	pos[12]	_	_	
+4-34	620-627	support	Judgment[12]	pos[12]	_	_	
+4-35	627-628	,	_	_	_	_	
+4-36	629-635	eating	_	_	_	_	
+4-37	636-640	into	_	_	_	_	
+4-38	641-648	Trump's	_	_	_	_	
+4-39	649-654	group	_	_	_	_	
+4-40	655-657	of	_	_	_	_	
+4-41	658-668	supporters	_	_	_	_	
+4-42	668-669	.	_	_	_	_	
+
+#Text=Frank R.
+5-1	670-675	Frank	_	_	_	_	
+5-2	676-677	R	_	_	_	_	
+5-3	677-678	.	_	_	_	_	
+
+#Text=Smith
+6-1	679-684	Smith	_	_	_	_	

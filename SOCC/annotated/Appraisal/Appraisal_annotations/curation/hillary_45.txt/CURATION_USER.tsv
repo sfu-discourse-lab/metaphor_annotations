@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I think Marie Heinen has misinterpreted the phrase Michelle Obama used in her outstanding speech about the value of women.
+1-1	0-1	I	_	_	
+1-2	2-7	think	_	_	
+1-3	8-13	Marie	_	_	
+1-4	14-20	Heinen	_	_	
+1-5	21-24	has	_	_	
+1-6	25-39	misinterpreted	Judgment	neg	
+1-7	40-43	the	_	_	
+1-8	44-50	phrase	_	_	
+1-9	51-59	Michelle	_	_	
+1-10	60-65	Obama	_	_	
+1-11	66-70	used	_	_	
+1-12	71-73	in	_	_	
+1-13	74-77	her	_	_	
+1-14	78-89	outstanding	Appreciation	pos	
+1-15	90-96	speech	_	_	
+1-16	97-102	about	_	_	
+1-17	103-106	the	_	_	
+1-18	107-112	value	_	_	
+1-19	113-115	of	_	_	
+1-20	116-121	women	_	_	
+1-21	121-122	.	_	_	
+
+#Text=In 'going high when they go low' we do not become one of 'them' - the knife holders for example, but we stay true to ourselves in treating others as we would be treated.
+2-1	123-125	In	_	_	
+2-2	126-127	'	_	_	
+2-3	127-132	going	_	_	
+2-4	133-137	high	_	_	
+2-5	138-142	when	_	_	
+2-6	143-147	they	_	_	
+2-7	148-150	go	_	_	
+2-8	151-154	low	_	_	
+2-9	154-155	'	_	_	
+2-10	156-158	we	_	_	
+2-11	159-161	do	_	_	
+2-12	162-165	not	_	_	
+2-13	166-172	become	_	_	
+2-14	173-176	one	_	_	
+2-15	177-179	of	_	_	
+2-16	180-181	'	_	_	
+2-17	181-185	them	_	_	
+2-18	185-186	'	_	_	
+2-19	187-188	-	_	_	
+2-20	189-192	the	_	_	
+2-21	193-198	knife	Judgment[3]	neg[3]	
+2-22	199-206	holders	Judgment[3]	neg[3]	
+2-23	207-210	for	_	_	
+2-24	211-218	example	_	_	
+2-25	218-219	,	_	_	
+2-26	220-223	but	_	_	
+2-27	224-226	we	_	_	
+2-28	227-231	stay	Judgment[4]	pos[4]	
+2-29	232-236	true	Judgment[4]	pos[4]	
+2-30	237-239	to	Judgment[4]	pos[4]	
+2-31	240-249	ourselves	Judgment[4]	pos[4]	
+2-32	250-252	in	Judgment[4]	pos[4]	
+2-33	253-261	treating	Judgment[4]	pos[4]	
+2-34	262-268	others	Judgment[4]	pos[4]	
+2-35	269-271	as	Judgment[4]	pos[4]	
+2-36	272-274	we	Judgment[4]	pos[4]	
+2-37	275-280	would	Judgment[4]	pos[4]	
+2-38	281-283	be	Judgment[4]	pos[4]	
+2-39	284-291	treated	Judgment[4]	pos[4]	
+2-40	291-292	.	_	_	
+
+#Text=If you want something to say to your daughters listen to Michelle's speech.
+3-1	293-295	If	Appreciation[5]	pos[5]	
+3-2	296-299	you	Appreciation[5]	pos[5]	
+3-3	300-304	want	Appreciation[5]	pos[5]	
+3-4	305-314	something	Appreciation[5]	pos[5]	
+3-5	315-317	to	Appreciation[5]	pos[5]	
+3-6	318-321	say	Appreciation[5]	pos[5]	
+3-7	322-324	to	Appreciation[5]	pos[5]	
+3-8	325-329	your	Appreciation[5]	pos[5]	
+3-9	330-339	daughters	Appreciation[5]	pos[5]	
+3-10	340-346	listen	Appreciation[5]	pos[5]	
+3-11	347-349	to	Appreciation[5]	pos[5]	
+3-12	350-360	Michelle's	Appreciation[5]	pos[5]	
+3-13	361-367	speech	Appreciation[5]	pos[5]	
+3-14	367-368	.	_	_	
+
+#Text=Women and men, girls and boys who refuse to participate in destroying others to gain power over others, but who act and think with the belief in equality and respect between ourselves.
+4-1	369-374	Women	_	_	
+4-2	375-378	and	_	_	
+4-3	379-382	men	_	_	
+4-4	382-383	,	_	_	
+4-5	384-389	girls	_	_	
+4-6	390-393	and	_	_	
+4-7	394-398	boys	_	_	
+4-8	399-402	who	_	_	
+4-9	403-409	refuse	Judgment[6]	pos[6]	
+4-10	410-412	to	Judgment[6]	pos[6]	
+4-11	413-424	participate	Judgment[6]	pos[6]	
+4-12	425-427	in	Judgment[6]	pos[6]	
+4-13	428-438	destroying	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-14	439-445	others	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-15	446-448	to	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-16	449-453	gain	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-17	454-459	power	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-18	460-464	over	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-19	465-471	others	Judgment[6]|Appreciation[7]	pos[6]|neg[7]	
+4-20	471-472	,	_	_	
+4-21	473-476	but	_	_	
+4-22	477-480	who	_	_	
+4-23	481-484	act	Judgment[8]	pos[8]	
+4-24	485-488	and	Judgment[8]	pos[8]	
+4-25	489-494	think	Judgment[8]	pos[8]	
+4-26	495-499	with	Judgment[8]	pos[8]	
+4-27	500-503	the	Judgment[8]	pos[8]	
+4-28	504-510	belief	Judgment[8]	pos[8]	
+4-29	511-513	in	Judgment[8]	pos[8]	
+4-30	514-522	equality	Judgment[8]|Appreciation[9]	pos[8]|pos[9]	
+4-31	523-526	and	Judgment[8]|Appreciation[9]	pos[8]|pos[9]	
+4-32	527-534	respect	Judgment[8]|Appreciation[9]	pos[8]|pos[9]	
+4-33	535-542	between	_	_	
+4-34	543-552	ourselves	_	_	
+4-35	552-553	.	_	_	

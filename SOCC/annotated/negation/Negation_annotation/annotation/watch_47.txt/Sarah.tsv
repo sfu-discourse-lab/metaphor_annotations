@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=I followed you thoughts until you used the code word, 'coffers', something I hear the union bosses use when deriding someone's profit from exceptional effort, hard work, risk and the use of their own capital.
+1-1	0-1	I	
+1-2	2-10	followed	
+1-3	11-14	you	
+1-4	15-23	thoughts	
+1-5	24-29	until	
+1-6	30-33	you	
+1-7	34-38	used	
+1-8	39-42	the	
+1-9	43-47	code	
+1-10	48-52	word	
+1-11	52-53	,	
+1-12	54-55	'	
+1-13	55-62	coffers	
+1-14	62-63	'	
+1-15	63-64	,	
+1-16	65-74	something	
+1-17	75-76	I	
+1-18	77-81	hear	
+1-19	82-85	the	
+1-20	86-91	union	
+1-21	92-98	bosses	
+1-22	99-102	use	
+1-23	103-107	when	
+1-24	108-116	deriding	
+1-25	117-126	someone's	
+1-26	127-133	profit	
+1-27	134-138	from	
+1-28	139-150	exceptional	
+1-29	151-157	effort	
+1-30	157-158	,	
+1-31	159-163	hard	
+1-32	164-168	work	
+1-33	168-169	,	
+1-34	170-174	risk	
+1-35	175-178	and	
+1-36	179-182	the	
+1-37	183-186	use	
+1-38	187-189	of	
+1-39	190-195	their	
+1-40	196-199	own	
+1-41	200-207	capital	
+1-42	207-208	.	
+
+#Text=You're dismissed now.
+2-1	209-215	You're	
+2-2	216-225	dismissed	
+2-3	226-229	now	
+2-4	229-230	.	

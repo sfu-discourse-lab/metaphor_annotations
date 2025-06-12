@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Harper will do anything to cling to power.
+1-1	0-6	Harper	_	_	_	_	
+1-2	7-11	will	Judgment[1]	neg[1]	_	_	
+1-3	12-14	do	Judgment[1]	neg[1]	_	_	
+1-4	15-23	anything	Judgment[1]	neg[1]	_	_	
+1-5	24-26	to	Judgment[1]	neg[1]	_	_	
+1-6	27-32	cling	Judgment[1]	neg[1]	_	_	
+1-7	33-35	to	Judgment[1]	neg[1]	_	_	
+1-8	36-41	power	Judgment[1]	neg[1]	_	_	
+1-9	41-42	.	_	_	_	_	
+
+#Text=Harper has hurt our economy, democracy, reputation and futures.
+2-1	43-49	Harper	_	_	_	_	
+2-2	50-53	has	_	_	_	_	
+2-3	54-58	hurt	Judgment[2]	neg[2]	_	_	
+2-4	59-62	our	Judgment[2]	neg[2]	_	_	
+2-5	63-70	economy	Judgment[2]	neg[2]	_	_	
+2-6	70-71	,	Judgment[2]	neg[2]	_	_	
+2-7	72-81	democracy	Judgment[2]	neg[2]	_	_	
+2-8	81-82	,	Judgment[2]	neg[2]	_	_	
+2-9	83-93	reputation	Judgment[2]	neg[2]	_	_	
+2-10	94-97	and	Judgment[2]	neg[2]	_	_	
+2-11	98-105	futures	Judgment[2]	neg[2]	_	_	
+2-12	105-106	.	_	_	_	_	
+
+#Text=Harper distorts, attacks and lies to stay.
+3-1	107-113	Harper	_	_	_	_	
+3-2	114-122	distorts	Judgment[3]	neg[3]	_	_	
+3-3	122-123	,	Judgment[3]	neg[3]	_	_	
+3-4	124-131	attacks	Judgment[3]	neg[3]	_	_	
+3-5	132-135	and	Judgment[3]	neg[3]	_	_	
+3-6	136-140	lies	Judgment[3]	neg[3]	_	_	
+3-7	141-143	to	_	_	_	_	
+3-8	144-148	stay	_	_	_	_	
+3-9	148-149	.	_	_	_	_	
+
+#Text=The surplus and timing of the announcement is pure politics, not good management.
+4-1	150-153	The	_	_	_	_	
+4-2	154-161	surplus	_	_	_	_	
+4-3	162-165	and	_	_	_	_	
+4-4	166-172	timing	_	_	_	_	
+4-5	173-175	of	_	_	_	_	
+4-6	176-179	the	_	_	_	_	
+4-7	180-192	announcement	_	_	_	_	
+4-8	193-195	is	_	_	_	_	
+4-9	196-200	pure	Appreciation[4]	neg[4]	Focus	up	
+4-10	201-209	politics	Appreciation[4]	neg[4]	_	_	
+4-11	209-210	,	_	_	_	_	
+4-12	211-214	not	Appreciation[5]	neg[5]	_	_	
+4-13	215-219	good	Appreciation[5]	neg[5]	_	_	
+4-14	220-230	management	_	_	_	_	
+4-15	230-231	.	_	_	_	_	
+
+#Text=Wake up Canada, Turf the Tin Man.
+5-1	232-236	Wake	Judgment[6]	neg[6]	_	_	
+5-2	237-239	up	Judgment[6]	neg[6]	_	_	
+5-3	240-246	Canada	_	_	_	_	
+5-4	246-247	,	_	_	_	_	
+5-5	248-252	Turf	Judgment[7]	neg[7]	_	_	
+5-6	253-256	the	Judgment[7]	neg[7]	_	_	
+5-7	257-260	Tin	Judgment[7]	neg[7]	_	_	
+5-8	261-264	Man	Judgment[7]	neg[7]	_	_	
+5-9	264-265	.	_	_	_	_	

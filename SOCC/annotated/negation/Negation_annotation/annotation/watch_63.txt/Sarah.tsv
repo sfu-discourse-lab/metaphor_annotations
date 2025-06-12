@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Just like the iPhone, some people will not get the Apple Watch.
+1-1	0-4	Just	_	
+1-2	5-9	like	_	
+1-3	10-13	the	_	
+1-4	14-20	iPhone	_	
+1-5	20-21	,	_	
+1-6	22-26	some	_	
+1-7	27-33	people	_	
+1-8	34-38	will	_	
+1-9	39-42	not	NEG	
+1-10	43-46	get	SCOPE[2]	
+1-11	47-50	the	SCOPE[2]|FOCUS[3]	
+1-12	51-56	Apple	SCOPE[2]|FOCUS[3]	
+1-13	57-62	Watch	SCOPE[2]|FOCUS[3]	
+1-14	62-63	.	_	
+
+#Text=Have a look at this YouTube video  https://youtu.be/eywi0h_Y5_U   Even MicroSofts CEO Steve Ballmer can make a mistake!
+2-1	64-68	Have	_	
+2-2	69-70	a	_	
+2-3	71-75	look	_	
+2-4	76-78	at	_	
+2-5	79-83	this	_	
+2-6	84-91	YouTube	_	
+2-7	92-97	video	_	
+2-8	99-104	https	_	
+2-9	104-105	:	_	
+2-10	105-106	/	_	
+2-11	106-107	/	_	
+2-12	107-115	youtu.be	_	
+2-13	115-116	/	_	
+2-14	116-125	eywi0h_Y5	_	
+2-15	125-126	_	_	
+2-16	126-127	U	_	
+2-17	130-134	Even	_	
+2-18	135-145	MicroSofts	_	
+2-19	146-149	CEO	_	
+2-20	150-155	Steve	_	
+2-21	156-163	Ballmer	_	
+2-22	164-167	can	_	
+2-23	168-172	make	_	
+2-24	173-174	a	_	
+2-25	175-182	mistake	_	
+2-26	182-183	!	_	
+
+#Text=Of course if  Apples not your game, them your in luck most of the other manufactures have good discounts on there watches.
+3-1	184-186	Of	_	
+3-2	187-193	course	_	
+3-3	194-196	if	_	
+3-4	198-204	Apples	_	
+3-5	205-208	not	NEG	
+3-6	209-213	your	SCOPE[5]	
+3-7	214-218	game	SCOPE[5]|FOCUS[6]	
+3-8	218-219	,	_	
+3-9	220-224	them	_	
+3-10	225-229	your	_	
+3-11	230-232	in	_	
+3-12	233-237	luck	_	
+3-13	238-242	most	_	
+3-14	243-245	of	_	
+3-15	246-249	the	_	
+3-16	250-255	other	_	
+3-17	256-268	manufactures	_	
+3-18	269-273	have	_	
+3-19	274-278	good	_	
+3-20	279-288	discounts	_	
+3-21	289-291	on	_	
+3-22	292-297	there	_	
+3-23	298-305	watches	_	
+3-24	305-306	.	_	

@@ -1,0 +1,298 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=I feel your pain, Marie, and your anger.
+1-1	0-1	I	_	
+1-2	2-6	feel	_	
+1-3	7-11	your	_	
+1-4	12-16	pain	_	
+1-5	16-17	,	_	
+1-6	18-23	Marie	_	
+1-7	23-24	,	_	
+1-8	25-28	and	_	
+1-9	29-33	your	_	
+1-10	34-39	anger	_	
+1-11	39-40	.	_	
+
+#Text=It was all set up by an uninformed press and pollsters who could not reach the silent underbelly of abiding american prejudice and ignorance.
+2-1	41-43	It	_	
+2-2	44-47	was	_	
+2-3	48-51	all	_	
+2-4	52-55	set	_	
+2-5	56-58	up	_	
+2-6	59-61	by	_	
+2-7	62-64	an	_	
+2-8	65-75	uninformed	_	
+2-9	76-81	press	_	
+2-10	82-85	and	_	
+2-11	86-95	pollsters	_	
+2-12	96-99	who	_	
+2-13	100-105	could	_	
+2-14	106-109	not	NEG	
+2-15	110-115	reach	SCOPE[2]	
+2-16	116-119	the	SCOPE[2]	
+2-17	120-126	silent	SCOPE[2]	
+2-18	127-137	underbelly	SCOPE[2]	
+2-19	138-140	of	SCOPE[2]	
+2-20	141-148	abiding	SCOPE[2]	
+2-21	149-157	american	SCOPE[2]	
+2-22	158-167	prejudice	SCOPE[2]|FOCUS[3]	
+2-23	168-171	and	SCOPE[2]	
+2-24	172-181	ignorance	SCOPE[2]|FOCUS[4]	
+2-25	181-182	.	_	
+
+#Text=Also, please note the demographics: young women, both black and white, and other millennials voted against Hillary.
+3-1	183-187	Also	_	
+3-2	187-188	,	_	
+3-3	189-195	please	_	
+3-4	196-200	note	_	
+3-5	201-204	the	_	
+3-6	205-217	demographics	_	
+3-7	217-218	:	_	
+3-8	219-224	young	_	
+3-9	225-230	women	_	
+3-10	230-231	,	_	
+3-11	232-236	both	_	
+3-12	237-242	black	_	
+3-13	243-246	and	_	
+3-14	247-252	white	_	
+3-15	252-253	,	_	
+3-16	254-257	and	_	
+3-17	258-263	other	_	
+3-18	264-275	millennials	_	
+3-19	276-281	voted	_	
+3-20	282-289	against	_	
+3-21	290-297	Hillary	_	
+3-22	297-298	.	_	
+
+#Text=And there was her record.
+4-1	299-302	And	_	
+4-2	303-308	there	_	
+4-3	309-312	was	_	
+4-4	313-316	her	_	
+4-5	317-323	record	_	
+4-6	323-324	.	_	
+
+#Text=And there was Comey, who has much to answer for.
+5-1	325-328	And	_	
+5-2	329-334	there	_	
+5-3	335-338	was	_	
+5-4	339-344	Comey	_	
+5-5	344-345	,	_	
+5-6	346-349	who	_	
+5-7	350-353	has	_	
+5-8	354-358	much	_	
+5-9	359-361	to	_	
+5-10	362-368	answer	_	
+5-11	369-372	for	_	
+5-12	372-373	.	_	
+
+#Text=So your own advice is good: 'I will get over the election.'
+6-1	374-376	So	_	
+6-2	377-381	your	_	
+6-3	382-385	own	_	
+6-4	386-392	advice	_	
+6-5	393-395	is	_	
+6-6	396-400	good	_	
+6-7	400-401	:	_	
+6-8	402-403	'	_	
+6-9	403-404	I	_	
+6-10	405-409	will	_	
+6-11	410-413	get	_	
+6-12	414-418	over	_	
+6-13	419-422	the	_	
+6-14	423-431	election	_	
+6-15	431-432	.	_	
+6-16	432-433	'	_	
+
+#Text=So will we all.
+7-1	434-436	So	_	
+7-2	437-441	will	_	
+7-3	442-444	we	_	
+7-4	445-448	all	_	
+7-5	448-449	.	_	
+
+#Text=There are males who are as bitterly disappointed in the result as you are.
+8-1	450-455	There	_	
+8-2	456-459	are	_	
+8-3	460-465	males	_	
+8-4	466-469	who	_	
+8-5	470-473	are	_	
+8-6	474-476	as	_	
+8-7	477-485	bitterly	_	
+8-8	486-498	disappointed	_	
+8-9	499-501	in	_	
+8-10	502-505	the	_	
+8-11	506-512	result	_	
+8-12	513-515	as	_	
+8-13	516-519	you	_	
+8-14	520-523	are	_	
+8-15	523-524	.	_	
+
+#Text=Don't think that your sex gives you a monopoly on resentment.
+9-1	525-530	Don't	NEG	
+9-2	531-536	think	SCOPE[6]	
+9-3	537-541	that	SCOPE[6]	
+9-4	542-546	your	SCOPE[6]|FOCUS[7]	
+9-5	547-550	sex	SCOPE[6]|FOCUS[7]	
+9-6	551-556	gives	SCOPE[6]	
+9-7	557-560	you	SCOPE[6]	
+9-8	561-562	a	SCOPE[6]	
+9-9	563-571	monopoly	SCOPE[6]	
+9-10	572-574	on	SCOPE[6]	
+9-11	575-585	resentment	SCOPE[6]	
+9-12	585-586	.	_	
+
+#Text=And don't forget Margaret Thatcher and Theresa May in Britain.
+10-1	587-590	And	_	
+10-2	591-596	don't	NEG	
+10-3	597-603	forget	SCOPE[9]	
+10-4	604-612	Margaret	SCOPE[9]|FOCUS[10]	
+10-5	613-621	Thatcher	SCOPE[9]|FOCUS[10]	
+10-6	622-625	and	SCOPE[9]	
+10-7	626-633	Theresa	SCOPE[9]|FOCUS[11]	
+10-8	634-637	May	SCOPE[9]|FOCUS[11]	
+10-9	638-640	in	SCOPE[9]	
+10-10	641-648	Britain	SCOPE[9]	
+10-11	648-649	.	_	
+
+#Text=The time will come.
+11-1	650-653	The	_	
+11-2	654-658	time	_	
+11-3	659-663	will	_	
+11-4	664-668	come	_	
+11-5	668-669	.	_	
+
+#Text=There is the future.
+12-1	670-675	There	_	
+12-2	676-678	is	_	
+12-3	679-682	the	_	
+12-4	683-689	future	_	
+12-5	689-690	.	_	
+
+#Text=But what is needed is a female candidate with absolutely impeccable credentials.
+13-1	691-694	But	_	
+13-2	695-699	what	_	
+13-3	700-702	is	_	
+13-4	703-709	needed	_	
+13-5	710-712	is	_	
+13-6	713-714	a	_	
+13-7	715-721	female	_	
+13-8	722-731	candidate	_	
+13-9	732-736	with	_	
+13-10	737-747	absolutely	_	
+13-11	748-758	impeccable	_	
+13-12	759-770	credentials	_	
+13-13	770-771	.	_	
+
+#Text=Good as she was, and ripe as the time was, Hillary was not without taint or blemish.
+14-1	772-776	Good	_	
+14-2	777-779	as	_	
+14-3	780-783	she	_	
+14-4	784-787	was	_	
+14-5	787-788	,	_	
+14-6	789-792	and	_	
+14-7	793-797	ripe	_	
+14-8	798-800	as	_	
+14-9	801-804	the	_	
+14-10	805-809	time	_	
+14-11	810-813	was	_	
+14-12	813-814	,	_	
+14-13	815-822	Hillary	_	
+14-14	823-826	was	_	
+14-15	827-830	not	NEG	
+14-16	831-838	without	SCOPE[13]|NEG[14]	
+14-17	839-844	taint	SCOPE[13]|SCOPE[15]|FOCUS[16]|FOCUS[17]	
+14-18	845-847	or	SCOPE[13]|SCOPE[15]	
+14-19	848-855	blemish	SCOPE[13]|SCOPE[15]|FOCUS[18]|FOCUS[19]	
+14-20	855-856	.	_	
+
+#Text=There will be a next time.
+15-1	857-862	There	_	
+15-2	863-867	will	_	
+15-3	868-870	be	_	
+15-4	871-872	a	_	
+15-5	873-877	next	_	
+15-6	878-882	time	_	
+15-7	882-883	.	_	
+
+#Text=In the vast sweep of history, four years is a mere blip.
+16-1	884-886	In	_	
+16-2	887-890	the	_	
+16-3	891-895	vast	_	
+16-4	896-901	sweep	_	
+16-5	902-904	of	_	
+16-6	905-912	history	_	
+16-7	912-913	,	_	
+16-8	914-918	four	_	
+16-9	919-924	years	_	
+16-10	925-927	is	_	
+16-11	928-929	a	_	
+16-12	930-934	mere	_	
+16-13	935-939	blip	_	
+16-14	939-940	.	_	
+
+#Text=It will happen, it is worth waiting for, and you don't need to waste your vitriol on the Hillary case, which (let's face it) was a contest between dubious characters.
+17-1	941-943	It	_	
+17-2	944-948	will	_	
+17-3	949-955	happen	_	
+17-4	955-956	,	_	
+17-5	957-959	it	_	
+17-6	960-962	is	_	
+17-7	963-968	worth	_	
+17-8	969-976	waiting	_	
+17-9	977-980	for	_	
+17-10	980-981	,	_	
+17-11	982-985	and	_	
+17-12	986-989	you	_	
+17-13	990-995	don't	NEG	
+17-14	996-1000	need	SCOPE[21]	
+17-15	1001-1003	to	SCOPE[21]	
+17-16	1004-1009	waste	SCOPE[21]	
+17-17	1010-1014	your	SCOPE[21]	
+17-18	1015-1022	vitriol	SCOPE[21]	
+17-19	1023-1025	on	SCOPE[21]	
+17-20	1026-1029	the	SCOPE[21]|FOCUS[22]	
+17-21	1030-1037	Hillary	SCOPE[21]|FOCUS[22]	
+17-22	1038-1042	case	SCOPE[21]|FOCUS[22]	
+17-23	1042-1043	,	_	
+17-24	1044-1049	which	_	
+17-25	1050-1051	(	_	
+17-26	1051-1056	let's	_	
+17-27	1057-1061	face	_	
+17-28	1062-1064	it	_	
+17-29	1064-1065	)	_	
+17-30	1066-1069	was	_	
+17-31	1070-1071	a	_	
+17-32	1072-1079	contest	_	
+17-33	1080-1087	between	_	
+17-34	1088-1095	dubious	_	
+17-35	1096-1106	characters	_	
+17-36	1106-1107	.	_	
+
+#Text=The Big Win, when it comes, will be all the more impressive and valuable when there is NO doubt at all.
+18-1	1108-1111	The	_	
+18-2	1112-1115	Big	_	
+18-3	1116-1119	Win	_	
+18-4	1119-1120	,	_	
+18-5	1121-1125	when	_	
+18-6	1126-1128	it	_	
+18-7	1129-1134	comes	_	
+18-8	1134-1135	,	_	
+18-9	1136-1140	will	_	
+18-10	1141-1143	be	_	
+18-11	1144-1147	all	_	
+18-12	1148-1151	the	_	
+18-13	1152-1156	more	_	
+18-14	1157-1167	impressive	_	
+18-15	1168-1171	and	_	
+18-16	1172-1180	valuable	_	
+18-17	1181-1185	when	_	
+18-18	1186-1191	there	_	
+18-19	1192-1194	is	_	
+18-20	1195-1197	NO	NEG	
+18-21	1198-1203	doubt	SCOPE[24]	
+18-22	1204-1206	at	SCOPE[24]|FOCUS[25]	
+18-23	1207-1210	all	SCOPE[24]|FOCUS[25]	
+18-24	1210-1211	.	_	

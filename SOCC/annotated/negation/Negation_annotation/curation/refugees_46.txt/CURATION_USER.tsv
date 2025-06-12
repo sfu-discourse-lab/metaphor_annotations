@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Perhaps the author could explain to us why the wealthy Arab nations of the middle east have taken ZERO refugees?
+1-1	0-7	Perhaps	_	
+1-2	8-11	the	_	
+1-3	12-18	author	_	
+1-4	19-24	could	_	
+1-5	25-32	explain	_	
+1-6	33-35	to	_	
+1-7	36-38	us	_	
+1-8	39-42	why	_	
+1-9	43-46	the	_	
+1-10	47-54	wealthy	_	
+1-11	55-59	Arab	_	
+1-12	60-67	nations	_	
+1-13	68-70	of	_	
+1-14	71-74	the	_	
+1-15	75-81	middle	_	
+1-16	82-86	east	_	
+1-17	87-91	have	_	
+1-18	92-97	taken	_	
+1-19	98-102	ZERO	NEG	
+1-20	103-111	refugees	SCOPE[2]|FOCUS[3]	
+1-21	111-112	?	_	
+
+#Text=Perhaps because this isn't about refugees at all, it's a mass migration of religion to Europe and beyond.
+2-1	113-120	Perhaps	_	
+2-2	121-128	because	_	
+2-3	129-133	this	_	
+2-4	134-139	isn't	NEG	
+2-5	140-145	about	SCOPE[5]	
+2-6	146-154	refugees	SCOPE[5]|FOCUS[6]	
+2-7	155-157	at	SCOPE[5]	
+2-8	158-161	all	SCOPE[5]	
+2-9	161-162	,	_	
+2-10	163-167	it's	_	
+2-11	168-169	a	_	
+2-12	170-174	mass	_	
+2-13	175-184	migration	_	
+2-14	185-187	of	_	
+2-15	188-196	religion	_	
+2-16	197-199	to	_	
+2-17	200-206	Europe	_	
+2-18	207-210	and	_	
+2-19	211-217	beyond	_	
+2-20	217-218	.	_	

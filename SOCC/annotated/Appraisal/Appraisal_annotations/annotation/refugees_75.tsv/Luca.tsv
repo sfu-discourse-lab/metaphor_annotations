@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Why is this so typical of these G&M spokespersons .
+1-1	0-3	Why	Judgment[1]	neg[1]	
+1-2	4-6	is	Judgment[1]	neg[1]	
+1-3	7-11	this	Judgment[1]	neg[1]	
+1-4	12-14	so	Judgment[1]	neg[1]	
+1-5	15-22	typical	Judgment[1]	neg[1]	
+1-6	23-25	of	Judgment[1]	neg[1]	
+1-7	26-31	these	Judgment[1]	neg[1]	
+1-8	32-33	G	Judgment[1]	neg[1]	
+1-9	33-34	&	Judgment[1]	neg[1]	
+1-10	34-35	M	Judgment[1]	neg[1]	
+1-11	36-49	spokespersons	Judgment[1]	neg[1]	
+1-12	50-51	.	_	_	
+
+#Text=Nothing but criticism, not thankful and no appreciation.
+2-1	52-59	Nothing	Judgment[2]	neg[2]	
+2-2	60-63	but	Judgment[2]	neg[2]	
+2-3	64-73	criticism	Judgment[2]	neg[2]	
+2-4	73-74	,	Judgment[2]	neg[2]	
+2-5	75-78	not	Judgment[2]	neg[2]	
+2-6	79-87	thankful	Judgment[2]	neg[2]	
+2-7	88-91	and	Judgment[2]	neg[2]	
+2-8	92-94	no	Judgment[2]	neg[2]	
+2-9	95-107	appreciation	Judgment[2]	neg[2]	
+2-10	107-108	.	_	_	
+
+#Text=Is it any wonder there are so many that become threatening if they don't get their way.
+3-1	109-111	Is	Judgment[3]	neg[3]	
+3-2	112-114	it	Judgment[3]	neg[3]	
+3-3	115-118	any	Judgment[3]	neg[3]	
+3-4	119-125	wonder	Judgment[3]	neg[3]	
+3-5	126-131	there	Judgment[3]	neg[3]	
+3-6	132-135	are	Judgment[3]	neg[3]	
+3-7	136-138	so	Judgment[3]	neg[3]	
+3-8	139-143	many	Judgment[3]	neg[3]	
+3-9	144-148	that	Judgment[3]	neg[3]	
+3-10	149-155	become	Judgment[3]	neg[3]	
+3-11	156-167	threatening	Judgment[3]	neg[3]	
+3-12	168-170	if	Judgment[3]	neg[3]	
+3-13	171-175	they	Judgment[3]	neg[3]	
+3-14	176-181	don't	Judgment[3]	neg[3]	
+3-15	182-185	get	Judgment[3]	neg[3]	
+3-16	186-191	their	Judgment[3]	neg[3]	
+3-17	192-195	way	Judgment[3]	neg[3]	
+3-18	195-196	.	_	_	

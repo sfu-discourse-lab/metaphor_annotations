@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=abc
+#Text=
+#Text=I have heard this whine numerous times, especially related to RCMP positions.
+1-1	0-3	abc	_	
+1-2	5-6	I	_	
+1-3	7-11	have	_	
+1-4	12-17	heard	_	
+1-5	18-22	this	_	
+1-6	23-28	whine	_	
+1-7	29-37	numerous	_	
+1-8	38-43	times	_	
+1-9	43-44	,	_	
+1-10	45-55	especially	_	
+1-11	56-63	related	_	
+1-12	64-66	to	_	
+1-13	67-71	RCMP	_	
+1-14	72-81	positions	_	
+1-15	81-82	.	_	
+
+#Text=In my city, the RCMP is still not reflective of the local demographics.
+2-1	83-85	In	_	
+2-2	86-88	my	_	
+2-3	89-93	city	_	
+2-4	93-94	,	_	
+2-5	95-98	the	_	
+2-6	99-103	RCMP	_	
+2-7	104-106	is	_	
+2-8	107-112	still	_	
+2-9	113-116	not	NEG	
+2-10	117-127	reflective	SCOPE[2]	
+2-11	128-130	of	SCOPE[2]	
+2-12	131-134	the	SCOPE[2]	
+2-13	135-140	local	SCOPE[2]|FOCUS[3]	
+2-14	141-153	demographics	SCOPE[2]	
+2-15	153-154	.	_	
+
+#Text=In other words, there is a far higher percentage of white males in the RCMP here as compared to the local population that they serve.
+3-1	155-157	In	_	
+3-2	158-163	other	_	
+3-3	164-169	words	_	
+3-4	169-170	,	_	
+3-5	171-176	there	_	
+3-6	177-179	is	_	
+3-7	180-181	a	_	
+3-8	182-185	far	_	
+3-9	186-192	higher	_	
+3-10	193-203	percentage	_	
+3-11	204-206	of	_	
+3-12	207-212	white	_	
+3-13	213-218	males	_	
+3-14	219-221	in	_	
+3-15	222-225	the	_	
+3-16	226-230	RCMP	_	
+3-17	231-235	here	_	
+3-18	236-238	as	_	
+3-19	239-247	compared	_	
+3-20	248-250	to	_	
+3-21	251-254	the	_	
+3-22	255-260	local	_	
+3-23	261-271	population	_	
+3-24	272-276	that	_	
+3-25	277-281	they	_	
+3-26	282-287	serve	_	
+3-27	287-288	.	_	

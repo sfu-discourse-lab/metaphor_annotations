@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=HAHAHAHAHAHAHAThe NYT did a round-up or reaction from around the world.ALL the IMPORTANT countries were covered, Russia, China, Japan, Israel, South Korea, India even Malaysia, and Australia..Do I have to tell you what country wasn't covered????
+1-1	0-17	HAHAHAHAHAHAHAThe	_	
+1-2	18-21	NYT	_	
+1-3	22-25	did	_	
+1-4	26-27	a	_	
+1-5	28-36	round-up	_	
+1-6	37-39	or	_	
+1-7	40-48	reaction	_	
+1-8	49-53	from	_	
+1-9	54-60	around	_	
+1-10	61-64	the	_	
+1-11	65-74	world.ALL	_	
+1-12	75-78	the	_	
+1-13	79-88	IMPORTANT	_	
+1-14	89-98	countries	_	
+1-15	99-103	were	_	
+1-16	104-111	covered	_	
+1-17	111-112	,	_	
+1-18	113-119	Russia	_	
+1-19	119-120	,	_	
+1-20	121-126	China	_	
+1-21	126-127	,	_	
+1-22	128-133	Japan	_	
+1-23	133-134	,	_	
+1-24	135-141	Israel	_	
+1-25	141-142	,	_	
+1-26	143-148	South	_	
+1-27	149-154	Korea	_	
+1-28	154-155	,	_	
+1-29	156-161	India	_	
+1-30	162-166	even	_	
+1-31	167-175	Malaysia	_	
+1-32	175-176	,	_	
+1-33	177-180	and	_	
+1-34	181-190	Australia	_	
+1-35	190-191	.	_	
+1-36	191-192	.	_	
+1-37	192-194	Do	_	
+1-38	195-196	I	_	
+1-39	197-201	have	_	
+1-40	202-204	to	_	
+1-41	205-209	tell	_	
+1-42	210-213	you	_	
+1-43	214-218	what	_	
+1-44	219-226	country	_	
+1-45	227-233	wasn't	NEG	
+1-46	234-241	covered	SCOPE[2]|FOCUS[3]	
+1-47	241-242	?	_	
+1-48	242-243	?	_	
+1-49	243-244	?	_	
+1-50	244-245	?	_	

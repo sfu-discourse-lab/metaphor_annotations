@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=The world is awash in more third world refugees and those seeking to leave their destitute conditions than Canada could ever hope to make a dent in.
+1-1	0-3	The	_	
+1-2	4-9	world	_	
+1-3	10-12	is	_	
+1-4	13-18	awash	_	
+1-5	19-21	in	_	
+1-6	22-26	more	_	
+1-7	27-32	third	_	
+1-8	33-38	world	_	
+1-9	39-47	refugees	_	
+1-10	48-51	and	_	
+1-11	52-57	those	_	
+1-12	58-65	seeking	_	
+1-13	66-68	to	_	
+1-14	69-74	leave	_	
+1-15	75-80	their	_	
+1-16	81-90	destitute	_	
+1-17	91-101	conditions	_	
+1-18	102-106	than	_	
+1-19	107-113	Canada	_	
+1-20	114-119	could	_	
+1-21	120-124	ever	_	
+1-22	125-129	hope	_	
+1-23	130-132	to	_	
+1-24	133-137	make	_	
+1-25	138-139	a	_	
+1-26	140-144	dent	_	
+1-27	145-147	in	_	
+1-28	147-148	.	_	
+
+#Text=This sole focus on Syria is ridiculous.
+2-1	149-153	This	_	
+2-2	154-158	sole	_	
+2-3	159-164	focus	_	
+2-4	165-167	on	_	
+2-5	168-173	Syria	_	
+2-6	174-176	is	_	
+2-7	177-187	ridiculous	_	
+2-8	187-188	.	_	
+
+#Text=What about Haiti?
+3-1	189-193	What	_	
+3-2	194-199	about	_	
+3-3	200-205	Haiti	_	
+3-4	205-206	?	_	
+
+#Text=Surely they need to be rescued too.
+4-1	207-213	Surely	_	
+4-2	214-218	they	_	
+4-3	219-223	need	_	
+4-4	224-226	to	_	
+4-5	227-229	be	_	
+4-6	230-237	rescued	_	
+4-7	238-241	too	_	
+4-8	241-242	.	_	
+
+#Text=The list is virtually endless.
+5-1	243-246	The	_	
+5-2	247-251	list	_	
+5-3	252-254	is	_	
+5-4	255-264	virtually	_	
+5-5	265-272	endless	_	
+5-6	272-273	.	_	
+
+#Text=We also have many aboriginal 'refuges' living in squalor on reserves - why not let them emigrate?
+6-1	274-276	We	_	
+6-2	277-281	also	_	
+6-3	282-286	have	_	
+6-4	287-291	many	_	
+6-5	292-302	aboriginal	_	
+6-6	303-304	'	_	
+6-7	304-311	refuges	_	
+6-8	311-312	'	_	
+6-9	313-319	living	_	
+6-10	320-322	in	_	
+6-11	323-330	squalor	_	
+6-12	331-333	on	_	
+6-13	334-342	reserves	_	
+6-14	343-344	-	_	
+6-15	345-348	why	_	
+6-16	349-352	not	NEG	
+6-17	353-356	let	SCOPE[2]	
+6-18	357-361	them	SCOPE[2]	
+6-19	362-370	emigrate	SCOPE[2]|FOCUS[3]	
+6-20	370-371	?	_	

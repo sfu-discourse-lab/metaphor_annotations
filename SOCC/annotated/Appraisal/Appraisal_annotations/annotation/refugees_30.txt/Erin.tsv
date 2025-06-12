@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I think you are missing her point.
+1-1	0-1	I	_	_	
+1-2	2-7	think	_	_	
+1-3	8-11	you	_	_	
+1-4	12-15	are	_	_	
+1-5	16-23	missing	Judgment[1]	neg[1]	
+1-6	24-27	her	Judgment[1]	neg[1]	
+1-7	28-33	point	Judgment[1]	neg[1]	
+1-8	33-34	.	_	_	
+
+#Text=She feels that preventing the refugees to continue to flood into Greece is what constitute the huge FAILURE she talks about.
+2-1	35-38	She	_	_	
+2-2	39-44	feels	Judgment[2]	neg[2]	
+2-3	45-49	that	Judgment[2]	neg[2]	
+2-4	50-60	preventing	Judgment[2]	neg[2]	
+2-5	61-64	the	Judgment[2]	neg[2]	
+2-6	65-73	refugees	Judgment[2]	neg[2]	
+2-7	74-76	to	Judgment[2]	neg[2]	
+2-8	77-85	continue	Judgment[2]	neg[2]	
+2-9	86-88	to	Judgment[2]	neg[2]	
+2-10	89-94	flood	Judgment[2]	neg[2]	
+2-11	95-99	into	_	_	
+2-12	100-106	Greece	_	_	
+2-13	107-109	is	_	_	
+2-14	110-114	what	_	_	
+2-15	115-125	constitute	_	_	
+2-16	126-129	the	_	_	
+2-17	130-134	huge	Appreciation[3]	neg[3]	
+2-18	135-142	FAILURE	Appreciation[3]	neg[3]	
+2-19	143-146	she	_	_	
+2-20	147-152	talks	_	_	
+2-21	153-158	about	_	_	
+2-22	158-159	.	_	_	
+
+#Text=She also states that they need to live better than a lot of Canadians from the moment they set foot here.
+3-1	160-163	She	_	_	
+3-2	164-168	also	_	_	
+3-3	169-175	states	Judgment[4]	neg[4]	
+3-4	176-180	that	Judgment[4]	neg[4]	
+3-5	181-185	they	Judgment[4]	neg[4]	
+3-6	186-190	need	Judgment[4]	neg[4]	
+3-7	191-193	to	Judgment[4]	neg[4]	
+3-8	194-198	live	Judgment[4]	neg[4]	
+3-9	199-205	better	Judgment[4]	neg[4]	
+3-10	206-210	than	Judgment[4]	neg[4]	
+3-11	211-212	a	Judgment[4]	neg[4]	
+3-12	213-216	lot	Judgment[4]	neg[4]	
+3-13	217-219	of	Judgment[4]	neg[4]	
+3-14	220-229	Canadians	Judgment[4]	neg[4]	
+3-15	230-234	from	Judgment[4]	neg[4]	
+3-16	235-238	the	Judgment[4]	neg[4]	
+3-17	239-245	moment	Judgment[4]	neg[4]	
+3-18	246-250	they	Judgment[4]	neg[4]	
+3-19	251-254	set	Judgment[4]	neg[4]	
+3-20	255-259	foot	Judgment[4]	neg[4]	
+3-21	260-264	here	Judgment[4]	neg[4]	
+3-22	264-265	.	_	_	

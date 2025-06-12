@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Call me immature but I find this so hilarious as to post one more comment.
+1-1	0-4	Call	_	_	_	_	
+1-2	5-7	me	_	_	_	_	
+1-3	8-16	immature	Judgment	neg	_	_	
+1-4	17-20	but	_	_	_	_	
+1-5	21-22	I	_	_	_	_	
+1-6	23-27	find	_	_	_	_	
+1-7	28-32	this	_	_	_	_	
+1-8	33-35	so	Appreciation[2]	pos[2]	Force	up	
+1-9	36-45	hilarious	Appreciation[2]	pos[2]	_	_	
+1-10	46-48	as	_	_	_	_	
+1-11	49-51	to	_	_	_	_	
+1-12	52-56	post	_	_	_	_	
+1-13	57-60	one	_	_	_	_	
+1-14	61-65	more	_	_	_	_	
+1-15	66-73	comment	_	_	_	_	
+1-16	73-74	.	_	_	_	_	
+
+#Text=Will the $13,000- gold model be obsolete when the next iteration is released in 3 months time or will you be able to replace the $20- electronic module by popping the old one out and inserting the new one?
+2-1	75-79	Will	_	_	_	_	
+2-2	80-83	the	_	_	_	_	
+2-3	84-91	$13,000	Judgment[3]	neg[3]	Force	up	
+2-4	91-92	-	Judgment[3]	neg[3]	_	_	
+2-5	93-97	gold	Judgment[3]	neg[3]	_	_	
+2-6	98-103	model	Judgment[3]	neg[3]	_	_	
+2-7	104-106	be	Judgment[3]	neg[3]	_	_	
+2-8	107-115	obsolete	Judgment[3]	neg[3]	_	_	
+2-9	116-120	when	Judgment[3]	neg[3]	_	_	
+2-10	121-124	the	Judgment[3]	neg[3]	_	_	
+2-11	125-129	next	Judgment[3]	neg[3]	_	_	
+2-12	130-139	iteration	Judgment[3]	neg[3]	_	_	
+2-13	140-142	is	Judgment[3]	neg[3]	_	_	
+2-14	143-151	released	Judgment[3]	neg[3]	_	_	
+2-15	152-154	in	Judgment[3]	neg[3]	Force[3]	up[3]	
+2-16	155-156	3	Judgment[3]	neg[3]	Force[3]	up[3]	
+2-17	157-163	months	Judgment[3]	neg[3]	Force[3]	up[3]	
+2-18	164-168	time	Judgment[3]	neg[3]	_	_	
+2-19	169-171	or	_	_	_	_	
+2-20	172-176	will	Appreciation[4]	pos[4]	_	_	
+2-21	177-180	you	Appreciation[4]	pos[4]	_	_	
+2-22	181-183	be	Appreciation[4]	pos[4]	_	_	
+2-23	184-188	able	Appreciation[4]	pos[4]	_	_	
+2-24	189-191	to	Appreciation[4]	pos[4]	_	_	
+2-25	192-199	replace	Appreciation[4]	pos[4]	_	_	
+2-26	200-203	the	Appreciation[4]	pos[4]	_	_	
+2-27	204-207	$20	Appreciation[4]	pos[4]	_	_	
+2-28	207-208	-	Appreciation[4]	pos[4]	_	_	
+2-29	209-219	electronic	Appreciation[4]	pos[4]	_	_	
+2-30	220-226	module	Appreciation[4]	pos[4]	_	_	
+2-31	227-229	by	Appreciation[4]	pos[4]	_	_	
+2-32	230-237	popping	Appreciation[4]	pos[4]	_	_	
+2-33	238-241	the	Appreciation[4]	pos[4]	_	_	
+2-34	242-245	old	Appreciation[4]	pos[4]	_	_	
+2-35	246-249	one	Appreciation[4]	pos[4]	_	_	
+2-36	250-253	out	Appreciation[4]	pos[4]	_	_	
+2-37	254-257	and	Appreciation[4]	pos[4]	_	_	
+2-38	258-267	inserting	Appreciation[4]	pos[4]	_	_	
+2-39	268-271	the	Appreciation[4]	pos[4]	_	_	
+2-40	272-275	new	Appreciation[4]	pos[4]	_	_	
+2-41	276-279	one	Appreciation[4]	pos[4]	_	_	
+2-42	279-280	?	_	_	_	_	

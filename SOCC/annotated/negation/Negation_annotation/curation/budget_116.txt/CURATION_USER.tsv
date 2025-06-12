@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=What a stupid article.
+1-1	0-4	What	_	
+1-2	5-6	a	_	
+1-3	7-13	stupid	_	
+1-4	14-21	article	_	
+1-5	21-22	.	_	
+
+#Text=Of course the budget has 2 parts- revenues and expenses.
+2-1	23-25	Of	_	
+2-2	26-32	course	_	
+2-3	33-36	the	_	
+2-4	37-43	budget	_	
+2-5	44-47	has	_	
+2-6	48-49	2	_	
+2-7	50-55	parts	_	
+2-8	55-56	-	_	
+2-9	57-65	revenues	_	
+2-10	66-69	and	_	
+2-11	70-78	expenses	_	
+2-12	78-79	.	_	
+
+#Text=You still need to be a careful steward w both to balance.You still have to manage revenues w smart tax policies.
+3-1	80-83	You	_	
+3-2	84-89	still	_	
+3-3	90-94	need	_	
+3-4	95-97	to	_	
+3-5	98-100	be	_	
+3-6	101-102	a	_	
+3-7	103-110	careful	_	
+3-8	111-118	steward	_	
+3-9	119-120	w	_	
+3-10	121-125	both	_	
+3-11	126-128	to	_	
+3-12	129-140	balance.You	_	
+3-13	141-146	still	_	
+3-14	147-151	have	_	
+3-15	152-154	to	_	
+3-16	155-161	manage	_	
+3-17	162-170	revenues	_	
+3-18	171-172	w	_	
+3-19	173-178	smart	_	
+3-20	179-182	tax	_	
+3-21	183-191	policies	_	
+3-22	191-192	.	_	
+
+#Text=Corp and personal taxes were reduced to help bring about the fast recovery from the recession, fastest in the g7 for job growth in fact, so they can't just be disregarded.
+4-1	193-197	Corp	_	
+4-2	198-201	and	_	
+4-3	202-210	personal	_	
+4-4	211-216	taxes	_	
+4-5	217-221	were	_	
+4-6	222-229	reduced	_	
+4-7	230-232	to	_	
+4-8	233-237	help	_	
+4-9	238-243	bring	_	
+4-10	244-249	about	_	
+4-11	250-253	the	_	
+4-12	254-258	fast	_	
+4-13	259-267	recovery	_	
+4-14	268-272	from	_	
+4-15	273-276	the	_	
+4-16	277-286	recession	_	
+4-17	286-287	,	_	
+4-18	288-295	fastest	_	
+4-19	296-298	in	_	
+4-20	299-302	the	_	
+4-21	303-305	g7	_	
+4-22	306-309	for	_	
+4-23	310-313	job	_	
+4-24	314-320	growth	_	
+4-25	321-323	in	_	
+4-26	324-328	fact	_	
+4-27	328-329	,	_	
+4-28	330-332	so	_	
+4-29	333-337	they	_	
+4-30	338-343	can't	NEG	
+4-31	344-348	just	SCOPE[2]	
+4-32	349-351	be	SCOPE[2]	
+4-33	352-363	disregarded	SCOPE[2]|FOCUS[3]	
+4-34	363-364	.	_	
+
+#Text=Maybe the author needs to understand tax cuts can actually increase tax revenue through more economic activity.The lefty media still twisting themselves in knots to make a surplus into a bad thing.
+5-1	365-370	Maybe	_	
+5-2	371-374	the	_	
+5-3	375-381	author	_	
+5-4	382-387	needs	_	
+5-5	388-390	to	_	
+5-6	391-401	understand	_	
+5-7	402-405	tax	_	
+5-8	406-410	cuts	_	
+5-9	411-414	can	_	
+5-10	415-423	actually	_	
+5-11	424-432	increase	_	
+5-12	433-436	tax	_	
+5-13	437-444	revenue	_	
+5-14	445-452	through	_	
+5-15	453-457	more	_	
+5-16	458-466	economic	_	
+5-17	467-479	activity.The	_	
+5-18	480-485	lefty	_	
+5-19	486-491	media	_	
+5-20	492-497	still	_	
+5-21	498-506	twisting	_	
+5-22	507-517	themselves	_	
+5-23	518-520	in	_	
+5-24	521-526	knots	_	
+5-25	527-529	to	_	
+5-26	530-534	make	_	
+5-27	535-536	a	_	
+5-28	537-544	surplus	_	
+5-29	545-549	into	_	
+5-30	550-551	a	_	
+5-31	552-555	bad	_	
+5-32	556-561	thing	_	
+5-33	561-562	.	_	

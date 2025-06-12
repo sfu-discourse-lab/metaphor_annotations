@@ -1,0 +1,18 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=Maybe integration is the key if it will improve the standard of living.
+1-1	0-5	Maybe	
+1-2	6-17	integration	
+1-3	18-20	is	
+1-4	21-24	the	
+1-5	25-28	key	
+1-6	29-31	if	
+1-7	32-34	it	
+1-8	35-39	will	
+1-9	40-47	improve	
+1-10	48-51	the	
+1-11	52-60	standard	
+1-12	61-63	of	
+1-13	64-70	living	
+1-14	70-71	.	

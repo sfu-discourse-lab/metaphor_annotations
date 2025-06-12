@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=I will re-read this in the months or years to come.
+1-1	0-1	I	_	_	
+1-2	2-6	will	_	_	
+1-3	7-14	re-read	_	_	
+1-4	15-19	this	_	_	
+1-5	20-22	in	_	_	
+1-6	23-26	the	_	_	
+1-7	27-33	months	_	_	
+1-8	34-36	or	_	_	
+1-9	37-42	years	_	_	
+1-10	43-45	to	_	_	
+1-11	46-50	come	_	_	
+1-12	50-51	.	_	_	
+
+#Text=I cannot read this now.
+2-1	52-53	I	_	_	
+2-2	54-60	cannot	Appreciation[1]	neg[1]	
+2-3	61-65	read	Appreciation[1]	neg[1]	
+2-4	66-70	this	Appreciation[1]	neg[1]	
+2-5	71-74	now	Appreciation[1]	neg[1]	
+2-6	74-75	.	_	_	

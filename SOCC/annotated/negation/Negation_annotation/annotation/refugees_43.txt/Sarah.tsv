@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=My gosh this writer holds the world to an awfully high standard.
+1-1	0-2	My	_	
+1-2	3-7	gosh	_	
+1-3	8-12	this	_	
+1-4	13-19	writer	_	
+1-5	20-25	holds	_	
+1-6	26-29	the	_	
+1-7	30-35	world	_	
+1-8	36-38	to	_	
+1-9	39-41	an	_	
+1-10	42-49	awfully	_	
+1-11	50-54	high	_	
+1-12	55-63	standard	_	
+1-13	63-64	.	_	
+
+#Text=These people have been given a chance to live in peace.
+2-1	65-70	These	_	
+2-2	71-77	people	_	
+2-3	78-82	have	_	
+2-4	83-87	been	_	
+2-5	88-93	given	_	
+2-6	94-95	a	_	
+2-7	96-102	chance	_	
+2-8	103-105	to	_	
+2-9	106-110	live	_	
+2-10	111-113	in	_	
+2-11	114-119	peace	_	
+2-12	119-120	.	_	
+
+#Text=Life in Canada is not easy and costs lots of money.
+3-1	121-125	Life	_	
+3-2	126-128	in	_	
+3-3	129-135	Canada	_	
+3-4	136-138	is	_	
+3-5	139-142	not	NEG	
+3-6	143-147	easy	SCOPE[2]|FOCUS[3]	
+3-7	148-151	and	_	
+3-8	152-157	costs	_	
+3-9	158-162	lots	_	
+3-10	163-165	of	_	
+3-11	166-171	money	_	
+3-12	171-172	.	_	
+
+#Text=If taking a job that is available but not to your liking is required, than so be it.
+4-1	173-175	If	_	
+4-2	176-182	taking	_	
+4-3	183-184	a	_	
+4-4	185-188	job	_	
+4-5	189-193	that	_	
+4-6	194-196	is	_	
+4-7	197-206	available	_	
+4-8	207-210	but	_	
+4-9	211-214	not	NEG	
+4-10	215-217	to	SCOPE[5]	
+4-11	218-222	your	SCOPE[5]	
+4-12	223-229	liking	SCOPE[5]|FOCUS[6]	
+4-13	230-232	is	_	
+4-14	233-241	required	_	
+4-15	241-242	,	_	
+4-16	243-247	than	_	
+4-17	248-250	so	_	
+4-18	251-253	be	_	
+4-19	254-256	it	_	
+4-20	256-257	.	_	

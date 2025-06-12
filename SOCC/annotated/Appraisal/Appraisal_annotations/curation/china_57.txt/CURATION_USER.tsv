@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=The document it is arbitrating on IS a UN document.
+1-1	0-3	The	_	_	_	_	
+1-2	4-12	document	_	_	_	_	
+1-3	13-15	it	_	_	_	_	
+1-4	16-18	is	_	_	_	_	
+1-5	19-30	arbitrating	_	_	_	_	
+1-6	31-33	on	_	_	_	_	
+1-7	34-36	IS	Appreciation[1]	pos[1]	Force	up	
+1-8	37-38	a	Appreciation[1]	pos[1]	_	_	
+1-9	39-41	UN	Appreciation[1]	pos[1]	_	_	
+1-10	42-50	document	Appreciation[1]	pos[1]	_	_	
+1-11	50-51	.	_	_	_	_	
+
+#Text=Nice try though, wu mao
+2-1	52-56	Nice	Judgment[2]	neg[2]	_	_	
+2-2	57-60	try	Judgment[2]	neg[2]	_	_	
+2-3	61-67	though	Judgment[2]	neg[2]	_	_	
+2-4	67-68	,	_	_	_	_	
+2-5	69-71	wu	Judgment[3]	neg[3]	_	_	
+2-6	72-75	mao	Judgment[3]	neg[3]	_	_	

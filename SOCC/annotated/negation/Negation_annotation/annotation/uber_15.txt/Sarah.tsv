@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=But there IS evidence that Uber is less safe.
+1-1	0-3	But	_	
+1-2	4-9	there	_	
+1-3	10-12	IS	_	
+1-4	13-21	evidence	_	
+1-5	22-26	that	_	
+1-6	27-31	Uber	_	
+1-7	32-34	is	_	
+1-8	35-39	less	_	
+1-9	40-44	safe	_	
+1-10	44-45	.	_	
+
+#Text=You only have to Google the number of incidences globally to see this and Uber can wash it's hands of any liability because it is only a booking app and imposes no regulation on its drivers.
+2-1	46-49	You	_	
+2-2	50-54	only	_	
+2-3	55-59	have	_	
+2-4	60-62	to	_	
+2-5	63-69	Google	_	
+2-6	70-73	the	_	
+2-7	74-80	number	_	
+2-8	81-83	of	_	
+2-9	84-94	incidences	_	
+2-10	95-103	globally	_	
+2-11	104-106	to	_	
+2-12	107-110	see	_	
+2-13	111-115	this	_	
+2-14	116-119	and	_	
+2-15	120-124	Uber	_	
+2-16	125-128	can	_	
+2-17	129-133	wash	_	
+2-18	134-138	it's	_	
+2-19	139-144	hands	_	
+2-20	145-147	of	_	
+2-21	148-151	any	_	
+2-22	152-161	liability	_	
+2-23	162-169	because	_	
+2-24	170-172	it	_	
+2-25	173-175	is	_	
+2-26	176-180	only	_	
+2-27	181-182	a	_	
+2-28	183-190	booking	_	
+2-29	191-194	app	_	
+2-30	195-198	and	_	
+2-31	199-206	imposes	_	
+2-32	207-209	no	NEG	
+2-33	210-220	regulation	SCOPE[2]	
+2-34	221-223	on	SCOPE[2]	
+2-35	224-227	its	SCOPE[2]	
+2-36	228-235	drivers	SCOPE[2]|FOCUS[3]	
+2-37	235-236	.	_	
+
+#Text=They can remove themselves if something goes wrong.
+3-1	237-241	They	_	
+3-2	242-245	can	_	
+3-3	246-252	remove	_	
+3-4	253-263	themselves	_	
+3-5	264-266	if	_	
+3-6	267-276	something	_	
+3-7	277-281	goes	_	
+3-8	282-287	wrong	_	
+3-9	287-288	.	_	
+
+#Text=If the drivers have to start paying license fees and undergo training and be liable under a regulated insurance scheme, then the economics don't work as well.
+4-1	289-291	If	_	
+4-2	292-295	the	_	
+4-3	296-303	drivers	_	
+4-4	304-308	have	_	
+4-5	309-311	to	_	
+4-6	312-317	start	_	
+4-7	318-324	paying	_	
+4-8	325-332	license	_	
+4-9	333-337	fees	_	
+4-10	338-341	and	_	
+4-11	342-349	undergo	_	
+4-12	350-358	training	_	
+4-13	359-362	and	_	
+4-14	363-365	be	_	
+4-15	366-372	liable	_	
+4-16	373-378	under	_	
+4-17	379-380	a	_	
+4-18	381-390	regulated	_	
+4-19	391-400	insurance	_	
+4-20	401-407	scheme	_	
+4-21	407-408	,	_	
+4-22	409-413	then	_	
+4-23	414-417	the	_	
+4-24	418-427	economics	_	
+4-25	428-433	don't	NEG	
+4-26	434-438	work	SCOPE[5]	
+4-27	439-441	as	SCOPE[5]	
+4-28	442-446	well	SCOPE[5]|FOCUS[6]	
+4-29	446-447	.	_	
+
+#Text=Yes the cab system in Toronto is pathetic with filthy cars and a monopoly but that is an issue of regulation, not competition.
+5-1	449-452	Yes	_	
+5-2	453-456	the	_	
+5-3	457-460	cab	_	
+5-4	461-467	system	_	
+5-5	468-470	in	_	
+5-6	471-478	Toronto	_	
+5-7	479-481	is	_	
+5-8	482-490	pathetic	_	
+5-9	491-495	with	_	
+5-10	496-502	filthy	_	
+5-11	503-507	cars	_	
+5-12	508-511	and	_	
+5-13	512-513	a	_	
+5-14	514-522	monopoly	_	
+5-15	523-526	but	_	
+5-16	527-531	that	_	
+5-17	532-534	is	_	
+5-18	535-537	an	_	
+5-19	538-543	issue	_	
+5-20	544-546	of	_	
+5-21	547-557	regulation	_	
+5-22	557-558	,	_	
+5-23	559-562	not	NEG	
+5-24	563-574	competition	SCOPE[8]|FOCUS[9]	
+5-25	574-575	.	_	

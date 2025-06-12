@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=You make some good points, but the 'apartheid' is not self-imposed.
+1-1	0-3	You	_	_	
+1-2	4-8	make	Judgment[1]	pos[1]	
+1-3	9-13	some	Judgment[1]	pos[1]	
+1-4	14-18	good	Judgment[1]|Appreciation[2]	pos[1]|pos[2]	
+1-5	19-25	points	Judgment[1]	pos[1]	
+1-6	25-26	,	_	_	
+1-7	27-30	but	_	_	
+1-8	31-34	the	_	_	
+1-9	35-36	'	_	_	
+1-10	36-45	apartheid	Appreciation[3]|Appreciation[4]	neg[3]|neg[4]	
+1-11	45-46	'	Appreciation[3]	neg[3]	
+1-12	47-49	is	Appreciation[3]	neg[3]	
+1-13	50-53	not	Appreciation[3]	neg[3]	
+1-14	54-66	self-imposed	Appreciation[3]	neg[3]	
+1-15	66-67	.	_	_	

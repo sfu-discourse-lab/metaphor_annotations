@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Great article.
+1-1	0-5	Great	Appreciation	pos	_	_	
+1-2	6-13	article	_	_	_	_	
+1-3	13-14	.	_	_	_	_	
+
+#Text=The watch (v01) is pretty simple and not all that appealing.
+2-1	15-18	The	_	_	_	_	
+2-2	19-24	watch	_	_	_	_	
+2-3	25-26	(	_	_	_	_	
+2-4	26-29	v01	_	_	_	_	
+2-5	29-30	)	_	_	_	_	
+2-6	31-33	is	_	_	_	_	
+2-7	34-40	pretty	Appreciation[2]	neg[2]	Force	down	
+2-8	41-47	simple	Appreciation[2]	neg[2]	_	_	
+2-9	48-51	and	Appreciation[2]	neg[2]	_	_	
+2-10	52-55	not	Appreciation[2]	neg[2]	Force[2]	down[2]	
+2-11	56-59	all	Appreciation[2]	neg[2]	Force[2]	down[2]	
+2-12	60-64	that	Appreciation[2]	neg[2]	Force[2]	down[2]	
+2-13	65-74	appealing	Appreciation[2]	neg[2]	_	_	
+2-14	74-75	.	_	_	_	_	
+
+#Text=BUT just you wait when 28m people have one, and the apps start flowing to all smart watches, and v02 comes out.
+3-1	76-79	BUT	_	_	_	_	
+3-2	80-84	just	_	_	_	_	
+3-3	85-88	you	_	_	_	_	
+3-4	89-93	wait	_	_	_	_	
+3-5	94-98	when	_	_	_	_	
+3-6	99-102	28m	_	_	_	_	
+3-7	103-109	people	_	_	_	_	
+3-8	110-114	have	_	_	_	_	
+3-9	115-118	one	_	_	_	_	
+3-10	118-119	,	_	_	_	_	
+3-11	120-123	and	_	_	_	_	
+3-12	124-127	the	_	_	_	_	
+3-13	128-132	apps	_	_	_	_	
+3-14	133-138	start	_	_	_	_	
+3-15	139-146	flowing	_	_	_	_	
+3-16	147-149	to	_	_	_	_	
+3-17	150-153	all	_	_	_	_	
+3-18	154-159	smart	_	_	_	_	
+3-19	160-167	watches	_	_	_	_	
+3-20	167-168	,	_	_	_	_	
+3-21	169-172	and	_	_	_	_	
+3-22	173-176	v02	_	_	_	_	
+3-23	177-182	comes	_	_	_	_	
+3-24	183-186	out	_	_	_	_	
+3-25	186-187	.	_	_	_	_	
+
+#Text=THEN it will might be something interesting.
+4-1	188-192	THEN	_	_	_	_	
+4-2	193-195	it	_	_	_	_	
+4-3	196-200	will	_	_	_	_	
+4-4	201-206	might	Appreciation[3]	pos[3]	_	_	
+4-5	207-209	be	Appreciation[3]	pos[3]	_	_	
+4-6	210-219	something	Appreciation[3]	pos[3]	_	_	
+4-7	220-231	interesting	Appreciation[3]	pos[3]	_	_	
+4-8	231-232	.	_	_	_	_	

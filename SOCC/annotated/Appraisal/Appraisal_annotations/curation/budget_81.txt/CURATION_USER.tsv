@@ -1,0 +1,301 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+#T_SP=webanno.custom.Graduation|Kind|Scaling
+
+
+#Text=Small surplus, small deficit; irrelevant to me (I also didn't blame them for the deficits that occurred during the 2008 recession).
+1-1	0-5	Small	_	_	_	_	
+1-2	6-13	surplus	_	_	_	_	
+1-3	13-14	,	_	_	_	_	
+1-4	15-20	small	_	_	_	_	
+1-5	21-28	deficit	_	_	_	_	
+1-6	28-29	;	_	_	_	_	
+1-7	30-40	irrelevant	Appreciation	neg	_	_	
+1-8	41-43	to	_	_	_	_	
+1-9	44-46	me	_	_	_	_	
+1-10	47-48	(	_	_	_	_	
+1-11	48-49	I	_	_	_	_	
+1-12	50-54	also	_	_	_	_	
+1-13	55-61	didn't	_	_	_	_	
+1-14	62-67	blame	_	_	_	_	
+1-15	68-72	them	_	_	_	_	
+1-16	73-76	for	_	_	_	_	
+1-17	77-80	the	_	_	_	_	
+1-18	81-89	deficits	_	_	_	_	
+1-19	90-94	that	_	_	_	_	
+1-20	95-103	occurred	_	_	_	_	
+1-21	104-110	during	_	_	_	_	
+1-22	111-114	the	_	_	_	_	
+1-23	115-119	2008	_	_	_	_	
+1-24	120-129	recession	Appreciation	neg	_	_	
+1-25	129-130	)	_	_	_	_	
+1-26	130-131	.	_	_	_	_	
+
+#Text=Especially when you see how they have manipulated it.
+2-1	132-142	Especially	_	_	_	_	
+2-2	143-147	when	_	_	_	_	
+2-3	148-151	you	_	_	_	_	
+2-4	152-155	see	_	_	_	_	
+2-5	156-159	how	_	_	_	_	
+2-6	160-164	they	_	_	_	_	
+2-7	165-169	have	_	_	_	_	
+2-8	170-181	manipulated	Judgment	neg	_	_	
+2-9	182-184	it	_	_	_	_	
+2-10	184-185	.	_	_	_	_	
+
+#Text=I think the departmental spending aspect is underestimated; the PS is very dysfunctional now, and many of the managerial level can't be trusted when bonuses revolve around returning unspent funds, or the funds are included in budgets but never make it to the departments at all.
+3-1	186-187	I	_	_	_	_	
+3-2	188-193	think	_	_	_	_	
+3-3	194-197	the	_	_	_	_	
+3-4	198-210	departmental	_	_	_	_	
+3-5	211-219	spending	_	_	_	_	
+3-6	220-226	aspect	_	_	_	_	
+3-7	227-229	is	_	_	_	_	
+3-8	230-244	underestimated	Appreciation	neg	_	_	
+3-9	244-245	;	_	_	_	_	
+3-10	246-249	the	_	_	_	_	
+3-11	250-252	PS	_	_	_	_	
+3-12	253-255	is	_	_	_	_	
+3-13	256-260	very	Appreciation[5]	neg[5]	Force	up	
+3-14	261-274	dysfunctional	Appreciation[5]	neg[5]	_	_	
+3-15	275-278	now	_	_	_	_	
+3-16	278-279	,	_	_	_	_	
+3-17	280-283	and	_	_	_	_	
+3-18	284-288	many	_	_	_	_	
+3-19	289-291	of	_	_	_	_	
+3-20	292-295	the	_	_	_	_	
+3-21	296-306	managerial	_	_	_	_	
+3-22	307-312	level	_	_	_	_	
+3-23	313-318	can't	Judgment[6]	neg[6]	_	_	
+3-24	319-321	be	Judgment[6]	neg[6]	_	_	
+3-25	322-329	trusted	Judgment[6]	neg[6]	_	_	
+3-26	330-334	when	Judgment[6]	neg[6]	_	_	
+3-27	335-342	bonuses	Judgment[6]	neg[6]	_	_	
+3-28	343-350	revolve	Judgment[6]	neg[6]	_	_	
+3-29	351-357	around	Judgment[6]	neg[6]	_	_	
+3-30	358-367	returning	Judgment[6]	neg[6]	_	_	
+3-31	368-375	unspent	Judgment[6]	neg[6]	_	_	
+3-32	376-381	funds	Judgment[6]	neg[6]	_	_	
+3-33	381-382	,	Judgment[6]	neg[6]	_	_	
+3-34	383-385	or	Judgment[6]	neg[6]	_	_	
+3-35	386-389	the	Judgment[6]	neg[6]	_	_	
+3-36	390-395	funds	Judgment[6]	neg[6]	_	_	
+3-37	396-399	are	Judgment[6]	neg[6]	_	_	
+3-38	400-408	included	Judgment[6]	neg[6]	_	_	
+3-39	409-411	in	Judgment[6]	neg[6]	_	_	
+3-40	412-419	budgets	Judgment[6]	neg[6]	_	_	
+3-41	420-423	but	Judgment[6]	neg[6]	_	_	
+3-42	424-429	never	Judgment[6]	neg[6]	_	_	
+3-43	430-434	make	Judgment[6]	neg[6]	_	_	
+3-44	435-437	it	Judgment[6]	neg[6]	_	_	
+3-45	438-440	to	Judgment[6]	neg[6]	_	_	
+3-46	441-444	the	Judgment[6]	neg[6]	_	_	
+3-47	445-456	departments	Judgment[6]	neg[6]	_	_	
+3-48	457-459	at	Judgment[6]	neg[6]	_	_	
+3-49	460-463	all	Judgment[6]	neg[6]	_	_	
+3-50	463-464	.	_	_	_	_	
+
+#Text=Anyway, we all now that a balance sheet can be manipulated if you want to, and the Cons want.
+4-1	465-471	Anyway	_	_	_	_	
+4-2	471-472	,	_	_	_	_	
+4-3	473-475	we	_	_	_	_	
+4-4	476-479	all	_	_	_	_	
+4-5	480-483	now	_	_	_	_	
+4-6	484-488	that	_	_	_	_	
+4-7	489-490	a	_	_	_	_	
+4-8	491-498	balance	_	_	_	_	
+4-9	499-504	sheet	_	_	_	_	
+4-10	505-508	can	Appreciation[7]	neg[7]	_	_	
+4-11	509-511	be	Appreciation[7]	neg[7]	_	_	
+4-12	512-523	manipulated	Appreciation[7]	neg[7]	_	_	
+4-13	524-526	if	_	_	_	_	
+4-14	527-530	you	_	_	_	_	
+4-15	531-535	want	_	_	_	_	
+4-16	536-538	to	_	_	_	_	
+4-17	538-539	,	_	_	_	_	
+4-18	540-543	and	_	_	_	_	
+4-19	544-547	the	_	_	_	_	
+4-20	548-552	Cons	_	_	_	_	
+4-21	553-557	want	Judgment	neg	_	_	
+4-22	557-558	.	_	_	_	_	
+
+#Text=Being good fiscal stewards is a lot more than booking a deficit/surplus.
+5-1	559-564	Being	_	_	_	_	
+5-2	565-569	good	Judgment[9]	pos[9]	_	_	
+5-3	570-576	fiscal	Judgment[9]	pos[9]	_	_	
+5-4	577-585	stewards	Judgment[9]	pos[9]	_	_	
+5-5	586-588	is	_	_	_	_	
+5-6	589-590	a	Judgment[10]	neg[10]	_	_	
+5-7	591-594	lot	Judgment[10]	neg[10]	_	_	
+5-8	595-599	more	Judgment[10]	neg[10]	_	_	
+5-9	600-604	than	Judgment[10]	neg[10]	_	_	
+5-10	605-612	booking	Judgment[10]	neg[10]	_	_	
+5-11	613-614	a	Judgment[10]	neg[10]	_	_	
+5-12	615-622	deficit	Judgment[10]	neg[10]	_	_	
+5-13	622-623	/	Judgment[10]	neg[10]	_	_	
+5-14	623-630	surplus	Judgment[10]	neg[10]	_	_	
+5-15	630-631	.	_	_	_	_	
+
+#Text=It includes sensible tax policy, infrastructure planning over multiple years, social program spending..... many, many different areas.
+6-1	632-634	It	_	_	_	_	
+6-2	635-643	includes	_	_	_	_	
+6-3	644-652	sensible	Appreciation	pos	_	_	
+6-4	653-656	tax	_	_	_	_	
+6-5	657-663	policy	_	_	_	_	
+6-6	663-664	,	_	_	_	_	
+6-7	665-679	infrastructure	_	_	_	_	
+6-8	680-688	planning	_	_	_	_	
+6-9	689-693	over	_	_	_	_	
+6-10	694-702	multiple	_	_	_	_	
+6-11	703-708	years	_	_	_	_	
+6-12	708-709	,	_	_	_	_	
+6-13	710-716	social	Appreciation[12]	pos[12]	_	_	
+6-14	717-724	program	Appreciation[12]	pos[12]	_	_	
+6-15	725-733	spending	Appreciation[12]	pos[12]	_	_	
+6-16	733-734	.	_	_	_	_	
+6-17	734-735	.	_	_	_	_	
+6-18	735-736	.	_	_	_	_	
+6-19	736-737	.	_	_	_	_	
+6-20	737-738	.	_	_	_	_	
+6-21	739-743	many	_	_	_	_	
+6-22	743-744	,	_	_	_	_	
+6-23	745-749	many	_	_	_	_	
+6-24	750-759	different	_	_	_	_	
+6-25	760-765	areas	_	_	_	_	
+6-26	765-766	.	_	_	_	_	
+
+#Text=In sum, at any one moment, the economy is doing well, or it isn't.
+7-1	767-769	In	_	_	_	_	
+7-2	770-773	sum	_	_	_	_	
+7-3	773-774	,	_	_	_	_	
+7-4	775-777	at	_	_	_	_	
+7-5	778-781	any	_	_	_	_	
+7-6	782-785	one	_	_	_	_	
+7-7	786-792	moment	_	_	_	_	
+7-8	792-793	,	_	_	_	_	
+7-9	794-797	the	_	_	_	_	
+7-10	798-805	economy	_	_	_	_	
+7-11	806-808	is	_	_	_	_	
+7-12	809-814	doing	_	_	_	_	
+7-13	815-819	well	_	_	_	_	
+7-14	819-820	,	_	_	_	_	
+7-15	821-823	or	_	_	_	_	
+7-16	824-826	it	_	_	_	_	
+7-17	827-832	isn't	_	_	_	_	
+7-18	832-833	.	_	_	_	_	
+
+#Text=Canadians are doing well, or they aren't.
+8-1	834-843	Canadians	_	_	_	_	
+8-2	844-847	are	_	_	_	_	
+8-3	848-853	doing	_	_	_	_	
+8-4	854-858	well	_	_	_	_	
+8-5	858-859	,	_	_	_	_	
+8-6	860-862	or	_	_	_	_	
+8-7	863-867	they	_	_	_	_	
+8-8	868-874	aren't	_	_	_	_	
+8-9	874-875	.	_	_	_	_	
+
+#Text=Most of us make our decision based on our take on the big picture.
+9-1	876-880	Most	_	_	_	_	
+9-2	881-883	of	_	_	_	_	
+9-3	884-886	us	_	_	_	_	
+9-4	887-891	make	_	_	_	_	
+9-5	892-895	our	_	_	_	_	
+9-6	896-904	decision	_	_	_	_	
+9-7	905-910	based	_	_	_	_	
+9-8	911-913	on	_	_	_	_	
+9-9	914-917	our	_	_	_	_	
+9-10	918-922	take	_	_	_	_	
+9-11	923-925	on	_	_	_	_	
+9-12	926-929	the	_	_	_	_	
+9-13	930-933	big	_	_	_	_	
+9-14	934-941	picture	_	_	_	_	
+9-15	941-942	.	_	_	_	_	
+
+#Text=For me, although we aren't the worst basket case in the neighborhood, yet, it is clear the paint is starting to peel, and this government has done a poor job of managing finances overall.
+10-1	943-946	For	_	_	_	_	
+10-2	947-949	me	_	_	_	_	
+10-3	949-950	,	_	_	_	_	
+10-4	951-959	although	_	_	_	_	
+10-5	960-962	we	_	_	_	_	
+10-6	963-969	aren't	Appreciation[13]	neu[13]	_	_	
+10-7	970-973	the	Appreciation[13]	neu[13]	_	_	
+10-8	974-979	worst	Appreciation[13]|Appreciation[14]	neu[13]|neg[14]	Force	up	
+10-9	980-986	basket	Appreciation[13]|Appreciation[14]	neu[13]|neg[14]	_	_	
+10-10	987-991	case	Appreciation[13]|Appreciation[14]	neu[13]|neg[14]	_	_	
+10-11	992-994	in	Appreciation[13]	neu[13]	_	_	
+10-12	995-998	the	Appreciation[13]	neu[13]	_	_	
+10-13	999-1011	neighborhood	Appreciation[13]	neu[13]	_	_	
+10-14	1011-1012	,	_	_	_	_	
+10-15	1013-1016	yet	Appreciation	neg	_	_	
+10-16	1016-1017	,	_	_	_	_	
+10-17	1018-1020	it	_	_	_	_	
+10-18	1021-1023	is	_	_	_	_	
+10-19	1024-1029	clear	_	_	_	_	
+10-20	1030-1033	the	Appreciation[16]	neg[16]	_	_	
+10-21	1034-1039	paint	Appreciation[16]	neg[16]	_	_	
+10-22	1040-1042	is	Appreciation[16]	neg[16]	_	_	
+10-23	1043-1051	starting	Appreciation[16]	neg[16]	_	_	
+10-24	1052-1054	to	Appreciation[16]	neg[16]	_	_	
+10-25	1055-1059	peel	Appreciation[16]	neg[16]	_	_	
+10-26	1059-1060	,	_	_	_	_	
+10-27	1061-1064	and	_	_	_	_	
+10-28	1065-1069	this	_	_	_	_	
+10-29	1070-1080	government	_	_	_	_	
+10-30	1081-1084	has	_	_	_	_	
+10-31	1085-1089	done	_	_	_	_	
+10-32	1090-1091	a	_	_	_	_	
+10-33	1092-1096	poor	Judgment	neg	_	_	
+10-34	1097-1100	job	_	_	_	_	
+10-35	1101-1103	of	_	_	_	_	
+10-36	1104-1112	managing	_	_	_	_	
+10-37	1113-1121	finances	_	_	_	_	
+10-38	1122-1129	overall	_	_	_	_	
+10-39	1129-1130	.	_	_	_	_	
+
+#Text=I do not trust the integrity or the competence of the Con front bench to make good decisions, so voting for them is beyond question.
+11-1	1131-1132	I	_	_	_	_	
+11-2	1133-1135	do	Judgment[18]	neg[18]	_	_	
+11-3	1136-1139	not	Judgment[18]	neg[18]	_	_	
+11-4	1140-1145	trust	Judgment[18]	neg[18]	_	_	
+11-5	1146-1149	the	_	_	_	_	
+11-6	1150-1159	integrity	_	_	_	_	
+11-7	1160-1162	or	_	_	_	_	
+11-8	1163-1166	the	_	_	_	_	
+11-9	1167-1177	competence	_	_	_	_	
+11-10	1178-1180	of	_	_	_	_	
+11-11	1181-1184	the	_	_	_	_	
+11-12	1185-1188	Con	_	_	_	_	
+11-13	1189-1194	front	_	_	_	_	
+11-14	1195-1200	bench	_	_	_	_	
+11-15	1201-1203	to	_	_	_	_	
+11-16	1204-1208	make	_	_	_	_	
+11-17	1209-1213	good	Appreciation	pos	_	_	
+11-18	1214-1223	decisions	_	_	_	_	
+11-19	1223-1224	,	_	_	_	_	
+11-20	1225-1227	so	_	_	_	_	
+11-21	1228-1234	voting	_	_	_	_	
+11-22	1235-1238	for	_	_	_	_	
+11-23	1239-1243	them	_	_	_	_	
+11-24	1244-1246	is	_	_	_	_	
+11-25	1247-1253	beyond	Appreciation[20]	neg[20]	_	_	
+11-26	1254-1262	question	Appreciation[20]	neg[20]	_	_	
+11-27	1262-1263	.	_	_	_	_	
+
+#Text=Not going to happen.
+12-1	1264-1267	Not	Appreciation[21]	neg[21]	_	_	
+12-2	1268-1273	going	Appreciation[21]	neg[21]	_	_	
+12-3	1274-1276	to	Appreciation[21]	neg[21]	_	_	
+12-4	1277-1283	happen	Appreciation[21]	neg[21]	_	_	
+12-5	1283-1284	.	_	_	_	_	
+
+#Text=A tiny surplus does nothing to change that.
+13-1	1285-1286	A	_	_	_	_	
+13-2	1287-1291	tiny	Appreciation[22]	pos[22]	Force	down	
+13-3	1292-1299	surplus	Appreciation[22]	pos[22]	_	_	
+13-4	1300-1304	does	Appreciation[23]	neg[23]	_	_	
+13-5	1305-1312	nothing	Appreciation[23]	neg[23]	Force	up	
+13-6	1313-1315	to	Appreciation[23]	neg[23]	_	_	
+13-7	1316-1322	change	Appreciation[23]	neg[23]	_	_	
+13-8	1323-1327	that	Appreciation[23]	neg[23]	_	_	
+13-9	1327-1328	.	_	_	_	_	

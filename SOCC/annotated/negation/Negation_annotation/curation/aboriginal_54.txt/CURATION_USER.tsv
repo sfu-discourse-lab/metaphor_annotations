@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=This situation is tragic.
+1-1	0-4	This	
+1-2	5-14	situation	
+1-3	15-17	is	
+1-4	18-24	tragic	
+1-5	24-25	.	
+
+#Text=It is time the aboriginal people started raising their children sensibly.
+2-1	26-28	It	
+2-2	29-31	is	
+2-3	32-36	time	
+2-4	37-40	the	
+2-5	41-51	aboriginal	
+2-6	52-58	people	
+2-7	59-66	started	
+2-8	67-74	raising	
+2-9	75-80	their	
+2-10	81-89	children	
+2-11	90-98	sensibly	
+2-12	98-99	.	
+
+#Text=Constantly blaming the rest of Canadians for the many aboriginal problems and asking more and more from other Canadians is annoying and ridiculous.
+3-1	100-110	Constantly	
+3-2	111-118	blaming	
+3-3	119-122	the	
+3-4	123-127	rest	
+3-5	128-130	of	
+3-6	131-140	Canadians	
+3-7	141-144	for	
+3-8	145-148	the	
+3-9	149-153	many	
+3-10	154-164	aboriginal	
+3-11	165-173	problems	
+3-12	174-177	and	
+3-13	178-184	asking	
+3-14	185-189	more	
+3-15	190-193	and	
+3-16	194-198	more	
+3-17	199-203	from	
+3-18	204-209	other	
+3-19	210-219	Canadians	
+3-20	220-222	is	
+3-21	223-231	annoying	
+3-22	232-235	and	
+3-23	236-246	ridiculous	
+3-24	246-247	.	

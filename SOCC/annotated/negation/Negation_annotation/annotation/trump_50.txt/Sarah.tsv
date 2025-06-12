@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.1
+
+
+#Text=If the USA focuses on an oil economy, maybe Canada will rethink its continued operation of Nuclear Power Plants, and look to this more humane source of energy.
+1-1	0-2	If	
+1-2	3-6	the	
+1-3	7-10	USA	
+1-4	11-18	focuses	
+1-5	19-21	on	
+1-6	22-24	an	
+1-7	25-28	oil	
+1-8	29-36	economy	
+1-9	36-37	,	
+1-10	38-43	maybe	
+1-11	44-50	Canada	
+1-12	51-55	will	
+1-13	56-63	rethink	
+1-14	64-67	its	
+1-15	68-77	continued	
+1-16	78-87	operation	
+1-17	88-90	of	
+1-18	91-98	Nuclear	
+1-19	99-104	Power	
+1-20	105-111	Plants	
+1-21	111-112	,	
+1-22	113-116	and	
+1-23	117-121	look	
+1-24	122-124	to	
+1-25	125-129	this	
+1-26	130-134	more	
+1-27	135-141	humane	
+1-28	142-148	source	
+1-29	149-151	of	
+1-30	152-158	energy	
+1-31	158-159	.	
+
+#Text=Before Kathleen Wynn overturned the decision earlier this year, the aging Pickering Nuclear Power Plant was to be shut down in 2020.
+2-1	160-166	Before	
+2-2	167-175	Kathleen	
+2-3	176-180	Wynn	
+2-4	181-191	overturned	
+2-5	192-195	the	
+2-6	196-204	decision	
+2-7	205-212	earlier	
+2-8	213-217	this	
+2-9	218-222	year	
+2-10	222-223	,	
+2-11	224-227	the	
+2-12	228-233	aging	
+2-13	234-243	Pickering	
+2-14	244-251	Nuclear	
+2-15	252-257	Power	
+2-16	258-263	Plant	
+2-17	264-267	was	
+2-18	268-270	to	
+2-19	271-273	be	
+2-20	274-278	shut	
+2-21	279-283	down	
+2-22	284-286	in	
+2-23	287-291	2020	
+2-24	291-292	.	

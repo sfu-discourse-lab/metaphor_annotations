@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.NEGATION|Negations
+
+
+#Text=Or maybe Hillary simply didn't have a very good campaign, had the wrong advisers, and, like all candidates, had certain flaws that her opponents went after?
+1-1	0-2	Or	_	
+1-2	3-8	maybe	_	
+1-3	9-16	Hillary	_	
+1-4	17-23	simply	_	
+1-5	24-30	didn't	NEG	
+1-6	31-35	have	SCOPE[2]	
+1-7	36-37	a	SCOPE[2]	
+1-8	38-42	very	SCOPE[2]|FOCUS[3]	
+1-9	43-47	good	SCOPE[2]|FOCUS[3]	
+1-10	48-56	campaign	SCOPE[2]	
+1-11	56-57	,	_	
+1-12	58-61	had	_	
+1-13	62-65	the	_	
+1-14	66-71	wrong	_	
+1-15	72-80	advisers	_	
+1-16	80-81	,	_	
+1-17	82-85	and	_	
+1-18	85-86	,	_	
+1-19	87-91	like	_	
+1-20	92-95	all	_	
+1-21	96-106	candidates	_	
+1-22	106-107	,	_	
+1-23	108-111	had	_	
+1-24	112-119	certain	_	
+1-25	120-125	flaws	_	
+1-26	126-130	that	_	
+1-27	131-134	her	_	
+1-28	135-144	opponents	_	
+1-29	145-149	went	_	
+1-30	150-155	after	_	
+1-31	155-156	?	_	
+
+#Text=I was struck by the fact she frequently reminded people ('I'm with Her') that SHE was running for President.
+2-1	156-157	I	_	
+2-2	158-161	was	_	
+2-3	162-168	struck	_	
+2-4	169-171	by	_	
+2-5	172-175	the	_	
+2-6	176-180	fact	_	
+2-7	181-184	she	_	
+2-8	185-195	frequently	_	
+2-9	196-204	reminded	_	
+2-10	205-211	people	_	
+2-11	212-213	(	_	
+2-12	213-214	'	_	
+2-13	214-217	I'm	_	
+2-14	218-222	with	_	
+2-15	223-226	Her	_	
+2-16	226-227	'	_	
+2-17	227-228	)	_	
+2-18	229-233	that	_	
+2-19	234-237	SHE	_	
+2-20	238-241	was	_	
+2-21	242-249	running	_	
+2-22	250-253	for	_	
+2-23	254-263	President	_	
+2-24	263-264	.	_	
+
+#Text=How often did Barack Obama remind people in 2008 that HE was BLACK?
+3-1	265-268	How	_	
+3-2	269-274	often	_	
+3-3	275-278	did	_	
+3-4	279-285	Barack	_	
+3-5	286-291	Obama	_	
+3-6	292-298	remind	_	
+3-7	299-305	people	_	
+3-8	306-308	in	_	
+3-9	309-313	2008	_	
+3-10	314-318	that	_	
+3-11	319-321	HE	_	
+3-12	322-325	was	_	
+3-13	326-331	BLACK	_	
+3-14	331-332	?	_	
+
+#Text=The people who were going to vote for her 'because she was a woman' didn't needed to be reminded.
+4-1	333-336	The	_	
+4-2	337-343	people	_	
+4-3	344-347	who	_	
+4-4	348-352	were	_	
+4-5	353-358	going	_	
+4-6	359-361	to	_	
+4-7	362-366	vote	_	
+4-8	367-370	for	_	
+4-9	371-374	her	_	
+4-10	375-376	'	_	
+4-11	376-383	because	_	
+4-12	384-387	she	_	
+4-13	388-391	was	_	
+4-14	392-393	a	_	
+4-15	394-399	woman	_	
+4-16	399-400	'	_	
+4-17	401-407	didn't	NEG	
+4-18	408-414	needed	SCOPE[5]	
+4-19	415-417	to	SCOPE[5]	
+4-20	418-420	be	SCOPE[5]	
+4-21	421-429	reminded	SCOPE[5]|FOCUS[6]	
+4-22	429-430	.	_	
+
+#Text=And for the rest of the population?
+5-1	431-434	And	_	
+5-2	435-438	for	_	
+5-3	439-442	the	_	
+5-4	443-447	rest	_	
+5-5	448-450	of	_	
+5-6	451-454	the	_	
+5-7	455-465	population	_	
+5-8	465-466	?	_	
+
+#Text=It probably didn't matter for most of them.
+6-1	467-469	It	_	
+6-2	470-478	probably	_	
+6-3	479-485	didn't	NEG	
+6-4	486-492	matter	SCOPE[8]	
+6-5	493-496	for	SCOPE[8]	
+6-6	497-501	most	SCOPE[8]|FOCUS[9]	
+6-7	502-504	of	SCOPE[8]|FOCUS[9]	
+6-8	505-509	them	SCOPE[8]|FOCUS[9]	
+6-9	509-510	.	_	
+
+#Text=And her final rallies with Hollywood and music stars?
+7-1	511-514	And	_	
+7-2	515-518	her	_	
+7-3	519-524	final	_	
+7-4	525-532	rallies	_	
+7-5	533-537	with	_	
+7-6	538-547	Hollywood	_	
+7-7	548-551	and	_	
+7-8	552-557	music	_	
+7-9	558-563	stars	_	
+7-10	563-564	?	_	
+
+#Text=I wonder if these didn't do more harm than good in those 'Fly Over' places where most people felt forgotten?
+8-1	565-566	I	_	
+8-2	567-573	wonder	_	
+8-3	574-576	if	_	
+8-4	577-582	these	_	
+8-5	583-589	didn't	NEG	
+8-6	590-592	do	SCOPE[11]	
+8-7	593-597	more	SCOPE[11]	
+8-8	598-602	harm	SCOPE[11]	
+8-9	603-607	than	SCOPE[11]	
+8-10	608-612	good	SCOPE[11]	
+8-11	613-615	in	SCOPE[11]	
+8-12	616-621	those	SCOPE[11]|FOCUS[12]	
+8-13	622-623	'	SCOPE[11]|FOCUS[12]	
+8-14	623-626	Fly	SCOPE[11]|FOCUS[12]	
+8-15	627-631	Over	SCOPE[11]|FOCUS[12]	
+8-16	631-632	'	SCOPE[11]|FOCUS[12]	
+8-17	633-639	places	SCOPE[11]|FOCUS[12]	
+8-18	640-645	where	SCOPE[11]|FOCUS[12]	
+8-19	646-650	most	SCOPE[11]|FOCUS[12]	
+8-20	651-657	people	SCOPE[11]|FOCUS[12]	
+8-21	658-662	felt	SCOPE[11]|FOCUS[12]	
+8-22	663-672	forgotten	SCOPE[11]|FOCUS[12]	
+8-23	672-673	?	_	

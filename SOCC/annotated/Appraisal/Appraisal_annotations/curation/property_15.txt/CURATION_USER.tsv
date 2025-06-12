@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.1
+#T_SP=webanno.custom.Attitude__|Label|Polarity
+
+
+#Text=Certainly.
+1-1	0-9	Certainly	Judgment	pos	
+1-2	9-10	.	_	_	
+
+#Text=The 15% tax on 'non-residents' is the most blatant and offensive racist attack I have witnessed in recent memory.
+2-1	11-14	The	_	_	
+2-2	15-18	15%	_	_	
+2-3	19-22	tax	_	_	
+2-4	23-25	on	_	_	
+2-5	26-27	'	_	_	
+2-6	27-40	non-residents	Appreciation	neg	
+2-7	40-41	'	_	_	
+2-8	42-44	is	_	_	
+2-9	45-48	the	_	_	
+2-10	49-53	most	Appreciation[3]	neg[3]	
+2-11	54-61	blatant	Appreciation[3]	neg[3]	
+2-12	62-65	and	Appreciation[3]	neg[3]	
+2-13	66-75	offensive	Appreciation[3]	neg[3]	
+2-14	76-82	racist	Appreciation[3]	neg[3]	
+2-15	83-89	attack	Appreciation[3]	neg[3]	
+2-16	90-91	I	Appreciation[3]	neg[3]	
+2-17	92-96	have	Appreciation[3]	neg[3]	
+2-18	97-106	witnessed	Appreciation[3]	neg[3]	
+2-19	107-109	in	Appreciation[3]	neg[3]	
+2-20	110-116	recent	Appreciation[3]	neg[3]	
+2-21	117-123	memory	Appreciation[3]	neg[3]	
+2-22	123-124	.	_	_	
+
+#Text=I am shocked that so few Canadians see it as such.
+3-1	125-126	I	_	_	
+3-2	127-129	am	_	_	
+3-3	130-137	shocked	Affect	neg	
+3-4	138-142	that	_	_	
+3-5	143-145	so	_	_	
+3-6	146-149	few	_	_	
+3-7	150-159	Canadians	_	_	
+3-8	160-163	see	_	_	
+3-9	164-166	it	_	_	
+3-10	167-169	as	_	_	
+3-11	170-174	such	_	_	
+3-12	174-175	.	_	_	
+
+#Text=What will it take to wake people up to the xenophobic nature of this tax?
+4-1	176-180	What	Judgment[5]	neg[5]	
+4-2	181-185	will	Judgment[5]	neg[5]	
+4-3	186-188	it	Judgment[5]	neg[5]	
+4-4	189-193	take	Judgment[5]	neg[5]	
+4-5	194-196	to	Judgment[5]	neg[5]	
+4-6	197-201	wake	Judgment[5]	neg[5]	
+4-7	202-208	people	Judgment[5]	neg[5]	
+4-8	209-211	up	Judgment[5]	neg[5]	
+4-9	212-214	to	Judgment[5]	neg[5]	
+4-10	215-218	the	Judgment[5]	neg[5]	
+4-11	219-229	xenophobic	Judgment[5]|Appreciation[6]	neg[5]|neg[6]	
+4-12	230-236	nature	Judgment[5]	neg[5]	
+4-13	237-239	of	Judgment[5]	neg[5]	
+4-14	240-244	this	Judgment[5]	neg[5]	
+4-15	245-248	tax	Judgment[5]	neg[5]	
+4-16	248-249	?	_	_	
+
+#Text=We should be welcoming wealthy immigrants to our country for many reasons, not the least of which is their potential to contribute to legitimate economic growth.
+5-1	250-252	We	_	_	
+5-2	253-259	should	Appreciation[7]	pos[7]	
+5-3	260-262	be	Appreciation[7]	pos[7]	
+5-4	263-272	welcoming	Appreciation[7]	pos[7]	
+5-5	273-280	wealthy	Appreciation[7]	pos[7]	
+5-6	281-291	immigrants	Appreciation[7]	pos[7]	
+5-7	292-294	to	Appreciation[7]	pos[7]	
+5-8	295-298	our	Appreciation[7]	pos[7]	
+5-9	299-306	country	Appreciation[7]	pos[7]	
+5-10	307-310	for	_	_	
+5-11	311-315	many	_	_	
+5-12	316-323	reasons	_	_	
+5-13	323-324	,	_	_	
+5-14	325-328	not	_	_	
+5-15	329-332	the	_	_	
+5-16	333-338	least	_	_	
+5-17	339-341	of	_	_	
+5-18	342-347	which	_	_	
+5-19	348-350	is	_	_	
+5-20	351-356	their	_	_	
+5-21	357-366	potential	Judgment[8]	pos[8]	
+5-22	367-369	to	Judgment[8]	pos[8]	
+5-23	370-380	contribute	Judgment[8]	pos[8]	
+5-24	381-383	to	Judgment[8]	pos[8]	
+5-25	384-394	legitimate	Judgment[8]|Appreciation[9]	pos[8]|pos[9]	
+5-26	395-403	economic	Judgment[8]|Appreciation[9]	pos[8]|pos[9]	
+5-27	404-410	growth	Judgment[8]|Appreciation[9]	pos[8]|pos[9]	
+5-28	410-411	.	_	_	
