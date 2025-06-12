@@ -1,1 +1,0 @@
-Beck Taxi has an app so you can call a taxi and pay with the app ... no less convenient than Uber.

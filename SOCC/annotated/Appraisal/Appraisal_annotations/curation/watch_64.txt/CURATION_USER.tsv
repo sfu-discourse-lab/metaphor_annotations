@@ -1,9 +1,0 @@
-#FORMAT=WebAnno TSV 3.1
-#T_SP=webanno.custom.Attitude__|Label|Polarity
-
-
-#Text=Loved this article!
-1-1	0-5	Loved	Appreciation	pos	
-1-2	6-10	this	_	_	
-1-3	11-18	article	_	_	
-1-4	18-19	!	_	_	
